@@ -25,7 +25,7 @@
                             <li class="breadcrumb-item active" aria-current="page">Features</li>
                         </ol>
                     </nav><br/><br/>
-                    <h4 class="course-heading"><img src="./assets/img/react.png" alt="image" width="40" style="border-radius: 10px;"/> Back End Development With PHP </h4> 
+                    <h4 class="course-heading"><img src="./assets/img/php.png" alt="image" width="40" style="border-radius: 10px;"/> Back End Development With PHP </h4> 
                 </div>
                 <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                     <div class="container border-bottom">

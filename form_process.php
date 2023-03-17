@@ -7,9 +7,10 @@ include('./includes/connection.php');
         $message=$_REQUEST['message'];
         $sql="INSERT INTO `contact_form`(`name`, `mail`, `course_name`, `phone_number`, `message`) VALUES ('$name','$email','$courseName','$phone','$message')";
         if($conn->query($sql)===TRUE){
-            echo "Thanks for contacting to us.We will get back to you soon";
+            header('Location: ./index.php');
         }else{
             echo "record could not inserted";
+        
         }
 
 ?>

@@ -134,23 +134,23 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="./Our_Internship_Programmes.php" target="_blank">
+                                <a class="nav-link" href="./our_internship_programmes.php" target="_blank">
                                 Our Internship Programmes
                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_Front_End_Development_React_JS.php" target="_blank">
+                                <a class="nav-link" href="./course_front_end_development_react_js.php" target="_blank">
                                     Learn Front End Development 
                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_Front_End_Development_Angular_JS.php" target="_blank">
+                                <a class="nav-link" href="./course_front_end_development_angular_js.php" target="_blank">
                                 Learn Back End Development
                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_Full_Stack_Development.php" target="_blank">
+                                <a class="nav-link" href="./course_full_stack_development.php" target="_blank">
                                 Learn Full Stack Development
                 </a>
                             </li>
@@ -195,7 +195,7 @@
                             All rights reserved. Copyright ©
                             <script>
                                 document.write(new Date().getFullYear())
-                            </script> Groot Academy <a href="#" target="_blank">Creative Tim</a>.
+                            </script> Groot Academy <a href="#" target="_blank">Creative Team</a>.
                         </p>
                     </div>
                 </div>

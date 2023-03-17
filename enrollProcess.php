@@ -10,7 +10,8 @@ $mobile=$_REQUEST['mobile'];
 $sql="INSERT INTO `enroll`(`year`, `email`, `mobile`) VALUES ('$graduation','$email','$mobile')";
 
 if($conn->query($sql)===TRUE){
-    echo "Thanks for contacting to us.We will get back to you soon";
+    
+    header('Location: ./index.php');
 }else{
     echo "record could not inserted";
 }
