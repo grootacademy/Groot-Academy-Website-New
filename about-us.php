@@ -21,7 +21,6 @@
           <div class="col-lg-8 text-center mx-auto my-auto">
             <h1 class="text-white">Groot Academy</h1>
             <p class="lead mb-4 text-white opacity-8">We’re constantly trying to express ourselves and actualize our dreams. If you want to connect with us </p>
-            <button type="submit" class="btn bg-white text-dark">Create Account</button>
             <h6 class="text-white mb-2 mt-5">Find us on</h6>
             <div class="d-flex justify-content-center">
             <a class="nav-link pe-1" href="https://facebook.com/grootAcademy" target="_blank"><i class="fab fa-facebook text-lg text-white me-4"></i></a>
@@ -155,7 +154,7 @@
           <div class="card shadow-lg">
             <div class="card-header p-0 mx-3 mt-3 position-relative z-index-1">
               <div class="d-block blur-shadow-image">
-                <img src="./assets/img/funny.jpg" alt="img-blur-shadow" class="img-fluid shadow rounded-3">
+                <img src="./assets/img/group.jpg" alt="img-blur-shadow" class="img-fluid shadow rounded-3">
               </div>
               <div class="colored-shadow" style="background-image: url(&quot;./assets/img/funny.jpg&quot;);"></div>
             </div>
@@ -204,15 +203,17 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md" src="./assets/img/kal-visuals-square.jpg" alt="image">
+                      <img class="w-100 border-radius-md" src="./assets/img/bhaskar.jpg" alt="image">
+                    
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Emma Roberts</h5>
-                  <h6 class="text-info">UI Designer</h6>
-                  <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
+                    <h5 class="mb-0">Bhaskar Yogi</h5>
+                  <h6 class="text-info">Software Engineer</h6>
+                
+                  <p class="mb-0"></p>
                 </div>
               </div>
             </div>
@@ -224,15 +225,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md" src="./assets/img/bruce-mars.jpg" alt="image">
+                    <img class="w-100 border-radius-md" src="./assets/img/jitin.jpg" alt="image">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">William Pearce</h5>
-                  <h6 class="text-info">Boss</h6>
-                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
+                  <h5 class="mb-0">Jitin Goyal</h5>
+                  <h6 class="text-info">Software Architect</h6>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -246,15 +247,18 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md" src="./assets/img/team-4.jpg" alt="image">
+                    
+                    <img class="w-100 border-radius-md" src="./assets/img/mohit.jpg" alt="image">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Ivana Flow</h5>
-                  <h6 class="text-info">Athlete</h6>
-                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
+                  
+                    <h5 class="mb-0">Mohit Sharma</h5>
+                  <h6 class="text-info">Web Developer</h6>
+                  
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -266,15 +270,15 @@
               <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
                 <a href="javascript:;">
                   <div class="p-3 pe-md-0">
-                    <img class="w-100 border-radius-md" src="./assets/img/ivana-square.jpg" alt="image">
+                    <img class="w-100 border-radius-md" src="./assets/img/pawan.jpg" alt="image">
                   </div>
                 </a>
               </div>
               <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
                 <div class="card-body">
-                  <h5 class="mb-0">Sophia Garcia</h5>
-                  <h6 class="text-info">JS Developer</h6>
-                  <p>Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
+                  <h5 class="mb-0">Pawan Kumar Goyal</h5>
+                  <h6 class="text-info">Full Stack Web Developer</h6>
+                  <p></p>
                 </div>
               </div>
             </div>
