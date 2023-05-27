@@ -54,7 +54,7 @@
     <meta name="keywords" content="<?php echo $keywords; ?>">
     <meta name="author" content="<?php echo $auther; ?>">
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-    <link rel="icon" type="image/x-icon" href="./assets/img/logo.jpg">
+    <link rel="icon" type="image/x-icon" href="./assets/img/groot_favicon_icon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link href="./assets/css/groot.css" rel="stylesheet" />
