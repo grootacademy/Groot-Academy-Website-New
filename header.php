@@ -143,7 +143,7 @@
                         <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
                                 <li>
-                                    <a class="nav-link ps-0 d-flex justify-content-between cursor-pointer align-items-center" href="./grootFigma/grootFigma.html">
+                                    <a class="nav-link ps-0 d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
                                         <b>Home</b>
 
                                     </a>
