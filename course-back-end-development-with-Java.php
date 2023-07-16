@@ -1,16 +1,4 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-design-system
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php  include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
@@ -25,7 +13,7 @@
                             <li class="breadcrumb-item active" aria-current="page">Features</option>
                         </ol>
                     </nav><br/><br/>
-                    <h4 class="course-heading"><img src="./assets/img/java.png" alt="image" width="50" style="border-radius: 10px;"/> Advance java  Developer| Advance java Developer Course | Advance java  Developer Training</h4> 
+                    <h4 class="course-heading"><img src="./assets/img/java.png" alt="image" width="50" style="border-radius: 10px;"/> JAVA Full Stack Developer | Full Stack Developer Course | JAVA Full Stack Developer Training</h4> 
                 </div>
                 <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                     <div class="container border-bottom">
@@ -48,9 +36,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Advance java  Developer </h3><br/><br/>
+        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Full Stack Developer </h3><br/><br/>
         <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this Advance java web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to Advance java web development to guide you on selecting skills to learn.     </h6>
+        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this full stack web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to full stack web development to guide you on selecting skills to learn.     </h6>
        
       </div>
      
@@ -80,13 +68,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Advance java Web Development ?</h3>
+        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
         <br/><br/>
         <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
         <ul >
         <li>Build dynamic data-driven websites and applications.</li>
         <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Advance java Developer Salary.</li>
+        <li>The High-Paying Full Stack Developer Salary.</li>
         <li>Diverse Growth Options.</li>
     </ul>
       </div>
@@ -117,9 +105,9 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Advance java Developer</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
               <br/><br/>
-              <h6>A Advance java web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+              <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
 
             </div>
           

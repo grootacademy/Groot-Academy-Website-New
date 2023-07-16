@@ -1,26 +1,8 @@
-<!--
-=========================================================
-* Groot Academy - v1.0.9
-=========================================================
-
-* Product Page:  https://www.creative-tim.com/product/soft-ui-design-system 
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php include "./header.php" ?>
 
     <!-- Navbar Light -->
   
     <!-- End Navbar -->
-    <!-- START Testimonials w/ user image & text & info -->
-
-    <!-- END Testimonials w/ user image & text & info -->
-    <!-- START Blogs w/ 4 cards w/ image & text & link -->
-
-    <!-- END Blogs w/ 4 cards w/ image & text & link -->
     <br/><br/><br/>
     <section class="py-lg-7">
         <div class="container">

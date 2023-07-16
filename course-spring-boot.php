@@ -1,16 +1,3 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/soft-design-system
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php  include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
@@ -190,7 +177,7 @@
                                     <div class="tab-content tab-space">
                                         <div class="tab-pane active" id="preview-modal">
                                          <span class="text-lg">
-                                         Spring MVC
+                                         Spring Boot
                                         </span>
                                     </div>
                                     
@@ -212,7 +199,7 @@
                 
                                     
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Overview</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Spring Framework</label>
                             </div>
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
@@ -220,24 +207,65 @@
                             
                                     
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">What Is Spring MVC?</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">What’s new Spring 5?</label>
                             </div>
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
     
                                  
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Spring MVC Using XML Configuration</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Spring Boot</label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+               
+
+                                    
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Building a Spring Boot Application</label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+                    
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Spring Web MVC</label>
+                            </div>
+
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+                      
+                                 
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Creating a Web Application in Spring Boot </label>
                             </div>
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
                           
                                     
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Spring MVC Using Java Configuration</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Hibernate & JPA</label>
                             </div>
-                           
-                          
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+
+
+                         
+                                    
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Spring Data JPA </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+
+                                    
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Microservices</label>
+                            </div>
                          
                           
 
@@ -248,38 +276,74 @@
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
                                 
-               
-
+                 
+                          
                                     
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Controller and Views</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Creating Microservices using Spring Boot</label>
                             </div>
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                    
+              
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Conclusion</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Integration of Microservices</label>
                             </div>
 
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                <option disabled>Spring Boot Starters</option>
-                                <option disabled>Spring Boot Entry Point</option>
-                                
-                      
+
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Spring Security</label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
                                  
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Spring MVC With Boot</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Securing Microservices using JWT </label>
                             </div>
-                    
                             <div class="form-floating">
                             <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-
-                                    
+                                 
                             </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Microservices</label>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Securing MVC Web Applications Using Spring Security </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+                 
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Implementing Single-sign on </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+     
+                                
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Implementing Remember Me feature  </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Oauth-2 </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+                  
+
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Spring cloud and Netflix OSS </label>
+                            </div>
+                            <div class="form-floating">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                
+                           
+                            </select>
+                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">A sample Project </label>
                             </div>
                            
 

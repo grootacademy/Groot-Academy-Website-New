@@ -1,20 +1,7 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
 
-* Product Page:  https://www.creative-tim.com/product/soft-ui-design-system 
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-
-  <!-- CSS Files -->
  <?php include "./header.php" ?>
        
-  <!-- -------- START HEADER 8 w/ card over right bg image ------- -->
+  <!-- -------- START HEADER -->
   <header>
     <div class="page-header min-vh-85">
       <div>
@@ -101,5 +88,5 @@
     </div>
     
   </header>
-  <!-- -------- END HEADER 8 w/ card over right bg image ------- -->
+  <!-- -------- END HEADER - -->
 <?php include "./footer.php" ?>

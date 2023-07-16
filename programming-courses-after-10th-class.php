@@ -1,16 +1,3 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/soft-design-system
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php  include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
@@ -24,8 +11,9 @@
                             <li class="breadcrumb-item"><a href="../courses.html">Courses</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Features</li>
                         </ol>
-                    </nav><br/><br/>
-                    <h4 class="course-heading">Groot Academy Internship Program  <i class="fas fa-graduation-cap"></i></h4> 
+                    </nav>
+                    <br/><br/>
+                    <h4 class="course-heading">Become Software Engineer After 10th in jaipur | Become Programmer/Coder After 10th in jaipur | Become Software Engineer After 10th </h4>
                 </div>
                 <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                     <div class="container border-bottom">
@@ -48,12 +36,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Join our next generation of technologists  </h3><br/><br/>
-        <h6>
-        Through our Software Engineer Internship, you could help develop innovative solutions that impact the day-to-day lives of customers, clients and businesses around the world.
-<br/>
-Spend your internship with one of the best technology-driven programming institute in jaipur. With the scale of our in-house projects, you could get hands-on experience in any programming technology you are looking for. We’re committed to advancing your career helping you acquire new skills, opportunities and a global network of support that will help you take your career in any direction imaginable.
-        </h6>
+        
+        <h3 class="text-gradient text-primary mb-0 mt-2">How to become a software engineer after 10th ?</h3>
+        <h6>In this article let’s take a look at how you can become a software engineer after 10th.</h6>
+        <p>So if you are confused and do not know exactly what is software engineering and what are the skills required, or you don’t have a road map and direction to become a software engineer then you should read this article till the end.</p>
+        <p>So without further ADO let’s get started.</p>
        
       </div>
      
@@ -83,9 +70,9 @@ Spend your internship with one of the best technology-driven programming institu
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">What we offer?</h3>
-        <br/><br/>
-        <h6>TThis 3 month internship will give you the opportunity to learn about our technology business, build your coding skills and prepare you for your career. You could work on projects that deliver real solutions for our customers, clients and businesses. No matter if you’re working on payment solutions or trading algorithms, you’ll see tangible results from your work.</h6>
+        <h3 class="text-gradient text-primary mb-0 mt-2">Choose your subjects and branch after 10th</h3>
+        <br/>
+        <h6>After you complete your 10th class school, if you want to become a software engineer then you will have to select Math Physics and Chemistry as major subjects in your inter education because these are important subjects and they are eligibility criteria to become a software engineer.</h6>
 
       </div>
      
@@ -115,11 +102,10 @@ Spend your internship with one of the best technology-driven programming institu
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">On-the-job experience</h3>
-              <br/><br/>
-              <h6>From the start, you’ll have the support you need to succeed. Dive head-first and gain hands-on experience creating innovative solutions that make a difference for our customers, clients and employees. You’ll be given a peer mentor who completed the Software Engineer Internship to help you navigate the firm and the program. A senior engineer will also check in with you to offer advice, help make connections and oversee your development. Our managers receive extensive training on how to help interns to make the most of their program. You’ll have clear priorities and opportunities for check ins throughout the internship to make sure you’re achieving your goals.
-<br/>
-Interns are encouraged to take time to explore, shadowing other teams and networking with various people. We offer social events and other activities in our business resource groups to help you expand your professional network across our lines of business. You’ll also work in teams with other interns to solve a business challenge or on a project assigned specifically to your group. </h6>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Get a good college for under graduation</h3>
+              <br/>
+              <h6>In my opinion your college from where you have taken your under graduation plays a huge role in your career because, college faculty & professors not only help in teaching the subject and solving the doubts of the students related to the concept but they also play a huge role in inspiration and helping students improve the life and gain self confidence in themselves, college infrastructure, facilities, fests, events, student clubs are also important to learn & explore new things, make new friends & gain new skills, college is important because of placements and job opportunities because companies like to hire students from top colleges as admission in these top colleges is hard compared to others so the students must be good & skilled for jobs.
+                Now let’s move forward.</h6>
 
             </div>
           
@@ -152,14 +138,9 @@ Interns are encouraged to take time to explore, shadowing other teams and networ
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training</h3>
-              <br/><br/>
-              <h6>You will begin with an induction covering our tech strategies, products and systems, as well as an overview of our technology community. You will work on agile teams with peers and experienced software engineers to grow your skills, share ideas and innovate with our technology community all over the world, as well as gain deeper insight into what it means to work here through networking events, senior speaker sessions and peer-mentorship programs.
-<br/>
-We also provide access to hack-a-thon where you’ll work alongside our engineers to solve real business challenges in a fun, collaborative environment. Because we’re always looking for new ways to innovate, your ideas and contributions are welcome from the beginning.
-<br/>
-Throughout the course of the summer, you’ll hear from senior leaders during our speaker series and have other opportunities for training on technical and professional skills. 
-</h6>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Learn & practice programming languages</h3>
+              <br/>
+              <h6>After you get into the college and after sometime like 6-7 months, in my opinion you should definitely start learning and practicing programming languages. This is more important for the students who are taking degree courses like BSC CS or BCA because their course is only three years long compared to computer science or information technology Engineering which is four years long. It is very important that you learn and practice coding and programming languages properly because skills are more important than degrees and there are many top tech companies like Google, Apple and IBM hiring people based on the skills irrespective of whether they have the college degree or not. Similarly in my opinion you should try to learn, practice and master at least one programming language which can be like Java or python or even Javascript..</h6>
 
             </div>
           
@@ -193,10 +174,22 @@ Throughout the course of the summer, you’ll hear from senior leaders during ou
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Career Progression</h3>
-              <br/><br/>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Choose your specialization</h3>
+              <br/>
               <h6>
-              Those who successfully complete the program may be offered a position in our full-time Software Engineer Program.    </h6>
+                After sometime when you learn and practice programming languages and become good at it you should then try to choose your specialization in software engineering.<br/>
+                Some types of specialization in software engineering are,<br/>
+                Web developer<br/>
+                App developer<br/>
+                System administrator<br/>
+                UI, UX designer<br/>
+                Software developer<br/>
+                Full stack developer<br/>
+                Cyber security analyst<br/>
+                Information system manager<br/>
+                Software architect<br/>
+                You can learn more about types of specializations & jobs in software engineering along with the duties and salaries here. It is very important that you choose your specialization because it gives you a proper direction and roadmap towards success.
+              </h6>
             </div>
           
           </div>
@@ -226,47 +219,52 @@ Throughout the course of the summer, you’ll hear from senior leaders during ou
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">What you will do?</h3>
-              <br/><br/>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Get an internship</h3>
+              <br/>
               <h6>
-              Your responsibilities will vary based on your location and team assignment. You could be developing digital and mobile features that give our customers and clients more control over how they bank with us. You could be strategizing on how big data can make our trading systems quicker. You could help create the next innovation in payments for merchants. You could be engineering automated recovery solutions on a global scale. You could be supporting the integration of our private and public cloud platforms. No matter your role, you’ll have the opportunity to learn new coding languages, introduce new products for our clients and work with innovative new technology such as machine learning.
+                After you learn and practice programming languages like JavaScript, Java or python, it is very important that you try to get an internship.<br/>
+
+Internship is basically the position of a student or trainee who works in an organization, sometimes without pay, in order to gain work experience or satisfy requirements for a qualification, you can get jobs or internship on naukri.com, linkedin jobs and also by searching on Google.
+
+               
+              
+              </h6>
+            </div>
+          
+          </div>
+        </div>
+      </section>
+      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+        '></iframe>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                    <div class="tab-content tab-space">
+                        <div class="tab-pane active" id="preview-features-1">
+                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+              <!-- Nucleo Icons -->
+              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+      <section class="py-3">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <h3 class="text-gradient text-primary mb-0 mt-2">Get an entry level job or opt for higher studies</h3>
+              <br/>
+              <h6>
+                After getting some internship you should try to get some entry level job or you can also go for higher studies if you want for example you can also consider pursuing MBA after computer science engineering.
                 <br/>
-You’ll develop the skills and acumen to take your career in any direction and make a genuine contribution to our businesses from the start. 
-               
-              
-              </h6>
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Who we are looking for?</h3>
-              <br/><br/>
-              <h6>
-              Valued qualities We’re looking for motivated and enthusiast computer programmers who want to directly contribute to coding industry from day one. No matter your background, we’re looking for those with a strong interest coding skills. Our teams work collaboratively, so we’re looking for those who have excellent teamwork and demonstrated leadership abilities.
+                During an MBA, you’ll build your business knowledge, grow your professional network, and boost your career and salary prospects.
+                <br/>
+                Or, you can also do masters of computer science & learn things like machine learning or data science, data structures and algorithms in detail which sometimes requires higher education like masters and PHD, in most cases higher education can lead you to better opportunities in your career because you have more expertise and knowledge.
 
                
               
@@ -298,51 +296,11 @@ You’ll develop the skills and acumen to take your career in any direction and 
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Key skills</h3>
-              <br/><br/>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Get placements in top tech companies with higher experience</h3>
+              <br/>
               <h6>
-              You should have basic coding skills, be able to understand the coding tasks and technicalities fluently. You should have exceptional problem solving and analytical thinking skills. We’re looking for those who are intellectually curious, collaborative and open to new challenges, as well as being able to take ownership of projects to bring them to fruition.              </h6>
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                After completing your higher education you should now try to get placement in small companies to build some experience and portfolio then you should go for top tech companies and you can also get jobs on naukri.com and indeed websites and get hired by top tech companies with higher experience.
 
-        '></iframe>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-2">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Additional Tips</h3>
-              <br/><br/>
-              <h6>
-              In addition to the above, here are a few other tips on how to become a software engineer after 12th which you must consider: <br/>
-Develop personality and career skills like teamwork, planning, organizing, problem solving, decision making, etc. This plays an instrumental role in career growth and progress.
-<br/>
-Go for an advanced degree like Master of Computer Applications or MBA in Computer Science. As you have already raked up experience in the industry, supplementing it with such programs paves a way for you to enter senior level roles easily.
-<br/>
-Improve your communication skills, both verbal and written.
-<br/>
-Have a goal in mind with respect to the industry and the profession you wish to enter. The field of Computer Science Engineering is vast as it is. Develop a niche and work tirelessly towards it!
-<br/>
-We hope this information comes in handy in understanding how to become a software engineer after 12th. With scores of opportunities available, it is needless to say that feeling hesitant and uncertain about your career is natural. If you too wish to enter this field but do not know which path to take, take assistance from experts at Groot Academy in a free counseling session and gear yourself for a vibrant career! 
               </h6>
             </div>
           
@@ -364,8 +322,8 @@ We hope this information comes in handy in understanding how to become a softwar
 
 
 
+             <?php include "./query-form.php" ?>
 
-              <?php include "./query-form.php" ?>
 
 
 
@@ -373,4 +331,4 @@ We hope this information comes in handy in understanding how to become a softwar
         </div>
     </div>
     <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?> 
+<?php include "./footer.php" ?>

@@ -1,16 +1,3 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/soft-design-system
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php  include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />

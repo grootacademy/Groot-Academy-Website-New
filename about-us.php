@@ -1,18 +1,6 @@
-<!--
-=========================================================
-* Soft UI Design System - v1.0.9
-=========================================================
 
-* Product Page:  https://www.creative-tim.com/product/soft-ui-design-system 
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
 <?php include "./header.php" ?>
   <!-- End Navbar -->
-  <!-- -------- START HEADER 7 w/ text and video ------- -->
   <header class="bg-gradient-dark">
     <div class="page-header min-vh-75" style="background-image: url('./assets/img/office-dark.jpg');">
       <span class="mask bg-gradient-info opacity-8"></span>
@@ -384,5 +372,5 @@
             </div>
         </div>
     </div>
-  <!-- -------- END PRE-FOOTER 1 w/ SUBSCRIBE BUTTON AND IMAGE ------- -->
+  <!-- -------- END PRE-FOOTER -->
  <?php include "./footer.php" ?>
