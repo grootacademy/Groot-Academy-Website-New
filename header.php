@@ -56,44 +56,44 @@
     <meta name="keywords" content="<?php echo $keywords; ?>">
     <meta name="author" content="<?php echo $auther; ?>"> -->
     <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge"> 
-      	<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming,  Data Science Certification & Training Course - Groot Academy</title>
-      	
-      	<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture"> 
-		
-        <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+
+    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
 stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-        <link rel="canonical" href="https://grootacademy.com/" />
-        <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-        <meta name="copyright" content="Groot Academy Pvt Ltd"/>
-        
+    <link rel="canonical" href="https://grootacademy.com/" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+    <meta name="copyright" content="Groot Academy Pvt Ltd" />
 
-<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center"/>
 
-        <meta property="og:site_name" content="Groot Academy" >
-        <meta property="og:url" content="https://grootacademy.com" >
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" >
-        <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+    <meta property="og:site_name" content="Groot Academy">
+    <meta property="og:url" content="https://grootacademy.com">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
 stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
-" >
-                 <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png" >        
-              
-                 
-        <meta property="og:image:width" content="90">
-        <meta property="og:image:height" content="90">
-        
+">
+    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
-        <meta name="language" content="en-us"/>
-        <meta name="distribution" content="Global">
-        <meta name="Publisher" content="https://grootacademy.com">
-        <meta name="Rating" content="General">
-        <meta name=geography content="India ">
-        <meta name="geo.region" content="JP-RJ" />
-        <meta name="geo.placename" content="Jaipur" />
-        <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+
+    <meta property="og:image:width" content="90">
+    <meta property="og:image:height" content="90">
+
+
+    <meta name="language" content="en-us" />
+    <meta name="distribution" content="Global">
+    <meta name="Publisher" content="https://grootacademy.com">
+    <meta name="Rating" content="General">
+    <meta name=geography content="India ">
+    <meta name="geo.region" content="JP-RJ" />
+    <meta name="geo.placename" content="Jaipur" />
+    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
     <link rel="icon" type="image/x-icon" href="./assets/img/groot_favicon_icon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -156,6 +156,99 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
             background-image: linear-gradient(#7928CA 0%, #FF0080 100%);
             color: #fff;
+        }
+    </style>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        /* Slideshow container */
+        .slideshow-container {
+            position: relative;
+            background: #f1f1f1f1;
+        }
+
+        /* Slides */
+        .mySlides {
+            display: none;
+            padding: 80px;
+            text-align: center;
+        }
+
+        /* Next & previous buttons */
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            margin-top: -30px;
+            padding: 16px;
+            color: #888;
+            font-weight: bold;
+            font-size: 20px;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        /* Position the "next button" to the right */
+        .next {
+            position: absolute;
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+
+        /* On hover, add a black background color with a little bit see-through */
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+        }
+
+        /* The dot/bullet/indicator container */
+        .dot-container {
+            text-align: center;
+            padding: 20px;
+            background: #ddd;
+        }
+
+        /* The dots/bullets/indicators */
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        /* Add a background color to the active dot/circle */
+        .active,
+        .dot:hover {
+            background-color: #FFF;
+        }
+
+        /* Add an italic font style to all quotes */
+        q {
+            font-style: italic;
+        }
+
+        /* Add a blue color to the author */
+        .author {
+            color: cornflowerblue;
+        }
+
+        h1,
+        h2,
+        h3 {
+            text-transform: capitalize;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+            font-weight: 400;
+        }
+
+        .text-white {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+
         }
     </style>
 </head>
