@@ -2,6 +2,60 @@
  <?php include "./header.php" ?>
        
   <!-- -------- START HEADER -->
+  <style>
+    .branch-box1{
+      background-color: red;
+      display: flex; 
+      justify-content:center;
+      align-items: center;
+      height: 400px;
+      width: 250px;
+      box-shadow: 2px 2px 10px 10px gray;
+      border-radius: 20px;
+ 
+    }
+    .branch-box2{
+      background-color: red;
+      display: flex; 
+      justify-content:center;
+      align-items: center;
+      height: 400px;
+      width: 250px;
+      box-shadow: 2px 2px 10px 10px gray;
+      border-radius: 20px;
+ 
+    }
+    .branch-box3{
+      background-color: red;
+      display: flex; 
+      justify-content:center;
+      align-items: center;
+      height: 400px;
+      width: 250px;
+      box-shadow: 2px 2px 10px 10px gray;
+      border-radius: 20px;
+ 
+    }
+    .branch-box4{
+      background-color: red;
+      display: flex; 
+      justify-content:center;
+      align-items: center;
+      height: 400px;
+      width: 250px;
+      box-shadow: 2px 2px 10px 10px gray;
+      border-radius: 20px;
+ 
+    }
+
+    .branch-main{
+      display: flex;
+      margin: 20px;
+      justify-content: space-between;
+      color: #FFFF;
+    
+    }
+  </style>
   <header>
     <div class="page-header min-vh-85">
       <div>
@@ -66,15 +120,61 @@
           <div class="card d-flex blur justify-content-center p-6 shadow-lg my-sm-0 my-sm-6 mt-8 mb-5">
          
           <div class="form-group text-gradient text-primary ">
-                   <h4>Speak With Expert Engineers.</h4><br/>
-                   <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-08233266276</h6><br/>
+                   <b style=" font-size: x-large; ">Speak With Expert Engineers.<b><br/>
+                   <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6><br/>
                    <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6><br/>
-                   <h6> <i class="fa fa-map-marker " aria-hidden="true"></i>Address  : <br/> 73, 34, Paramhans Marg, Mansarovar Sector 7, Agarwal Farm, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020 </h6>
-
+                   <h6> <i class="fa fa-map-marker " aria-hidden="true"></i>Address Head Office  : <br/> 122/66, 2nd Floor, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
+                   <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
+                  
           </div>
           </div>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="branch-main">
+    <div class=" bg-gradient-primary branch-box1 p-3">
+    <center>
+    <b style="font-size: small;">Mansarovar Branch</b><br/>
+     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6><br/>
+     <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6><br/>
+     <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Address Head Office :
+122/66, 2nd Floor, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020
+</h6>
+    </center>
+    </div>
+    <div class="  bg-gradient-primary  branch-box2">
+    <div class=" bg-gradient-primary branch-box1 p-3">
+    <center>
+    <b style="font-size: small;">Pratap Nagar Branch.</b><br/>
+     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6><br/>
+     <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6><br/>
+     <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
+    </center>
+    </div>
+
+    
+    </div>
+    <div class="  bg-gradient-primary  branch-box3">
+    <div class=" bg-gradient-primary branch-box1 p-3">
+    <center>
+    <b style="font-size: small;">Riddhi Shiddi Branch.</b><br/>
+     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6><br/>
+     <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6><br/>
+     <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019 </h6>
+    </center>
+    </div>
+    </div>
+
+      <div class="  bg-gradient-primary  branch-box4">
+      <div class=" bg-gradient-primary branch-box1 p-3">
+    <center>
+    <b style="font-size: small;">Speak With Expert Engineers.</b><br/>
+     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6><br/>
+     <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6><br/>
+     <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
+    </center>
+    </div>
       </div>
     </div>
     <div class="row">
