@@ -121,7 +121,10 @@
          
           <div class="form-group text-gradient text-primary ">
                    <b style=" font-size: x-large; ">Speak With Expert Engineers.<b><br/>
+                   <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-7231968183</h6>
                    <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6>
+
+
                    <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6>
                    <h6> <i class="fa fa-map-marker " aria-hidden="true"></i>Address Head Office  : <br/> 122/66, 2nd Floor, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
                    <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
@@ -133,6 +136,7 @@
       </div>
     </div>
     <div class="branch-main">
+      <div><h1>Our Brances</h1></div>
     <div class=" bg-gradient-primary branch-box1 p-3" style="color:#fff;">
     <center>
     <b style="font-size: small;">Mansarovar Branch</b><br/>
