@@ -12,7 +12,7 @@
                   <h1 class="text-white pt-3 mt-n5">You can give your Career a flair for success with Groot.</h1>
                   <p class="lead text-white mt-3">Whatever technology runs on our smart devices, has a code behind it. . </p>
                   <a href="./contact-us.php" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
-                
+
                 </div>
               </div>
             </div>
@@ -157,7 +157,7 @@
                       </div>
 
                       <h5 class="font-weight-bolder mt-3">
-                      Placement Assistance</h5>
+                        Placement Assistance</h5>
                       <p class="pe-5">Once the training by Jaipur coaching, Groot is done then we have the placement cell which helps students in the placements and makes them ready to crack interviews.
                       </p>
 
@@ -200,7 +200,7 @@
                         <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                           <g transform="translate(-2319.000000, -291.000000)" fill="#FFFFFF" fill-rule="nonzero">
                             <g transform="translate(1716.000000, 291.000000)">
-                             </g>
+                            </g>
                           </g>
                         </g>
                       </svg>
@@ -262,8 +262,8 @@
                           <div class="description ps-5">
                             <h5 class="text-white">FRONT END DEVELOPMENT</h5>
                             <p class="text-white">
-This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
-                            <a href="./course_Front_End_Development_React_JS.php" class="text-white icon-move-right">
+                              This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
+                            <a href="./course-front-end-development-with-reactjs.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -279,7 +279,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
                             <h5>BACK END DEVELOPMENT</h5>
                             <p>The course is interned for eager learners to learn the fundamentals of web development.</p>
-                            <a href="./course_Back_End_Development_with_Java.php" class="text-primary icon-move-right">
+                            <a href="./course-back-end-development-with-Java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -296,7 +296,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
                             <h5>FULL STACK DEVELOPMENT</h5>
                             <p>This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
-                            <a href="./course_Full_Stack_Development.php" class="text-primary icon-move-right">
+                            <a href="./course-full-stack-web-development.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -314,7 +314,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
                             <h5 class="text-white">DATA STRUCTURE AND ALGORITHMS</h5>
                             <p class="text-white">This gives students the vision to Look into data structures and algorithms for things apart from coding.
                             </p>
-                            <a href="./course_Data_Structure_and_algorithms.php" class="text-white icon-move-right">
+                            <a href="./course-data-structure-and-algorithms.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -333,7 +333,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
                             <h5 class="text-white">C/C++</h5>
                             <p class="text-white">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
-                            <a href="./course_CC++.php" class="text-white icon-move-right">
+                            <a href="./course-c-programming-and-c-plus-plus-programming.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -348,7 +348,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
                             <h5>Advance Java</h5>
                             <p>Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
-                            <a href="./course_Advance_Java.php" class="text-primary icon-move-right">
+                            <a href="./course-advance-java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -437,63 +437,63 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
                         <div class="tab-content tab-space">
                           <div class="tab-pane active" id="preview-forms-simple">
-         
-          <section>
-  <div class="container py-4">
-    <div class="row">
-      <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-        <h3 class="text-center">Contact us</h3>
-        <form role="form"  id="contact-form" method="post" action="form_process.php" autocomplete="off">
-          <div class="card-body">
-            <div class="row">
-              <div class="col-md-12">
-                <label> Name</label>
-                <div class="input-group mb-4">
-                  <input class="form-control" name="name"  placeholder="" aria-label="Name..." type="text" >
-                </div>
-              </div>
-              <div class="col-md-12 ps-2">
-                <label>Email</label>
-                <div class="input-group">
-                  <input type="email" name="email" class="form-control" placeholder="" aria-label="Email..." >
-                </div>
-              </div>
-            </div>
-            <div class="mb-4">
-              <label>Mobile</label>
-              <div class="input-group">
-                <input type="number" name="phone" id="phone" class="form-control" placeholder="" >
-              </div>
-            </div>
-            <div class="mb-4">
-              <label>Enter Courses Name You Are Intersted For</label>
-              <div class="input-group">
-                <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Courses" >
-              </div>
-            </div>
-            <div class="form-group mb-4">
-              <label>Your message</label>
-              <textarea name="message" class="form-control" id="message" rows="4"></textarea>
-            </div>
-            <div class="row">
-              <div class="col-md-12">
-                <div class="form-check form-switch mb-4">
-                  <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked="">
-                  <label class="form-check-label" for="flexSwitchCheckDefault">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
-                </div>
-              </div>
-              <div class="col-md-12">
-                <button type="submit" class="btn bg-gradient-dark w-100">Send Message</button>
-              </div>
-            </div>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
 
-        
+                            <section>
+                              <div class="container py-4">
+                                <div class="row">
+                                  <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
+                                    <h3 class="text-center">Contact us</h3>
+                                    <form role="form" id="contact-form" method="post" action="form_process.php" autocomplete="off">
+                                      <div class="card-body">
+                                        <div class="row">
+                                          <div class="col-md-12">
+                                            <label> Name</label>
+                                            <div class="input-group mb-4">
+                                              <input class="form-control" name="name" placeholder="" aria-label="Name..." type="text">
+                                            </div>
+                                          </div>
+                                          <div class="col-md-12 ps-2">
+                                            <label>Email</label>
+                                            <div class="input-group">
+                                              <input type="email" name="email" class="form-control" placeholder="" aria-label="Email...">
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="mb-4">
+                                          <label>Mobile</label>
+                                          <div class="input-group">
+                                            <input type="number" name="phone" id="phone" class="form-control" placeholder="">
+                                          </div>
+                                        </div>
+                                        <div class="mb-4">
+                                          <label>Enter Courses Name You Are Intersted For</label>
+                                          <div class="input-group">
+                                            <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Courses">
+                                          </div>
+                                        </div>
+                                        <div class="form-group mb-4">
+                                          <label>Your message</label>
+                                          <textarea name="message" class="form-control" id="message" rows="4"></textarea>
+                                        </div>
+                                        <div class="row">
+                                          <div class="col-md-12">
+                                            <div class="form-check form-switch mb-4">
+                                              <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked="">
+                                              <label class="form-check-label" for="flexSwitchCheckDefault">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
+                                            </div>
+                                          </div>
+                                          <div class="col-md-12">
+                                            <button type="submit" class="btn bg-gradient-dark w-100">Send Message</button>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </form>
+                                  </div>
+                                </div>
+                              </div>
+                            </section>
+
+
                           </div>
                           <div class="tab-pane" id="code-forms-simple">
                             <div class="position-relative p-4 pb-2">
@@ -644,7 +644,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
             </div>
           </div>
         </div>
-       
+
 
 
         <!-- -------- END Content Presentation Docs ------- -->
@@ -658,7 +658,7 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
         <!-- -------   START PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
 
-       
+
 
         <!-- Students Comments -->
 
@@ -666,9 +666,9 @@ This gives students in-depth knowledge of the user's visual experience, interact
 
 
         <!-- End of Slider -->
-           <!-- Slider -->
-        
-<!-- <div class="w3-content w3-section" style="max-width:500px">
+        <!-- Slider -->
+
+        <!-- <div class="w3-content w3-section" style="max-width:500px">
   <p>WHAT OUR STUDENTS SAY ABOUT GROOT, INSTITUTE IN JAIPUR.</p>
 
   <img class="mySlides w3-animate-fading" src="./assets/img/slide1" style="width:100%">
@@ -676,60 +676,62 @@ This gives students in-depth knowledge of the user's visual experience, interact
   <img class="mySlides w3-animate-fading" src="./assets/img/slide2.jpg" style="width:100%">
   <img class="mySlides w3-animate-fading" src="./assets/img/slide1" style="width:100%">
 </div> -->
-       
+
         <!-- -------   END PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
         <br><br><br>
-        <center><h3><b>WHAT OUR STUDENTS SAY ABOUT GROOT, INSTITUTE IN JAIPUR.</b></h3></center>
+        <center>
+          <h3><b>WHAT OUR STUDENTS SAY ABOUT GROOT, INSTITUTE IN JAIPUR.</b></h3>
+        </center>
         <br><br>
 
 
         <div class="slideshow-container">
 
-<div class="mySlides">
-  <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/321660215_1092281694778967_3398651921390939181_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6QxL8zy9GakAX_XL78x&_nc_oc=AQmkLO7IoT8lSD6gghZTGzW7_Vws6r-iVivW3mI6gB8_L5d12aaWyaC19duNoXiityA&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBeVsJM5HqBBPfXO6V9pJ6JINaI-256DQbVS-ZNPloCXA&oe=63F8196F" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <p>- Sunil Kumar</p>
-  <q>Good developers, very cooperative, and best work delivery. One of the best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.</q>
-</div>
+          <div class="mySlides">
+            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/321660215_1092281694778967_3398651921390939181_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6QxL8zy9GakAX_XL78x&_nc_oc=AQmkLO7IoT8lSD6gghZTGzW7_Vws6r-iVivW3mI6gB8_L5d12aaWyaC19duNoXiityA&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBeVsJM5HqBBPfXO6V9pJ6JINaI-256DQbVS-ZNPloCXA&oe=63F8196F" width="100" height="100" style="border-radius: 50%;">
+            <br>
+            <p>- Sunil Kumar</p>
+            <q>Good developers, very cooperative, and best work delivery. One of the best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.</q>
+          </div>
 
-<div class="mySlides">
-<img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/283150410_3130715097259331_1924777215001267020_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LjGwoJEJHcAAX8Jlcss&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBsvpBmdHtPGWxgQdWllHe-iOqH4mdNi9rVX9-imOaBjQ&oe=63F7E8CB" width="100" height="100" style="border-radius: 50%;">
-<br>
-  <p>- Pooran Yadav</p>
-  <q>best website developers in jaipur at reasonable cost. Also deliver the project in time.. very professional and experienced..quick response</q>
-</div>
+          <div class="mySlides">
+            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/283150410_3130715097259331_1924777215001267020_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LjGwoJEJHcAAX8Jlcss&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBsvpBmdHtPGWxgQdWllHe-iOqH4mdNi9rVX9-imOaBjQ&oe=63F7E8CB" width="100" height="100" style="border-radius: 50%;">
+            <br>
+            <p>- Pooran Yadav</p>
+            <q>best website developers in jaipur at reasonable cost. Also deliver the project in time.. very professional and experienced..quick response</q>
+          </div>
 
-<div class="mySlides">
-  <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t1.6435-9/39200712_2644011995824192_3407190761278537728_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=q6FdoAuJBegAX_5AGvh&_nc_oc=AQkHWTa5IhV0FYK8vBUIBo9TeUg9RRPRGLdFj9n5uB_VddFz4dPV7bJar5G0HldS8rE&_nc_ht=scontent.fjai8-1.fna&oh=00_AfD4vBCCcAUh7ZHCX1V6sn_VSu24rGSzYO9DKvqc50H7Mg&oe=641AC496" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <p>- Ombeer Yadav</p>
-  <q>The boot camp pushes you to learn new things through talks and practical assignments. I've had a great time as a student at Groot academy right now.</q>
-</div>
+          <div class="mySlides">
+            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t1.6435-9/39200712_2644011995824192_3407190761278537728_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=q6FdoAuJBegAX_5AGvh&_nc_oc=AQkHWTa5IhV0FYK8vBUIBo9TeUg9RRPRGLdFj9n5uB_VddFz4dPV7bJar5G0HldS8rE&_nc_ht=scontent.fjai8-1.fna&oh=00_AfD4vBCCcAUh7ZHCX1V6sn_VSu24rGSzYO9DKvqc50H7Mg&oe=641AC496" width="100" height="100" style="border-radius: 50%;">
+            <br>
+            <p>- Ombeer Yadav</p>
+            <q>The boot camp pushes you to learn new things through talks and practical assignments. I've had a great time as a student at Groot academy right now.</q>
+          </div>
 
-<div class="mySlides">
-  <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/329226552_759290678585745_7527355396249140363_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5r9zURPwCvcAX_IiW2l&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfDaxfaQIwqof18y6LBWbJq8pnxLmuOkQJzRPp3nKFK7Ng&oe=63F7DD24" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <p>- Shreyansh Jain</p>
-  <q>I joined groot academy after hearing about them and reviews from google. Its really a great institute with affordable fee structure for programming courses.  Great faculty n placement cell. I got to learn Data Structure and algorithms but later continued till full stack development course and also created several projects that helped me in creating a versatile portfolio and CV. I got placed in an IT firm at a good package during the course duration and didnt have to wait for a job. Its the best institute for coders.</q>
-</div>
+          <div class="mySlides">
+            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/329226552_759290678585745_7527355396249140363_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5r9zURPwCvcAX_IiW2l&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfDaxfaQIwqof18y6LBWbJq8pnxLmuOkQJzRPp3nKFK7Ng&oe=63F7DD24" width="100" height="100" style="border-radius: 50%;">
+            <br>
+            <p>- Shreyansh Jain</p>
+            <q>I joined groot academy after hearing about them and reviews from google. Its really a great institute with affordable fee structure for programming courses. Great faculty n placement cell. I got to learn Data Structure and algorithms but later continued till full stack development course and also created several projects that helped me in creating a versatile portfolio and CV. I got placed in an IT firm at a good package during the course duration and didnt have to wait for a job. Its the best institute for coders.</q>
+          </div>
 
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
+          <a class="prev" onclick="plusSlides(-1)">❮</a>
+          <a class="next" onclick="plusSlides(1)">❯</a>
 
-</div>
+        </div>
 
-<div class="dot-container">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-  <span class="dot" onclick="currentSlide(4)"></span> 
+        <div class="dot-container">
+          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot" onclick="currentSlide(2)"></span>
+          <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
 
-</div>
-
-
+        </div>
 
 
-<div class="pt-5">
+
+
+        <div class="pt-5">
           <div class="container">
             <div class="row">
               <div class="col-lg-5 ms-auto">
@@ -753,34 +755,38 @@ This gives students in-depth knowledge of the user's visual experience, interact
           </div>
         </div>
 
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
+        <script>
+          var slideIndex = 1;
+          showSlides(slideIndex);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+          function plusSlides(n) {
+            showSlides(slideIndex += n);
+          }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
+          function currentSlide(n) {
+            showSlides(slideIndex = n);
+          }
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}
-</script>
+          function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+              slideIndex = 1
+            }
+            if (n < 1) {
+              slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+              dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+          }
+        </script>
 
 
         <?php include "./footer.php" ?>
