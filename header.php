@@ -297,9 +297,9 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 </li>
 
                                 <li class="nav-item ms-lg-auto">
-                                    <a class="nav-link nav-link-icon me-2" href="tel:+91-8094170324">
+                                    <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183">
                                         <i class="fa fa-mobile me-2"></i>
-                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8094170324</b></p>
+                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-7231968183</b></p>
                                     </a>
                                 </li>
 
