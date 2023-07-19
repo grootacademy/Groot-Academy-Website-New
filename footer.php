@@ -122,35 +122,35 @@
                         <h6 class="text-gradient text-primary text-sm">Our Courses</h6>
                         <ul class="flex-column ms-n nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="./10.php" target="_blank">
+                                <a class="nav-link" href="./programming-courses-after-10th-class.php" target="_blank">
                                 Software Engineering After 10th 
                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="./12.php" target="_blank">
+                                <a class="nav-link" href="./programming-or-coding-course-after-12th.php" target="_blank">
                                 Software Engineering After 12th
                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="./our_internship_programmes.php" target="_blank">
+                                <a class="nav-link" href="./our-internship-programmes.php" target="_blank">
                                 Our Internship Programmes
                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_front_end_development_react_js.php" target="_blank">
+                                <a class="nav-link" href="./course-front-end-development-with-reactjs.php" target="_blank">
                                     Learn Front End Development 
                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_front_end_development_angular_js.php" target="_blank">
+                                <a class="nav-link" href="./course-back-end-development-with-Java.php" target="_blank">
                                 Learn Back End Development
                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./course_full_stack_development.php" target="_blank">
+                                <a class="nav-link" href="./course-full-stack-web-development.php" target="_blank">
                                 Learn Full Stack Development
                 </a>
                             </li>
