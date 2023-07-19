@@ -8,7 +8,7 @@
       display: flex; 
       justify-content:center;
       align-items: center;
-      height: 400px;
+      height: 450px;
       width: 250px;
       box-shadow: 2px 2px 10px 10px gray;
       border-radius: 20px;
@@ -19,7 +19,7 @@
       display: flex; 
       justify-content:center;
       align-items: center;
-      height: 400px;
+      height: 450px;
       width: 250px;
       box-shadow: 2px 2px 10px 10px gray;
       border-radius: 20px;
@@ -30,7 +30,7 @@
       display: flex; 
       justify-content:center;
       align-items: center;
-      height: 400px;
+      height: 450px;
       width: 250px;
       box-shadow: 2px 2px 10px 10px gray;
       border-radius: 20px;
@@ -41,7 +41,7 @@
       display: flex; 
       justify-content:center;
       align-items: center;
-      height: 400px;
+      height: 450px;
       width: 250px;
       box-shadow: 2px 2px 10px 10px gray;
       border-radius: 20px;
@@ -135,11 +135,11 @@
         </div>
       </div>
     </div>
-    <div class="branch-main">
-      <div><h1>Our Brances</h1></div>
+    <div class="text-center" style="text-shadow: 1px 1px 10px #AE234E;"><h1><u>Our Brances</u></h1></div>
+    <div class="branch-main mt-5">
     <div class=" bg-gradient-primary branch-box1 p-3" style="color:#fff;">
     <center>
-    <b style="font-size: small;">Mansarovar Branch</b><br/>
+    <b style=" font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Mansarovar Branch</b><br/>
      <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276"> +91-8233266276</a></h6>
      <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  info@grootsoftware.com</h6>
      <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Address Head Office :
@@ -150,7 +150,7 @@
     <div class="  bg-gradient-primary  branch-box2">
     <div class=" bg-gradient-primary branch-box1 p-3">
     <center>
-    <b style="font-size: small;">Pratap Nagar Branch.</b>
+    <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Pratap Nagar Branch.</b>
      <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183">+91-7231968183</a></h6>
      <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  pratapnagar@grootacademy.com</h6>
      <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
@@ -162,7 +162,7 @@
     <div class="  bg-gradient-primary  branch-box3">
     <div class=" bg-gradient-primary branch-box1 p-3">
     <center>
-    <b style="font-size: small;">Riddhi Shiddi Branch.</b>
+    <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Riddhi Shiddi Branch.</b>
      <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183"> +91-8233266276</a></h6>
      <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  ridhisidhi@grootsoftware.com</h6><br/>
      <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019 </h6>
@@ -173,7 +173,7 @@
       <div class="  bg-gradient-primary  branch-box4">
       <div class=" bg-gradient-primary branch-box1 p-3">
     <center>
-    <b style="font-size: small;">Riddhi Shiddi Branch with infiquee classes.</b>
+    <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px"  class="text-primary p-2 bg-light">Riddhi Shiddi Branch with infiquee classes.</b>
      <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:<a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276">  +91-8233266276</a></h6>
      <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  infiquee@grootacademy.com</h6><br/>
      <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019 </h6>
