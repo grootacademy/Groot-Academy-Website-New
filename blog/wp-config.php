@@ -36,7 +36,7 @@
 
 
 
-define( 'DB_NAME', 'groot_academy' );
+define( 'DB_NAME', 'u232016825_groot_academy' );
 
 /** Database username */
 define( 'DB_USER', 'u232016825_satnam' );
@@ -45,7 +45,7 @@ define( 'DB_USER', 'u232016825_satnam' );
 define( 'DB_PASSWORD', 'HareRam@987' );
 
 /** Database hostname */
-define( 'DB_HOST', 'u232016825_groot_academy' );
+define( 'DB_HOST', '127.0.0.1:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
