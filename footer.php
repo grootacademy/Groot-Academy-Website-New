@@ -24,12 +24,12 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link pe-1" href="https://www.instagram.com/grootsoftware/" target="_blank">
+                                <a class="nav-link pe-1" href="https://www.instagram.com/groot_academy/" target="_blank">
                                     <i class="fab fa-instagram text-lg opacity-8"></i>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link pe-1" href="https://www.linkedin.com/in/grootsoftware/" target="_blank">
+                                <a class="nav-link pe-1" href="https://www.linkedin.com/in/grootacademy/" target="_blank">
                                     <i class="fab fa-linkedin text-lg opacity-8"></i>
                                 </a>
                             </li>
