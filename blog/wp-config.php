@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', '127.0.0.1:3306' );
+define( 'DB_NAME', 'u232016825_groot_academy' );
 
 /** Database username */
 define( 'DB_USER', 'u232016825_satnam' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'u232016825_satnam' );
 define( 'DB_PASSWORD', 'HareRam@987' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '127.0.0.1:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
