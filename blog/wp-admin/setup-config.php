@@ -238,11 +238,11 @@ switch ( $step ) {
 		</tr>
 		<tr>
 			<th scope="row"><label for="dbhost"><?php _e( 'Database Host' ); ?></label></th>
-			<td><input name="dbhost" id="dbhost" type="text" aria-describedby="dbhost-desc" size="25" value="localhost" /></td>
+			<td><input name="dbhost" id="dbhost" type="text" aria-describedby="dbhost-desc" size="25" value="https://grootacademy.com/" /></td>
 			<td id="dbhost-desc">
 			<?php
-				/* translators: %s: localhost */
-				printf( __( 'You should be able to get this info from your web host, if %s does not work.' ), '<code>localhost</code>' );
+				/* translators: %s: https://grootacademy.com/ */
+				printf( __( 'You should be able to get this info from your web host, if %s does not work.' ), '<code>https://grootacademy.com/</code>' );
 			?>
 			</td>
 		</tr>

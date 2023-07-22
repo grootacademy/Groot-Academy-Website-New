@@ -135,7 +135,7 @@ class Iri {
 			'port' => Port::DICT,
 		),
 		'file' => array(
-			'ihost' => 'localhost',
+			'ihost' => 'https://grootacademy.com/',
 		),
 		'http' => array(
 			'port' => Port::HTTP,
