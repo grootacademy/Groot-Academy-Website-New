@@ -250,7 +250,11 @@ stack Web development with python Django , Full stack Web development with PHP, 
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
 
         }
-    </style>
+        .menu_padding{
+            padding-top:10px ;
+        }
+        
+        </style>
 </head>
 
 <body class="index-page">
@@ -259,7 +263,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Navbar -->
-    <div class="container position-sticky z-index-sticky top-0">
+    <div class="container-fluid position-sticky z-index-sticky top-0">
         <div class="row">
             <div class="col-12">
                 <nav class="navbar navbar-expand-lg  blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
@@ -276,39 +280,39 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </button>
                         <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
-                                <li>
+                                <li class="menu_padding">
                                     <a class="nav-link ps-0 d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
                                         <b>Home</b>
 
                                     </a>
                                 </li>
-                                <li>
+                                <li class="menu_padding">
                                     <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
                                         <b>About Us</b>
 
                                     </a>
                                 </li>
 
-                                <li>
+                                <li class="menu_padding">
                                     <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
                                         <b>Courses</b>
 
                                     </a>
                                 </li>
-                                <li>
+                                <li class="menu_padding">
                                     <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
                                         <b>blog</b>
 
                                     </a>
                                 </li>
 
-                                <li class="nav-item ms-lg-auto">
+                                <li class="nav-item ms-lg-auto menu_padding">
                                     <a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276">
                                         <i class="fa fa-mobile me-2"></i>
                                         <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8233266276</b></p>
                                     </a>
                                 </li>
-                                <li class="nav-item ms-lg-auto">
+                                <li class="nav-item ms-lg-auto menu_padding">
                                     <a class="nav-link nav-link-icon me-2" href="tel:01414859255">
                                         <i class="fa fa-mobile me-2"></i>
                                         <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>01414859255</b></p>
