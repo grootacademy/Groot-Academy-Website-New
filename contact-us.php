@@ -121,7 +121,7 @@
          
           <div class="form-group text-gradient text-primary ">
                    <b style=" font-size: x-large; ">Speak With Expert Engineers.<b><br/>
-                   <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-7231968183</h6>
+                   <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  01414859255</h6>
                    <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  +91-8233266276</h6>
 
 
@@ -151,7 +151,7 @@
     <div class=" bg-gradient-primary branch-box1 p-3">
     <center>
     <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Pratap Nagar Branch.</b>
-     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183">+91-7231968183</a></h6>
+     <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:  <a class="nav-link nav-link-icon me-2" href="tel:01414859255">01414859255</a></h6>
      <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email:  pratapnagar@grootacademy.com</h6>
      <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch  : <br/> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
     </center>
@@ -184,6 +184,14 @@
     <div class="row">
       <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
       <div class="map-canvas">
+        <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2674.2305456437944!2d75.76732561409753!3d26.85708736895016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5c45026d6bf%3A0x43a55cb26a3129f1!2sGroot%20Academy!5e1!3m2!1sen!2sin!4v1660483396046!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
+      <div class="map-canvas">
+        <h1>Pratap Nagar Branch</h1>
         <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2674.2305456437944!2d75.76732561409753!3d26.85708736895016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5c45026d6bf%3A0x43a55cb26a3129f1!2sGroot%20Academy!5e1!3m2!1sen!2sin!4v1660483396046!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>

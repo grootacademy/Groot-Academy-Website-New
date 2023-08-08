@@ -295,11 +295,23 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                     </a>
                                 </li>
+                                <li>
+                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
+                                        <b>blog</b>
+
+                                    </a>
+                                </li>
 
                                 <li class="nav-item ms-lg-auto">
                                     <a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276">
                                         <i class="fa fa-mobile me-2"></i>
                                         <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8233266276</b></p>
+                                    </a>
+                                </li>
+                                <li class="nav-item ms-lg-auto">
+                                    <a class="nav-link nav-link-icon me-2" href="tel:01414859255">
+                                        <i class="fa fa-mobile me-2"></i>
+                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>01414859255</b></p>
                                     </a>
                                 </li>
 
