@@ -325,7 +325,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <!--        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github"></p>-->
                                 <!--    </a>-->
                                 <!--</li>-->
-                                <li class="nav-item ms-lg-auto">
+                                <li class="nav-item ms-lg-auto menu_padding">
                                     <a class="nav-link nav-link-icon me-2" href="https://github.com/grootacademy" target="_blank">
                                         <i class="fa fa-github me-1"></i>
                                         <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Github</p>
