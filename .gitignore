@@ -3,7 +3,9 @@
 ######################
 /target/classes/static/**
 /src/test/javascript/coverage/
-/blog
+./includes/connecton.php
+./blog
+./blog/*
 ######################
 # Node
 ######################
