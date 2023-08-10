@@ -39,7 +39,7 @@
       <div class="col-lg-12">
         <h3 class="text-gradient text-primary mb-0 mt-2">📱🚀 Unleash Your Creativity in the Mobile 🌱📚 World! 🌟 Android Application Development at Groot Academy 🌟: Empowering Future Innovators 🚀🔥 </h3><br/><br/>
         <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this Advance java web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to Advance java web development to guide you on selecting skills to learn.     </h6>
+        Are you eager to explore the captivating realm of iOS application development? 🚀🔥 Look no further! Groot Academys iOS Application Development program offers a transformative learning experience that will empower you to create cutting-edge apps for Apples iconic devices. 🍎🌟</h6>
        
       </div>
      
@@ -69,7 +69,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Advance java Web Development ?</h3>
+        <h3 class="text-gradient text-primary mb-0 mt-2">🏫 Welcome to Groot Academy: Nurturing Excellence and Fostering Innovation</h3>
         <br/><br/>
         <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
         <ul >
