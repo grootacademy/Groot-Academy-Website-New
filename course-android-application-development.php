@@ -71,11 +71,11 @@
       <div class="col-lg-12">
         <h3 class="text-gradient text-primary mb-0 mt-2">🏫 Welcome to Groot Academy: Nurturing Excellence and Fostering Innovation</h3>
         <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
+        <h6>At Groot Academy, we take pride in being a hub of excellence and innovation. Our mission is to nurture talent, ignite creativity, and equip aspiring developers with the skills they need to thrive in the dynamic world of iOS app development. When you join Groot Academy, you become part of a vibrant community that shares your passion for technology and innovation. </h6>
         <ul >
         <li>Build dynamic data-driven websites and applications.</li>
         <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Advance java Developer Salary.</li>
+        <li>The High-Paying Advance ios app Developer Salary.</li>
         <li>Diverse Growth Options.</li>
     </ul>
       </div>
@@ -106,9 +106,9 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Advance java Developer</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">🌐 Embrace the Power of Collaboration: Together, We Create Brilliance</h3>
               <br/><br/>
-              <h6>A Advance java web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+              <h6>Collaboration lies at the heart of Groot Academys educational philosophy. We believe in the power of teamwork and diverse perspectives. In our iOS Application Development program, youll have the chance to collaborate with fellow students, engage in group projects, and bring your app ideas to life through collective creativity.Learning in a collaborative environment fosters essential teamwork skills and prepares you for the collaborative nature of the app development industry. Together, we can create brilliance and unleash the potential of Apples innovative iOS platform.  </h6>
 
             </div>
           
@@ -141,9 +141,11 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">📚 Extensive Hands-On Experience: Turning Theory into Reality</h3>
               <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
+              <h6>While theory lays the foundation, hands-on experience is the key to unlocking your true potential as an iOS developer. At Groot Academy, we emphasize practical learning through real-world projects and interactive coding exercises. Youll have access to cutting-edge development tools and work on iOS apps from concept to implementation.
+Under the mentorship of our seasoned iOS developers, youll gain the confidence to tackle challenges, code with precision, and design user-friendly interfaces. Our instructors bring a wealth of industry experience to the table, guiding you through the complexities of iOS app development and preparing you for the real app-building world.
+ </h6>
 
             </div>
           
