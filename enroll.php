@@ -13,7 +13,7 @@
                             <div class="col-lg-6">
                                 <form class="p-3" id="contact-form" method="post" action="enrollProcess.php">
                                     <div class="card-header px-4 py-sm-5 py-3">
-                                        <h2>Request a callback to Start your journey with groot academy!</h2>
+                                        <h2>Request a callback to Start your journey with groot academy and Groot Software!</h2>
 
                                     </div>
                                     <div class="card-body pt-1">
