@@ -6,6 +6,8 @@
 ./includes/connecton.php
 ./blog
 ./blog/*
+/blog
+/blog/*
 ######################
 # Node
 ######################
