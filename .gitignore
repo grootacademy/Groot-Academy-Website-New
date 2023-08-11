@@ -4,8 +4,8 @@
 /target/classes/static/**
 /src/test/javascript/coverage/
 ./includes/connecton.php
-./blog
-./blog/*
+#./blog
+#./blog/*
 /blog
 /blog/*
 ######################
