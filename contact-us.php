@@ -167,7 +167,7 @@
       <div class=" bg-gradient-primary branch-box1 p-3">
         <center>
           <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Riddhi Shiddi Branch.</b>
-          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-9549695189"> +91-9549695189</a></h6>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-9649695189"> +91-9549695189</a></h6>
           <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: ridhisidhi@grootsoftware.com</h6><br />
           <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019 </h6>
         </center>
