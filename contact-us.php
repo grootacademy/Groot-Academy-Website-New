@@ -174,6 +174,18 @@
       </div>
     </div>
 
+    <div class="  bg-gradient-primary  branch-box3">
+      <div class=" bg-gradient-primary branch-box1 p-3">
+        <center>
+          <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Jhotwara & Murlipura Branch.</b>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183"> +91-7231968183</a></h6>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-01414859255"> +91-01414859255</a></h6>
+          <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: jhotwara@grootsoftware.com</h6><br />
+          <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> 87-91, Triton Mall, Forth floor, near, Chomu Pulia Cir, Jaipur, Rajasthan 302012 </h6>
+        </center>
+      </div>
+    </div>
+
     <div class="  bg-gradient-primary  branch-box4">
       <div class=" bg-gradient-primary branch-box1 p-3">
         <center>
@@ -221,7 +233,18 @@
             </div>
 
           </div>
+          <div class="row">
+            <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
+              <div class="map-canvas">
+                <h1>Jhotwara & Murlipura Branch.</h1>
+                <h5>Contact No <a href="tel:+91-7231968183">7231968183</a></h5>
+                <h5>Contact No <a href="tel:+91-01414859255">01414859255</a></h5>
+                <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56908.9264549787!2d75.6990267216797!3d26.9413037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db3abb5df65f1%3A0xe131cb537f9dcdc4!2sGroot%20Academy-%20Software%20%26%20IT%20Training%20in%20Jaipur%20%7C%20Web%20Design%20%26%20Development%20%7C%20C%2CC%2B%2B%2CJAVA%2CPYTHON%20Programming%20Institute!5e0!3m2!1sen!2sin!4v1692206666206!5m2!1sen!2sin" width="100%" height="400"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              </div>
+            </div>
 
+          </div>
 </header>
 <!-- -------- END HEADER - -->
 <?php include "./footer.php" ?>
