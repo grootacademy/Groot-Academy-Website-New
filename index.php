@@ -4,12 +4,12 @@
 
 
 
-        <header class="header-2 mt-5">
+        <header class="header-2 mt-0">
           <div class="page-header min-vh-75 relative" style="background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
             <div class="container">
               <div class="row">
                 <div class="col-lg-7 text-center mx-auto">
-                  <h1 class="text-white pt-3 mt-n5">You can give your Career a flair for success with Groot.</h1>
+                  <h1 class="text-white pt-3 mt-5">You can give your Career a flair for success with Groot.</h1>
                   <p class="lead text-white mt-3">Whatever technology runs on our smart devices, has a code behind it. . </p>
                   <a href="./contact-us.php" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
 
