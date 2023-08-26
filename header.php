@@ -269,14 +269,42 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <div class="container-fluid position-sticky z-index-sticky top-0">
         <div class="row">
             <div class="col-12 ">
-                <div style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
+                <nav class="navbar navbar-expand-lg navbar-dark" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
+                    <a class="navbar-brand" href="#">
+                        <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+
+                            <li class="nav-item">
+                                <a class="nav-link  text-light" href="tel:+91-01414859255">01414859255</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  text-light" href="tel:+91-8233266276">+91-8233266276</a>
+                            </li>
+
+                            <li class="nav-item active" style="float: right;">
+                                <a class="nav-link" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </nav>
+
+
+
+                <!-- <div class="" style=" background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
                     <div class="row">
                         <div class="col-md-6">
                             <div style="display: flex; flex-wrap: nowrap; justify-content: space-evenly ; ">
                                 <h6 class="text-light">
                                     <marquee behavior="scroll" direction="up" scrollamount="1">Opening Hours: 8:00AM - 9:00PM</marquee>
                                 </h6>
-                                <h6 class="text-light">Info info@grootacademy.com</h6>
+                                <h6 class="text-light">Info : info@grootacademy.com</h6>
 
                             </div>
 
@@ -290,10 +318,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             </div>
                         </div>
                     </div>
-                </div>
-                <nav class="navbar navbar-expand-lg mt-5 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+                </div> -->
+                <nav class="navbar navbar-expand-lg mt-6 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
 
-                    <div class="container-fluid px-0">
+                    <div class="container-fluid px-0 ">
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
                         </a>
