@@ -100,9 +100,9 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link href="./assets/css/groot.css" rel="stylesheet" />
 
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
     <!-- Nucleo Icons -->
-    <link href="./assets/css/jitin.css" rel="stylesheet" />
 
     <link href="./assets/css/comments.css" rel="stylesheet" />
 
@@ -250,11 +250,14 @@ stack Web development with python Django , Full stack Web development with PHP, 
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
 
         }
-        .menu_padding{
-            padding-top:10px ;
+
+        .menu_padding {
+            padding-top: 10px;
         }
-        
-        </style>
+    </style>
+
+    <link href="./assets/css/jitin.css" rel="stylesheet" />
+
 </head>
 
 <body class="index-page">
@@ -265,8 +268,31 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <!-- Navbar -->
     <div class="container-fluid position-sticky z-index-sticky top-0">
         <div class="row">
-            <div class="col-12">
-                <nav class="navbar navbar-expand-lg  blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+            <div class="col-12 ">
+                <div style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div style="display: flex; flex-wrap: nowrap; justify-content: space-evenly ; ">
+                                <h6 class="text-light">
+                                    <marquee behavior="scroll" direction="up" scrollamount="1">Opening Hours: 8:00AM - 9:00PM</marquee>
+                                </h6>
+                                <h6 class="text-light">Info info@grootacademy.com</h6>
+
+                            </div>
+
+                        </div>
+                        <div class="col-md-6">
+                            <div style="display: flex; flex-wrap: nowrap;justify-content: start; justify-content: space-evenly; ">
+                                <h6 class="text-light"><a class="text-light" href="tel:+91-8233266276">Mobile : +91-8233266276</a> </h6>
+                                <h6><a class="text-light" href="tel:01414859255"> Tel No: 01414859255 </a></h6>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <nav class="navbar navbar-expand-lg mt-5 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+
                     <div class="container-fluid px-0">
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
@@ -340,8 +366,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </li>
                             </ul>
+
                         </div>
-                    </div>
                 </nav>
 
             </div>

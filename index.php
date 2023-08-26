@@ -4,7 +4,7 @@
 
 
 
-        <header class="header-2">
+        <header class="header-2 mt-5">
           <div class="page-header min-vh-75 relative" style="background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
             <div class="container">
               <div class="row">

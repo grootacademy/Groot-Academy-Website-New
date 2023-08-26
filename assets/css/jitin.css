@@ -1,3 +1,4 @@
-.collapse:not(.show) {
-    display: none !important;
+.show a b,
+.show a i {
+    visibility: visible !important;
 }
