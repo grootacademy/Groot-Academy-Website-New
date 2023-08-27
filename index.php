@@ -688,31 +688,32 @@
         <div class="slideshow-container">
 
           <div class="mySlides">
-            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/321660215_1092281694778967_3398651921390939181_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6QxL8zy9GakAX_XL78x&_nc_oc=AQmkLO7IoT8lSD6gghZTGzW7_Vws6r-iVivW3mI6gB8_L5d12aaWyaC19duNoXiityA&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBeVsJM5HqBBPfXO6V9pJ6JINaI-256DQbVS-ZNPloCXA&oe=63F8196F" width="100" height="100" style="border-radius: 50%;">
+            <img src="./reveiw/jayada.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Sunil Kumar</p>
+            <p>- jayada Kumar</p>
             <q>Good developers, very cooperative, and best work delivery. One of the best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.</q>
           </div>
 
           <div class="mySlides">
-            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/283150410_3130715097259331_1924777215001267020_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LjGwoJEJHcAAX8Jlcss&_nc_ht=scontent.fjai8-1.fna&oh=00_AfBsvpBmdHtPGWxgQdWllHe-iOqH4mdNi9rVX9-imOaBjQ&oe=63F7E8CB" width="100" height="100" style="border-radius: 50%;">
+            <img src="./reveiw/jitin.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Pooran Yadav</p>
+            <p>- Jitin Goyal</p>
             <q>best website developers in jaipur at reasonable cost. Also deliver the project in time.. very professional and experienced..quick response</q>
           </div>
 
           <div class="mySlides">
-            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t1.6435-9/39200712_2644011995824192_3407190761278537728_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=q6FdoAuJBegAX_5AGvh&_nc_oc=AQkHWTa5IhV0FYK8vBUIBo9TeUg9RRPRGLdFj9n5uB_VddFz4dPV7bJar5G0HldS8rE&_nc_ht=scontent.fjai8-1.fna&oh=00_AfD4vBCCcAUh7ZHCX1V6sn_VSu24rGSzYO9DKvqc50H7Mg&oe=641AC496" width="100" height="100" style="border-radius: 50%;">
+            <img src="./reveiw/ombeer.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
             <p>- Ombeer Yadav</p>
             <q>The boot camp pushes you to learn new things through talks and practical assignments. I've had a great time as a student at Groot academy right now.</q>
           </div>
 
           <div class="mySlides">
-            <img src="https://scontent.fjai8-1.fna.fbcdn.net/v/t39.30808-6/329226552_759290678585745_7527355396249140363_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5r9zURPwCvcAX_IiW2l&tn=SC-CziNX05B2Zc2N&_nc_ht=scontent.fjai8-1.fna&oh=00_AfDaxfaQIwqof18y6LBWbJq8pnxLmuOkQJzRPp3nKFK7Ng&oe=63F7DD24" width="100" height="100" style="border-radius: 50%;">
+            <img src="./reveiw/ankit.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Shreyansh Jain</p>
-            <q>I joined groot academy after hearing about them and reviews from google. Its really a great institute with affordable fee structure for programming courses. Great faculty n placement cell. I got to learn Data Structure and algorithms but later continued till full stack development course and also created several projects that helped me in creating a versatile portfolio and CV. I got placed in an IT firm at a good package during the course duration and didnt have to wait for a job. Its the best institute for coders.</q>
+            <p>- Ankit kumar</p>
+            <q>Good developers, very cooperative, and best work delivery. Best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.
+              Thanks a lot groot Academy and its team for your cooperation😊🙃</q>
           </div>
 
           <a class="prev" onclick="plusSlides(-1)">❮</a>

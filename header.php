@@ -266,7 +266,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark mt-5" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
+    <nav class="navbar navbar-expand-lg navbar-dark mt-5" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 3px 1px #7928CA ">
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
         </a>
@@ -286,6 +286,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                 <li class="nav-item active" style="float: right;">
                     <a class="nav-link" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://www.facebook.com/GrootAcademy/"><i class="fab fa-facebook text-lg opacity-8"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://twitter.com/GrootAcademy"> <i class="fab fa-twitter text-lg opacity-8"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://www.instagram.com/groot_academy/"> <i class="fab fa-instagram text-lg opacity-8"></i> </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://www.linkedin.com/in/grootacademy/"><i class="fab fa-linkedin text-lg opacity-8"></i> </a>
                 </li>
             </ul>
 
