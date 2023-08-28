@@ -265,34 +265,6 @@ Unleash your creativity, build remarkable user experiences, and leave your mark 
             </div>
 
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2">Embrace the Hybrid Revolution Today!</h3>
-                                     <br/><br/>
-                                    <h6>
-                                    If you  are eager to embrace the best of both worlds in app development, Hybrid Application Development is your gateway to boundless possibilities. Join the ever-growing community of developers who are revolutionizing the mobile app landscape with this dynamic approach. Unleash your creativity, streamline your development process, and provide users with a remarkable app experience on any platform with Hybrid Application Development. Embrace innovation, and let your apps shine in the global mobile arena! 🌟🎉 #HybridDevelopment #AppDevelopment #Innovation #CrossPlatform #NativeAndWeb #SpeedAndEfficiency #Customization #FutureReady #TechRevolution #AppCreators #MobileApps #SeamlessExperience #HybridApps </h6>
-                    </div>
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-
-
 
 
 
