@@ -484,7 +484,7 @@
                                 <center>
                                     <img src="./assets/img/GroothybridAppDevelopment.png" width="100%">
                                 </center>
-                                <b style="text-align: center; font-size:medium;"></b>
+                                <b style="text-align: center; font-size:medium;">Hybrid App Developement</b>
                             </div>
 
                         </a>
