@@ -266,7 +266,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark mt-5" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 3px 1px #7928CA ">
+    <nav class="navbar navbar-expand-lg navbar-dark   position-sticky z-index-sticky top-0" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 3px 1px #7928CA ">
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
         </a>
@@ -292,28 +292,32 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <a class="nav-link text-light" href="https://www.facebook.com/GrootAcademy/"><i class="fab fa-facebook text-lg opacity-8"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://twitter.com/GrootAcademy"  target="_blank"> <i class="fab fa-twitter text-lg opacity-8"></i></a>
+                    <a class="nav-link text-light" href="https://twitter.com/GrootAcademy" target="_blank"> <i class="fab fa-twitter text-lg opacity-8"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://www.instagram.com/groot_academy/"  target="_blank"> <i class="fab fa-instagram text-lg opacity-8"></i> </a>
+                    <a class="nav-link text-light" href="https://www.instagram.com/groot_academy/" target="_blank"> <i class="fab fa-instagram text-lg opacity-8"></i> </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://www.linkedin.com/in/grootacademy/"  target="_blank"><i class="fab fa-linkedin text-lg opacity-8"></i> </a>
+                    <a class="nav-link text-light" href="https://www.linkedin.com/in/grootacademy/" target="_blank"><i class="fab fa-linkedin text-lg opacity-8"></i> </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://goo.gl/maps/cgovgmAk3ZRFtUVz8"  target="_blank"><i class="fab fa-google text-lg opacity-8"></i> </a>
+                    <a class="nav-link text-light" href="https://goo.gl/maps/cgovgmAk3ZRFtUVz8" target="_blank"><i class="fab fa-google text-lg opacity-8"></i> </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://github.com/grootacademy" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i><p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Academy</p> </a>
+                    <a class="nav-link text-light" href="https://github.com/grootacademy" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i>
+                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Academy</p>
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://github.com/grootsoftware" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i><p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Software</p> </a>
+                    <a class="nav-link text-light" href="https://github.com/grootsoftware" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i>
+                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Software</p>
+                    </a>
                 </li>
             </ul>
 
         </div>
     </nav>
-    <div class="container-fluid position-sticky z-index-sticky top-0">
+    <div class="container-fluid " style="position: sticky; top:80px; z-index: 5;">
         <div class="row">
             <div class="col-12 ">
                 <!-- <div class="" style=" background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
@@ -338,7 +342,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </div>
                     </div>
                 </div> -->
-                <nav class="navbar navbar-expand-lg mt-3 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+                <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
 
                     <div class="container-fluid px-0 ">
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
@@ -351,35 +355,35 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <span class="navbar-toggler-bar bar3"></span>
                             </span>
                         </button>
-                        <div  class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
+                        <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-0 d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
+                                    <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
                                         <b>Home</b>
 
                                     </a>
                                 </li>
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
                                         <b>About Us</b>
 
                                     </a>
                                 </li>
 
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
                                         <b>Courses</b>
 
                                     </a>
                                 </li>
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
                                         <b>blog</b>
 
                                     </a>
                                 </li>
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
+                                    <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
                                         <b>Internship</b>
 
                                     </a>
@@ -391,10 +395,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <!--        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github"></p>-->
                                 <!--    </a>-->
                                 <!--</li>-->
-                                <li class="nav-item my-auto ms-3 ms-lg-0">
+                                <li class="nav-item my-auto  ms-xl-6  ms-3 ms-lg-0">
                                     <a href="./contact-us.php" class="btn btn-sm  contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
                                 </li>
-                                <li class="nav-item my-auto ms-3 ms-lg-0">
+                                <li class="nav-item my-auto ms-xl-5 ">
 
                                     <a href="./enroll.php" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</a>
 

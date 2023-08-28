@@ -647,21 +647,6 @@
 
 
 
-        <!-- -------- END Content Presentation Docs ------- -->
-
-
-
-        <!-- START Section Content W/ 2 images aside of icon title description -->
-
-        <!-- END Section Content -->
-
-
-        <!-- -------   START PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
-
-
-
-        <!-- Students Comments -->
-
         <br><br>
 
 

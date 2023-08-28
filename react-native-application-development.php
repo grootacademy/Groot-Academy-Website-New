@@ -12,7 +12,7 @@
                         <li class="breadcrumb-item active" aria-current="page">Features</option>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="image" width="50" style="border-radius: 10px;" /> Flutter Application Development</h4>
+                <h4 class="course-heading"><img src="./assets/img//groot-react-native-logo.webp" alt="image" width="50" style="border-radius: 10px;" /> React Native Application Development</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -35,9 +35,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Full Stack Developer </h3><br/><br/>
+        <h3 class="text-gradient text-primary mb-0 mt-2">React Native: Unleashing Cross-Platform Brilliance!  Crafting Powerful Mobile Apps with JavaScript </h3><br/><br/>
         <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this full stack web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to full stack web development to guide you on selecting skills to learn.     </h6>
+        Are you eager to explore a revolutionary approach to mobile app development? 🚀🔥 Welcome to the world of React Native, where you can build stunning, high-performance apps using the power of JavaScript!     </h6>
        
       </div>
      
@@ -67,15 +67,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
+        <h3 class="text-gradient text-primary mb-0 mt-2">The Beauty of React Native: Where Web Meets Mobile
+</h3>
         <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-        <ul >
-        <li>Build dynamic data-driven websites and applications.</li>
-        <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Full Stack Developer Salary.</li>
-        <li>Diverse Growth Options.</li>
-    </ul>
+        <h6>React Native, a brainchild of Facebook, is a cutting-edge open-source framework that bridges the gap between web and mobile development. By leveraging the power of JavaScript and React, you can create native-like mobile apps that not only look beautiful but also perform seamlessly on both iOS and Android platforms.
+</h6>
+      
       </div>
      
     </div>
@@ -104,9 +101,10 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Cross-Platform Excellence: Write Once, Deploy Everywhere</h3>
               <br/><br/>
-              <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+              <h6>Embrace the efficiency of cross-platform development with React Native!  Craft your app is logic and user interface using a single codebase and deploy it effortlessly across multiple platforms. Say goodbye to the days of maintaining separate codebases, as React Native simplifies the development process and maximizes code reuse, saving you valuable time and effort.
+ </h6>
 
             </div>
           
@@ -139,9 +137,9 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">Blazing-Fast Performance: Elevating User Experience</h3>
               <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
+              <h6>Performance is at the heart of React Native development. By compiling to native code, React Native apps achieve impressive speed and responsiveness, providing users with a delightful experience. Say farewell to sluggish apps and embrace the snappy performance that React Native apps offer.</h6>
 
             </div>
           
@@ -156,6 +154,140 @@
                 </div>
             </div>
 
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+              <!-- Nucleo Icons -->
+              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+      <section class="py-3">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <h3 class="text-gradient text-primary mb-0 mt-2"> Pixel-Perfect Customization: A Designer is Dream</h3>
+              <br/><br/>
+              <h6>React Native is focus on UI components empowers designers and developers to collaborate seamlessly. Create visually stunning and pixel-perfect interfaces with React Native is extensive library of customizable components. From sleek animations to interactive user experiences, let your creativity run wild and bring your app is vision to life.</h6>
+
+            </div>
+          
+          </div>
+        </div>
+      </section>
+      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+        '></iframe>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+<!-- Nucleo Icons -->
+<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+<section class="py-3">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h3 class="text-gradient text-primary mb-0 mt-2"> A Thriving Ecosystem: Empowering Developers</h3>
+<br/><br/>
+<h6>React Native is ecosystem is vibrant and ever-expanding. With a rich collection of open-source libraries, pre-built components, and a supportive community, you will find everything you need to develop feature-rich apps with ease. Whether you are building a startup is MVP or a complex enterprise application, React Native is ecosystem has your back..</h6>
+
+</div>
+
+</div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+'></iframe>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+<!-- Nucleo Icons -->
+<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+<section class="py-3">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h3 class="text-gradient text-primary mb-0 mt-2"> Pioneering Innovation: Embrace the Cutting Edge</h3>
+<br/><br/>
+<h6>React Native is not just a framework; it is a catalyst for innovation. Embrace the latest trends, such as Progressive Web Apps (PWAs), push notifications, and real-time features, with React Native is adaptability and extensibility. Stay ahead of the curve and build apps that captivate and impress users.
+</h6>
+
+</div>
+
+</div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+'></iframe>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+<!-- Nucleo Icons -->
+<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+<section class="py-3">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h3 class="text-gradient text-primary mb-0 mt-2"> Unleash Your App is Potential with React Native!</h3>
+<br/><br/>
+<h6>If you are ready to embark on a transformative journey in mobile app development, React Native is your gateway to success. Join the ever-growing community of developers who are revolutionizing the mobile app landscape with this dynamic framework.
+Unleash your creativity, streamline your development process, and provide users with powerful and seamless app experiences on both iOS and Android with React Native. Embrace the future of mobile app development and let your brilliance shine! 
+#ReactNative #MobileAppDevelopment #JavaScript #CrossPlatform #UIUXDesign #HighPerformanceApps #Customization #FutureReady #AppCreators #MobileApps #NativeLikeApps #BlazingFast #InnovationCatalyst
+</h6>
+
+</div>
+
+</div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+'></iframe>
+                    </div>
+
+                </div>
+            </div>
 
 
 
@@ -404,7 +536,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Setting up React Router</option>
@@ -475,24 +607,24 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
                             </div> -->
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                    <div class="form-floating">
+                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Jest with Enzyme</option>
+                            <option disabled>Jest with Enzyme</option>
 
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                        </select>
+                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
+                    </div>
+                    <div class="form-floating">
+                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Build Application and Deployment</option>
+                            <option disabled>Build Application and Deployment</option>
 
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                            </div>
+                        </select>
+                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
+                    </div>
 
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Why Java was Developed</option>
@@ -513,7 +645,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Understanding Text Editors to Write Programs</option>
@@ -526,7 +658,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Identifiers</option>
@@ -640,7 +772,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>What is String</option>
@@ -732,7 +864,7 @@
                         </div> -->
 
 
-                        <!-- <div class="col-md -6">
+                    <!-- <div class="col-md -6">
 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
@@ -1315,25 +1447,25 @@
 
                         </div> -->
 
-                    </div>
-
-
                 </div>
 
 
-
-
-
-
-
-
-
-                <?php include "./query-form.php" ?>
-
-
-
             </div>
+
+
+
+
+
+
+
+
+
+            <?php include "./query-form.php" ?>
+
+
+
         </div>
     </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-    <?php include "./footer.php" ?>
+</div>
+<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+<?php include "./footer.php" ?>
