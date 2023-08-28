@@ -278,10 +278,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <ul class="navbar-nav mr-auto">
                 <i class="mt-2 fa fa-mobile me-2" style="color: #fff;"></i>
                 <li class="nav-item">
-                    <a class="nav-link  text-light" href="tel:+91-01414859255">01414859255</a>
+                    <a class="nav-link  font-weight-bold text-light" href="tel:+91-01414859255">01414859255</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link  text-light" href="tel:+91-8233266276">+91-8233266276</a>
+                    <a class="nav-link font-weight-bold text-light" href="tel:+91-8233266276">+91-8233266276</a>
                 </li>
 
                 <li class="nav-item active" style="float: right;">
@@ -292,13 +292,22 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <a class="nav-link text-light" href="https://www.facebook.com/GrootAcademy/"><i class="fab fa-facebook text-lg opacity-8"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://twitter.com/GrootAcademy"> <i class="fab fa-twitter text-lg opacity-8"></i></a>
+                    <a class="nav-link text-light" href="https://twitter.com/GrootAcademy"  target="_blank"> <i class="fab fa-twitter text-lg opacity-8"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://www.instagram.com/groot_academy/"> <i class="fab fa-instagram text-lg opacity-8"></i> </a>
+                    <a class="nav-link text-light" href="https://www.instagram.com/groot_academy/"  target="_blank"> <i class="fab fa-instagram text-lg opacity-8"></i> </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="https://www.linkedin.com/in/grootacademy/"><i class="fab fa-linkedin text-lg opacity-8"></i> </a>
+                    <a class="nav-link text-light" href="https://www.linkedin.com/in/grootacademy/"  target="_blank"><i class="fab fa-linkedin text-lg opacity-8"></i> </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://goo.gl/maps/cgovgmAk3ZRFtUVz8"  target="_blank"><i class="fab fa-google text-lg opacity-8"></i> </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://github.com/grootacademy" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i><p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Academy</p> </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="https://github.com/grootsoftware" target="_blank"><i class="fab fa-github text-lg opacity-8 me-2"></i><p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Groot Software</p> </a>
                 </li>
             </ul>
 
@@ -342,7 +351,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <span class="navbar-toggler-bar bar3"></span>
                             </span>
                         </button>
-                        <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
+                        <div  class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
                                 <li class="menu_padding">
                                     <a class="nav-link ps-0 d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
@@ -369,17 +378,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                     </a>
                                 </li>
+                                <li class="menu_padding">
+                                    <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
+                                        <b>Internship</b>
 
-                                <li class="nav-item ms-lg-auto menu_padding">
-                                    <a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276">
-                                        <i class="fa fa-mobile me-2"></i>
-                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8233266276</b></p>
-                                    </a>
-                                </li>
-                                <li class="nav-item ms-lg-auto menu_padding">
-                                    <a class="nav-link nav-link-icon me-2" href="tel:01414859255">
-                                        <i class="fa fa-mobile me-2"></i>
-                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>01414859255</b></p>
                                     </a>
                                 </li>
 
@@ -389,12 +391,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <!--        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github"></p>-->
                                 <!--    </a>-->
                                 <!--</li>-->
-                                <li class="nav-item ms-lg-auto menu_padding">
-                                    <a class="nav-link nav-link-icon me-2" href="https://github.com/grootacademy" target="_blank">
-                                        <i class="fa fa-github me-1"></i>
-                                        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github">Github</p>
-                                    </a>
-                                </li>
                                 <li class="nav-item my-auto ms-3 ms-lg-0">
                                     <a href="./contact-us.php" class="btn btn-sm  contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
                                 </li>

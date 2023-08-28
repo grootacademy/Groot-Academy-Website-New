@@ -2,8 +2,7 @@
 
     <footer class="footer pt-5 mt-5">
         <hr class="horizontal dark mb-5">
-        <div class="container">
-            <div class=" row">
+        <div class="container-fluid">
                 <div class="col-md-3 mb-4 ms-auto">
                     <div>
                         <h6 class="text-gradient text-primary font-weight-bolder">Groot Academy</h6>
@@ -117,7 +116,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-2 col-sm-6 col-6 mb-4">
+                <div class="col-md-3 col-sm-6 col-6 mb-4">
                     <div>
                         <h6 class="text-gradient text-primary text-sm">Our Courses</h6>
                         <ul class="flex-column ms-n nav">
@@ -164,7 +163,7 @@
                         <h6 class="text-gradient text-primary text-sm">Contact Info</h6>
                         <ul class="flex-column ms-n3 nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="#" target="_blank">
+                                <a class="nav-link" href="https://goo.gl/maps/cgovgmAk3ZRFtUVz8" target="_blank">
                                 <i class="fa fa-map-marker text-lg opacity-8"></i> : 73/34, Paramhans Marg, Mansarovar, Jaipur 
                 </a>
                             </li>
@@ -188,7 +187,8 @@
                         </ul>
                     </div>
                 </div>
-
+        </div>
+        <div class="container-fluid">
                 <div class="col-12">
                     <div class="text-center">
                         <p class="my-4 text-sm">
@@ -199,7 +199,6 @@
                         </p>
                     </div>
                 </div>
-            </div>
         </div>
     </footer>
 
