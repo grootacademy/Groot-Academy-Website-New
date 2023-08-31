@@ -118,6 +118,7 @@ License - nucleoapp.com/license/
     0% {
         -webkit-transform: rotate(0deg);
     }
+
     100% {
         -webkit-transform: rotate(360deg);
     }
@@ -127,6 +128,7 @@ License - nucleoapp.com/license/
     0% {
         -moz-transform: rotate(0deg);
     }
+
     100% {
         -moz-transform: rotate(360deg);
     }
@@ -140,6 +142,7 @@ License - nucleoapp.com/license/
         -o-transform: rotate(0deg);
         transform: rotate(0deg);
     }
+
     100% {
         -webkit-transform: rotate(360deg);
         -moz-transform: rotate(360deg);
@@ -661,6 +664,7 @@ License - nucleoapp.com/license/
     .carousel-inner .carousel-item>div {
         display: none;
     }
+
     .carousel-inner .carousel-item>div:first-child {
         display: block;
     }
@@ -676,10 +680,13 @@ License - nucleoapp.com/license/
 /* medium and up screens */
 
 @media (min-width: 768px) {
-    .carousel-inner .carousel-item-end.active,
+
+
+    carousel-inner .carousel-item-end.active,
     .carousel-inner .carousel-item-next {
         transform: translateX(25%);
     }
+
     .carousel-inner .carousel-item-start.active,
     .carousel-inner .carousel-item-prev {
         transform: translateX(-25%);
@@ -696,11 +703,11 @@ html {
 }
 
 *,
- ::before,
- ::after {
+::before,
+::after {
     box-sizing: border-box;
 }
-.errorColor{color: red;}
 
-
-
+.errorColor {
+    color: red;
+}
