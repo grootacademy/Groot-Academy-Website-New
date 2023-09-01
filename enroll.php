@@ -11,37 +11,42 @@
                     <div class="card overflow-hidden mb-5">
                         <div class="row">
                             <div class="col-lg-6">
-                                <form class="p-3" id="contact-form" method="post" action="enrollProcess.php">
+                                <form class="p-3" id="contact-form" method="post" action="./process.php">
                                     <div class="card-header px-4 py-sm-5 py-3">
                                         <h2>Request a callback to Start your journey with groot academy!</h2>
 
                                     </div>
                                     <div class="card-body pt-1">
                                         <div class="row">
-                                            <div class="col-md-12 pe-2 mb-3">
-                                                <label>Email </label>
-                                                <input class="form-control" name="email" id="email" placeholder="Email" type="email">
+                                        <div class="col-md-12 pe-2 mb-3">
+                                                <label>Name </label>
+                                                <input class="form-control" name="name" id="email" placeholder="Enter Your Name" type="text">
                                             </div>
                                             <div class="col-md-12 pe-2 mb-3">
-                                            <select class="form-select"  name="graduation" id="Year" aria-label="Default select example">
-                                                <option selected>Select Graduation Year*</option>
-                                                <option value="0">Year</option>
-                                                </select>
+                                                <label>Email </label>
+                                                <input class="form-control" name="email" id="email" placeholder="Enter your Email" type="email">
+                                            </div>
+                                            <div class="col-md-12 pe-2 mb-3">
+                                                <label>Phone </label>
+                                                <input class="form-control" name="phone" id="email" placeholder="Enter your Email" type="text">
                                             </div>
                                             <div class="col-md-12 pe-2 mb-3">
                                                 <div class="form-group mb-0">
-                                                    <label>Mobile No.</label>
-                                                    <input class="form-control" name="mobile" id="mobile" placeholder="Mobile number" type="number">
+                                                    <label>Course Name</label>
+                                                    <input class="form-control" name="courseName" id="mobile" placeholder="Mobile number" type="text">
 
                                                 </div>
-                                                <p>You’ll receive an OTP on this number for verification</p>
+                                                <!-- <p>You’ll receive an OTP on this number for verification</p> -->
+                                            </div>
+                                            <div class="col-md-12 pe-2 mb-3">
+                                                <label>Message </label>
+                                                <textarea class="form-control" name="message" id="email" placeholder="Explain"></textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-6 text-end ms-auto">
-                                                <button type="submit" class="btn btn-round bg-gradient-info mb-0">Countinue</button>
-                                            </div>
-                                            <span>By creating an account I have read and agree to Groot Academy's <a href="#">Terms</a> and <a href="#">Privacy Policy</a></span>
+                                                <input type="submit" class="btn btn-round bg-gradient-info mb-0" />                                            </div>
+                                            <!-- <span>By creating an account I have read and agree to Groot Academy's <a href="#">Terms</a> and <a href="#">Privacy Policy</a></span> -->
                                         </div>
                                     </div>
                                 </form>

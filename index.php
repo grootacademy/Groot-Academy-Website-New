@@ -443,37 +443,37 @@
                                 <div class="row">
                                   <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
                                     <h3 class="text-center">Contact us</h3>
-                                    <form role="form" id="contact-form" method="post" action="form_process.php" autocomplete="off">
+                                    <form role="form" id="contact-form" method="post" action="./process.php" autocomplete="off">
                                       <div class="card-body">
                                         <div class="row">
                                           <div class="col-md-12">
                                             <label> Name</label>
                                             <div class="input-group mb-4">
-                                              <input class="form-control" name="name" placeholder="" aria-label="Name..." type="text">
+                                              <input class="form-control" name="name" placeholder="Enter Your Name" aria-label="Name..." type="text">
                                             </div>
                                           </div>
                                           <div class="col-md-12 ps-2">
                                             <label>Email</label>
                                             <div class="input-group">
-                                              <input type="email" name="email" class="form-control" placeholder="" aria-label="Email...">
+                                              <input type="email" name="email" class="form-control" placeholder="Enter Your Email" aria-label="Email...">
                                             </div>
                                           </div>
                                         </div>
                                         <div class="mb-4">
                                           <label>Mobile</label>
                                           <div class="input-group">
-                                            <input type="number" name="phone" id="phone" class="form-control" placeholder="">
+                                            <input type="text" name="phone" id="phone" class="form-control" placeholder="Enter Your Mobile Number">
                                           </div>
                                         </div>
                                         <div class="mb-4">
                                           <label>Enter Courses Name You Are Intersted For</label>
                                           <div class="input-group">
-                                            <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Courses">
+                                            <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Course Name">
                                           </div>
                                         </div>
                                         <div class="form-group mb-4">
                                           <label>Your message</label>
-                                          <textarea name="message" class="form-control" id="message" rows="4"></textarea>
+                                          <textarea name="message" class="form-control" id="message" rows="4" placeholder="Enter A message that your want convey to us"></textarea>
                                         </div>
                                         <div class="row">
                                           <div class="col-md-12">

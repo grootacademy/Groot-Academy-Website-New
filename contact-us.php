@@ -75,7 +75,7 @@
               </p>
             </div>
 
-            <form id="contact-form" method="post" action="form_process.php">
+            <form id="contact-form" method="post" action="./process.php">
               <div class="card-body pb-2">
                 <div class="row">
                   <div class="col-md-6">
@@ -88,13 +88,13 @@
                   <div class="col-md-6 ps-md-2">
                     <label>Email</label>
                     <div class="input-group">
-                      <input type="email" id="email" name="email" class="form-control" placeholder="hello@gmail.com">
+                      <input type="email" id="email" name="email" class="form-control" placeholder="Enter Email Id">
                     </div>
                   </div>
                   <div class="col-md-6 ps-md-2">
                     <label>Mobile Number</label>
                     <div class="input-group">
-                      <input type="number" id="phone" name="phone" class="form-control" placeholder="Enter your mobile no">
+                      <input type="text" id="phone" name="phone" class="form-control" placeholder="Enter your mobile no">
                     </div>
                   </div>
                   <div class="col-md-6 ps-md-2">
