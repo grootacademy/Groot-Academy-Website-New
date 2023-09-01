@@ -12,7 +12,7 @@ include('./includes/connection.php');
         $courseName=$_REQUEST['courseName'];
         $message=$_REQUEST['message'];
         $reqPage=$_SERVER['HTTP_REFERER'];
-        $sql="INSERT INTO `groot_academy_contact_form`(`name`, `email`, `phone`, `courseName`, `message`, `pageName`) VALUES ('$name','$email','$courseName','$phone','$message','$reqPage')";
+        $sql="INSERT INTO `groot_academy_contact_form`(`name`, `email`, `phone`, `courseName`, `message`, `pageName`) VALUES ('$name','$email','$phone','$courseName','$message','$reqPage')";
         echo $sql."<br/>";
         if($conn->query($sql)===TRUE){
             // header($_SERVER['HTTP_REFERER']);
