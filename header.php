@@ -9,6 +9,9 @@
 
     <!-- Google tag (gtag.js) for on swiggywala gmail -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KPQ3FPDFWN"></script>
+
+
+
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -20,7 +23,6 @@
         gtag('config', 'G-KPQ3FPDFWN');
     </script>
     <!-- Google tag (gtag.js) for on swiggywala gmail -->
-    
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
