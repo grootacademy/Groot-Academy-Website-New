@@ -6,6 +6,21 @@
 <head>
     <!-- meta tag -->
     <meta charset="utf-8">
+
+    <!-- Google tag (gtag.js) for on swiggywala gmail -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KPQ3FPDFWN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-KPQ3FPDFWN');
+    </script>
+    <!-- Google tag (gtag.js) for on swiggywala gmail -->
+    
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
