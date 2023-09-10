@@ -311,13 +311,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <!-- <i class="mt-2 fa fa-mobile me-2" style="color: #fff;"></i> -->
-                <!-- <li class="nav-item">
-                    <a class="nav-link  font-weight-bold text-light" href="tel:+91-01414859255">01414859255</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link font-weight-bold text-light" href="tel:+91-8233266276">+91-8233266276</a>
-                </li> -->
 
                 <li class="nav-item active" style="float: right;">
                     <a class="nav-link" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
@@ -355,28 +348,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <div class="container-fluid nav2">
         <div class="row">
             <div class="col-12 ">
-                <!-- <div class="" style=" background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div style="display: flex; flex-wrap: nowrap; justify-content: space-evenly ; ">
-                                <h6 class="text-light">
-                                    <marquee behavior="scroll" direction="up" scrollamount="1">Opening Hours: 8:00AM - 9:00PM</marquee>
-                                </h6>
-                                <h6 class="text-light">Info : info@grootacademy.com</h6>
 
-                            </div>
-
-                        </div>
-                        <div class="col-md-6">
-                            <div style="display: flex; flex-wrap: nowrap;justify-content: start; justify-content: space-evenly; ">
-                                <h6 class="text-light"><a class="text-light" href="tel:+91-8233266276">Mobile : +91-8233266276</a> </h6>
-                                <h6><a class="text-light" href="tel:01414859255"> Tel No: 01414859255 </a></h6>
-
-
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
                 <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
 
                     <div class="container-fluid px-0 ">
