@@ -271,6 +271,20 @@ stack Web development with python Django , Full stack Web development with PHP, 
         .menu_padding {
             padding-top: 10px;
         }
+
+        .nav2 {
+            position: sticky;
+            top: 50px;
+            z-index: 5;
+        }
+
+        @media only screen and (max-width: 619px) and (min-width: 200px) {
+            .nav2 {
+                position: sticky;
+                top: 150px;
+                z-index: 5;
+            }
+        }
     </style>
 
     <link href="./assets/css/jitin.css" rel="stylesheet" />
@@ -287,19 +301,23 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
         </a>
+        <a class="navbar-brand text-light" href="tel:+91-8233266276"><i class="mt-0 fa fa-mobile me-2" style="color: #fff;"></i> +91-8233266276</a>
+        <a class="navbar-brand text-light" href="tel:+91-8233266276"><i class="mt-0 fa fa-phone me-2" style="color: #fff;"></i> 01414859255</a>
+
+
         <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button> -->
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <i class="mt-2 fa fa-mobile me-2" style="color: #fff;"></i>
-                <li class="nav-item">
+                <!-- <i class="mt-2 fa fa-mobile me-2" style="color: #fff;"></i> -->
+                <!-- <li class="nav-item">
                     <a class="nav-link  font-weight-bold text-light" href="tel:+91-01414859255">01414859255</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link font-weight-bold text-light" href="tel:+91-8233266276">+91-8233266276</a>
-                </li>
+                </li> -->
 
                 <li class="nav-item active" style="float: right;">
                     <a class="nav-link" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
@@ -334,7 +352,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
         </div>
     </nav>
-    <div class="container-fluid " style="position: sticky; top:80px; z-index: 5;">
+    <div class="container-fluid nav2">
         <div class="row">
             <div class="col-12 ">
                 <!-- <div class="" style=" background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 5px 5px #7928CA ">
@@ -400,12 +418,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                     </a>
                                 </li>
-                                <!-- <li class="menu_padding">
+                                <li class="menu_padding">
                                     <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
                                         <b>Internship</b>
 
                                     </a>
-                                </li> -->
+                                </li>
                                 <li class="menu_padding ms-xl-6">
                                     <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
                                         <b class="btn btn-sm p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
@@ -413,8 +431,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     </a>
                                 </li>
                                 <li class="menu_padding ">
-                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
-                                        <b class="btn btn-sm p-3 ms-xl-5 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
+                                    <a class="nav-link ps-0  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
+                                        <b class="btn btn-sm p-3 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
 
                                     </a>
                                 </li>
