@@ -680,10 +680,10 @@
           </div>
 
           <div class="mySlides">
-            <img src="./reveiw/jitin.jpg" width="100" height="100" style="border-radius: 50%;">
+            <img src="./assets//img/pooran.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Jitin Goyal</p>
-            <q>best website developers in jaipur at reasonable cost. Also deliver the project in time.. very professional and experienced..quick response</q>
+            <p>- Pooran Yadav</p>
+            <q>The Full Stack Development course at groot academy has been very informative and exactly what I needed to get my mind ready for a new career. The trainer explained concepts in a simple and easy to understand way with real time examples. Would suggest the programming institute to every aspirant learner in Jaipur.</q>
           </div>
 
           <div class="mySlides">
@@ -694,11 +694,10 @@
           </div>
 
           <div class="mySlides">
-            <img src="./reveiw/ankit.jpg" width="100" height="100" style="border-radius: 50%;">
+            <img src="./assets/img/alok.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Ankit kumar</p>
-            <q>Good developers, very cooperative, and best work delivery. Best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.
-              Thanks a lot groot Academy and its team for your cooperation😊🙃</q>
+            <p>-Alok Bodalia</p>
+            <q>Good website development services with great project assistance and team support. These guys are amazing in developing web solutions.😊🙃</q>
           </div>
 
           <a class="prev" onclick="plusSlides(-1)">❮</a>

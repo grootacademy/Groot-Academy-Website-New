@@ -373,6 +373,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             </span>
                         </button>
                         <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
+
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
                                 <li class="menu_padding">
                                     <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
@@ -399,9 +400,21 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                     </a>
                                 </li>
-                                <li class="menu_padding">
+                                <!-- <li class="menu_padding">
                                     <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
                                         <b>Internship</b>
+
+                                    </a>
+                                </li> -->
+                                <li class="menu_padding ms-xl-6">
+                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
+                                        <b class="btn btn-sm p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
+
+                                    </a>
+                                </li>
+                                <li class="menu_padding ">
+                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
+                                        <b class="btn btn-sm p-3 ms-xl-5 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
 
                                     </a>
                                 </li>
@@ -412,14 +425,14 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <!--        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github"></p>-->
                                 <!--    </a>-->
                                 <!--</li>-->
-                                <li class="nav-item my-auto  ms-xl-6  ms-3 ms-lg-0">
+                                <!-- <li class="nav-item my-auto  ms-xl-6  ms-3 ms-lg-0">
                                     <a href="./contact-us.php" class="btn btn-sm  contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
-                                </li>
-                                <li class="nav-item my-auto ms-xl-5 ">
+                                </li> -->
+                                <!-- <li class="nav-item my-auto ms-xl-5 ">
 
                                     <a href="./enroll.php" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</a>
 
-                                </li>
+                                </li> -->
                             </ul>
 
                         </div>
