@@ -44,7 +44,7 @@
                 <div class="row">
                   <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
-                      <h1 class="text-gradient text-primary"><span id="state1" countTo="10000">0</span>+</h1>
+                      <h1 class="text-gradient text-primary"><span id="state1" countTo="22004">0</span>+</h1>
                       <h5 class="mt-3">Trained Students</h5>
 
                     </div>
