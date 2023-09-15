@@ -42,7 +42,7 @@
             <div class="row">
               <div class="col-lg-9 z-index-2 border-radius-xl mt-n10 mx-auto py-3 blur shadow-blur">
                 <div class="row">
-                  <div class="col-md-3 position-relative" data-aos="slide-right">
+                  <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state1" countTo="22004">0</span>+</h1>
                       <h5 class="mt-3">Trained Students</h5>
@@ -50,7 +50,7 @@
                     </div>
                     <hr class="vertical dark">
                   </div>
-                  <div class="col-md-3 position-relative" data-aos="zoom-in">
+                  <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"> <span id="state2" countTo="12">0</span>+</h1>
                       <h5 class="mt-3">Programming Courses</h5>
@@ -59,14 +59,14 @@
                     <hr class="vertical dark">
                   </div>
 
-                  <div class="col-md-3" data-aos="zoom-in">
+                  <div class="col-md-3">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state3" countTo="10">0</span>+</h1>
                       <h5 class="mt-3">Years of Experience</h5>
 
                     </div>
                   </div>
-                  <div class="col-md-3 position-relative" data-aos="slide-left">
+                  <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state4" countTo="20">20</span>+</h1>
                       <h5 class="mt-3">Expert Mentors</h5>
@@ -87,7 +87,7 @@
             <div class="row align-items-center">
               <div class="col-lg-6 ms-auto">
                 <div class="row justify-content-start">
-                  <div class="col-md-6" data-aos="slide-right">
+                  <div class="col-md-6">
                     <div class="info">
                       <div class="icon icon-sm">
                         <svg class="text-primary" width="25px" height="25px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -110,7 +110,7 @@
 
                     </div>
                   </div>
-                  <div class="col-md-6" data-aos="zoom-in">
+                  <div class="col-md-6">
                     <div class="info">
                       <div class="icon icon-sm">
                         <svg class="text-primary" width="25px" height="25px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -136,7 +136,7 @@
                   </div>
                 </div>
                 <div class="row justify-content-start mt-5">
-                  <div class="col-md-6 mt-3" data-aos="slide-right">
+                  <div class="col-md-6 mt-3">
                     <div class="info">
                       <div class="icon icon-sm">
                         <svg class="text-primary" width="25px" height="25px" viewBox="0 0 42 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -189,7 +189,7 @@
                   <!--</div>-->
                 </div>
               </div>
-              <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-1 mt-4" data-aos="slide-left">
+              <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-1 mt-4">
                 <div class="card card-background card-background-mask-primary tilt" data-tilt>
                   <div class="full-background" style="background-image: url('./assets/img/team-working.jpg')">
                   </div>
@@ -218,7 +218,7 @@
 
 
         <section class="my-5 py-5">
-          <div class="container" data-aos="zoom-in-up">
+          <div class="container">
             <div class="row">
               <div class="row justify-content-center text-center my-sm-5">
                 <div class="col-lg-6">
@@ -231,7 +231,7 @@
           </div>
           <div class="container mt-sm-5 mt-3">
             <div class="row">
-              <div class="col-lg-3" data-aos="slide-right">
+              <div class="col-lg-3">
                 <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
                   <h3><b>Our Latest Courses</b></h3>
                   <h6 class="text-secondary font-weight-normal pe-3">Are you ready to be a successful Programmer?.</h6>
@@ -253,7 +253,7 @@
 
                   <div class="container">
                     <div class="row">
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4" data-aos="zoom-in">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4">
                         <div class="info-horizontal bg-gradient-primary border-radius-xl p-5">
                           <div class="icon">
                             <img src="./assets/img/fruntend.png" alt="fruntend" width="50" style="border-radius: 50%;">
@@ -270,7 +270,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4" data-aos="slide-left">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4">
                         <div class="info-horizontal  border-radius-xl p-5">
                           <img src="./assets/img/backend.png" alt="fruntend" width="50" style="border-radius: 50%;">
 
@@ -288,7 +288,7 @@
                       </div>
 
 
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4" data-aos="slide-right">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4">
                         <div class="info-horizontal bg-gray-100 border-radius-xl p-5">
                           <img src="./assets/img/fullstack.png" alt="fruntend" width="50" style="border-radius: 50%;">
 
@@ -304,7 +304,7 @@
                         </div>
                       </div>
 
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4" data-aos="slide-left">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4">
                         <div class="info-horizontal bg-gradient-primary border-radius-xl p-5">
                           <div class="icon">
                             <img src="./assets/img/dsa.png" alt="fruntend" width="50" style="border-radius: 50%;">
@@ -323,7 +323,7 @@
                       </div>
 
 
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-5" data-aos="fade-up-right">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-5">
                         <div class="info-horizontal mt-3 bg-gradient-primary border-radius-xl p-5">
                           <div class="icon">
                             <img src="./assets/img/corc++.png" alt="fruntend" width="50" style="border-radius: 10%;">
@@ -340,7 +340,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4" data-aos="fade-up-left">
+                      <div class="col-lg-6 px-lg-1 mt-lg-0 mt-4">
                         <div class="info-horizontal bg-gray-100 mt-3 border-radius-xl p-5">
                           <img src="./assets/img/java.png" alt="fruntend" width="50" style="border-radius: 50%;">
 
@@ -367,7 +367,7 @@
               </div>
 
               <div class="row pt-lg-6">
-                <div class="col-lg-3 mt-6" data-aos="slide-right">
+                <div class="col-lg-3 mt-6">
                   <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
                     <h3><b>Let’s Talk</b></h3>
 
@@ -386,7 +386,7 @@
                   </div>
                   <div class="row mt-3">
                     <!-- Modal -->
-                    <div class="col-12" data-aos="zoom-in">
+                    <div class="col-12">
                       <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                         <div class="container border-bottom">
                           <div class="row justify-space-between py-2">
@@ -438,7 +438,7 @@
                         <div class="tab-content tab-space">
                           <div class="tab-pane active" id="preview-forms-simple">
 
-                            <section data-aos="zoom-in-up">
+                            <section>
                               <div class="container py-4">
                                 <div class="row">
                                   <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
@@ -567,11 +567,11 @@
 
 
         <!-- -------- START Content Presentation Docs ------- -->
-        <div class="container text-center my-3" data-aos="zoom-in">
+        <div class="container text-center my-3">
           <div class="row mx-auto my-auto justify-content-center">
             <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner" role="listbox">
-                <div class="carousel-item active" data-aos="slide-right">
+                <div class="carousel-item active">
                   <div class="col-md-3">
                     <div class="card">
                       <div class="card-img">

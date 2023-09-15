@@ -4,7 +4,6 @@
 ">
 
 <head>
-    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <!-- meta tag -->
     <meta charset="utf-8">
