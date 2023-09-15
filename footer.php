@@ -200,6 +200,13 @@
             </div>
         </div>
     </div>
+    <script>
+        import AOS from 'aos';
+        import 'aos/dist/aos.css'; // You can also use <link> for styles.
+        AOS.init({
+            duration: 2000
+        });
+    </script>
 </footer>
 
 
@@ -234,7 +241,12 @@
         },
     });
 </script>
-
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 2000
+    });
+</script>
 <!--   Core JS Files   -->
 <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
 <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>

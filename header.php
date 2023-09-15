@@ -4,6 +4,8 @@
 ">
 
 <head>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
     <!-- meta tag -->
     <meta charset="utf-8">
 
@@ -111,6 +113,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <meta name="geo.placename" content="Jaipur" />
     <meta name="Search Engine" CONTENT="https://www.google.co.in/">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
     <link rel="icon" type="image/x-icon" href="./assets/img/groot_favicon_icon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
