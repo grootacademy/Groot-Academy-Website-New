@@ -19,7 +19,7 @@
 
                                 </div>
                             </div>
-                            <form action="/">
+                            <form action="process.php">
                                 <div class="title">
                                     <i class="fas fa-pencil-alt"></i>
                                     <h2 class="query">Have A Query?</h2>

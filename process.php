@@ -6,12 +6,17 @@ echo $_SERVER['HTTP_REFERER'];
 
 print_r($_REQUEST);
 include('./includes/connection.php');
+$reqPage = $_SERVER['HTTP_REFERER'];
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
-$courseName = $_REQUEST['courseName'];
+if($reqPage=='our-internship-programmes'){
+    $courseName = "For inernship program";
+}else{
+    $courseName = $_REQUEST['courseName'];
+}
+
 $message = $_REQUEST['message'];
-$reqPage = $_SERVER['HTTP_REFERER'];
 $sql = "INSERT INTO `groot_academy_contact_form`(`name`, `email`, `phone`, `courseName`, `message`, `pageName`) VALUES ('$name','$email','$phone','$courseName','$message','$reqPage')";
 echo $sql . "<br/>";
 if ($conn->query($sql) === TRUE) {
