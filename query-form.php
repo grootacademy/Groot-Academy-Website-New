@@ -26,8 +26,8 @@
                                 </div>
                                 <div class="info">
                                     <input class="fname" type="text" name="name" placeholder="Full name">
-                                    <input type="text"  name="name" placeholder="Email">
-                                    <input type="text" name="name" placeholder="Phone number">
+                                    <input type="text"  name="email" placeholder="Email">
+                                    <input type="text" name="phone" placeholder="Phone number">
 
 
                                 </div>
