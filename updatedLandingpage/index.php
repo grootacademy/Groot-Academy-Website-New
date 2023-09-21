@@ -26,6 +26,45 @@
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
             }
+
+            /* popup */
+            .popup {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.7);
+                z-index: 9999;
+            }
+
+            .popup-content {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background-color: white;
+                padding: 20px;
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+                box-shadow: 0px 0px 10px 1px #EE058A;
+
+                /* background-image: linear-gradient(#EE058A, #8026C6); */
+
+            }
+
+            .close {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                font-size: 24px;
+                cursor: pointer;
+            }
+
+            .btn {
+                background-image: linear-gradient(#EE058A, #8026C6);
+                color: #FFF;
+            }
         </style>
     </head>
 
@@ -67,12 +106,12 @@
 
                     </div>
 
-                    <div class="containr-1-box-2-B" style="padding: 0px; background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
+                    <div class="containr-1-box-2-B" style=" height: 100%; border-radius: 50%  ;padding: 100px; background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
                         <form action="/action_page.php" method="post">
                             <div class="containr-1-box-2-B-A">
-                                <input type="text" placeholder="Name " name="uname" required>
-                                <input type="text" placeholder="Email " name="uname" required>
-                                <input type="password" placeholder="number" name="number" required>
+                                <input type="text" style="border: 1px solid white" placeholder="Name " name="uname" required>
+                                <input type="text" style="border: 1px solid white" placeholder="Email " name="uname" required>
+                                <input type="password" style="border: 1px solid white" placeholder="number" name="number" required>
 
                                 <button type="submit">Submit</button>
                             </div>
