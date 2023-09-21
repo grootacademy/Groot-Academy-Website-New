@@ -287,18 +287,136 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 z-index: 5;
             }
         }
+
+        .text-primary {
+            font-family: 'Chivo', sans-serif !important;
+        }
+
+        p,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        span,
+        label {
+            font-family: 'Chivo', sans-serif !important;
+
+        }
+
+        .popup {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 9999;
+        }
+
+        .popup-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            box-shadow: 0px 0px 10px 1px #EE058A;
+
+            /* background-image: linear-gradient(#EE058A, #8026C6); */
+
+        }
+
+        .close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .btn {
+            background-image: linear-gradient(#EE058A, #8026C6);
+            color: #FFF;
+        }
+
+        /* popup */
+        .popup {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 9999;
+        }
+
+        .popup-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            box-shadow: 0px 0px 10px 1px #EE058A;
+
+            /* background-image: linear-gradient(#EE058A, #8026C6); */
+
+        }
+
+        .close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .btn {
+            background-image: linear-gradient(#EE058A, #8026C6);
+            color: #FFF;
+        }
     </style>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
     <link href="./assets/css/jitin.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300&display=swap" rel="stylesheet">
 
 </head>
 
-<body class="index-page">
+<body class="index-page" style="font-family: 'Chivo', sans-serif;">
+
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVN2997" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Navbar -->
+    <!-- <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close" id="close">&times;</span>
+            <h2>Fill out the information</h2>
+            <form id="userForm">
+
+                <input class="form-control" placeholder="Enter Email" type="email" id="email" name="email">
+                <br>
+                <input class="form-control" type="tel" placeholder="Enter Mobie" id="mobile" name="mobile">
+                <br>
+                <input class="form-control btn" type="submit" value="Submit">
+            </form>
+        </div>
+    </div> -->
+
+
+
+
     <nav class="navbar navbar-expand-lg navbar-dark   position-sticky z-index-sticky top-0" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 3px 1px #7928CA ">
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
@@ -370,7 +488,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <li class="menu_padding">
                                     <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
                                         <b>Home</b>
-
                                     </a>
                                 </li>
                                 <li class="menu_padding">
@@ -400,7 +517,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 </li>
                                 <li class="menu_padding ms-xl-6">
                                     <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
-                                        <b class="btn btn-sm p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
+                                        <b class="btn btn-sm text-light p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
 
                                     </a>
                                 </li>
@@ -434,3 +551,150 @@ stack Web development with python Django , Full stack Web development with PHP, 
         </div>
     </div>
     <br><br><br><br>
+
+    <!-- <button id="openPopupBtn" class="btn">Open Popup</button> -->
+
+    <!-- Popup Form (initially hidden) -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close" id="closePopup">&times;</span>
+            <h2>Fill out this form</h2>
+            <form id="userForm" action="./process.php" method="POST">
+                <label for="userName">Name:</label>
+                <input class="form-control" placeholder="Enter Name" type="text" id="name" name="name">
+                <br>
+                <label for="mobile">Mobile:</label>
+                <input class="form-control" type="text" placeholder="Enter Mobie" id="mobile" name="phone">
+                <br>
+                <input type="submit" class="btn form-control" onclick="submitpopup()" value="Submit">
+            </form>
+        </div>
+    </div>
+    <script>
+        const submitpopup = () => {
+            document.getElementById("popup").setAttribute("style", "visibility :hidden")
+        }
+        document.addEventListener('DOMContentLoaded', function() {
+            // Check if the popup should be displayed (e.g., using a cookie)
+            var popupDisplayed = getCookie('popupDisplayed');
+
+            if (!popupDisplayed) {
+                // Show the popup
+                document.getElementById('popup').style.display = 'block';
+            }
+
+            // Close the popup and set a cookie
+            document.getElementById('closePopup').addEventListener('click', function() {
+                // Set a cookie to remember that the popup has been displayed
+                setCookie('popupDisplayed', 'true', 365); // Cookie expires in 1 year
+                document.getElementById('popup').style.display = 'none';
+            });
+
+            // Cookie handling functions
+            function setCookie(name, value, days) {
+                var expires = '';
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = '; expires=' + date.toUTCString();
+                }
+                document.cookie = name + '=' + value + expires + '; path=/';
+            }
+
+            function getCookie(name) {
+                var nameEQ = name + '=';
+                var cookies = document.cookie.split(';');
+                for (var i = 0; i < cookies.length; i++) {
+                    var cookie = cookies[i];
+                    while (cookie.charAt(0) == ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) == 0) {
+                        return cookie.substring(nameEQ.length, cookie.length);
+                    }
+                }
+                return null;
+            }
+        });
+    </script>
+
+    <!-- php code -->
+
+
+
+
+
+
+    <!-- <script src="./script.js"></script>
+
+    <script>
+        const submitpopup = () => {
+            if (true) {
+                const data = document.getElementById("submitpopup").style = "color:white"
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Check if the popup should be displayed (e.g., using PHP sessions or cookies)
+            var shouldDisplayPopup = <?php echo isset($_SESSION['popup_displayed']) ? 'false' : 'true'; ?>;
+
+            if (shouldDisplayPopup) {
+                // Show the popup
+                document.getElementById('popup').style.display = 'block';
+            }
+
+            // Close the popup
+            document.getElementById('closePopup').addEventListener('click', function() {
+                // You can set a PHP session or cookie here to remember that the popup has been displayed
+                <?php $_SESSION['popup_displayed'] = true; ?>
+                document.getElementById('popup').style.display = 'none';
+            });
+        });
+    </script> -->
+    <!-- 
+    <script>
+        // Function to show the popup
+        function showPopup() {
+            var popup = document.getElementById("popup");
+            popup.style.display = "block";
+        }
+
+        // Function to hide the popup
+        function hidePopup() {
+            var popup = document.getElementById("popup");
+            popup.style.display = "none";
+        }
+
+        // Automatically show the popup when the button is clicked
+        document.getElementById("openPopupBtn").addEventListener("click", function() {
+            showPopup();
+        });
+
+        // Close the popup when the close button is clicked
+        document.getElementById("close").addEventListener("click", function() {
+            hidePopup();
+        });
+
+        // Handle form submission
+        document.getElementById("userForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the form from submitting normally
+
+            // Get form data
+            var name = document.getElementById("name").value;
+            var mobile = document.getElementById("mobile").value;
+
+            // Send data to PHP script for database interaction
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "process.php", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    // Data processed successfully; hide the popup
+                    hidePopup();
+                }
+            };
+
+            var formData = "name=" + encodeURIComponent(name) + "&mobile=" + encodeURIComponent(mobile);
+            xhr.send(formData);
+        });
+    </script> -->

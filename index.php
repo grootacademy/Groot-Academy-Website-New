@@ -4,14 +4,15 @@
 
 
 
+
         <header class="header-2 mt-0">
           <div class="page-header min-vh-75 relative" style="background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
             <div class="container">
               <div class="row">
                 <div class="col-lg-7 text-center mx-auto">
-                  <h1 class="text-white pt-3 mt-5">You can give your Career a flair for success with Groot.</h1>
-                  <p class="lead text-white mt-3">Whatever technology runs on our smart devices, has a code behind it. . </p>
-                  <a href="./contact-us.php" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
+                  <h1 class="text-white pt-3 mt-5" style="font-family: 'Chivo', sans-serif;">You can give your Career a flair for success with Groot.</h1>
+                  <p class="lead text-white mt-3" style="font-family: 'Chivo', sans-serif;">Whatever technology runs on our smart devices, has a code behind it. . </p>
+                  <a href="./contact-us.php" target="_blank" class="text-light btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
 
                 </div>
               </div>
@@ -45,7 +46,7 @@
                   <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state1" countTo="22004">0</span>+</h1>
-                      <h5 class="mt-3">Trained Students</h5>
+                      <h5 class="mt-3" style="font-family: 'Chivo', sans-serif;">Trained Students</h5>
 
                     </div>
                     <hr class="vertical dark">
@@ -53,7 +54,7 @@
                   <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"> <span id="state2" countTo="12">0</span>+</h1>
-                      <h5 class="mt-3">Programming Courses</h5>
+                      <h5 class="mt-3" style="font-family: 'Chivo', sans-serif;">Programming Courses</h5>
 
                     </div>
                     <hr class="vertical dark">
@@ -62,14 +63,14 @@
                   <div class="col-md-3">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state3" countTo="10">0</span>+</h1>
-                      <h5 class="mt-3">Years of Experience</h5>
+                      <h5 class="mt-3" style="font-family: 'Chivo', sans-serif;">Years of Experience</h5>
 
                     </div>
                   </div>
                   <div class="col-md-3 position-relative">
                     <div class="p-3 text-center">
                       <h1 class="text-gradient text-primary"><span id="state4" countTo="20">20</span>+</h1>
-                      <h5 class="mt-3">Expert Mentors</h5>
+                      <h5 class="mt-3" style="font-family: 'Chivo', sans-serif;">Expert Mentors</h5>
 
                     </div>
                     <hr class="vertical dark">
@@ -105,8 +106,8 @@
                           </g>
                         </svg>
                       </div>
-                      <h5 class="font-weight-bolder mt-3">Advanced Constants</h5>
-                      <p class="pe-5">The course is based on the latest trends in the It industry. The IT training which gives keeps you up to date and makes you ready to make something exclusive..</p>
+                      <h5 class="font-weight-bolder mt-3" style="font-family: 'Chivo', sans-serif;">Advanced Constants</h5>
+                      <p class="pe-5" style="font-family: 'Chivo', sans-serif;">The course is based on the latest trends in the It industry. The IT training which gives keeps you up to date and makes you ready to make something exclusive..</p>
 
                     </div>
                   </div>
@@ -129,8 +130,8 @@
                         </svg>
                       </div>
 
-                      <h5 class="font-weight-bolder mt-3">Live Projects</h5>
-                      <p class="pe-3">Its important to have practical knowledge. To give them live IT training we give practical training based in the Jaipur coaching center, Groot.</p>
+                      <h5 class="font-weight-bolder mt-3" style="font-family: 'Chivo', sans-serif;">Live Projects</h5>
+                      <p class="pe-3" style="font-family: 'Chivo', sans-serif;">Its important to have practical knowledge. To give them live IT training we give practical training based in the Jaipur coaching center, Groot.</p>
 
                     </div>
                   </div>
@@ -156,9 +157,9 @@
                         </svg>
                       </div>
 
-                      <h5 class="font-weight-bolder mt-3">
+                      <h5 class="font-weight-bolder mt-3" style="font-family: 'Chivo', sans-serif;">
                         Placement Assistance</h5>
-                      <p class="pe-5">Once the training by Jaipur coaching, Groot is done then we have the placement cell which helps students in the placements and makes them ready to crack interviews.
+                      <p class="pe-5" style="font-family: 'Chivo', sans-serif;">Once the training by Jaipur coaching, Groot is done then we have the placement cell which helps students in the placements and makes them ready to crack interviews.
                       </p>
 
                     </div>
@@ -205,8 +206,8 @@
                         </g>
                       </svg>
                     </div>
-                    <h2 class="text-white up mb-2">WHY JOIN GROOT<br /> INSTITUTE IN JAIPUR? </h2>
-                    <P>AT Groot Academy, Our instructors provide the students with the entire freedom to investigate the topics and learn from actual instances. All inquiries from students are welcome at any time.
+                    <h2 class="text-white up mb-2" style="font-family: 'Chivo', sans-serif;">WHY JOIN GROOT<br /> INSTITUTE IN JAIPUR? </h2>
+                    <P style="font-family: 'Chivo', sans-serif;">AT Groot Academy, Our instructors provide the students with the entire freedom to investigate the topics and learn from actual instances. All inquiries from students are welcome at any time.
                     </P>
                     <a href="./contact-us.php" target="_blank" class="btn btn-outline-white mt-2 up btn-round">lEARN mORE</a>
                   </div>
@@ -223,7 +224,7 @@
               <div class="row justify-content-center text-center my-sm-5">
                 <div class="col-lg-6">
 
-                  <h2 class="text-primary text-gradient">Popular Career-Oriented Courses</h2>
+                  <h2 class="text-primary text-gradient" style="font-family: 'Chivo', sans-serif;">Popular Career-Oriented Courses</h2>
 
                 </div>
               </div>
@@ -233,12 +234,12 @@
             <div class="row">
               <div class="col-lg-3">
                 <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
-                  <h3><b>Our Latest Courses</b></h3>
+                  <h3><b style="font-family: 'Chivo', sans-serif;">Our Latest Courses</b></h3>
                   <h6 class="text-secondary font-weight-normal pe-3">Are you ready to be a successful Programmer?.</h6>
 
                   <div class="d-flex justify-content-start mt-4">
                     <a href="./courses.php">
-                      <div class="alert alert-primary text-white font-weight-bold icon-move-right" role="alert">
+                      <div class="alert alert-primary text-white font-weight-bold icon-move-right" role="alert" style="font-family: 'Chivo', sans-serif;">
                         See All Courses <i class="fas fa-arrow-right text-sm ms-1"></i>
                       </div>
                     </a>
@@ -260,8 +261,8 @@
 
                           </div>
                           <div class="description ps-5">
-                            <h5 class="text-white">FRONT END DEVELOPMENT</h5>
-                            <p class="text-white">
+                            <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">FRONT END DEVELOPMENT</h5>
+                            <p class="text-white" style="font-family: 'Chivo', sans-serif;">
                               This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
                             <a href="./course-front-end-development-with-reactjs.php" class="text-white icon-move-right">
                               Read more
@@ -277,8 +278,8 @@
                           <div class="description ps-5">
 
 
-                            <h5>BACK END DEVELOPMENT</h5>
-                            <p>The course is interned for eager learners to learn the fundamentals of web development.</p>
+                            <h5 style="font-family: 'Chivo', sans-serif;">BACK END DEVELOPMENT</h5>
+                            <p style="font-family: 'Chivo', sans-serif;">The course is interned for eager learners to learn the fundamentals of web development.</p>
                             <a href="./course-back-end-development-with-Java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
@@ -294,8 +295,8 @@
 
                           <div class="description ps-5">
 
-                            <h5>FULL STACK DEVELOPMENT</h5>
-                            <p>This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
+                            <h5 style="font-family: 'Chivo', sans-serif;">FULL STACK DEVELOPMENT</h5>
+                            <p style="font-family: 'Chivo', sans-serif;">This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
                             <a href="./course-full-stack-web-development.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
@@ -311,8 +312,8 @@
 
                           </div>
                           <div class="description ps-5">
-                            <h5 class="text-white">DATA STRUCTURE AND ALGORITHMS</h5>
-                            <p class="text-white">This gives students the vision to Look into data structures and algorithms for things apart from coding.
+                            <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">DATA STRUCTURE AND ALGORITHMS</h5>
+                            <p class="text-white" style="font-family: 'Chivo', sans-serif;">This gives students the vision to Look into data structures and algorithms for things apart from coding.
                             </p>
                             <a href="./course-data-structure-and-algorithms.php" class="text-white icon-move-right">
                               Read more
@@ -331,8 +332,8 @@
                           </div>
                           <div class="description ps-5">
 
-                            <h5 class="text-white">C/C++</h5>
-                            <p class="text-white">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
+                            <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">C/C++</h5>
+                            <p class="text-white" style="font-family: 'Chivo', sans-serif;">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
                             <a href="./course-c-programming-and-c-plus-plus-programming.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
@@ -346,8 +347,8 @@
 
                           <div class="description ps-5">
 
-                            <h5>Advance Java</h5>
-                            <p>Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
+                            <h5 style="font-family: 'Chivo', sans-serif;">Advance Java</h5>
+                            <p style="font-family: 'Chivo', sans-serif;">Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
                             <a href="./course-advance-java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
@@ -369,7 +370,7 @@
               <div class="row pt-lg-6">
                 <div class="col-lg-3 mt-6">
                   <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
-                    <h3><b>Let’s Talk</b></h3>
+                    <h3><b style="font-family: 'Chivo', sans-serif;">Let’s Talk</b></h3>
 
                   </div>
                 </div>
@@ -391,7 +392,7 @@
                         <div class="container border-bottom">
                           <div class="row justify-space-between py-2">
                             <div class="col-lg-12 me-auto">
-                              <p class="lead text-dark pt-1 mb-0"><b>Can’t decide </b> which programming technology you should <b>choose?</b> It’s okay. Let’s <b>conclude</b> it together.</p>
+                              <p class="lead text-dark pt-1 mb-0" style="font-family: 'Chivo', sans-serif;"><b>Can’t decide </b> which programming technology you should <b>choose?</b> It’s okay. Let’s <b>conclude</b> it together.</p>
                             </div>
                             <div class="col-lg-3">
                               <div class="nav-wrapper position-relative end-0">
@@ -405,7 +406,7 @@
                         <center>
                           <div class="tab-content tab-space mt-3">
                             <div class="tab-pane active" id="preview-modal">
-                              <a href="./contact-us.php"> <button type="button" class="btn bg-gradient-primary">
+                              <a href="./contact-us.php" style="font-family: 'Chivo', sans-serif;"> <button type="button" class="btn bg-gradient-primary">
                                   Contact Us
                                 </button></a>
                             </div>
@@ -443,37 +444,37 @@
                               <div class="container py-4">
                                 <div class="row">
                                   <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
-                                    <h3 class="text-center">Contact us</h3>
+                                    <h3 class="text-center" style="font-family: 'Chivo', sans-serif;">Contact us</h3>
                                     <form role="form" id="contact-form" method="post" action="./process.php" autocomplete="off">
                                       <div class="card-body">
                                         <div class="row">
                                           <div class="col-md-12">
-                                            <label> Name</label>
+                                            <label style="font-family: 'Chivo', sans-serif;"> Name</label>
                                             <div class="input-group mb-4">
                                               <input class="form-control" name="name" placeholder="Enter Your Name" aria-label="Name..." type="text">
                                             </div>
                                           </div>
                                           <div class="col-md-12 ps-2">
-                                            <label>Email</label>
+                                            <label style="font-family: 'Chivo', sans-serif;">Email</label>
                                             <div class="input-group">
                                               <input type="email" name="email" class="form-control" placeholder="Enter Your Email" aria-label="Email...">
                                             </div>
                                           </div>
                                         </div>
                                         <div class="mb-4">
-                                          <label>Mobile</label>
+                                          <label style="font-family: 'Chivo', sans-serif;">Mobile</label>
                                           <div class="input-group">
                                             <input type="text" name="phone" id="phone" class="form-control" placeholder="Enter Your Mobile Number">
                                           </div>
                                         </div>
                                         <div class="mb-4">
-                                          <label>Enter Courses Name You Are Intersted For</label>
+                                          <label style="font-family: 'Chivo', sans-serif;">Enter Courses Name You Are Intersted For</label>
                                           <div class="input-group">
                                             <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Course Name">
                                           </div>
                                         </div>
                                         <div class="form-group mb-4">
-                                          <label>Your message</label>
+                                          <label style="font-family: 'Chivo', sans-serif;">Your message</label>
                                           <textarea name="message" class="form-control" id="message" rows="4" placeholder="Enter A message that your want convey to us"></textarea>
                                         </div>
                                         <div class="row">
@@ -666,7 +667,7 @@
         <!-- -------   END PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
         <br><br><br>
         <center>
-          <h3><b>WHAT OUR STUDENTS SAY ABOUT GROOT, INSTITUTE IN JAIPUR.</b></h3>
+          <h3><b style="font-family: 'Chivo', sans-serif;">WHAT OUR STUDENTS SAY ABOUT GROOT, INSTITUTE IN JAIPUR.</b></h3>
         </center>
         <br><br>
 
@@ -676,14 +677,14 @@
           <div class="mySlides">
             <img src="./reveiw/jayada.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- jayada Kumar</p>
+            <p style="font-family: 'Chivo', sans-serif;">- jayada Kumar</p>
             <q>Good developers, very cooperative, and best work delivery. One of the best mobile app developers in Jaipur. I made an e-commerce app for my business and it's actually getting a good response.</q>
           </div>
 
           <div class="mySlides">
             <img src="./assets//img/pooran.jpg" width="100" height="100" style="border-radius: 50%;">
             <br>
-            <p>- Pooran Yadav</p>
+            <p style="font-family: 'Chivo', sans-serif;">- Pooran Yadav</p>
             <q>The Full Stack Development course at groot academy has been very informative and exactly what I needed to get my mind ready for a new career. The trainer explained concepts in a simple and easy to understand way with real time examples. Would suggest the programming institute to every aspirant learner in Jaipur.</q>
           </div>
 
