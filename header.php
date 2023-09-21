@@ -586,7 +586,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <label for="mobile">Mobile:</label>
                 <input class="form-control" type="text" placeholder="Enter Mobie" id="mobile" name="phone">
                 <br>
-                <input type="submit" class="btn form-control" onclick="submitpopup()" value="Submit">
+                <input type="submit" class="btn form-control text-light" onclick="submitpopup()" value="Submit">
             </form>
         </div>
     </div>
