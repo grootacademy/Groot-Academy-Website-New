@@ -369,6 +369,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
             height: 100%;
             background-color: rgba(0, 0, 0, 0.7);
             z-index: 9999;
+            border-radius: 18px;
+            padding: 20px;
         }
 
         .popup-content {
@@ -380,6 +382,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
             padding: 20px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
             box-shadow: 0px 0px 10px 1px #EE058A;
+            border-radius: 20px;
+            padding: 20px;
 
             /* background-image: linear-gradient(#EE058A, #8026C6); */
 
@@ -394,7 +398,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         }
 
         .btn {
-            background-image: linear-gradient(#EE058A, #8026C6);
+            background-image: linear-gradient(to left #EE058A, #8026C6);
             color: #FFF;
         }
     </style>
