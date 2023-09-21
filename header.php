@@ -8,6 +8,22 @@
     <!-- meta tag -->
     <meta charset="utf-8">
 
+
+
+    <!-- Google tag (gtag.js) from google ads -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCPWTCMTS8">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-WCPWTCMTS8');
+    </script>
+
     <!-- Google tag (gtag.js) for on swiggywala gmail -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KPQ3FPDFWN"></script>
 
