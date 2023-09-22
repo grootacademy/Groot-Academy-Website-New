@@ -316,7 +316,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
         h5,
         h6,
         span,
+        button,
+        li,
+        ol,
+        ul,
         label {
+
             font-family: 'Chivo', sans-serif !important;
 
         }

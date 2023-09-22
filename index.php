@@ -727,7 +727,7 @@
               </div>
               <div class="col-lg-5 me-lg-auto my-lg-auto text-lg-end mt-5">
                 <a href="https://twitter.com/share?text" class="btn btn-info mb-0 me-2" target="_blank">
-                  <i class="fab fa-twitter me-1"></i> Tweet
+                  <i class="fab fa-twitter text-light me-1"></i> <b class="text-light">Tweet</b>
                 </a>
                 <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.grootacademy.com/" class="btn btn-primary mb-0 me-2" target="_blank">
                   <i class="fab fa-facebook-square me-1"></i> Share fecebook

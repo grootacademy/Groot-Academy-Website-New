@@ -56,7 +56,7 @@
                         <h2 class="text-white up mb-0">Beginner</h2>
                         <p>I know bare minimum coding / starting from scratch</p>
                         <span>12 week course.</span>
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5 up btn-round">Enroll Now</a>
+                        <a href="./enroll.php" class="btn btn-outline-white text-light mt-5 up btn-round">Enroll Now</a>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                         <h2 class="text-white up mb-0">Intermediate</h2>
                         <p>I know coding in 1 programming language. I can build basic apps</p>
                         <span>12 week course.</span>
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5 up btn-round">Enroll Now</a>
+                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">Enroll Now</a>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                         <p>I am good at coding. I know basic DSA and problem solving. I can build basic / advanced apps.</p>
                         <span>12 week course.</span>
 
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5 up btn-round">ENroll Now</a>
+                        <a href="./enroll.php" class="btn btn-outline-white  text-light mt-5 up btn-round">ENroll Now</a>
                     </div>
                 </div>
 
@@ -140,7 +140,7 @@
                         <h3 class="text-white">Recognized certifications.</h3>
 
 
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5 up btn-round">ENroll Now</a>
+                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">ENroll Now</a>
                     </div>
                 </div>
 
@@ -235,7 +235,7 @@
             <div class="info-horizontal bg-gradient-primary border-radius-xl p-5">
                 <div class="icon">
                 </div>
-                <div class="description ps-0">
+                <div class="description ps-0 text-light">
 
                     <h5 class="text-white">OUR PLACEMENT CELL</h5>
                     <p class="text-white">Our web development courses with placement are career oriented and prepare our trained students for IT Companies' new job openings.</p>
