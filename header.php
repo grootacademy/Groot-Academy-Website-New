@@ -418,25 +418,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVN2997" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <!-- Navbar -->
-    <!-- <div id="popup" class="popup">
-        <div class="popup-content">
-            <span class="close" id="close">&times;</span>
-            <h2>Fill out the information</h2>
-            <form id="userForm">
-
-                <input class="form-control" placeholder="Enter Email" type="email" id="email" name="email">
-                <br>
-                <input class="form-control" type="tel" placeholder="Enter Mobie" id="mobile" name="mobile">
-                <br>
-                <input class="form-control btn" type="submit" value="Submit">
-            </form>
-        </div>
-    </div> -->
-
-
-
-
     <nav class="navbar navbar-expand-lg navbar-dark   position-sticky z-index-sticky top-0" style="background-image: linear-gradient(to top,#7928CA,#FF0080) ; width:100%; box-shadow: 0px 0px 3px 1px #7928CA ">
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
@@ -548,20 +529,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     </a>
                                 </li>
 
-                                <!--<li class="nav-item ms-lg-auto">-->
-                                <!--    <a class="nav-link nav-link-icon me-2" href="./grootFigma/grootFigma.html" target="_blank">-->
-                                <!--        <img src="./assets/img/figma.jpg" width="20px" style="border-radius:50px">-->
-                                <!--        <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Star us on Github"></p>-->
-                                <!--    </a>-->
-                                <!--</li>-->
-                                <!-- <li class="nav-item my-auto  ms-xl-6  ms-3 ms-lg-0">
-                                    <a href="./contact-us.php" class="btn btn-sm  contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
-                                </li> -->
-                                <!-- <li class="nav-item my-auto ms-xl-5 ">
-
-                                    <a href="./enroll.php" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</a>
-
-                                </li> -->
                             </ul>
 
                         </div>
@@ -577,23 +544,37 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <!-- Popup Form (initially hidden) -->
     <div id="popup" class="popup">
         <div class="popup-content">
-            <span class="close" id="closePopup">&times;</span>
+            <!-- <span class="close">&times;</span> -->
             <h2>Fill out this form</h2>
-            <form id="userForm" action="./process.php" method="POST">
+            <!-- return validateForm(); -->
+            <form id="userForm  closePopup" action="./process.php" method="POST">
+
                 <label for="userName">Name:</label>
-                <input class="form-control" placeholder="Enter Name" type="text" id="name" name="name">
+                <input class="form-control" placeholder="Enter Name" required type="text" id="name" name="name">
                 <br>
                 <label for="mobile">Mobile:</label>
                 <input class="form-control" type="text" placeholder="Enter Mobie" id="mobile" name="phone">
                 <br>
-                <input type="submit" class="btn form-control text-light" onclick="submitpopup()" value="Submit">
+                <input type="submit" id="closePopup" onmousedown="validateForm()" class="btn form-control text-light" onclick="submitpopup()" value="Submit">
+
             </form>
         </div>
     </div>
     <script>
-        const submitpopup = () => {
-            document.getElementById("popup").setAttribute("style", "visibility :hidden")
-        }
+        // const submitpopup = () => {
+        //     document.getElementById("popup").setAttribute("style", "visibility :hidden")
+        // }
+        // function validateForm() {
+        //     var name = document.getElementById("name").value;
+        //     var phone = document.getElementById("phone").value;
+
+
+        //     if (name === "" || phone === "") {
+        //         alert("Please fill in both name and mobile numberfields.");
+        //         return false; // Prevent form submission
+        //     }
+        // }
+
         document.addEventListener('DOMContentLoaded', function() {
             // Check if the popup should be displayed (e.g., using a cookie)
             var popupDisplayed = getCookie('popupDisplayed');
