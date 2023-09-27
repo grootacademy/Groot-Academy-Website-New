@@ -309,6 +309,16 @@
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
+                        <a href="./course-webdesigning.php">
+                            <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
+                                <img src="./assets//img/Website-Design-logo-groot.jpg" width="256px">
+                                <b style="text-align: center; font-size:medium;">Website Designing</b>
+                            </div>
+                            <div class="mt-2 ms-2">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./course-front-end-development-with-reactjs.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" width="256px">
