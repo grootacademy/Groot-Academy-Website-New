@@ -544,12 +544,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
     </div>
     <br><br><br><br>
 
-    <!-- <button id="openPopupBtn" class="btn">Open Popup</button> -->
+    <!-- <button id="openPopupBtn closePopup" class="btn">Open Popup</button> -->
 
     <!-- Popup Form (initially hidden) -->
     <div id="popup" class="popup">
         <div class="popup-content">
-            <!-- <span class="close">&times;</span> -->
+            <span class="close " id="closePopup">&times;</span>
             <h2>Fill out this form</h2>
             <!-- return validateForm(); -->
             <form id="userForm  closePopup" action="./process.php" method="POST">
@@ -560,7 +560,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <label for="mobile">Mobile:</label>
                 <input class="form-control" type="text" placeholder="Enter Mobie" id="mobile" name="phone">
                 <br>
-                <input type="submit" id="closePopup" onmousedown="validateForm()" class="btn form-control text-light" onclick="submitpopup()" value="Submit">
+                <input type="submit" onmousedown="validateForm()" class="closePopup btn form-control text-light" onclick="submitpopup()" value="Submit">
 
             </form>
         </div>
@@ -590,6 +590,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
             }
 
             // Close the popup and set a cookie
+            document.getElementsByClassName('closePopup')[0].addEventListener('click', function() {
+                // Set a cookie to remember that the popup has been displayed
+                setCookie('popupDisplayed', 'true', 365); // Cookie expires in 1 year
+                document.getElementById('popup').style.display = 'none';
+            });
+
             document.getElementById('closePopup').addEventListener('click', function() {
                 // Set a cookie to remember that the popup has been displayed
                 setCookie('popupDisplayed', 'true', 365); // Cookie expires in 1 year
