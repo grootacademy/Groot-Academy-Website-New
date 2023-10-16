@@ -4,7 +4,19 @@
 ">
 
 <head>
+    <!-- Google tag (gtag.js) Groot All GMB -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-85FLVLEX7F">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-85FLVLEX7F');
+    </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11370972861"></script>
     <script>
