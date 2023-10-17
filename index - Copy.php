@@ -279,7 +279,7 @@
 
                             <h5>BACK END DEVELOPMENT</h5>
                             <p>The course is interned for eager learners to learn the fundamentals of web development.</p>
-                            <a href="./course-back-end-development-with-Java.php" class="text-primary icon-move-right">
+                            <a href="./best-course-for-back-end-development-with-Java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -331,9 +331,9 @@
                           </div>
                           <div class="description ps-5">
 
-                            <h5 class="text-white">C/C++</h5>
+                            <h5 class="text-white">C++</h5>
                             <p class="text-white">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
-                            <a href="./course-c-programming-and-c-plus-plus-programming.php" class="text-white icon-move-right">
+                            <a href="./best-c-plus-plus-programming-course-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -473,7 +473,7 @@
                                         </div>
                                         <div class="form-group mb-4">
                                           <label>Your message</label>
-                                          <textarea name="message" class="form-control" id="message" rows="4" required ></textarea>
+                                          <textarea name="message" class="form-control" id="message" rows="4" required></textarea>
                                         </div>
                                         <div class="row">
                                           <div class="col-md-12">

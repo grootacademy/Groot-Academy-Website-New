@@ -350,7 +350,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./course-back-end-development-with-Java.php">
+                        <a href="./best-course-for-back-end-development-with-Java.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/develop-a-backend-for-your-project-in-java-by-groot-academy.png" width="256px" height="140">
                                 <b style="text-align: center; font-size:medium;">Back End With Java</b>
@@ -413,7 +413,7 @@
 
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./course-c-programming-and-c-plus-plus-programming.php">
+                        <a href="./best-c-plus-plus-programming-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/c-and-c++-programming-logo-by-groot-academy.png" width="256px">
                                 <b style="text-align: center; font-size:medium;">C /C++</b>
@@ -464,7 +464,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./android-application-development.php">
+                        <a href="./best-android-application-development-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/groot-academy-android.png" width="40%">
@@ -477,7 +477,7 @@
 
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./android-application-development.php">
+                        <a href="./best-android-application-development-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/groot-academy-ios.png" width="40%">
