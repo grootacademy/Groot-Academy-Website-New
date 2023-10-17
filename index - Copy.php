@@ -263,7 +263,7 @@
                             <h5 class="text-white">FRONT END DEVELOPMENT</h5>
                             <p class="text-white">
                               This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
-                            <a href="./course-front-end-development-with-reactjs.php" class="text-white icon-move-right">
+                            <a href="./best-front-end-development-course-with-reactjs-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -296,7 +296,7 @@
 
                             <h5>FULL STACK DEVELOPMENT</h5>
                             <p>This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
-                            <a href="./course-full-stack-web-development.php" class="text-primary icon-move-right">
+                            <a href="./best-full-stack-web-development-course-in-jaipur.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -314,7 +314,7 @@
                             <h5 class="text-white">DATA STRUCTURE AND ALGORITHMS</h5>
                             <p class="text-white">This gives students the vision to Look into data structures and algorithms for things apart from coding.
                             </p>
-                            <a href="./course-data-structure-and-algorithms.php" class="text-white icon-move-right">
+                            <a href="./best-data-structure-course-and-algorithms-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -348,7 +348,7 @@
 
                             <h5>Advance Java</h5>
                             <p>Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
-                            <a href="./course-advance-java.php" class="text-primary icon-move-right">
+                            <a href="./best-advance-java-course-in-jaipur.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>

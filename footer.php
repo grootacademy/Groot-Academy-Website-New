@@ -139,7 +139,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./course-front-end-development-with-reactjs.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-front-end-development-course-with-reactjs-in-jaipur.php" target="_blank">
                             Learn Front End Development
                         </a>
                     </li>
@@ -149,7 +149,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./course-full-stack-web-development.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-full-stack-web-development-course-in-jaipur.php" target="_blank">
                             Learn Full Stack Development
                         </a>
                     </li>

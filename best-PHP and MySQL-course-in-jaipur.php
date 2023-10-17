@@ -12,7 +12,7 @@
                         <li class="breadcrumb-item active" aria-current="page">Features</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="image" width="50" style="border-radius: 10px;" /> PHP and MySQL</h4>
+                <h4 class="course-heading"><img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="image" width="50" style="border-radius: 10px;" /> best-PHP and MySQL-course-in-jaipur</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -35,7 +35,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">PHP and MySQL </h3><br/><br/>
+        <h3 class="text-gradient text-primary mb-0 mt-2">best-PHP and MySQL-course-in-jaipur </h3><br/><br/>
         <h6>PHP (Hypertext Preprocessor) and MySQL are commonly used technologies in web development for creating dynamic websites and interacting with databases. Let us explore both technologies:
 </h6>
        
@@ -462,7 +462,7 @@
 <h3 class="text-gradient text-primary mb-0 mt-2">Integration with Web Development:
 </h3>
 <br/><br/>
-<h6>PHP and MySQL are often used together to create dynamic web applications. PHP scripts can connect to a MySQL database to fetch or update data.</h6>
+<h6>best-PHP and MySQL-course-in-jaipur are often used together to create dynamic web applications. PHP scripts can connect to a MySQL database to fetch or update data.</h6>
 
 </div>
 
