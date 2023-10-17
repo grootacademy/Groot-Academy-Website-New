@@ -1,31 +1,31 @@
-<?php  include "./header.php"
+<?php include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
-    <!-- End Navbar -->
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-lg-12 mx-auto">
-                <div class="mb-4 w-100">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="../courses.html">Courses</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Features</li>
-                        </ol>
-                    </nav><br/><br/>
-                    <h4 class="course-heading"><img src="./assets/img/react.png" alt="image" width="40" style="border-radius: 10px;"/> REACT JS TRAINING INSTITUTE IN JAIPUR | REACT JAVASCRIPT COURSE IN JAIPUR  </h4> 
-                </div>
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                    <div class="container border-bottom">
-                        <div class="row justify-space-between py-2">
-                            <div class="col-lg-3 me-auto">
-                                <p class="lead text-dark pt-1 mb-0"></p>
-                            </div>
+<!-- End Navbar -->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-lg-12 mx-auto">
+      <div class="mb-4 w-100">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Features</li>
+          </ol>
+        </nav><br /><br />
+        <h4 class="course-heading"><img src="./assets/img/react.png" alt="image" width="40" style="border-radius: 10px;" /> REACT JS TRAINING INSTITUTE IN JAIPUR | REACT JAVASCRIPT COURSE IN JAIPUR </h4>
+      </div>
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+        <div class="container border-bottom">
+          <div class="row justify-space-between py-2">
+            <div class="col-lg-3 me-auto">
+              <p class="lead text-dark pt-1 mb-0"></p>
+            </div>
 
-                        </div>
-                    </div>
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+          </div>
+        </div>
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -47,17 +47,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -84,17 +84,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -116,20 +116,20 @@
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
+        </div>
+      </div>
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -151,21 +151,21 @@
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
+        </div>
+      </div>
 
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -187,18 +187,18 @@
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -225,17 +225,17 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -261,16 +261,16 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -292,17 +292,17 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -334,254 +334,254 @@ We hope this information comes in handy in understanding how to become a softwar
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
-                   
-
-                    </div>
-                </div>
-
-                <div class="row">
-                                        <div class="col-md-12 btn bg-gradient-primary">
-                                    <div class="tab-content tab-space">
-                                        <div class="tab-pane active" id="preview-modal">
-                                         <span class="text-lg">
-                                         React js 
-                                        </span>
-                                    </div>
-                                    
-                                  </div>
-                                    </div>
-                                    <div>
-                                        <br/><br/>
+          </div>
 
 
-                <div class="row">
-                            <div class="col-md -6">
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Basic JavaScript</option>
-                                <option disabled >DOM and BOM</option>
-                                <option disabled >Intervals and Objects</option>
-                                <option disabled > Prototype ,Hoisting and Closure</option>
-                                <option disabled >Let , Const , Arrow , Class and Inheritance</option>
-                                <option disabled >Map, Filter , Reduce , Template Literals</option>
-                                <option disabled >forEach, for-in, for-of loop</option>
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6)</label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Why Typescript</option>
-                                <option disabled >Basic Types</option>
-                                <option disabled >Class and Interfaces</option>
-                                <option disabled >Modules</option>
-                            
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Node | NPM</option>
-                                <option disabled >Installation of CLI</option>
-                                <option disabled >Setup Project</option>
-                                <option disabled >Directory Structure</option>
-                                <option disabled >Code Editors</option>
-                                <option disabled >How React JS Application Boot</option>
+        </div>
+      </div>
 
-                         
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>React Concepts</option>
-                                <option disabled >JSX and TSX</option>
-                                <option disabled >Render Elements</option>
-                                <option disabled >Function and Class Components</option>
-                                <option disabled >Props and State</option>
-                                <option disabled >Handling Events</option>
-                                <option disabled >Dynamic Data Rendering</option>
-                                <option disabled >Property Binding</option>
+      <div class="row">
+        <div class="col-md-12 btn bg-gradient-primary">
+          <div class="tab-content tab-space">
+            <div class="tab-pane active" id="preview-modal">
+              <span class="text-lg">
+                React js
+              </span>
+            </div>
 
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC FEATURES OF REACT JS </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Conditional Rendering</option>
-                                <option disabled >List and Keys</option>
-                                <option disabled >Forms Handling</option>
-                                <option disabled >Forms Validations</option>
-                          
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">KEY FEATURES OF REACT JS</label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Understanding component lifecycle</option>
-                                <option disabled >All Lifecycle Hooks</option>
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENT LIFECYCLE HOOK </label>
-                            </div>
-
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Understanding React Event System</option>
-                                <option disabled >Passing arguments to event Handlers</option>
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EVENT HANDLING REACT </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                            <option disabled>Fetch</option>
-                                <option disabled >Axios</option>
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NETWORK CALL </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Introduction to Services</option>
-                                <option disabled >Building a Service</option>
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM SERVICES </label>
-                            </div>
-
-                            </div>
+          </div>
+        </div>
+        <div>
+          <br /><br />
 
 
-                            <div class="col-md -6">
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Local Storage</option>
-                                <option disabled >Session Storage</option>
-                                <option disabled >Cookies</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Setting up React Router</option>
-                                <option disabled >Conﬁguring route with Route Component</option>
-                                <option disabled >Making routes dynamic with Route Params</option>
-                                <option disabled >Working with nested routes</option>
-                                <option disabled >Link and NavLink</option>
-                                <option disabled >Redirect Routes</option>
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ROUTING WITH REACT ROUTER  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Material Design</option>
-                                <option disabled >PrimeNG</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">UI COMPONENTS  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Why Redux</option>
-                                <option disabled >Install and setup</option>
-                                <option disabled >Store ,Reducer , actions</option>
-                                <option disabled >Dispatcher</option>
+          <div class="row">
+            <div class="col-md -6">
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                <option disabled >High order Components</option>
+                  <option disabled>Basic JavaScript</option>
+                  <option disabled>DOM and BOM</option>
+                  <option disabled>Intervals and Objects</option>
+                  <option disabled> Prototype ,Hoisting and Closure</option>
+                  <option disabled>Let , Const , Arrow , Class and Inheritance</option>
+                  <option disabled>Map, Filter , Reduce , Template Literals</option>
+                  <option disabled>forEach, for-in, for-of loop</option>
 
-                                <option disabled >mapStateToProps and mapDispatchToProps usage</option>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6)</label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Async Actions</option>
-                                <option disabled >Middleware</option>
-                                <option disabled >Redux Thunk and Redux Saga</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCE REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Why We Need Hooks.</option>
-                                <option disabled >Diﬀerent Types Of Hooks</option>
-                                <option disabled >Using State And Eﬀect Hooks</option>
-                                <option disabled >Usereducer , Useref Etc.</option>
-                                <option disabled >Custom Hooks</option>
-                                <option disabled >Rules Of Hooks</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">React Hooks </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Social Login</option>
-                                <option disabled >Pagination</option>
-                                <option disabled >Search</option>
-                                <option disabled >Filter</option>
-                                <option disabled >JWT Token</option>
-                                <option disabled >File Uploadt</option>
-                                <option disabled >Many More</option>
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules    </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Jest with Enzyme</option>
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Build Application and Deployment</option>
-                                
-                            </select>
-                            <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment  </label>
-                            </div>
-                            </div>
-                         
-                </div>
+                  <option disabled>Why Typescript</option>
+                  <option disabled>Basic Types</option>
+                  <option disabled>Class and Interfaces</option>
+                  <option disabled>Modules</option>
+
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Node | NPM</option>
+                  <option disabled>Installation of CLI</option>
+                  <option disabled>Setup Project</option>
+                  <option disabled>Directory Structure</option>
+                  <option disabled>Code Editors</option>
+                  <option disabled>How React JS Application Boot</option>
 
 
 
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>React Concepts</option>
+                  <option disabled>JSX and TSX</option>
+                  <option disabled>Render Elements</option>
+                  <option disabled>Function and Class Components</option>
+                  <option disabled>Props and State</option>
+                  <option disabled>Handling Events</option>
+                  <option disabled>Dynamic Data Rendering</option>
+                  <option disabled>Property Binding</option>
 
 
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC FEATURES OF REACT JS </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Conditional Rendering</option>
+                  <option disabled>List and Keys</option>
+                  <option disabled>Forms Handling</option>
+                  <option disabled>Forms Validations</option>
 
 
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">KEY FEATURES OF REACT JS</label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
+                  <option disabled>Understanding component lifecycle</option>
+                  <option disabled>All Lifecycle Hooks</option>
 
-              <?php include "./query-form.php" ?>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENT LIFECYCLE HOOK </label>
+              </div>
 
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
+                  <option disabled>Understanding React Event System</option>
+                  <option disabled>Passing arguments to event Handlers</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EVENT HANDLING REACT </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Fetch</option>
+                  <option disabled>Axios</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NETWORK CALL </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Introduction to Services</option>
+                  <option disabled>Building a Service</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM SERVICES </label>
+              </div>
 
             </div>
+
+
+            <div class="col-md -6">
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Local Storage</option>
+                  <option disabled>Session Storage</option>
+                  <option disabled>Cookies</option>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Setting up React Router</option>
+                  <option disabled>Conﬁguring route with Route Component</option>
+                  <option disabled>Making routes dynamic with Route Params</option>
+                  <option disabled>Working with nested routes</option>
+                  <option disabled>Link and NavLink</option>
+                  <option disabled>Redirect Routes</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ROUTING WITH REACT ROUTER </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Material Design</option>
+                  <option disabled>PrimeNG</option>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">UI COMPONENTS </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Why Redux</option>
+                  <option disabled>Install and setup</option>
+                  <option disabled>Store ,Reducer , actions</option>
+                  <option disabled>Dispatcher</option>
+
+                  <option disabled>High order Components</option>
+
+                  <option disabled>mapStateToProps and mapDispatchToProps usage</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO REDUX </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Async Actions</option>
+                  <option disabled>Middleware</option>
+                  <option disabled>Redux Thunk and Redux Saga</option>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCE REDUX </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Why We Need Hooks.</option>
+                  <option disabled>Diﬀerent Types Of Hooks</option>
+                  <option disabled>Using State And Eﬀect Hooks</option>
+                  <option disabled>Usereducer , Useref Etc.</option>
+                  <option disabled>Custom Hooks</option>
+                  <option disabled>Rules Of Hooks</option>
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">React Hooks </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Social Login</option>
+                  <option disabled>Pagination</option>
+                  <option disabled>Search</option>
+                  <option disabled>Filter</option>
+                  <option disabled>JWT Token</option>
+                  <option disabled>File Uploadt</option>
+                  <option disabled>Many More</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Jest with Enzyme</option>
+
+                </select>
+                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
+              </div>
+              <div class="form-floating">
+                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                  <option disabled>Build Application and Deployment</option>
+
+                </select>
+                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
+              </div>
+            </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+          <?php include "./query-form.php" ?>
+
+
+
         </div>
+      </div>
     </div>
     <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?> 
+    <?php include "./footer.php" ?>

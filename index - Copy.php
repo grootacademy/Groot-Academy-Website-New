@@ -237,7 +237,7 @@
                   <h6 class="text-secondary font-weight-normal pe-3">Are you ready to be a successful Programmer?.</h6>
 
                   <div class="d-flex justify-content-start mt-4">
-                    <a href="./courses.php">
+                    <a href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
                       <div class="alert alert-primary text-white font-weight-bold icon-move-right" role="alert">
                         See All Courses <i class="fas fa-arrow-right text-sm ms-1"></i>
                       </div>

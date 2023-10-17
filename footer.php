@@ -58,7 +58,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./courses.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php" target="_blank">
                             Courses
                         </a>
                     </li>

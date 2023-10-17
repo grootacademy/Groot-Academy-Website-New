@@ -11,35 +11,35 @@
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-<?php  include "./header.php"
+<?php include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
-    <!-- End Navbar -->
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-lg-12 mx-auto">
-                <div class="mb-4 w-100">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="../courses.html">Courses</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Features</li>
-                        </ol>
-                    </nav>
-                    <br/><br/>
-                    <h4 class="course-heading"><img src="./assets/img/node.png" alt="image" width="60" style="border-radius: 10px;"/> Full Stack With Node js Training In Jaipur  </h4> 
-                </div>
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                    <div class="container border-bottom">
-                        <div class="row justify-space-between py-2">
-                            <div class="col-lg-3 me-auto">
-                                <p class="lead text-dark pt-1 mb-0"></p>
-                            </div>
+<!-- End Navbar -->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-lg-12 mx-auto">
+      <div class="mb-4 w-100">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Features</li>
+          </ol>
+        </nav>
+        <br /><br />
+        <h4 class="course-heading"><img src="./assets/img/node.png" alt="image" width="60" style="border-radius: 10px;" /> Full Stack With Node js Training In Jaipur </h4>
+      </div>
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+        <div class="container border-bottom">
+          <div class="row justify-space-between py-2">
+            <div class="col-lg-3 me-auto">
+              <p class="lead text-dark pt-1 mb-0"></p>
+            </div>
 
-                        </div>
-                    </div>
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+          </div>
+        </div>
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -61,17 +61,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -93,17 +93,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -125,20 +125,20 @@
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
+        </div>
+      </div>
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -163,21 +163,21 @@ Internships are also available in GROOT ACADEMY.</h6>
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
-
-
-             <?php include "./query-form.php" ?>
-
-
-
-
-            </div>
         </div>
+      </div>
+
+
+
+
+      <?php include "./query-form.php" ?>
+
+
+
+
     </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+  </div>
+</div>
+<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
 <?php include "./footer.php" ?>

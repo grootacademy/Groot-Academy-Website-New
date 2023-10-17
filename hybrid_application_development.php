@@ -8,8 +8,8 @@
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../courses.html">Courses</a></option>
-                        <li class="breadcrumb-item active" aria-current="page">Features</option>
+                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Features</li>
                     </ol>
                 </nav><br /><br />
                 <h4 class="course-heading"><img src="./assets/img/hybridapp.png" alt="image" width="70" style="border-radius: 10px;" /> Hybrid application development </h4>
@@ -636,7 +636,7 @@
                                     <option disabled>Application Areas of Java</option>
                                     <option disabled>History of Java</option>
                                     <option disabled>Platform Independency in Java</option>
-                                    <option disabled>U SP of Java: Java Features</option>
+                                    <option disabled>U SP of Java: Java Features</li>
                                     <option disabled>Sun-Oracle Deal</option>
                                     <option disabled>Different Java Platforms</option>
                                     <option disabled>Difference between JDK,JRE,JVM</option>

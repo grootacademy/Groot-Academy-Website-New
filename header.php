@@ -529,7 +529,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 </li>
 
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
                                         <b>Courses</b>
 
                                     </a>

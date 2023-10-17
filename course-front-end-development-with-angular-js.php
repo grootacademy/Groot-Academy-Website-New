@@ -1,31 +1,31 @@
-<?php  include "./header.php"
+<?php include "./header.php"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
-    <!-- End Navbar -->
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-lg-12 mx-auto">
-                <div class="mb-4 w-100">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="../courses.html">Courses</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Features</li>
-                        </ol>
-                    </nav><br/><br/>
-                    <h4 class="course-heading"><img src="./assets/img/angular.png" alt="image" width="40" style="border-radius: 10px;"/> ANGULAR JS TRAINING INSTITUTE JAIPUR | ANGULAR  JAVASCRIPT COURSE IN JAIPUR  </h4> 
-                </div>
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                    <div class="container border-bottom">
-                        <div class="row justify-space-between py-2">
-                            <div class="col-lg-3 me-auto">
-                                <p class="lead text-dark pt-1 mb-0"></p>
-                            </div>
-
+<!-- End Navbar -->
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-12 mx-auto">
+            <div class="mb-4 w-100">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Features</li>
+                    </ol>
+                </nav><br /><br />
+                <h4 class="course-heading"><img src="./assets/img/angular.png" alt="image" width="40" style="border-radius: 10px;" /> ANGULAR JS TRAINING INSTITUTE JAIPUR | ANGULAR JAVASCRIPT COURSE IN JAIPUR </h4>
+            </div>
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="container border-bottom">
+                    <div class="row justify-space-between py-2">
+                        <div class="col-lg-3 me-auto">
+                            <p class="lead text-dark pt-1 mb-0"></p>
                         </div>
+
                     </div>
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                </div>
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -47,17 +47,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
-
                     </div>
+
                 </div>
+            </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -86,17 +86,17 @@
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
-
                     </div>
+
                 </div>
+            </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -118,20 +118,20 @@
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
-
                     </div>
+
                 </div>
+            </div>
 
 
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -157,329 +157,329 @@ Groot Academy has been a leading programming training institute in jaipur. Our a
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 btn bg-gradient-primary">
+                    <div class="tab-content tab-space">
+                        <div class="tab-pane active" id="preview-modal">
+                            <span class="text-lg">
+                                Angular js
+                            </span>
                         </div>
 
                     </div>
                 </div>
+                <div>
 
-                                
-                                    <div class="row">
-                                        <div class="col-md-12 btn bg-gradient-primary">
-                                    <div class="tab-content tab-space">
-                                        <div class="tab-pane active" id="preview-modal">
-                                         <span class="text-lg">
-                                         Angular js 
-                                        </span>
-                                    </div>
-                                    
-                                  </div>
-                                    </div>
-                                    <div>
-                                
-                                 <br/>
-                                 <br/>
-                                 <br/>
-                                      
+                    <br />
+                    <br />
+                    <br />
 
 
-                <div class="row">
-                            <div class="col-md -6">
+
+                    <div class="row">
+                        <div class="col-md -6">
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Course Objectives</option>
-                            
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION </label>
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Course Objectives</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION </label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Basic JavaScript</option>
-                                <option disabled >DOM and BOM</option>
-                                <option disabled >Intervals and Objects</option>
-                                <option disabled >Prototype ,Hoisting and Closure</option>
-                                <option disabled >Let , Const , Arrow , Class and Inheritance</option>
-                                <option disabled >Map, Filter , Reduce , Template Literals</option>
-                                <option disabled >ForEach, for-in, for-of loop.</option>
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6)  </label>
+                                    <option disabled>Basic JavaScript</option>
+                                    <option disabled>DOM and BOM</option>
+                                    <option disabled>Intervals and Objects</option>
+                                    <option disabled>Prototype ,Hoisting and Closure</option>
+                                    <option disabled>Let , Const , Arrow , Class and Inheritance</option>
+                                    <option disabled>Map, Filter , Reduce , Template Literals</option>
+                                    <option disabled>ForEach, for-in, for-of loop.</option>
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6) </label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Why Typescript</option>
-                                <option disabled >Basic Types</option>
-                                <option disabled >Class and Interfaces</option>
-                                <option disabled >Modules</option>
-                          
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                         
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript</label>
+                                    <option disabled>Why Typescript</option>
+                                    <option disabled>Basic Types</option>
+                                    <option disabled>Class and Interfaces</option>
+                                    <option disabled>Modules</option>
+
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript</label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Real-time environmental setup</option>
-                       
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">GITHUB  </label>
+                                    <option disabled>Real-time environmental setup</option>
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">GITHUB </label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>What is Angular</option>
-                                <option disabled >What is SPA</option>
-                                <option disabled >Comparison between different versions</option>
-                                <option disabled >Advantages and Disadvantages</option>
-                                <option disabled >Key features</option>
-                          
-                                    
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ANGULAR   </label>
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>What is Angular</option>
+                                    <option disabled>What is SPA</option>
+                                    <option disabled>Comparison between different versions</option>
+                                    <option disabled>Advantages and Disadvantages</option>
+                                    <option disabled>Key Features</li>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ANGULAR </label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Node /NPM</option>
-                                <option disabled >Angular CLI</option>
-                                <option disabled >Setup Project</option>
-                                <option disabled >Directory Structure</option>
-                                <option disabled >Code Editors</option>
-                                <option disabled >How Angular Application Boot</option>
-                            
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP  </label>
+                                    <option disabled>Node /NPM</option>
+                                    <option disabled>Angular CLI</option>
+                                    <option disabled>Setup Project</option>
+                                    <option disabled>Directory Structure</option>
+                                    <option disabled>Code Editors</option>
+                                    <option disabled>How Angular Application Boot</option>
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
                             </div>
 
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>What is Module</option>
-                                <option disabled >Decorator</option>
-                                <option disabled >NgModule</option>
-                                <option disabled >Core Module</option>
-                                <option disabled >Bootstrapping</option>
-                                <option disabled >Shared Modules</option>
-                               
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MODULES  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                            <option disabled>Introduction to Components</option>
-                                <option disabled >Component Architecture Patterns</option>
-                                <option disabled >Metadata</option>
-                                <option disabled >State and Behaviors</option>
-                               
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENTS  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Template Expression or Interpolation Data Binding (Event ,Property , Two Way)</option>
-                                <option disabled >*ngIf , *ngFor , *ngSwicth</option>
-                                <option disabled >Built-in Structural and Attributes Directive</option>
-
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">TEMPLATES</label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled >Built-in Pipes</option>
-                                <option disabled >Custom Pipes</option>
-
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PIPES </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Routes , RouterModule , routerLink Child Routing</option>
-                                <option disabled >Params</option>
-                                <option disabled >Guards</option>
-
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Routing </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Structured Directives</option>
-                                <option disabled >Attribute Directives</option>
-
-                                 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM DIRECTIVES </label>
-                            </div>
-
-                            </div>
+                                    <option disabled>What is Module</option>
+                                    <option disabled>Decorator</option>
+                                    <option disabled>NgModule</option>
+                                    <option disabled>Core Module</option>
+                                    <option disabled>Bootstrapping</option>
+                                    <option disabled>Shared Modules</option>
 
 
-                            <div class="col-md -6">
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Template Driven</option>
-                                <option disabled >Reactive Form</option>
-                                <option disabled >Custom Validators</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">VALIDATIONS </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Observable vs Promise</option>
-                                <option disabled >Network Call</option>
-                                <option disabled >HTTP Request | Response</option>
-                       
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ASYNCHRONOUS OPERATIONS</label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Introduction to Services</option>
-                                <option disabled >Building a Service</option>
-                                <option disabled >Dependency Injections</option>
-                                <option disabled >Injectors and Providers</option>
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVICES </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Component LifeCycle</option>
-                                <option disabled >All LifeCycle Hooks</option>
-                      
 
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LIFECYCLE HOOKS </label>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MODULES </label>
                             </div>
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Local Storage</option>
-                                <option disabled >Session Storage</option>
-                                <option disabled >Cookies</option>
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE  </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>@Input().</option>
-                                <option disabled >@Output() with EventEmitter</option>
-                                <option disabled >@Viewchid()</option>
-                                <option disabled >Shared Service</option>
-                                <option disabled >Subject</option>
-                            
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMUNICATION BETWEEN COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Introduction to Server-Side Rendering</option>
-                                <option disabled >Angular Universal</option>
-                               
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVER-SIDE RENDERING (   </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Introduction to Testing</option>
-                                <option disabled>Unit Testing with Karma and Jasmine</option>
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                
-                            </select>
-                            <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Angular Testing </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                
-                                
-                            </select>
-                            <label style="color: black" class="mt-0 text-lg" for="floatingSelect">LAZY LOADING </label>
-                            </div>
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Angular Material </option>
-                                <option disabled>PrimeNG </option>
-                               
+                                    <option disabled>Introduction to Components</option>
+                                    <option disabled>Component Architecture Patterns</option>
+                                    <option disabled>Metadata</option>
+                                    <option disabled>State and Behaviors</option>
 
-                                
-                            </select>
-                            <label style="color: black" class="mt-0 text-lg" for="floatingSelect">UI COMPONENTS </label>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENTS </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Template Expression or Interpolation Data Binding (Event ,Property , Two Way)</option>
+                                    <option disabled>*ngIf , *ngFor , *ngSwicth</option>
+                                    <option disabled>Built-in Structural and Attributes Directive</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">TEMPLATES</label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Built-in Pipes</option>
+                                    <option disabled>Custom Pipes</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PIPES </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Routes , RouterModule , routerLink Child Routing</option>
+                                    <option disabled>Params</option>
+                                    <option disabled>Guards</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Routing </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Structured Directives</option>
+                                    <option disabled>Attribute Directives</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM DIRECTIVES </label>
                             </div>
 
-                            <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Social Login </option>
-                                <option disabled>Pagination </option>
-                                <option disabled>Filter </option>
-                                <option disabled>JWT Token </option>
-                                <option disabled>File upload </option>
-                                <option disabled>Many More </option>
+                        </div>
 
-                                
-                            </select>
-                            <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Third Party Modules </label>
+
+                        <div class="col-md -6">
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Template Driven</option>
+                                    <option disabled>Reactive Form</option>
+                                    <option disabled>Custom Validators</option>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">VALIDATIONS </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Observable vs Promise</option>
+                                    <option disabled>Network Call</option>
+                                    <option disabled>HTTP Request | Response</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ASYNCHRONOUS OPERATIONS</label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Introduction to Services</option>
+                                    <option disabled>Building a Service</option>
+                                    <option disabled>Dependency Injections</option>
+                                    <option disabled>Injectors and Providers</option>
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVICES </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Component LifeCycle</option>
+                                    <option disabled>All LifeCycle Hooks</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LIFECYCLE HOOKS </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Local Storage</option>
+                                    <option disabled>Session Storage</option>
+                                    <option disabled>Cookies</option>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>@Input().</option>
+                                    <option disabled>@Output() with EventEmitter</option>
+                                    <option disabled>@Viewchid()</option>
+                                    <option disabled>Shared Service</option>
+                                    <option disabled>Subject</option>
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMUNICATION BETWEEN COMPONENTS </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Introduction to Server-Side Rendering</option>
+                                    <option disabled>Angular Universal</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVER-SIDE RENDERING ( </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Introduction to Testing</option>
+                                    <option disabled>Unit Testing with Karma and Jasmine</option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Angular Testing </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">LAZY LOADING </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Angular Material </option>
+                                    <option disabled>PrimeNG </option>
+
+
+
+                                </select>
+                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">UI COMPONENTS </label>
                             </div>
 
                             <div class="form-floating">
-                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                
-                                <option disabled>Build Application </option>
-                                <option disabled>Deploy in Heroku </option>
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                
-                            </select>
-                            <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Angular ApplicationDeployment </label>
+                                    <option disabled>Social Login </option>
+                                    <option disabled>Pagination </option>
+                                    <option disabled>Filter </option>
+                                    <option disabled>JWT Token </option>
+                                    <option disabled>File upload </option>
+                                    <option disabled>Many More </option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Third Party Modules </label>
                             </div>
+
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+
+                                    <option disabled>Build Application </option>
+                                    <option disabled>Deploy in Heroku </option>
+
+
+                                </select>
+                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Angular ApplicationDeployment </label>
                             </div>
-                         
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                    <?php include "./query-form.php" ?>
+
+
+
                 </div>
-
-
-
-
-
-
-
-
-
-              <?php include "./query-form.php" ?>
-
-
-
             </div>
         </div>
-    </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?> 
+        <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+        <?php include "./footer.php" ?>
