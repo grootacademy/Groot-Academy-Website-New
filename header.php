@@ -464,7 +464,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <ul class="navbar-nav mr-auto">
 
                 <li class="nav-item active" style="float: right;">
-                    <a class="nav-link" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
+                    <a class="nav-link  text-dark" href="mailto:info@grootacademy.com">Info : info@grootacademy.com </a>
                 </li>
 
                 <li class="nav-item">
@@ -500,9 +500,9 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <div class="row">
             <div class="col-12 ">
 
-                <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
+                <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4  ">
 
-                    <div class="container-fluid px-0 ">
+                    <div class="container-fluid ">
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
                         </a>
@@ -513,55 +513,57 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <span class="navbar-toggler-bar bar3"></span>
                             </span>
                         </button>
-                        <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
+                    </div>
+                    <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
 
-                            <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
-                                <li class="menu_padding">
-                                    <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
-                                        <b>Home</b>
-                                    </a>
-                                </li>
-                                <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
-                                        <b>About Us</b>
+                        <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
+                            <li class="menu_padding">
+                                <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
+                                    <b>Home</b>
+                                </a>
+                            </li>
+                            <li class="menu_padding">
+                                <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
+                                    <b>About Us</b>
 
-                                    </a>
-                                </li>
+                                </a>
+                            </li>
 
-                                <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
-                                        <b>Courses</b>
+                            <li class="menu_padding">
+                                <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
+                                    <b>Courses</b>
 
-                                    </a>
-                                </li>
-                                <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
-                                        <b>blog</b>
+                                </a>
+                            </li>
+                            <li class="menu_padding">
+                                <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./blog">
+                                    <b>blog</b>
 
-                                    </a>
-                                </li>
-                                <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
-                                        <b>Internship</b>
+                                </a>
+                            </li>
+                            <li class="menu_padding">
+                                <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
+                                    <b>Internship</b>
 
-                                    </a>
-                                </li>
-                                <li class="menu_padding ms-xl-6">
-                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
-                                        <b class="btn btn-sm text-light p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
+                                </a>
+                            </li>
+                            <li class="menu_padding ms-xl-6">
+                                <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
+                                    <b class="btn btn-sm text-light p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
 
-                                    </a>
-                                </li>
-                                <li class="menu_padding ">
-                                    <a class="nav-link ps-0  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
-                                        <b class="btn btn-sm p-3 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
+                                </a>
+                            </li>
+                            <li class="menu_padding ">
+                                <a class="nav-link ps-0  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
+                                    <b class="btn btn-sm p-3 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
 
-                                    </a>
-                                </li>
+                                </a>
+                            </li>
 
-                            </ul>
+                        </ul>
 
-                        </div>
+                    </div>
+
                 </nav>
 
             </div>

@@ -501,7 +501,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./flutter_application_development.php">
+                        <a href="./best-flutter-application_development-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets//img/grootFlutterlogo.png" width="100%">
