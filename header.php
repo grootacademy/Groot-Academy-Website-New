@@ -516,7 +516,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
 
-                    <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0  ps-lg-0 d-flex  " id="navigation" style='width:230%'>
+                    <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0  ps-lg-0   " id="navigation" style='width:230%'>
 
                         <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100 ">
                             <li class="menu_padding ">
