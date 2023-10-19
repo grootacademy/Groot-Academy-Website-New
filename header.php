@@ -460,7 +460,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <span class="navbar-toggler-icon"></span>
                     </button> -->
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
 
                 <li class="nav-item active" style="float: right;">
@@ -502,7 +502,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                 <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4  ">
 
-                    <div class="container-fluid ">
+                    <div class="container-fluid d-flex justify-content-start ">
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
                         </a>
@@ -514,11 +514,13 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             </span>
                         </button>
                     </div>
-                    <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100 ps-lg-0" id="navigation">
 
-                        <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
-                            <li class="menu_padding">
-                                <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
+
+                    <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0  ps-lg-0 d-flex  " id="navigation" style='width:230%'>
+
+                        <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100 ">
+                            <li class="menu_padding ">
+                                <a class="nav-link ps-2 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
                                     <b>Home</b>
                                 </a>
                             </li>
@@ -547,7 +549,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </a>
                             </li>
-                            <li class="menu_padding ms-xl-6">
+                            <li class="menu_padding ms-lg-auto ">
                                 <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
                                     <b class="btn btn-sm text-light p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
 
