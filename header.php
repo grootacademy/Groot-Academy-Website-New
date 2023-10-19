@@ -506,7 +506,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
                         </a>
-                        <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                        <button class="navbar-toggler shadow-none mx-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon mt-2">
                                 <span class="navbar-toggler-bar bar1"></span>
                                 <span class="navbar-toggler-bar bar2"></span>
