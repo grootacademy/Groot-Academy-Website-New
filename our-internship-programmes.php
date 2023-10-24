@@ -118,7 +118,7 @@ Spend your internship with one of the best technology-driven programming institu
       <div class="col-lg-12">
         <h3 class="text-gradient text-primary mb-0 mt-2">What we offer?</h3>
         <br/><br/>
-        <h6>TThis 3 month internship will give you the opportunity to learn about our technology business, build your coding skills and prepare you for your career. You could work on projects that deliver real solutions for our customers, clients and businesses. No matter if you’re working on payment solutions or trading algorithms, you’ll see tangible results from your work.</h6>
+        <h6>This 3 month internship will give you the opportunity to learn about our technology business, build your coding skills and prepare you for your career. You could work on projects that deliver real solutions for our customers, clients and businesses. No matter if you’re working on payment solutions or trading algorithms, you’ll see tangible results from your work.</h6>
 
       </div>
      
