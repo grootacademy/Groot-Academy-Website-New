@@ -91,7 +91,7 @@
                                     <li><strong>Skills Require To Become A Mern Developer</strong></li>
                                     <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
                                     <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Noida?</strong></li>
+                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
                                     <li><strong>Why Should You Learn Mern Stack?</strong></li>
                                     <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
                                     <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
@@ -100,7 +100,7 @@
 
                                 <p>How to become a MERN stack developer?</p>
                                 <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality education. Ducat is an eminent institute which has been serving the best IT education for 20+ years. We have professionally trained and experienced faculty who offer quality education to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
                                 <h3><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h3>
                                 <h2><strong>What Do You Understand By MERN?</strong></h2>
                                 <p>Mern is one of the most popular stacks where it helps the user to create dynamic web interfaces. It is a technology which consists of MongoDB, ExpressJS, ReactJS, and NodeJS. It is a set of JavaScript-based technologies which are used in developing web-based applications. A stack is a bundle of technologies used to create a web application. It is a platform used in social media platforms, news aggregation applications and others. There are many eminent companies which use mern stack in web development. It is a technology which has a basic set of frameworks and rolls which facilitate the development of the application.</p>
@@ -118,7 +118,7 @@
                                 <p><strong>Learn React:</strong> React is an open-source front-end library that is used to create the user interface where they have a single page application and mobile application. It helps to learn with online guides and with some expertise in the platform. Where it is necessary to learn React which is quite essential in the field of MERN stack development.</p>
                                 <p><strong>Learn Back End Components:</strong> The backend components include Node.js. Express.js, and MongoDB. Where each component has a vital role and Node.js helps developers to create fast and scalable server-side web applications. Expres.js helps to create, design, and build a single page, multiple pages, and hybrid web applications and allows to the organization of web applications on the server side. MongoDB uses to manage the database in a flexible and scalable manner where they have a high capacity with volume and it easily drives multiple languages.</p>
                                 <h2><strong>What Our Students Will Get During Mern Stack Training Course?</strong></h2>
-                                <p>Ducat avail the students with the best services where they get the best support from expert faculty who have years of experience in MERN stack training and have recognized certificates to train the students and give better knowledge in the field. Students get the proper theoretical training where they can have proper knowledge of the field and become an expert. After that students get practical training to become a professional in the field. Where they are guided in a proper way and opportunity to work in real-world projects which will make them more expertise.</p>
+                                <p>Groot Academy avail the students with the best services where they get the best support from expert faculty who have years of experience in MERN stack training and have recognized certificates to train the students and give better knowledge in the field. Students get the proper theoretical training where they can have proper knowledge of the field and become an expert. After that students get practical training to become a professional in the field. Where they are guided in a proper way and opportunity to work in real-world projects which will make them more expertise.</p>
                                 <p>Students also get career counseling where our professional counselors guide you in the proper way and help you to choose a career path according to your interest field. Where they help you to get your dream job and solving the doubt and queries related to the course.</p>
                                 <p>Our experts provide students with all the tools and lab facilities where students get a proper idea of the field and reach towards their success goal.</p>
                                 <p>We have a proper placement cell which helps the students to build the resumes and entitles them to the upcoming opportunity of various job options related to their field. It helps to get a job in top companies with good salary packages.</p>
@@ -133,8 +133,8 @@
                                 </ul>
                                 <h2><strong>Career Opportunities After Learning Mern Stack</strong></h2>
                                 <p>MERN stack is one of the best options for professionals where students have proper planning and offer the best career in full stack application development. Where you can become a full stack developer where you can easily handle all the development processes on the front end, back end, and database. Where you have proper knowledge of the field and become a professional. Where you get good career opportunities with a good salary package. After learning the MERN stack course you can easily get a job at top companies. A MERN stack developer works as an IT professional in different domains. While they can become full stack developers, back-end developers, front-end development, and others. The average salary package of a MERN stack developer is 25000- 40000 per month and it increases according to the experience.</p>
-                                <h2><strong>Why To Enrol In Our Mern Stack Training Course in Noida?</strong></h2>
-                                <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities. Our Mern Stack Trainees are working across the nation. We at Ducat India, No#1 Mern Course in Noida with 100% Placement. Certified Trainers with Over 10,000 Students Trained in Online Mern Stack Course in Noida.</p>
+                                <h2><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></h2>
+                                <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities. Our Mern Stack Trainees are working across the nation. We at Groot Academy India, No#1 Mern Course in Jaipur with 100% Placement. Certified Trainers with Over 10,000 Students Trained in Online Mern Stack Course in Jaipur.</p>
                                 <h2><strong>Why Should You Learn Mern Stack?</strong></h2>
                                 <ul>
                                     <li>It is a platform which uses JavaScript for the front end and back end which easily reduces the learning time and cost of the product. You don’t need to learn many other languages for separate clients and server-side applications.</li>
@@ -144,9 +144,9 @@
                                     <li>All libraries/ tools used in the MERN stack which is sufficient to develop full-fledged software applications.</li>
                                 </ul>
                                 <h3><strong>Key Takeaways:</strong> Mern stack developers can efficiently build web and mobile applications using standard processes and abilities. It implements design thinking with enhanced expertise in various technologies. In the coming years, MERN Stack is highly likely to be used extensively since more and more applications are now built-in in JavaScript.</h3>
-                                <h2><strong>Reasons To Choose Ducat For Mern Stack Developer</strong></h2>
+                                <h2><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></h2>
                                 <ul>
-                                    <li>Ducat is the best institute for learning MERN stack courses with quality education.</li>
+                                    <li>Groot Academy is the best institute for learning MERN stack courses with quality eGroot Academyion.</li>
                                     <li>Professional experts which offer proper training in theoretical and practical. according to industry-relevant training.</li>
                                     <li>Students get the option to choose online and offline classes according to their preferences.</li>
                                     <li>Institutes offer students the best placement at top companies with good salary packages.</li>
@@ -421,24 +421,24 @@
                                 <h2>Introduction to Mongoose</h2>
                                 <ul>
                                     <li>Word on ORM/ODM</li>
-                                    
+
                                     <li>Installing mongoose</li>
-                                    
+
                                     <li>Connecting to MongoDB from mongoose</li>
-                                    
+
                                 </ul>
                                 <h2>Core concepts of Mongoose</h2>
                                 <ul>
                                     <li>Understanding mongoose schemas and datatypes</li>
-                                   
+
                                     <li>Working with Models</li>
-                                    
+
                                     <li>Using modifiers in schema</li>
-                                    
+
                                     <li>Using virtual fields</li>
-                                    
+
                                     <li>Optimizing query performance by enabling indexes</li>
-                                    
+
                                 </ul>
                                 <h2>Mern Application Deployment</h2>
                                 <ul>
@@ -467,8 +467,8 @@
                                 <h3>7: Where to find MERN stack jobs?</h3>
                                 <p>Ans: There are several job portals where you can find Fullstack MERN job opportunities. LinkedIn Stack Overflow Jobs Apply on job portals Duct placement cells also help the students to get jobs.</p>
                                 <h3>8: How is the placement teamwork?</h3>
-                                <p>Ans: Ducat has a proper placement cell which helps the students to get their dream job.</p>
-                                <h3>9: Does Ducat also hold workshops?</h3>
+                                <p>Ans: Groot Academy has a proper placement cell which helps the students to get their dream job.</p>
+                                <h3>9: Does Groot Academy also hold workshops?</h3>
                                 <p>A: Yes, we offer workshops for the students to give them a better knowledge of the particular field and help them become an expert.</p>
                                 <h3>10: I Have More Queries.</h3>
                                 <p>A: In case you have any other queries contact us and our experts will get in touch with you in a short period.</p>
@@ -476,20 +476,21 @@
 
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                               <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
-                                <form>
+                                <form method="post" action="./process.php">
                                     <div class="mb-1">
-                                        <input type="text" name="name" required="" id="name" placeholder="Enter Name" class="form-control">
+                                        <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
                                     </div>
                                     <div class="mb-1">
-                                        <input type="email" name="email" required="" id="email" placeholder="Enter Email" class="form-control">
+                                        <input type="email" name="email" required="" id="email" placeholder="Enter your Email" class="form-control">
                                     </div>
                                     <div class="mb-1">
                                         <input type="text" name="phone" required="" id="phone" placeholder="Enter Contact Number" class="form-control">
                                     </div>
+                                    <!--
                                     <div class="mb-1">
                                         <select name="course" required="" id="course" class="form-control">
                                             <option value="" disabled="">Select a Course</option>
@@ -561,20 +562,7 @@
                                             <option value="Other">Other</option>
                                         </select>
                                     </div>
-                                    <div class="mb-1">
-                                        <select name="center" required="" id="center" class="form-control">
-                                            <option value="" disabled="">Select Branch</option>
-                                            <option value="Noida Sector 16">Noida Sector 16</option>
-                                            <option value="Sector 63, Noida">Sector 63, Noida</option>
-                                            <option value="Pitampura">Pitampura</option>
-                                            <option value="South Ex.">South Ex.</option>
-                                            <option value="Ghaziabad">Ghaziabad</option>
-                                            <option value="Gurugram">Gurugram</option>
-                                        </select>
-                                    </div>
-                                    <div class="mb-3">
-                                        <input type="checkbox" name="consent" id="consent" class="from-control">&nbsp;&nbsp;&nbsp;I Authorise Groot Academy to contact me with updates &amp; notifications via email, SMS, WhstaApp, and voice call. This Consent will override any registration for DNC/NDNC
-                                    </div>
+-->
                                     <div class="mt-2">
                                         <button class="btn home-banner text-light w-100" type="submit">Submit</button>
                                     </div>
@@ -659,32 +647,33 @@
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
                         <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
-        <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-        <ul >
-        <li>Build dynamic data-driven websites and applications.</li>
-        <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Full Stack Developer Salary.</li>
-        <li>Diverse Growth Options.</li>
-    </ul>
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                        <!-- Nucleo Icons -->
+                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
+                                        <br /><br />
+                                        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
+                                        <ul>
+                                            <li>Build dynamic data-driven websites and applications.</li>
+                                            <li>A Scope to be Part of Game-Changing Projects.</li>
+                                            <li>The High-Paying Full Stack Developer Salary.</li>
+                                            <li>Diverse Growth Options.</li>
+                                        </ul>
+                                    </div>
 
-        <!-- '></iframe> -->
+                                </div>
+                            </div>
+                        </section>
+                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                        <!-- '></iframe> -->
                     </div>
 
                 </div>
@@ -696,27 +685,28 @@
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
                         <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
-              <br/><br/>
-              <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                        <!-- Nucleo Icons -->
+                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
+                                        <br /><br />
+                                        <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
 
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                                    </div>
 
-        <!-- '></iframe> -->
+                                </div>
+                            </div>
+                        </section>
+                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                        <!-- '></iframe> -->
                     </div>
 
                 </div>
@@ -731,27 +721,28 @@
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
                         <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
-              <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
+                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                        <!-- Nucleo Icons -->
+                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
+                                        <br /><br />
+                                        <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
 
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                                    </div>
 
-        <!-- '></iframe> -->
+                                </div>
+                            </div>
+                        </section>
+                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                        <!-- '></iframe> -->
                     </div>
 
                 </div>
