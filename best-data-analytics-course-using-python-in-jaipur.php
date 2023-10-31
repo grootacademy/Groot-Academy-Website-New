@@ -4,31 +4,31 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Data Analyst Course in Jaipur [#1 Training Institute]</title>
 
-<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!" >
-        
-        <meta name="keywords" content="data analyst course in jaipur" />
-        <meta property="og:locale" content="en-US" />
-        <meta property="og:site_name" content="grootacademy.com" />
-        <meta property="og:url" content="https://grootacademy.com/best-data-analytics-course-using-python-in-jaipur.php" >
-        <meta property="og:title" content="Data Analyst Course in Jaipur" >
-        <meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!" >
-        <meta property="og:image" content="https://www.grootacademy.com/groot.png">
-        
-        <meta name="twitter:card" content="app"/>
-        
-        <meta name="twitter:site:id" content="@grootacademy"/>
-            <meta name="twitter:creator" content="@grootacademy"/>
-            <meta property="twitter:app:name:iphone" content="grootacademy"/>
-            <meta property="twitter:app:id:iphone" content="963042747" />
-            <meta property="twitter:app:name:ipad" content="grootacademy" />
-            <meta property="twitter:app:id:ipad" content="963042747" />
-        <meta name="twitter:site" content="@grootacademy" />
-        <meta name="twitter:title" content="Data Analyst Course in Jaipur" >
-        <meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
-        <meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
-        
-        
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+
+<meta name="keywords" content="data analyst course in jaipur" />
+<meta property="og:locale" content="en-US" />
+<meta property="og:site_name" content="grootacademy.com" />
+<meta property="og:url" content="https://grootacademy.com/best-data-analytics-course-using-python-in-jaipur.php">
+<meta property="og:title" content="Data Analyst Course in Jaipur">
+<meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta property="og:image" content="https://www.grootacademy.com/groot.png">
+
+<meta name="twitter:card" content="app" />
+
+<meta name="twitter:site:id" content="@grootacademy" />
+<meta name="twitter:creator" content="@grootacademy" />
+<meta property="twitter:app:name:iphone" content="grootacademy" />
+<meta property="twitter:app:id:iphone" content="963042747" />
+<meta property="twitter:app:name:ipad" content="grootacademy" />
+<meta property="twitter:app:id:ipad" content="963042747" />
+<meta name="twitter:site" content="@grootacademy" />
+<meta name="twitter:title" content="Data Analyst Course in Jaipur">
+<meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <meta name="language" content="en-us" />
 <meta name="distribution" content="Global">
@@ -59,7 +59,7 @@
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">NodeJS Full Stack Developer | Full Stack Developemnt with NodeJs Course | MERN stack Developemnt Training in jaipur</h4>
+                <h4 class="course-heading">DATA ANALYTICS USING PYTHON TRAINING IN Jaipur | DATA ANALYTICS WITH PYTHON</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -87,23 +87,28 @@
 
 
                                 </span>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
-                                <ul>
-                                    <li><strong>What Do You Understand By MERN?</strong></li>
-                                    <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                                    <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                                    <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                                    <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
-                                    <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
-                                </ul>
+                                <p>Are you Looking for the<strong> Best Institute for Data Analytics using Python training in Jaipur?</strong></p>
+                                <p>Groot Academy offers <strong>Data Analytics</strong> using Python training classes with live projects by expert trainers in Jaipur.
+                                </p>
+                                <p>Our <strong>Data Analytics</strong> using Python training program in Jaipur is specially designed for Undergraduates (UG), Graduates, working professionals, and also for Freelancers.
 
-                                <p>How to become a MERN stack developer?</p>
-                                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+                                    We provide end-to-end learning on Data Analytics using Python Domain with deeper dives for creating a winning career for every profile.
 
+                                    If you are looking for a high-quality analytics training program that will give you the skills you need to succeed in the real world, then Ducat The IT Training School is the perfect place.
+
+                                    Contact Ducat at 8233266276
+                                    for more about their excellent job-oriented analytics training program.</p>
+                                <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why learn Data Analytics using Python?</strong></h4>
+                                <p>It's continued to be a great option for data scientists who use it for building Machine learning applications or using them and other scientific computations.</p>
+                                <p><strong> Data Analytics Using Python Training in Jaipur</strong> cuts development time in half with its simple-to-read syntax and easy compilation feature with the easy-to-learn concept.</p>
+                                <p>
+                                    Debugging any type of program is a breeze in this language with its built-in debugger.</p>
+                                <p>
+                                    It runs on every famous type of platform like Windows, Linux/Unix, and Mac OS and has been ported to Java and .NET virtual machines.</p>
+                                <p>
+                                    Python is free to use language, even for commercial products, because of its OSI-approved open-source license, so anyone can use it for free.</p>
+                                <p>
+                                    It has been opted as the most preferred Language for Data Analytics and the increasing search trends on Python every day also indicate that it is the "Next Big Thing" and a must for aspirants in the Data Analytics field.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
                                 <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
