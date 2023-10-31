@@ -2,35 +2,34 @@
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<title>Data Analyst Course in Jaipur [#1 Training Institute]</title>
 
-<meta name="keywords" content="data analyst course in jaipur" />
-<meta property="og:locale" content="en-US" />
-<meta property="og:site_name" content="grootacademy.com" />
-<meta property="og:url" content="https://grootacademy.com/best-data-analytics-course-using-python-in-jaipur.php">
-<meta property="og:title" content="Data Analyst Course in Jaipur">
-<meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
-<meta property="og:image" content="https://www.grootacademy.com/groot.png">
+<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!" >
+        
+        <meta name="keywords" content="data analyst course in jaipur" />
+        <meta property="og:locale" content="en-US" />
+        <meta property="og:site_name" content="grootacademy.com" />
+        <meta property="og:url" content="https://grootacademy.com/best-data-analytics-course-using-python-in-jaipur.php" >
+        <meta property="og:title" content="Data Analyst Course in Jaipur" >
+        <meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!" >
+        <meta property="og:image" content="https://www.grootacademy.com/groot.png">
+        
+        <meta name="twitter:card" content="app"/>
+        
+        <meta name="twitter:site:id" content="@grootacademy"/>
+            <meta name="twitter:creator" content="@grootacademy"/>
+            <meta property="twitter:app:name:iphone" content="grootacademy"/>
+            <meta property="twitter:app:id:iphone" content="963042747" />
+            <meta property="twitter:app:name:ipad" content="grootacademy" />
+            <meta property="twitter:app:id:ipad" content="963042747" />
+        <meta name="twitter:site" content="@grootacademy" />
+        <meta name="twitter:title" content="Data Analyst Course in Jaipur" >
+        <meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+        <meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
+        
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<meta name="twitter:card" content="app" />
-
-<meta name="twitter:site:id" content="@grootacademy" />
-<meta name="twitter:creator" content="@grootacademy" />
-<meta property="twitter:app:name:iphone" content="grootacademy" />
-<meta property="twitter:app:id:iphone" content="963042747" />
-<meta property="twitter:app:name:ipad" content="grootacademy" />
-<meta property="twitter:app:id:ipad" content="963042747" />
-<meta name="twitter:site" content="@grootacademy" />
-<meta name="twitter:title" content="Data Analyst Course in Jaipur">
-<meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
-<meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-
-<meta property="og:image:width" content="90">
-<meta property="og:image:height" content="90">
 <meta name="language" content="en-us" />
 <meta name="distribution" content="Global">
 <meta name="Publisher" content="https://grootacademy.com">
