@@ -568,6 +568,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
 
+                    <div class="col-md-4 col-sm-6 col-xs-6 mt-2">
+                        <a href="./best-data-analytics-course-using-python-in-jaipur.php">
+                            <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
+                                <center>
+                                    <img src="./assets/img/course-card-images/Data-Science.png" width="100%">
+                                </center>
+                                <b style="text-align: center; font-size:medium;">Data Science
+                                </b>
+                            </div>
+
+                        </a>
+                    </div>
+
 
                 </div>
 
