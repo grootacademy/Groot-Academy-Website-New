@@ -1,4 +1,3 @@
-
 </head>
 
 <body class="index-page" style="font-family: 'Chivo', sans-serif;">
@@ -91,7 +90,7 @@
                             </li>
 
                             <li class="menu_padding">
-                                <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
+                                <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
                                     <b>Courses</b>
 
                                 </a>
