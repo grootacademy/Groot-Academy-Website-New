@@ -306,7 +306,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6 col-sm-6 mt-md-0">
                         <a href="./programming-courses-after-10th-class.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="256px" height="130">
+                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="100%" height="130">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -318,7 +318,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6  col-sm-6 mt-md-0">
                         <a href="./programming-or-coding-course-after-12th.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://w7.pngwing.com/pngs/33/667/png-transparent-graphy-computer-software-software-engineering-programmer-technology-electronics-text-logo.png" width="256px" height="130">
+                                <img src="https://w7.pngwing.com/pngs/33/667/png-transparent-graphy-computer-software-software-engineering-programmer-technology-electronics-text-logo.png" width="100%" height="130">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -330,7 +330,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4  col-sm-6 col-xs-6 mt-md-0">
                         <a href="./our-internship-programmes.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://media.istockphoto.com/id/1344688156/photo/portrait-of-a-man-using-a-computer-in-a-modern-office.jpg?b=1&s=170667a&w=0&k=20&c=AAVVOvN9uY1Rd_0QsWb8WvBN-4VSUdCORiZx51s5OLc=" width="256px" height="130">
+                                <img src="./assets/img/course-card-images/intenship.png" width="100%" height="130">
                                 <b style="text-align: center; font-size:medium;">Our Internship Program</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -340,7 +340,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-webdesigning-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets//img/Website-Design-logo-groot.jpg" width="256px">
+                                <img src="./assets/img/course-card-images/web desiging1.avif" width="100%">
                                 <b style="text-align: center; font-size:medium;">Website Designing</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -350,7 +350,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-front-end-development-course-with-reactjs-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" width="256px">
+                                <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" width="100%">
                                 <b style="text-align: center; font-size:medium;">Front End Developement</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -360,7 +360,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-front-end-development-course-with-angular-js-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlcBh3y5knx8PbLtCF4shyag0sFWGlCmV82vGZ_u6zvS94r1Hu2eu-E1He9C9lAm3wMA&usqp=CAU" width="256px">
+                                <img src="./assets/img/course-card-images/react js logo.png" width="100%">
                                 <b style="text-align: center; font-size:medium;">Front End Developement</b>
                             </div>
                             <div class="mt-2 ms-2">

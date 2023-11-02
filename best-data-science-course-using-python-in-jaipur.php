@@ -235,12 +235,14 @@
                                     </ul>
                                 </div>
                                 <div class="col-lg-6 p-4 mb-4">
-                                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Why To Enroll In Our Data Analytics Using Python Training Course in Jaipur?</strong></h5>
-                                    <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities.</p>
-
-                                    <p>Our Data Analytics using Python Trainees are working across the nation. We atGroot-Academy India, The #1 Data Analytics using Python Course in Jaipur with 100% Placement.</p>
-
-                                    <p> Certified Trainers with Over 10,000 Students Trained in Data Analytics using Python Course in Jaipur.</p>
+                                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Python Conditional Statements</strong></h5>
+                                    <ul>
+                                        <li>If statement</li>
+                                        <li> If else statement</li>
+                                        <li>If elif statement</li>
+                                        <li>If elif else statement</li>
+                                        <li>Nested if statement</li>
+                                    </ul>
                                 </div>
                             </div>
                         </section>
@@ -254,20 +256,43 @@
                             <div class="conainer-fluid">
                                 <div class="row">
                                     <div class="col-lg-6">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot-Academy?</strong></h4>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Looping Statements</strong></h4>
                                         <ul>
-                                            <li>Ducat has a dedicated team of highly expert trainers to identify, evaluate, implement, and provide the Best Data Analytics Using Python Training Institute in Jaipur for our students.</li>
-                                            <li>Our Trainers leverage a defined methodology that helps identify opportunities, develop the most optimal resolution and maturely execute the solution.</li>
-                                            <li>We have the best trainers across the world to provide the Best Data Analytics Using Python Training in Jaipur who are highly qualified and are the best in their field.</li>
-                                            <li>The Training & Placement cell is committed to providing all attainable help to the students in their efforts to seek out employment and internships in every field.</li>
-                                            <li>The placement department works beside alternative departments as a team in moulding the scholars to the necessities of varied industries.</li>
-                                            <li>We have proactive and business-clued-in Placement Cells that pride themselves on a robust skilled network across numerous sectors.</li>
-                                            <li>It actively coordinates with every student and ensures that they get placed with purported MNCs within six months of graduating. We are the Best Data Analytics Using Python Training Institute in Jaipur.</li>
+                                            <li>While loop</li>
+                                            <li>For loop</li>
+                                            <li>Nested loops</li>
+                                            <li>Pass, break and continuekeywords</li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-6 p-4 mb-4">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>What Our Students Will Get During Data Analytics Using Python Training Course?</strong></h4>
-                                        <p>Get dedicated student support, career services, industry expert mentors, and real-world projects. Career Counselling. Timely Doubt Resolution. 50% Salary Hike, Career Counselling Case Studies + Tools + Certificate.</p>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Standard Data Typesstrong></h4>
+                                        <ul>
+                                            <li>Int, ﬂoat, complex, bool,nonetype</li>
+                                            <li>Str, list, tuple,range</li>
+                                            <li>Dict, set, frozenset</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-lg-6 p-4 mb-4">
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>String Handling</h4>
+                                        <ul>
+                                            <li>What is string</li>
+                                            <li>String representations</li>
+                                            <li>Unicode string</li>
+                                            <li>String functions, methods</li>
+                                            <li>String indexing andslicing</li>
+                                            <li>String formatting</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-lg-6 p-4 mb-4">
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python List
+                                        </h4>
+                                        <ul>
+                                            <li>Creating and accessinglists</li>
+                                            <li>Indexing and slicinglists</li>
+                                            <li>List methods</li>
+                                            <li>Nested lists</li>
+                                            <li>List comprehension</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
