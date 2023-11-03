@@ -100,7 +100,7 @@
                                     for more about their excellent job-oriented analytics training program.</p>
                                 <h4 class="text-gradient text-primary mb-0 mt-2"><strong>DATA SCIENCE & ML USING PYTHON TRAINING IN JAIPUR</strong></h4>
                                 <P>
-                                    Are you Looking for the Best Institute for Data Science ML using Python training in Noida? DUCAT offers Data Science ML using Python training classes with live projects by expert trainers in Noida. Our Data science machine learning with Python training program in Noida is specially designed for Under-Graduates (UG), Graduates, working professionals, and also for Freelancers. We provide end-to-end learning on Machine learning with Python Domain with deeper dives for creating a winning career for every profile.</P>
+                                    Are you Looking for the Best Institute for Data Science ML using Python training in jaipur? groot offers Data Science ML using Python training classes with live projects by expert trainers in jaipur. Our Data science machine learning with Python training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professionals, and also for Freelancers. We provide end-to-end learning on Machine learning with Python Domain with deeper dives for creating a winning career for every profile.</P>
 
                                 <P>This course is designed for both complete beginners with no programming experience or experienced developers looking to make the jump to Data Science! Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. Currently, Python is the most popular Language in IT. Python adopted as a language of choice for almost all the domains in IT including Web Development, Cloud Computing (AWS, OpenStack, VMware, Google Cloud, etc.. ), Infrastructure Automations, Software Testing, Mobile Testing, Big Data, and Hadoop, Data Science, etc. This course sets you on a journey in python by playing with data, creating your own application, and also testing the same.
                                 </P>
@@ -175,78 +175,17 @@
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <section class="py-3">
+                        <!-- <section class="py-3">
                             <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> Introduction To Python</h5>
-                                        <ul>
-                                            <li> Why Python</li>
-                                            <li>Application areas of python</li>
-                                            <li>Python implementations</li>
-                                            <li>Cpython</li>
-                                            <li>Jython</li>
-                                            <li>Ironpython</li>
-                                            <li>Pypy</li>
-                                            <li>Pythonversions</li>
-                                            <li>Installingpython</li>
-                                            <li>Python interpreter architecture</li>
-                                            <li>Python byte code compiler</li>
-                                            <li>Python virtual machine(pvm)</li>
-                                        </ul>
-
-                                    </div>
-                                    <div class="col-lg-6 p-4 mb-4">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Writing and Executing First Python Program
-                                            </strong></h4>
-                                        <ul>
-                                            <li>Using interactive mode</li>
-                                            <li>Using script mode</li>
-                                            <li>General text editor and commandwindow</li>
-                                            <li>Idle editor and idleshell</li>
-                                            <li>Understanding print() function</li>
-                                            <li>How to compile python programexplicitly</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                
                             </div>
-                        </section>
+                        </section> -->
                     </div>
                 </div>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <section class="py-3">
-                            <div class="row">
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Language Fundamentals
-                                        </strong></h4>
-                                    <ul>
-                                        <li>Character set</li>
-                                        <li> Keywords</li>
-                                        <li>Comments</li>
-                                        <li>Variables</li>
-                                        <li>Literals</li>
-                                        <li>Operators</li>
-                                        <li>Reading input fromconsole</li>
-                                        <li>Parsing string to int, ﬂoat
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Python Conditional Statements</strong></h5>
-                                    <ul>
-                                        <li>If statement</li>
-                                        <li> If else statement</li>
-                                        <li>If elif statement</li>
-                                        <li>If elif else statement</li>
-                                        <li>Nested if statement</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
+
                 </div>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
@@ -255,6 +194,78 @@
                         <section class="py-3">
                             <div class="conainer-fluid">
                                 <div class="row">
+
+
+
+
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> Introduction To Python</h5>
+                                            <ul>
+                                                <li> Why Python</li>
+                                                <li>Application areas of python</li>
+                                                <li>Python implementations</li>
+                                                <li>Cpython</li>
+                                                <li>Jython</li>
+                                                <li>Ironpython</li>
+                                                <li>Pypy</li>
+                                                <li>Pythonversions</li>
+                                                <li>Installingpython</li>
+                                                <li>Python interpreter architecture</li>
+                                                <li>Python byte code compiler</li>
+                                                <li>Python virtual machine(pvm)</li>
+                                            </ul>
+
+                                        </div>
+                                        <div class="col-lg-6 p-4 mb-4">
+                                            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Writing and Executing First Python Program
+                                                </strong></h4>
+                                            <ul>
+                                                <li>Using interactive mode</li>
+                                                <li>Using script mode</li>
+                                                <li>General text editor and commandwindow</li>
+                                                <li>Idle editor and idleshell</li>
+                                                <li>Understanding print() function</li>
+                                                <li>How to compile python programexplicitly</li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+
+
+
+                                    <div class="row">
+                                        <div class="col-lg-6 p-4 mb-4">
+                                            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Language Fundamentals
+                                                </strong></h4>
+                                            <ul>
+                                                <li>Character set</li>
+                                                <li> Keywords</li>
+                                                <li>Comments</li>
+                                                <li>Variables</li>
+                                                <li>Literals</li>
+                                                <li>Operators</li>
+                                                <li>Reading input fromconsole</li>
+                                                <li>Parsing string to int, ﬂoat
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 p-4 mb-4">
+                                            <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Python Conditional Statements</strong></h5>
+                                            <ul>
+                                                <li>If statement</li>
+                                                <li> If else statement</li>
+                                                <li>If elif statement</li>
+                                                <li>If elif else statement</li>
+                                                <li>Nested if statement</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+
+
+
+
                                     <div class="col-lg-6">
                                         <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Looping Statements</strong></h4>
                                         <ul>
@@ -295,54 +306,578 @@
                                         </ul>
                                     </div>
                                 </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Tuple
+                                    </h4>
+                                    <ul>
+                                        <li> Creating tuple</li>
+                                        <li>Accessing tuple</li>
+                                        <li>Immutability of tuple</li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python
+                                            Set</h4>
+                                    <ul>
+                                        <li>How to create a set</span></li>
+                                        <li>Iteration over sets</span></li>
+                                        <li>Python set methods</span></li>
+                                        <li>Python frozenset</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Dictionary</h4>
+                                    <ul>
+                                        <li>Creating a dictionary</span></li>
+                                        <li>Dictionary methods</span></li>
+                                        <li>Accessing values fromdictionary</span></li>
+                                        <li>Updating dictionary</span></li>
+                                        <li>Iterating dictionary</span></li>
+                                        <li>Dictionary comprehension</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Python Functions</h4>
+                                    <ul>
+                                        <li>Deﬁning a function</span></li>
+                                        <li>Calling a function</span></li>
+                                        <li>Types offunctions</span></li>
+                                        <li>Function arguments</span></li>
+                                        <li>Positional arguments, keywordarguments</span></li>
+                                        <li>Default arguments, non-defaultarguments</span></li>
+                                        <li>Arbitrary arguments, keyword arbitraryarguments</span></li>
+                                        <li>Function return statement</span></li>
+                                        <li>Nested function</span></li>
+                                        <li>Function as argument</span></li>
+                                        <li>Function as return statement</span></li>
+                                        <li>Decorator function</span></li>
+                                        <li>Closure</span> </li>
+                                        <li>Map(), ﬁlter(), reduce(), any()functions</span></li>
+                                        <li>Anonymous or lambdafunction</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Modules &amp; Packages</h4>
+                                    <ul>
+                                        <li>Why modules</span></li>
+                                        <li>Script v/smodule</span></li>
+                                        <li>Importingmodule</span> </li>
+                                        <li>Standard v/s third partymodules</span></li>
+                                        <li>Why packages</span></li>
+                                        <li>Understanding pip utility</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">File I/O</h4>
+                                    <ul>
+                                        <li>Introduction to ﬁlehandling</span></li>
+                                        <li>File modes</span></li>
+                                        <li>Functions and methods related to ﬁlehandling</span></li>
+                                        <li>Understanding with block</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Object Oriented Programming</h4>
+                                    <ul>
+                                        <li>Procedural v/s object orientedprogramming</span></li>
+                                        <li>OOP principles</span></li>
+                                        <li>Deﬁning a class &amp;objectcreation</span></li>
+                                        <li>Object attributes</span></li>
+                                        <li>Inheritance</span> </li>
+                                        <li>Encapsulation</span> </li>
+                                        <li>Polymorphism</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Exception Handling</h4>
+                                    <ul>
+                                        <li>Diﬀerence between syntax errors andexceptions</span></li>
+                                        <li>Keywords used in exceptionhandling</span></li>
+                                        <li>try, except, ﬁnally, raise,assert</span></li>
+                                        <li>Types of exceptblocks</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Regular Expressions(Regex)</h4>
+                                    <ul>
+                                        <li>Need of regularexpressions</span></li>
+                                        <li>Re module</span></li>
+                                        <li>Functions /methods related toregex</span></li>
+                                        <li>Meta characters &amp;specialsequences</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">GUI Programming</h4>
+                                    <ul>
+                                        <li>Introduction to tkinterprogramming</span></li>
+                                        <li>Tkinter widgets</span></li>
+                                        <li>Tk, label, Entry, Textbox,Button</span></li>
+                                        <li>Frame, messagebox, ﬁledialogetc</span></li>
+                                        <li>Layout managers</span></li>
+                                        <li>Event handling</span></li>
+                                        <li>Displaying image</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Multi-Threading Programming</h4>
+                                    <ul>
+                                        <li>Multi-processing v/s Multi-threading</span></li>
+                                        <li>Need of threads</span></li>
+                                        <li>Creating child threads</span></li>
+                                        <li>Functions /methods related tothreads</span></li>
+                                        <li>Thread synchronization andlocking</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Database</h4>
+                                    <ul>
+                                        <li>Database Concepts</span></li>
+                                        <li>What is DatabasePackage?</span></li>
+                                        <li>Understanding DataStorage</span></li>
+                                        <li>Relational Database (RDBMS)Concept</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">SQL (Structured Query Language)</h4>
+                                    <ul>
+                                        <li>SQLbasics</span> </li>
+                                        <li>DML, DDL &amp; DQL</span></li>
+                                        <li>DDL: create, alter, drop</span></li>
+                                        <li>SQLconstraints:</span> </li>
+                                        <li>Not null, unique,</span></li>
+                                        <li>Primary &amp; foreign key, compositekey</span></li>
+                                        <li>Check, default</span></li>
+                                        <li>DML: insert, update, delete andmerge</span></li>
+                                        <li>DQL : select</span></li>
+                                        <li>Select distinct</span></li>
+                                        <li>SQLwhere</span> </li>
+                                        <li>SQLoperators</span> </li>
+                                        <li>SQLlike</span> </li>
+                                        <li>SQL orderby</span></li>
+                                        <li>SQLaliases</span> </li>
+                                        <li>SQLviews</span> </li>
+                                        <li>SQLjoins</span> </li>
+                                        <li>Inner join</span></li>
+                                        <li>Left (outer) join</span></li>
+                                        <li>Right (outer) join</span></li>
+                                        <li>Full (outer) join</span></li>
+                                        <li>Mysql functions</span></li>
+                                        <li>Stringfunctions</span> </li>
+                                        <li>Char_length</span> </li>
+                                        <li>Concat</span> </li>
+                                        <li>Lower</span> </li>
+                                        <li>Reverse</span> </li>
+                                        <li>Upper</span> </li>
+                                        <li>Numericfunctions</span> </li>
+                                        <li>Max, min, sum</span></li>
+                                        <li>Avg, count,abs</span></li>
+                                        <li>Date functions</span></li>
+                                        <li>Curdate</span> </li>
+                                        <li>Curtime</span> </li>
+                                        <li>Now</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Statistics, Probability &amp;Analytics:</h4>
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistics</h4>
+                                    <ul>
+                                        <li>Sample or population</span></li>
+                                        <li>Measures of central tendency</span></li>
+                                        <li>Arithmetic mean</span></li>
+                                        <li>Harmonic mean</span></li>
+                                        <li>Geometric mean</span></li>
+                                        <li>Mode</span> </li>
+                                        <li>Quartile</span> </li>
+                                        <li>First quartile</span></li>
+                                        <li>Second quartile(median)</span></li>
+                                        <li>Third quartile</span></li>
+                                        <li>Standard deviation</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4class="text-gradient text-primary mb-0 mt-2">Probability Distributions</h4class=>
+                                        <ul>
+                                            <li>Introduction to probability</span></li>
+                                            <li>Conditional probability</span></li>
+                                            <li>Normal distribution</span></li>
+                                            <li>Uniform distribution</span></li>
+                                            <li>Exponential distribution</span></li>
+                                            <li>Right &amp; left skeweddistribution</span></li>
+                                            <li>Random distribution</span></li>
+                                            <li>Centrallimittheorem</span> </li>
+                                        </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">HypothesisTesting
+                                    </h4>
+                                    <ul>
+                                        <li>Normality test</span></li>
+                                        <li>Mean test</span></li>
+                                        <li>T-test</span> </li>
+                                        <li>Z-test</span> </li>
+                                        <li>ANOVA test</span></li>
+                                        <li>Chi square test</span></li>
+                                        <li>Correlation and covariance</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Numpy Package</h4>
+                                    <ul>
+                                        <li>Diﬀerence between list and numpyarray</span></li>
+                                        <li>Vector and matrixoperations</span></li>
+                                        <li>Array indexing andslicing</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Panda Package</h4>
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to pandas</h4>
+                                    <ul>
+                                        <li>Labeled and structureddata</span></li>
+                                        <li>Series and dataframe objects</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">How to load datasets</h4>
+                                    <ul>
+                                        <li>From excel</span></li>
+                                        <li>From csv</span></li>
+                                        <li>From html table</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Accessing data from Data Frame</h4>
+                                    <ul>
+                                        <li>at &amp;iat</span></li>
+                                        <li>loc&amp;iloc</span> </li>
+                                        <li>head() &amp; tail()</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Exploratory Data Analysis (EDA)</h4>
+                                    <ul>
+                                        <li>describe()</span> </li>
+                                        <li>groupby()</span> </li>
+                                        <li>crosstab()</span> </li>
+                                        <li>boolean slicing /query()</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Data Manipulation &amp; Cleaning</h4>
+                                    <ul>
+                                        <li>Map(), apply()</span></li>
+                                        <li>Combining data frames</span></li>
+                                        <li>Adding/removing rows &amp;columns</span></li>
+                                        <li>Sorting data</span></li>
+                                        <li>Handling missing values</span></li>
+                                        <li>Handling duplicacy</span></li>
+                                        <li>Handling data error</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Handling Date and Time</h4>
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Data Visualization using matplotlib and seaborn packages</h4>
+                                    <ul>
+                                        <li>Scatter plot, lineplot, barplot</span></li>
+                                        <li>Histogram, pie chart,</span></li>
+                                        <li>Jointplot, pairplot, heatmap</span></li>
+                                        <li>Outlier detection usingboxplot</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Machine Learning</strong>:</span></h4>
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction To Machine Learning</h4>
+                                    <ul>
+                                        <li>Traditional v/s Machine LearningProgramming</span></li>
+                                        <li>Real life examples based onML</span></li>
+                                        <li>Steps of MLProgramming</span></li>
+                                        <li>Data Preprocessing revised</span></li>
+                                        <li>Terminology related toML</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Supervised Learning</h4>
+                                    <ul>
+                                        <li>Classiﬁcation</span> </li>
+                                        <li>Regression</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Unsupervised Learning</h4>
+                                    <ul>
+                                        <li>Clustering</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">KNN Classiﬁcation</h4>
+                                    <ul>
+                                        <li>Math behind KNN</span></li>
+                                        <li>KNN implementation</span></li>
+                                        <li>Understanding hyperparameters</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Performance metrics</h4>
+                                    <ul>
+                                        <li>Math behind KNN</span></li>
+                                        <li>KNN implementation</span></li>
+                                        <li>Understanding hyperparameters</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Regression
+                                    </h4>
+                                    <ul>
+                                        <li>Math behind regression</span></li>
+                                        <li>Simple linear regression</span></li>
+                                        <li>Multiple linear regression</span></li>
+                                        <li>Polynomial regression</span></li>
+                                        <li>Boston price prediction</span></li>
+                                        <li>Cost or loss functions</span></li>
+                                        <li>Mean absolute error</span></li>
+                                        <li>Mean squared error</span></li>
+                                        <li>Root mean squarederror</span></li>
+                                        <li>Least square error</span></li>
+                                        <li>Regularization</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Logistic Regression for classiﬁcation</h4>
+                                    <ul>
+                                        <li>Theory of logistic regression</span></li>
+                                        <li>Binary and multiclassclassiﬁcation</span></li>
+                                        <li>Implementing titanic dataset</span></li>
+                                        <li>Implementing iris dataset</span></li>
+                                        <li>Sigmoid and softmaxfunctions</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Support Vector Machines</h4>
+                                    <ul>
+                                        <li>Theory of SVM</span></li>
+                                        <li>SVM Implementation</span></li>
+                                        <li>kernel, gamma, alpha</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Decision Tree Classiﬁcation</h4>
+                                    <ul>
+                                        <li>Theory of decision tree</span></li>
+                                        <li>Node splitting</span></li>
+                                        <li>Implementation with iris dataset</span></li>
+                                        <li>Visualizingtree</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Ensemble Learning</h4>
+                                    <ul>
+                                        <li>Random forest</span></li>
+                                        <li>Bagging and boosting</span></li>
+                                        <li>Voting classiﬁer</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Model Selection Techniques</h4>
+                                    <ul>
+                                        <li>Cross validation</span></li>
+                                        <li>Grid and random search for hyper parametertuning</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Recommendation System</h4>
+                                    <ul>
+                                        <li>Content based technique</span></li>
+                                        <li>Collaborative ﬁlteringtechnique</span></li>
+                                        <li>Evaluating similarity based oncorrelation</span></li>
+                                        <li>Classiﬁcation-based recommendations</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Clustering
+                                    </h4>
+                                    <ul>
+                                        <li>K-means clustering</span></li>
+                                        <li>Hierarchical clustering</span></li>
+                                        <li>Elbow technique</span></li>
+                                        <li>Silhouette coeﬃcient</span></li>
+                                        <li>Dendogram</span> </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Text Analysis</h4>
+                                    <ul>
+                                        <li>Install nltk</span></li>
+                                        <li>Tokenize words</span></li>
+                                        <li>Tokenizing sentences</span></li>
+                                        <li>Stop words customization</span></li>
+                                        <li>Stemming and lemmatization</span></li>
+                                        <li>Feature extraction</span></li>
+                                        <li>Sentiment analysis</span></li>
+                                        <li>Count vectorizer</span></li>
+                                        <li>Tﬁdfvectorizer</span> </li>
+                                        <li>Naive bayes algorithms</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Dimensionality Reduction</h4>
+                                    <ul>
+                                        <li>Principal componentanalysis(pca)</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Open CV</h4>
+                                    <ul>
+                                        <li>Reading images</span></li>
+                                        <li>Understanding gray scaleimage</span></li>
+                                        <li>Resizing image</span></li>
+                                        <li>Understanding haar classiﬁers</span></li>
+                                        <li>Face, eyes classiﬁcation</span></li>
+                                        <li>How to use webcam in opencv</span></li>
+                                        <li>Building image dataset</span></li>
+                                        <li>Capturing video</span></li>
+                                        <li>Face classiﬁcation invideo</span></li>
+                                        <li>Creating model for genderprediction</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau
+                                    </h4>
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Home</h4>
+                                    <ul>
+                                        <li>Tableau -overview</span></li>
+                                        <li>Tableau - environmentsetup</span></li>
+                                        <li>Tableau - getstarted</span></li>
+                                        <li>Tableau -navigation</span></li>
+                                        <li>Tableau - designﬂow</span></li>
+                                        <li>Tableau - ﬁletypes</span></li>
+                                        <li>Tableau - datatypes</span></li>
+                                        <li>Tableau - showme</span></li>
+                                        <li>Tableau - dataterminology</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Data Sources</h4>
+                                    <ul>
+                                        <li>Tableau - custom dataview</span></li>
+                                        <li>Tableau - datasources</span></li>
+                                        <li>Tableau - extractingdata</span></li>
+                                        <li>Tableau - ﬁeldsoperations</span></li>
+                                        <li>Tableau - editingmetadata</span></li>
+                                        <li>Tableau - datajoining</span></li>
+                                        <li>Tableau - datablending</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Work Sheet</h4>
+                                    <ul>
+                                        <li>Tableau - addworksheets</span></li>
+                                        <li>Tableau - renameworksheet</span></li>
+                                        <li>Tableau - save &amp;deleteworksheet</span></li>
+                                        <li>Tableau - reorderworksheet</span></li>
+                                        <li>Tableau - pagedworkbook</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Calculation</h4>
+                                    <ul>
+                                        <li>Tableau -operators</span></li>
+                                        <li>Tableau -functions</span></li>
+                                        <li>Tableau - numericcalculations</span></li>
+                                        <li>Tableau - stringcalculations</span></li>
+                                        <li>Tableau - datecalculations</span></li>
+                                        <li>Tableau - tablecalculations</span></li>
+                                        <li>Tableau - lodexpressions</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Sorting &amp; Filter</h4>
+                                    <ul>
+                                        <li>Tableau - basicsorting</span></li>
+                                        <li>Tableau - basicﬁlters</span></li>
+                                        <li>Tableau - quickﬁlters</span></li>
+                                        <li>Tableau - contextﬁlters</span></li>
+                                        <li>Tableau - conditionﬁlters</span></li>
+                                        <li>Tableau - topﬁlters</span></li>
+                                        <li>Tableau - ﬁlteroperations</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Charts</h4>
+                                    <ul>
+                                        <li>Tableau - barchart</span></li>
+                                        <li>Tableau - linechart</span></li>
+                                        <li>Tableau - piechart</span></li>
+                                        <li>Tableau -crosstab</span></li>
+                                        <li>Tableau - scatterplot</span></li>
+                                        <li>Tableau - bubblechart</span></li>
+                                        <li>Tableau - bulletgraph</span></li>
+                                        <li>Tableau - boxplot</span></li>
+                                        <li>Tableau - treemap</span></li>
+                                        <li>Tableau - bumpchart</span></li>
+                                        <li>Tableau - ganttchart</span></li>
+                                        <li>Tableau -histogram</span></li>
+                                        <li>Tableau - motioncharts</span></li>
+                                        <li>Tableau - waterfallcharts</span></li>
+                                        <li>Tableau –dashboard</span></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4class="text-gradient text-primary mb-0 mt-2">Projects
+                                        </h4class=>
+                                        <ul>
+                                            <li>One project using python &amp;sql</span></li>
+                                            <li>One project using python &amp;ml</span></li>
+                                            <li>One dashboard usingtableau</span>&nbsp;</li>
+                                        </ul>
+                                </div>
                             </div>
-                        </section>
                     </div>
+                    </section>
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </div>
+
     </div>
-    </section>
+</div>
+</section>
 </div>
 
 </div>
