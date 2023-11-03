@@ -439,11 +439,9 @@
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
-                <marquee behavior="scroll" direction="left" width="100%" scrollamount="12">
-                    <div class="">
-                        <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 shadow-lg border-radius-xl"><strong>cross content</strong></h2>
-                    </div>
-                </marquee>
+                <div class=" w-100">
+                    <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+                </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <h4 class="text-gradient text-primary mb-0 mt-2">JAVASCRIPT (ES-5 and ES-6)</h4>
