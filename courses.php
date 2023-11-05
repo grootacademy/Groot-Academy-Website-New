@@ -401,7 +401,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-course-back-end-development-with-nodejs-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/node-js.png" width="100%">
+                                <img src="./assets/img/course-card-images/nodejs-course-card2.jpg" width="100%">
                                 <b style="text-align: center; margin-top: 23px; font-size:medium;">Back End With Node Js</b>
                             </div>
                             <div class="mt-2 ms-2">

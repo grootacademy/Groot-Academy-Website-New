@@ -111,63 +111,15 @@
                                     It has been opted as the most preferred Language for Data Analytics and the increasing search trends on Python every day also indicate that it is the "Next Big Thing" and a must for aspirants in the Data Analytics field.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                    <!-- brochures button -->
 
+                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
 
-                                <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
-                                <form method="post" action="./process.php">
-                                    <div class="mb-1">
-                                        <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
-                                    </div>
-                                    <div class="mb-1">
-                                        <input type="email" name="email" required="" id="email" placeholder="Enter your Email" class="form-control">
-                                    </div>
-                                    <div class="mb-1">
-                                        <input type="text" name="phone" required="" id="phone" placeholder="Enter Contact Number" class="form-control">
-                                    </div>
-                                    <div class="mt-2">
-                                        <button class="btn home-banner text-light w-100" type="submit">Submit</button>
-                                    </div>
-                                </form>
+                <!-- brochures button -->
+              <!-- Left side bar  -->
 
-
-                                <div class="">
-                                    <div class="card-header">
-                                        <h5 class="card-title my-3">Popular Courses</h5>
-                                    </div>
-                                    <div class="p-0">
-                                        <div class="list-catergory">
-                                            <div class="item-list">
-                                                <ul class="list-group mb-0 p-3" type='none'>
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg   " href="">ANGULAR JS </a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP EXPERTS</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP FULL STACK</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">REACT JS</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MEAN STACK</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">UI &amp; UX</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MERN STACK</a></li>
-
-
-                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">WEB DESIGNING</a></li>
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                <?php include("./includes/left-side-bar.php") ?>
+<!-- Left side bar  -->
 
 
                             </div>
