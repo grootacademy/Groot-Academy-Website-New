@@ -306,7 +306,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6 col-sm-6 mt-md-0">
                         <a href="./programming-courses-after-10th-class.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="100%" height="130">
+                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="100%">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -318,7 +318,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6  col-sm-6 mt-md-0">
                         <a href="./programming-or-coding-course-after-12th.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://w7.pngwing.com/pngs/33/667/png-transparent-graphy-computer-software-software-engineering-programmer-technology-electronics-text-logo.png" width="100%" height="130">
+                                <img src="assets/img/course-card-images/software-engineering-chart-with-keywords-and-icons-sketch-G2NGCM.jpg" width="100%" >
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -330,7 +330,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4  col-sm-6 col-xs-6 mt-md-0">
                         <a href="./our-internship-programmes.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/intenship.png" width="100%" height="130">
+                                <img src="./assets/img/course-card-images/intenship-programme.png" width="90%">
                                 <b style="text-align: center; font-size:medium;">Our Internship Program</b>
                             </div>
                             <div class="mt-2 ms-2">
