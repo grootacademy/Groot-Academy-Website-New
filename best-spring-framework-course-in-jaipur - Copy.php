@@ -297,248 +297,90 @@
         </div>
         <div class="row">
           <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Java Spring</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">JAVASCRIPT (ES-5 and ES-6)</h4>
             <ul>
-              <li>Differences between programming language, software technology and framework</li>
-              <li>Introduction to Spring Framework</li>
-              <li> Evolution of Spring Framework</li>
-              <li> Modules of Spring in Spring 1.x,2.x,3.x,4.x and 5.x</li>
-              <li> MVC Architecture</li>
-              <li>Role of spring framework in MVC Architecture application development</li>
+              <li>Basic JavaScript</li>
+              <li>DOM and BOM</li>
+              <li>Intervals and Objects</li>
+              <li>Prototype ,Hoisting and Closure</li>
+              <li>Let , Const , Arrow , Class and Inheritance</li>
+              <li>Map, Filter , Reduce , Template Literals</li>
+              <li>forEach, for-in, for-of loop.</li>
             </ul>
           </div>
           <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Core Modules of Java Spring</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Typescript</h4>
             <ul>
-              <li>What is a Core Container?</li>
-              <li>Introduction to IOC</li>
-              <li>Types of DI</li>
-              <li>Setter VS Constructor</li>
-              <li>Resolving Constructor Confusion</li>
-              <li>Collection DI</li>
-              <li>Bean Inheritance</li>
-              <li>Collection Merging</li>
-              <li>Inner Beans</li>
-              <li>Using IDRef</li>
-              <li>Bean Aliasing</li>
-              <li>Bean Scopes</li>
-              <li>Inner Beans</li>
-              <li>Null String</li>
-              <li>Bean Auto wiring</li>
-              <li>Nested Bean Factories</li>
+              <li>Why Typescript</li>
+              <li>Basic Types</li>
+              <li>Class and Interfaces</li>
+              <li>Modules</li>
             </ul>
           </div>
           <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2"> Spring Core Modules with Annotations</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2"> REACT JS</h4>
             <ul>
-              <li>Spring VS Java Config Project annotations</li>
-              <li>@Required</li>
-              <li>@Autowire</li>
-              <li>@PostConstruct</li>
-              <li>@PreDestroy</li>
-              <li>@Qualifier</li>
-              <li>@Resource</li>
-              <li>@Component</li>
-              <li>@Service</li>
-              <li>@Controller</li>
-              <li>@Named</li>
-            </ul>
-          </div>
-          <div class="col-lg-12 border ">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Spring MVC</h4>
-            <div class="col-lg-12">
-              <div class="col-lg-4">
-                <ul>
-                  <li>Introduction To MVC</li>
-                  <li> Understanding MVC1, MVC2 Architectures</li>
-                  <li>Front Controller Design Pattern</li>
-                  <li>Intercepting Filter Vs Front Controller</li>
-                  <li>Different types of Servlet URL patterns</li>
-                  <li>Spring MVC Resources</li>
-                  <li>Spring MVC flow</li>
-                  <li>Structural Flow</li>
-                  <li>Strategy Flow (Code based Flow)</li>
-                  <li>DispatcherServlet</li>
-                  <li>Different Controller Classes</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li> ParamaterizableViewController</li>
-                  <li>UrlFileNameViewController</li>
-                  <li>AbstractController</li>
-                  <li>AbstractComandController</li>
-                  <li>SimpleFormController</li>
-                  <li>MultiActionController</li>
-                  <li>AbstractWizardFormController</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>Developing Mini Project with CURD operation</li>
-                  <li>ContextLoaderListener</li>
-                  <li>Working with Two Containers</li>
-                  <li>HadlerMappings</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>BeanNameUrlHandlerMapping</li>
-                  <li>SimpleUrlHandlerMapping</li>
-                  <li>ControllerClassNameHandlerMapping</li>
-                  <li>DefaultAnnotationHandlerMapping</li>
-                  <li>RequestMappingHandlerMapping</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li> HandlerMappingChaining</li>
-                  <li>Form Validations</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li> Enabling Server-side Validations only when client-side validation is not enabled</li>
-                  <li>
-                    <form:errors>
-                  </li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>ViewResolvers</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>InternalResourceViewResolver</li>
-                  <li>UrlBasedViewResolver</li>
-                  <li>ResourceBundleViewResolver</li>
-                  <li>XmlViewResolver</li>
-                  <li>TilesViewResolver</li>
-                  <li>BeanNameViewResolver</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>ViewResolverChaining</li>
-                  <li>Views</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>InternalResourceView</li>
-                  <li>JstlView, TilesView, AbstractPdfView</li>
-                  <li>AbstractXlsView</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>Exception Handling in Spring MVC</li>
-                  <li>Tiles integration with Spring MVC</li>
-                  <li>MVC namespace</li>
-                  <li>Handler interceptors/Adapters</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>Checking Browser Type</li>
-                  <li>Checking Timeout period</li>
-                  <li>Preventing double posting problem</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>PDF Views and Excel Views</li>
-                  <li> File Uploading and Downloading</li>
-                  <li> Spring MVC with Annotations</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>Annotation driven Controllers</li>
-                  <li>@RequestMapping, @Controller</li>
-                  <li>@ModelAttribute, @SessionAttribute,@RequestParam</li>
-                  <li>RequestToViewNameTranslator</li>
-                  <li>MVC NameSpace</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>Annotation driven Form validation using Hibernate Validator API, JEE validator API</li>
-                  <li>Spring MVC with 100% Code Approach</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>Dynamic Registration of Servlet</li>
-                  <li>WebApplicationInitializer</li>
-                  <li>SpringServletContainerInitializer</li>
-                  <li>@EnableWebMVC, @Import</li>
-                  <li>AbstractAnnotationConfigDispatcherServletInitializer</li>
-                </ul>
-              </div>
-              <div class="col-lg-4">
-                <ul>
-                  <li>Spring Boot MVC</li>
-                </ul>
-                <ul style="margin-left: 8%;">
-                  <li>SpringServletInitializer</li>
-                  <li>Working with embedded TomcatServer</li>
-                  <li>Spring Boot MVC flow</li>
-                  <li>Spring Boot dev tools</li>
-                  <li>Properties,application.yml in Spring Boot</li>
-                  <li>Developing Mini Project with CURD operation</li>
-                  <li>Solving double posting problems in Spring Boot MVC using PostRedirectGetPattern</li>
-                  <li>Profiles in spring, Spring boot</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Spring JDBC/DAO</h4>
-            <ul>
-              <li>Introduction</li>
-              <li>Plain JDBC limitations</li>
-              <li>Spring JDBC/DAO Advantages</li>
-              <li>Working with different Data Sources</li>
-              <li>JdbcTemplate</li>
-              <li>JNDI Registry and ServerManaged Jdbc connection pool</li>
-              <li>Callback Interfaces</li>
-              <li>Batch processing/Updating</li>
-              <li>NamedParameterJdbcTemplate</li>
-              <li>Working with SimpleJdbcInsert, SimpleJdbcCall</li>
-              <li>SimpleJdbcCall to call PL/SQL procedures</li>
-              <li>Mapping SQL operations as Sub Classes</li>
-              <li>Spring JDBC/DAO with Annotations</li>
-              <li>Spring JDBC/DAO with 100% Code Approach</li>
+              <li>What is React JS?</li>
+              <li>What is SPA?</li>
+              <li>DOM vs Virtual DOM</li>
+              <li>Advantages and Disadvantages</li>
+              <li>Key Features</li>
             </ul>
           </div>
           <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Spring Security
-            </h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">ENVIRONMENTAL SETUP</h4>
             <ul>
-              <li>Introduction</li>
-              <li>Authentication authorization</li>
-              <li>Authentication Manager and authentication info provider</li>
-              <li> Need of Spring Security</li>
-              <li>DeliagatingFilterProxy</li>
-              <li>SecurityNameSpace</li>
-            </ul>
-            <ul style="margin-left: 8%;">
-              <li>Form Login</li>
-              <li>Remember Me</li>
-              <li>Session Concurrency</li>
-              <li>Logout</li>
-            </ul>
-            <ul>
-              <li>Working with Different Authentication Providers
-              </li>
-            </ul>
-            <ul style="margin-left: 8%;">
-              <li>XML File, Properties File, DataBase, LDAP Server
-              </li>
-            </ul>
-            <ul>
-              <li>Security Examples
-              </li>
-            </ul>
-            <ul style="margin-left: 8%;">
-              <li>Using XML Configurations</li>
-              <li>Using Annotation Configurations</li>
-              <li>100% Code Driven Configurations</li>
-              <li>Spring Boot Configuration</li>
-            </ul>
-            <ul>
-              <li>Using LDAP Server as Authentication Provider
-              </li>
+              <li>Node | NPM</li>
+              <li>Installation of CLI</li>
+              <li>Setup Project</li>
+              <li>Directory Structure</li>
+              <li>Code Editors</li>
+              <li>How React JS Application Boot</li>
             </ul>
           </div>
-
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">BASIC FEATURES OF REACT JS</h4>
+            <ul>
+              <li>React Concepts</li>
+              <li>JSX and TSX</li>
+              <li>Render Elements</li>
+              <li>Function and Class Components</li>
+              <li>Props and State</li>
+              <li>Handling Events</li>
+              <li>Dynamic Data Rendering</li>
+              <li>Property Binding</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">KEY FEATURES OF REACT JS</h4>
+            <ul>
+              <li>Conditional Rendering</li>
+              <li>List and Keys</li>
+              <li>Forms Handling</li>
+              <li>Forms Validations</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">COMPONENT LIFECYCLE HOOK</h4>
+            <ul>
+              <li>Understanding component lifecycle</li>
+              <li>All Lifecycle Hooks</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">EVENT HANDLING REACT</h4>
+            <ul>
+              <li>Understanding React Event System</li>
+              <li>Passing arguments to event Handlers</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">NETWORK CALL</h4>
+            <ul>
+              <li>Fetch</li>
+              <li>Axios</li>
+            </ul>
+          </div>
           <div class="col-lg-4">
             <h4 class="text-gradient text-primary mb-0 mt-2">CUSTOM SERVICES</h4>
             <ul>
@@ -546,6 +388,249 @@
               <li>Building a Service</li>
             </ul>
           </div>
+
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">LOCAL DATA STORAGE</h4>
+            <ul>
+              <li>Local Storage</li>
+              <li>Session Storage</li>
+              <li>Cookies</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">ROUTING WITH REACT ROUTER</h4>
+            <ul>
+              <li>Setting up React Router</li>
+              <li>Configuring route with Route Component</li>
+              <li>Making routes dynamic with Route Params</li>
+              <li>Working with nested routes</li>
+              <li>Link and NavLink</li>
+              <li>Redirect Routes</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">UI COMPONENTS</h4>
+            <ul>
+              <li>Angular Material</li>
+              <li>PrimeNG</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">INTRODUCTION TO REDUX</h4>
+            <ul>
+              <li>Why Redux</li>
+              <li>Install and setup</li>
+              <li>Store ,Reducer , actions</li>
+              <li>Dispatcher</li>
+              <li>High order Components</li>
+              <li>mapStateToProps and mapDispatchToProps usage</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">ADVANCE REDUX</h4>
+            <ul>
+              <li>Async Actions</li>
+              <li>Middleware</li>
+              <li>Redux Thunk and Redux Saga</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">React Hooks</h4>
+            <ul>
+              <li>Why We Need Hooks.</li>
+              <li>Different Types Of Hooks</li>
+              <li>Using State And Effect Hooks</li>
+              <li>Usereducer , Useref Etc</li>
+              <li>Custom Hooks</li>
+              <li>Rules Of Hooks</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Third Party Modules</h4>
+            <ul>
+              <li>Social Login</li>
+              <li>Pagination</li>
+              <li>Search</li>
+              <li>Filter</li>
+              <li>JWT Token</li>
+              <li>File Upload</li>
+              <li>Many More</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Rest Js Testing</h4>
+            <ul>
+              <li>Jest with Enzyme</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Develop a CRUD Application in React Js React JS Application Deployment</h4>
+            <ul>
+              <li>Build Application and Deployment</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Node Js</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Node.js</h4>
+            <ul>
+              <li>What is node.js</li>
+              <li>A word on event loop</li>
+              <li>Event driven architecture</li>
+              <li>Blocking vs non-blocking code</li>
+              <li>Node Process Model</li>
+              <li>Setup node.js</li>
+              <li>Node REPL</li>
+              <li>Debugging node.js app</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Modules in JS</h4>
+            <ul>
+              <li>Understanding exports and require</li>
+              <li>Creating modules</li>
+              <li>Importing modules</li>
+              <li>Quick tour on NPM</li>
+              <li>Installing 3rd party modules</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Events &amp; streams</h4>
+            <ul>
+              <li>Significance of Events</li>
+              <li>Event Emitter class</li>
+              <li>Emitting and listening to events</li>
+              <li>Types of streams</li>
+              <li>Working with streams</li>
+              <li>Composing streams using pipe</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Working with Process and File System</h4>
+            <ul>
+              <li>Process object</li>
+              <li>Handling exceptions at process level</li>
+              <li>Listening to process events</li>
+              <li>Working with file system using fs module</li>
+              <li>Creating, Copying, Deleting files</li>
+              <li>Creating, Copying, Deleting directories</li>
+              <li>Watching for file changes</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">HTTP</h4>
+            <ul>
+              <li>Building a Web Server</li>
+              <li>HTTP Request Methods, Headers</li>
+              <li>Response Codes and Headers</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Express Js</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Expressjs Introduction &amp; Setup</h4>
+            <ul>
+              <li>Building a Web Server</li>
+              <li>HTTP Request Methods, Headers</li>
+              <li>Response Codes and Headers</li>
+              <li>Serving static files with express</li>
+              <li>Express application generator</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Routing</h4>
+            <ul>
+              <li>Route Methods</li>
+              <li>Route Paths</li>
+              <li>Parameterized Routes</li>
+              <li>Route Handlers</li>
+              <li>Express Router</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Middleware</h4>
+            <ul>
+              <li>Types of middlewareApplication<br>- Router<br>- Error<br>- Built-in<br>- Third-party</li>
+              <li>Error middleware</li>
+              <li>Body parser, cors , cookie parser, session management</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+
+            <h4 class="text-gradient text-primary mb-0 mt-2">Template Engines</h4>
+            <ul>
+              <li>What are template engines</li>
+              <li>EJS</li>
+              <li>Jade</li>
+              <li>Handlebars</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Expressjs security</h4>
+            <ul>
+              <li>Authentication<br>- JWT<br>- Securing routes</li>
+              <li>Debugging in Express</li>
+              <li>Realtime programming with Socket.io</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">MongoDB</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to MongoDB</h4>
+            <ul>
+              <li>Installing MongoDB</li>
+              <li>The current SQL/NoSQL landscape</li>
+              <li>Document-oriented vs. other types of storage</li>
+              <li>Mongo's featureset</li>
+              <li>Common use-cases</li>
+              <li>MongoDB databases</li>
+              <li>MongoDB Collections</li>
+              <li>MongoDB Documents</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+
+            <h4 class="text-gradient text-primary mb-0 mt-2">CRUD Operations in Mongodb</h4>
+            <ul>
+              <li>Creating documentsinsert()<br>- update()<br>- save()</li>
+              <li>Querying documentsfind()<br>- Working with equality<br>- Query operators<br>- Building complex queries</li>
+              <li>Updating documents</li>
+              <li>Deleting documents</li>
+              <li>Limit</li>
+              <li>Order By</li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Mongoose</h4>
+            <ul>
+              <li>Word on ORM/ODM</li>
+
+              <li>Installing mongoose</li>
+
+              <li>Connecting to MongoDB from mongoose</li>
+
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Core concepts of Mongoose</h4>
+            <ul>
+              <li>Understanding mongoose schemas and datatypes</li>
+
+              <li>Working with Models</li>
+
+              <li>Using modifiers in schema</li>
+
+              <li>Using virtual fields</li>
+
+              <li>Optimizing query performance by enabling indexes</li>
+
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Mern Application Deployment</h4>
+            <ul>
+              <li>Build Application</li>
+              <li>Deploy in Heroku</li>
+            </ul>
+          </div>
+
         </div>
       </div>
 

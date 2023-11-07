@@ -75,7 +75,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                             </div>
                                             <div class="col-md-12 pe-2 mb-3">
                                                 <label>Phone </label>
-                                                <input class="form-control" name="phone" id="email" placeholder="Enter your Email" type="text">
+                                                <input class="form-control" name="phone" id="email" placeholder="Enter your Phone Number" type="text">
                                             </div>
                                             <div class="col-md-12 pe-2 mb-3">
                                                 <div class="form-group mb-0">
