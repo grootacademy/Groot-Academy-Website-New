@@ -439,7 +439,7 @@
                     <h1><img src="./img/groot.png" width="30%"></h1>
                     <p>
                         Welcome to Groot Academy, where we believe that anyone can learn to code. Our mission is to make programming education accessible and affordable for everyone.
-                        We offer a wide range of courses, from beginner-friendly programming languages like C/C++, Java, Python, and JavaScript to advanced topics like Data Science, Artificial Intelligence, and Machine Learning. Our courses are designed to cater to the needs of students of all ages and backgrounds, whether you're a high school student or a working professional looking to upskill.
+                        We offer a wide range of courses, from beginner-friendly programming languages like C++, Java, Python, and JavaScript to advanced topics like Data Science, Artificial Intelligence, and Machine Learning. Our courses are designed to cater to the needs of students of all ages and backgrounds, whether you're a high school student or a working professional looking to upskill.
 
                         At Groot Academy, we believe that the best way to learn programming is by doing. That's why we provide our students with hands-on practice through live projects and internships during the course. Our expert mentors, who are equally skilled in training students and working in the IT industry, will guide you every step of the way.
                         But we don't just stop at education. We also provide placement assistance in the IT industry, so you can launch your career as a developer with confidence. And the best part? Our courses are the most affordable programming courses in the market, so you don't have to break the bank to start your programming journey.

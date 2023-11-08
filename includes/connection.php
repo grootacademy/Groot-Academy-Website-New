@@ -8,6 +8,8 @@
 //hosting
 
 
+// open
+
 $servername = "31.220.110.201:3306";
 
 $username = "u232016825_swiggywala";
@@ -22,3 +24,4 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 // 
+?>

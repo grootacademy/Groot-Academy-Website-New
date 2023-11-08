@@ -1,5 +1,51 @@
-<?php include "./header.php"
-?>
+<?php include('./includes/header_com.php');  ?>
+    <!--  META DATA -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+
+    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <link rel="canonical" href="https://grootacademy.com/" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+
+
+    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+    <meta property="og:site_name" content="Groot Academy">
+    <meta property="og:url" content="https://grootacademy.com">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+
+
+    <meta property="og:image:width" content="90">
+    <meta property="og:image:height" content="90">
+
+
+    <meta name="language" content="en-us" />
+    <meta name="distribution" content="Global">
+    <meta name="Publisher" content="https://grootacademy.com">
+    <meta name="Rating" content="General">
+    <meta name=geography content="India ">
+    <meta name="geo.region" content="JP-RJ" />
+    <meta name="geo.placename" content="Jaipur" />
+    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+    <!--  META DATA -->
+    <?php include('./includes/header_down.php');  ?>
+
+
 <link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
 <div class="container mt-5">
@@ -8,8 +54,8 @@
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../courses.html">Courses</a></option>
-                        <li class="breadcrumb-item active" aria-current="page">Features</option>
+                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Features</li>
                     </ol>
                 </nav><br /><br />
                 <h4 class="course-heading"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="image" width="50" style="border-radius: 10px;" /> Flutter Application Development</h4>
@@ -404,7 +450,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Setting up React Router</option>
@@ -475,31 +521,31 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
                             </div> -->
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                    <div class="form-floating">
+                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Jest with Enzyme</option>
+                            <option disabled>Jest with Enzyme</option>
 
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                        </select>
+                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
+                    </div>
+                    <div class="form-floating">
+                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Build Application and Deployment</option>
+                            <option disabled>Build Application and Deployment</option>
 
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                            </div>
+                        </select>
+                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
+                    </div>
 
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Why Java was Developed</option>
                                     <option disabled>Application Areas of Java</option>
                                     <option disabled>History of Java</option>
                                     <option disabled>Platform Independency in Java</option>
-                                    <option disabled>U SP of Java: Java Features</option>
+                                    <option disabled>U SP of Java: Java Features</li>
                                     <option disabled>Sun-Oracle Deal</option>
                                     <option disabled>Different Java Platforms</option>
                                     <option disabled>Difference between JDK,JRE,JVM</option>
@@ -513,7 +559,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Understanding Text Editors to Write Programs</option>
@@ -526,7 +572,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Identifiers</option>
@@ -640,7 +686,7 @@
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
                             </div> -->
-                            <!-- <div class="form-floating">
+                    <!-- <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>What is String</option>
@@ -732,7 +778,7 @@
                         </div> -->
 
 
-                        <!-- <div class="col-md -6">
+                    <!-- <div class="col-md -6">
 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
@@ -1315,25 +1361,25 @@
 
                         </div> -->
 
-                    </div>
-
-
                 </div>
 
 
-
-
-
-
-
-
-
-                <?php include "./query-form.php" ?>
-
-
-
             </div>
+
+
+
+
+
+
+
+
+
+            <?php include "./query-form.php" ?>
+
+
+
         </div>
     </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-    <?php include "./footer.php" ?>
+</div>
+<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+<?php include "./footer.php" ?>

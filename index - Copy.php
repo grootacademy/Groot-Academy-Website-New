@@ -1,4 +1,51 @@
-        <?php include "./header.php" ?>
+        <?php include('./includes/header_com.php');  ?>
+    <!--  META DATA -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+
+    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <link rel="canonical" href="https://grootacademy.com/" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+
+
+    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+    <meta property="og:site_name" content="Groot Academy">
+    <meta property="og:url" content="https://grootacademy.com">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+
+
+    <meta property="og:image:width" content="90">
+    <meta property="og:image:height" content="90">
+
+
+    <meta name="language" content="en-us" />
+    <meta name="distribution" content="Global">
+    <meta name="Publisher" content="https://grootacademy.com">
+    <meta name="Rating" content="General">
+    <meta name=geography content="India ">
+    <meta name="geo.region" content="JP-RJ" />
+    <meta name="geo.placename" content="Jaipur" />
+    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+    <!--  META DATA -->
+    <?php include('./includes/header_down.php');  ?>
+
+
         <!-- End Navbar -->
 
 
@@ -237,7 +284,7 @@
                   <h6 class="text-secondary font-weight-normal pe-3">Are you ready to be a successful Programmer?.</h6>
 
                   <div class="d-flex justify-content-start mt-4">
-                    <a href="./courses.php">
+                    <a href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
                       <div class="alert alert-primary text-white font-weight-bold icon-move-right" role="alert">
                         See All Courses <i class="fas fa-arrow-right text-sm ms-1"></i>
                       </div>
@@ -263,7 +310,7 @@
                             <h5 class="text-white">FRONT END DEVELOPMENT</h5>
                             <p class="text-white">
                               This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
-                            <a href="./course-front-end-development-with-reactjs.php" class="text-white icon-move-right">
+                            <a href="./best-front-end-development-course-with-reactjs-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -279,7 +326,7 @@
 
                             <h5>BACK END DEVELOPMENT</h5>
                             <p>The course is interned for eager learners to learn the fundamentals of web development.</p>
-                            <a href="./course-back-end-development-with-Java.php" class="text-primary icon-move-right">
+                            <a href="./best-course-for-back-end-development-with-Java.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -296,7 +343,7 @@
 
                             <h5>FULL STACK DEVELOPMENT</h5>
                             <p>This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
-                            <a href="./course-full-stack-web-development.php" class="text-primary icon-move-right">
+                            <a href="./best-full-stack-web-development-course-in-jaipur.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -314,7 +361,7 @@
                             <h5 class="text-white">DATA STRUCTURE AND ALGORITHMS</h5>
                             <p class="text-white">This gives students the vision to Look into data structures and algorithms for things apart from coding.
                             </p>
-                            <a href="./course-data-structure-and-algorithms.php" class="text-white icon-move-right">
+                            <a href="./best-data-structure-course-and-algorithms-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -331,9 +378,9 @@
                           </div>
                           <div class="description ps-5">
 
-                            <h5 class="text-white">C/C++</h5>
+                            <h5 class="text-white">C++</h5>
                             <p class="text-white">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
-                            <a href="./course-c-programming-and-c-plus-plus-programming.php" class="text-white icon-move-right">
+                            <a href="./best-c-plus-plus-programming-course-in-jaipur.php" class="text-white icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -348,7 +395,7 @@
 
                             <h5>Advance Java</h5>
                             <p>Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
-                            <a href="./course-advance-java.php" class="text-primary icon-move-right">
+                            <a href="./best-advance-java-course-in-jaipur.php" class="text-primary icon-move-right">
                               Read more
                               <i class="fas fa-arrow-right text-sm ms-1"></i>
                             </a>
@@ -473,7 +520,7 @@
                                         </div>
                                         <div class="form-group mb-4">
                                           <label>Your message</label>
-                                          <textarea name="message" class="form-control" id="message" rows="4" required ></textarea>
+                                          <textarea name="message" class="form-control" id="message" rows="4" required></textarea>
                                         </div>
                                         <div class="row">
                                           <div class="col-md-12">

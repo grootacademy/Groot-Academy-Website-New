@@ -1,4 +1,4 @@
-<footer class="footer pt-5 mt-5">
+<!-- <footer class="footer pt-5 mt-5">
     <hr class="horizontal dark mb-5">
     <div class="container-fluid">
         <div class="col-md-3 mb-4 mt-2 ms-auto">
@@ -58,7 +58,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./courses.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php" target="_blank">
                             Courses
                         </a>
                     </li>
@@ -114,6 +114,7 @@
             </div>
         </div>
 
+//////////////////////////
         <div class="col-md-3 col-sm-6 col-6  ms-n4 mt-1 mb-4">
             <div>
                 <h5 class="mx-3 text-gradient text-primary">
@@ -139,17 +140,17 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./course-front-end-development-with-reactjs.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-front-end-development-course-with-reactjs-in-jaipur.php" target="_blank">
                             Learn Front End Development
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./course-back-end-development-with-Java.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-course-for-back-end-development-with-Java.php" target="_blank">
                             Learn Back End Development
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./course-full-stack-web-development.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-full-stack-web-development-course-in-jaipur.php" target="_blank">
                             Learn Full Stack Development
                         </a>
                     </li>
@@ -201,7 +202,219 @@
         </div>
     </div>
 
+</footer> -->
+
+
+
+
+
+<footer class="footer pt-5 mt-5">
+    <hr class="horizontal dark mb-5">
+    <div class="container">
+        <div class=" row">
+            <div class="col-md-3 mb-4 ms-auto">
+                <div>
+                    <h6 class="text-gradient text-primary font-weight-bolder text-lg">Groot Academy</h6>
+
+                </div>
+                <div>
+                    <h6 class="mt-3 mb-2 opacity-8">Social</h6>
+                    <ul class="d-flex flex-row ms-n3 nav">
+                        <li class="nav-item">
+                            <a class="nav-link pe-1" href="https://www.facebook.com/GrootAcademy/" target="_blank">
+                                <i class="fab fa-facebook text-lg opacity-8"></i>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link pe-1" href="https://twitter.com/GrootAcademy" target="_blank">
+                                <i class="fab fa-twitter text-lg opacity-8"></i>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link pe-1" href="https://www.instagram.com/groot_academy/" target="_blank">
+                                <i class="fab fa-instagram text-lg opacity-8"></i>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link pe-1" href="https://www.linkedin.com/in/grootacademy/" target="_blank">
+                                <i class="fab fa-linkedin text-lg opacity-8"></i>
+                            </a>
+                        </li>
+
+                        <li class="nav-item text-lg">
+                            <a class="nav-link pe-1" href="https://github.com/GrootAcademy" target="_blank">
+                                <i class="fab fa-github text-lg opacity-8"></i>
+                            </a>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="text-lg">We are a next generation IT training institute. We provide all kinds of industrial training in computer science technologies.</h5>
+                </div>
+            </div>
+
+
+
+            <div class="col-md-2 col-sm-6 col-6 mb-4">
+                <div>
+                    <h6 class="text-gradient text-primary text-lg">Help & Support</h6>
+                    <ul class="flex-column ms-n3 nav">
+                        <li class="nav-item ">
+                            <a class="nav-link " href="./about-us.php" target="_blank">
+                                About Us
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php" target="_blank">
+                                Courses
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./enroll.php" target="_blank">
+                                Enroll Now
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./contact-us.php" target="_blank">
+                                Contact Us
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6 col-6 mb-4">
+                <div>
+                    <h6 class="text-gradient text-primary text-lg">IT Services</h6>
+                    <ul class="flex-column ms-n3 nav">
+                        <li class="nav-item">
+                            <a class="nav-link " href="https://grootsoftware.com/software-development.php" target="_blank">
+                                Software Development
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="https://grootsoftware.com/web-development-services.php" target="_blank">
+                                Web Development
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="#" target="_blank">
+                                Analytic Solutions
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="#" target="_blank">
+                                Cloud and Devops
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="#" target="_blank">
+                                Product Design
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6 col-6 mb-4">
+                <div>
+                    <h6 class="text-gradient text-primary text-lg ">Our Courses</h6>
+                    <ul class="flex-column ms-n3 nav">
+                        <li class="nav-item">
+                            <a class="nav-link " href="./programming-courses-after-10th-class.php" target="_blank">
+                                Software Engineering After 10th
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./programming-or-coding-course-after-12th.php" target="_blank">
+                                Software Engineering After 12th
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./our-internship-programmes.php" target="_blank">
+                                Our Internship Programmes
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./best-front-end-development-course-with-reactjs-in-jaipur.php" target="_blank">
+                                Learn Front End Development
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./best-course-for-back-end-development-with-Java.php" target="_blank">
+                                Learn Back End Development
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="./best-full-stack-web-development-course-in-jaipur.php" target="_blank">
+                                Learn Full Stack Development
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto">
+                <div>
+                    <h6 class="text-gradient text-primary text-lg">Contact Information</h6>
+                    <ul class="flex-column ms-n3 nav">
+                        <li class="nav-item">
+                            <a class="nav-link  lh-lg " href="https://goo.gl/maps/cgovgmAk3ZRFtUVz8" target="_blank">
+                                <i class="fa fa-map-marker text-lg opacity-8"></i> : 73/34, Paramhans Marg, Mansarovar, Jaipur
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link  lh-lg " href="tel:01414859255">
+                                <i class="fa fa-mobile" aria-hidden="true"></i>: 01414859255
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link  lh-lg " href="#">
+                                <i class="fa fa-envelope" aria-hidden="true"></i> : info@grootacademy.com
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  lh-lg  " href="#">
+                                <i class="fa fa-clock-o" aria-hidden="true"></i> Opening Hours: 8:00AM - 9:00PM
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <div class="text-center">
+                    <p class="my-4 text-sm">
+                        All rights reserved. Copyright © <script>
+                            document.write(new Date().getFullYear())
+                        </script> Groot Software <a href="https://www.grootsoftware.com/" target="_blank">Creative Team</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
+
 
 
 

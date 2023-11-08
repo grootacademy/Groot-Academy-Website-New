@@ -58,7 +58,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <li class="breadcrumb-item active" aria-current="page">Features</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="image" width="50" style="border-radius: 10px;" /> Flutter Application Development</h4>
+                <h4 class="course-heading"><img src="./assets/img/grootFlutterlogo.png" alt="image" width="120" style="border-radius: 10px;" /> Flutter Application development</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -81,18 +81,20 @@ stack Web development with python Django , Full stack Web development with PHP, 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Full Stack Developer </h3><br/><br/>
+        <h3 class="text-gradient text-primary mb-0 mt-2">
+        Flutter Application Development: Unleashing Cross-Platform Brilliance!  Crafting Stunning Apps for the Future     
+    </h3><br/><br/>
         <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this full stack web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to full stack web development to guide you on selecting skills to learn.     </h6>
-       
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+        Are you ready to dive into the dynamic world of Flutter Application Development? Welcome to the cutting-edge framework that empowers developers to build beautiful, responsive, and high-performance apps for multiple platforms! </h6>
 
-        '></iframe>
+                    </div>
+
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+            '></iframe>
                     </div>
 
                 </div>
@@ -113,15 +115,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
+        <h3 class="text-gradient text-primary mb-0 mt-2"> The Beauty of Flutter: Where Art Meets Engineering</h3>
         <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-        <ul >
-        <li>Build dynamic data-driven websites and applications.</li>
-        <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Full Stack Developer Salary.</li>
-        <li>Diverse Growth Options.</li>
-    </ul>
+        <h6>
+        Flutter, a creation of Google, is a powerful open-source UI software development kit that allows developers to create visually captivating and expressive apps with ease. With Flutter, the boundaries between design and engineering blur, as developers and designers collaborate seamlessly to craft stunning user interfaces and seamless user experiences.
+        </h6>
+    
       </div>
      
     </div>
@@ -150,18 +149,21 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2">
+              Cross-Platform Prowess: Write Once, Run Everywhere  
+            </h3>
               <br/><br/>
-              <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+              <h6>
+              Embrace the freedom of cross-platform development with Flutter!  Write your code once and deploy it effortlessly on multiple platforms, including iOS, Android, web, and even desktop applications. Flutter s single codebase approach not only speeds up development but also ensures a consistent user experience across various devices, reaching a wider audience in no time. </h6>
 
+                    </div>
+
+                </div>
             </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-        '></iframe>
+            '></iframe>
                     </div>
 
                 </div>
@@ -172,35 +174,146 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
                         <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
-              <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
-
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Fast and Fluid Performance: Powering Next-Gen Apps    
+</h3>
+                                     <br/><br/>
+                                    <h6>
+                                    Performance is the cornerstone of Flutter Application Development. With Flutter is blazing-fast rendering engine, apps feel incredibly smooth and responsive, offering users a delightful experience. Say goodbye to lag and jank, and embrace the fluidity that will elevate your app above the competition.</h6>
+                                 </div>
+                              </div>
+                            </div>
+                     </section>
+                    <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
                     </div>
-
                 </div>
             </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">  Beautifully Customizable: Where Imagination Takes Flight</h3>
+                                     <br/><br/>
+                                    <h6>Flutter lets your imagination run wild! The framework provides a rich set of customizable widgets, making it a playground for creativity. Tailor your app is look and feel to match your brand identity or create unique and visually appealing interfaces that captivate your users from the first interaction.</h6>
+                    </div>
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">  A Rich Ecosystem: Empowering Developers</h3>
+                                     <br/><br/>
+                                    <h6>Flutter is extensive ecosystem paves the way for endless possibilities. From an array of pre-built packages to a vibrant community of developers, you have access to the tools and resources you need to create feature-rich apps. Whether you are building a startup is MVP or a complex enterprise application, Flutter is ecosystem has you covered.</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">Pioneering Innovation: Embrace the Future of App Development
+</h3>
+                                     <br/><br/>
+                                    <h6>Flutter is more than just a framework; it is an innovation enabler. Embrace the latest trends, such as Progressive Web Apps (PWAs), augmented reality, and IoT integration, with Flutter is adaptability and flexibility. Stay ahead of the curve and build apps that amaze and inspire.</h6>
+                    </div>
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Unleash Your App is Potential with Flutter!</h3>
+                                     <br/><br/>
+                                    <h6>If you are seeking to create cutting-edge, high-performance apps that resonate with users on every platform, Flutter Application Development is your key to success. Join the growing community of developers who are revolutionizing app development with this revolutionary framework.
+Unleash your creativity, build remarkable user experiences, and leave your mark in the fast-paced mobile world with Flutter Application Development. Embrace the future of app development and let your brilliance shine! 
+#FlutterDevelopment #AppDevelopment #Innovation #CrossPlatform #UIUXDesign #HighPerformanceApps #Customization #FutureReady #AppCreators #MobileApps #FlutterFramework #BeautifulApps #FastAndResponsive #InnovationEnabler
+ </h6>
+        </div>
+    </div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
 
 
 
@@ -222,8 +335,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <div class="col-md-12 btn bg-gradient-primary">
                     <div class="tab-content tab-space">
                         <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg">
-                                Java
+                            <span class="text-lg text-primary">
+                                Android App Development
                             </span>
                         </div>
 
@@ -236,12 +349,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <br /><br />
 
 
-                    <!-- <div class="row">
+                    <div class="row">
                         <div class="col-md -6">
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>What is Web?</option>
+                                    <option disabled>What is Android?</option>
                                     <option disabled>Web Features ?</option>
                                     <option disabled>Intervals and Objects</option>
                                     <option disabled>W3C and W3C Members</option>
@@ -249,24 +362,22 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
                                 </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Flutter</label>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to AndroidDevelopment </label>
                             </div>
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Introduction</option>
-                                    <option disabled>A brief history of Android</option>
-                                    <option disabled>What is Android?</option>
-                                    <option disabled>Why is Android important?</option>
-                                    <option disabled>What benefits does Android have?</option>
+                                    <option disabled>Parts in HTML Document</option>
+                                    <option disabled>Version Information</option>
+                                    <option disabled>Head Section</option>
+                                    <option disabled>Head Section</option>
 
-                                    <option disabled>What is OHA?</option>
-                                    <option disabled>Why to choose Android?</option>
-                                    <option disabled>Software architecture of Android</option>
-                                    <option disabled>Advantages of Android</option>
-                                    <option disabled>Android features Android market</option>
-                                    <option disabled>Comparing Android with other platform</option>
-                                    <option disabled>Terms and acronyms</option>
+                                    <option disabled>Meta Information</option>
+                                    <option disabled>Favicons</option>
+                                    <option disabled>Body Section</option>
+                                    <option disabled>HTML FORMS</option>
+                                    <option disabled>Anchors, Images</option>
 
 
 
@@ -449,8 +560,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>Cookies</option>
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Setting up React Router</option>
@@ -520,25 +631,25 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div> -->
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            <option disabled>Jest with Enzyme</option>
+                                    <option disabled>Jest with Enzyme</option>
 
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                    </div>
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            <option disabled>Build Application and Deployment</option>
+                                    <option disabled>Build Application and Deployment</option>
 
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                    </div>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
+                            </div>
 
-                    <!-- <div class="form-floating">
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Why Java was Developed</option>
@@ -558,8 +669,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Understanding Text Editors to Write Programs</option>
@@ -571,8 +682,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Identifiers</option>
@@ -685,8 +796,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>What is String</option>
@@ -775,10 +886,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SOCKET PROGRAMMING</label>
                             </div>
 
-                        </div> -->
+                        </div>
 
 
-                    <!-- <div class="col-md -6">
+                        <div class="col-md -6">
 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
@@ -944,7 +1055,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Introduction to ios programming</option>
+                                    <option disabled>Introduction to web programming</option>
                                     <option disabled>Role of Servlet in web programming</option>
                                     <option disabled>Servlet Lifecycle</option>
                                     <option disabled>Servlet with Annotations</option>
@@ -1071,8 +1182,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             <div class="col-md-12 btn bg-gradient-primary">
                                 <div class="tab-content tab-space">
                                     <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            Spring
+                                        <span class="text-lg text-primary">
+                                            Android
                                         </span>
                                     </div>
 
@@ -1325,8 +1436,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>SQL Queries</option>
                                     <option disabled>Hibernate Queries language</option>
 
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</label>
                             </div>
@@ -1339,9 +1448,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>The Transactions API</option>
                                     <option disabled>Transaction Example Using Oracle</option>
                                     <option disabled>Locking</option>
-
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE TRANSACTIONS AND LOCKING </label>
                             </div>
@@ -1351,35 +1457,16 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>How caching improves performance</option>
                                     <option disabled>First level lache</option>
                                     <option disabled>Second level cache</option>
-
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE CACHING </label>
                             </div>
-
-
-                        </div> -->
-
+                        </div>
+                    </div>
                 </div>
 
-
+                <?php include "./query-form.php" ?>
             </div>
-
-
-
-
-
-
-
-
-
-            <?php include "./query-form.php" ?>
-
-
-
         </div>
     </div>
-</div>
-<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+    <?php include "./footer.php" ?>

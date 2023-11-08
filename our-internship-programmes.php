@@ -1,31 +1,77 @@
-<?php  include "./header.php"
-?>
-<link href="./assets/css/courses.css" rel="stylesheet" />
-    <!-- End Navbar -->
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-lg-12 mx-auto">
-                <div class="mb-4 w-100">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="../courses.html">Courses</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Features</li>
-                        </ol>
-                    </nav><br/><br/>
-                    <h4 class="course-heading">Groot Academy Internship Program  <i class="fas fa-graduation-cap"></i></h4> 
-                </div>
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                    <div class="container border-bottom">
-                        <div class="row justify-space-between py-2">
-                            <div class="col-lg-3 me-auto">
-                                <p class="lead text-dark pt-1 mb-0"></p>
-                            </div>
+<?php include('./includes/header_com.php');  ?>
+    <!--  META DATA -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-                        </div>
-                    </div>
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <link rel="canonical" href="https://grootacademy.com/" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+
+
+    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+    <meta property="og:site_name" content="Groot Academy">
+    <meta property="og:url" content="https://grootacademy.com">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+
+
+    <meta property="og:image:width" content="90">
+    <meta property="og:image:height" content="90">
+
+
+    <meta name="language" content="en-us" />
+    <meta name="distribution" content="Global">
+    <meta name="Publisher" content="https://grootacademy.com">
+    <meta name="Rating" content="General">
+    <meta name=geography content="India ">
+    <meta name="geo.region" content="JP-RJ" />
+    <meta name="geo.placename" content="Jaipur" />
+    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+    <!--  META DATA -->
+    <?php include('./includes/header_down.php');  ?>
+
+
+<link href="./assets/css/courses.css" rel="stylesheet" />
+<!-- End Navbar -->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-lg-12 mx-auto">
+      <div class="mb-4 w-100">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Features</li>
+          </ol>
+        </nav><br /><br />
+        <h4 class="course-heading">Groot Academy Internship Program <i class="fas fa-graduation-cap"></i></h4>
+      </div>
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+        <div class="container border-bottom">
+          <div class="row justify-space-between py-2">
+            <div class="col-lg-3 me-auto">
+              <p class="lead text-dark pt-1 mb-0"></p>
+            </div>
+
+          </div>
+        </div>
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -50,17 +96,17 @@ Spend your internship with one of the best technology-driven programming institu
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Nucleo Icons -->
@@ -72,7 +118,7 @@ Spend your internship with one of the best technology-driven programming institu
       <div class="col-lg-12">
         <h3 class="text-gradient text-primary mb-0 mt-2">What we offer?</h3>
         <br/><br/>
-        <h6>TThis 3 month internship will give you the opportunity to learn about our technology business, build your coding skills and prepare you for your career. You could work on projects that deliver real solutions for our customers, clients and businesses. No matter if you’re working on payment solutions or trading algorithms, you’ll see tangible results from your work.</h6>
+        <h6>This 3 month internship will give you the opportunity to learn about our technology business, build your coding skills and prepare you for your career. You could work on projects that deliver real solutions for our customers, clients and businesses. No matter if you’re working on payment solutions or trading algorithms, you’ll see tangible results from your work.</h6>
 
       </div>
      
@@ -82,17 +128,17 @@ Spend your internship with one of the best technology-driven programming institu
 <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -116,20 +162,20 @@ Interns are encouraged to take time to explore, shadowing other teams and networ
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
+        </div>
+      </div>
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -156,21 +202,21 @@ Throughout the course of the summer, you’ll hear from senior leaders during ou
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
+        </div>
+      </div>
 
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -192,18 +238,18 @@ Throughout the course of the summer, you’ll hear from senior leaders during ou
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -230,17 +276,17 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -266,16 +312,16 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -297,17 +343,17 @@ You’ll develop the skills and acumen to take your career in any direction and 
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
+        </div>
+      </div>
 
 
-                <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+      <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-features-1">
-                            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <div class="tab-content tab-space">
+          <div class="tab-pane active" id="preview-features-1">
+            <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
               <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
               <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
               <!-- Nucleo Icons -->
@@ -339,25 +385,25 @@ We hope this information comes in handy in understanding how to become a softwar
       <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
         '></iframe>
-                        </div>
+          </div>
 
-                    </div>
-                </div>
-
-
-
-
-
-
-
-
-
-              <?php include "./query-form.php" ?>
-
-
-
-            </div>
         </div>
+      </div>
+
+
+
+
+
+
+
+
+
+      <?php include "./query-form.php" ?>
+
+
+
     </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?> 
+  </div>
+</div>
+<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+<?php include "./footer.php" ?>

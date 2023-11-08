@@ -1,94 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx" style="  position: relative;
-  bottom: 35px;
-">
-
-<head>
-
-    <!-- meta tag -->
-    <meta charset="utf-8">
-
-
-
-    <!-- Google tag (gtag.js) from google ads -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCPWTCMTS8">
-    </script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-WCPWTCMTS8');
-    </script>
-
-    <!-- Google tag (gtag.js) for on swiggywala gmail -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KPQ3FPDFWN"></script>
-
-
-
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-KPQ3FPDFWN');
-    </script>
-    <!-- Google tag (gtag.js) for on swiggywala gmail -->
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-TVN2997');
-    </script>
-    <!-- End Google Tag Manager -->
-    <?php
-    include('includes/connection.php');
-    /*
-    $page_name = basename($_SERVER['PHP_SELF']);
-    // echo $page_name;
-    $query = sprintf("select * from meta_description where page_name='%s'", mysqli_real_escape_string($conn, $page_name));
-    // echo $query;
-    $description = "";
-    $title = "";
-    $keywords = "";
-    $auther = "";
-    // $qr="select * from meta_description where page_name";
-    $result = mysqli_query($conn, $query, MYSQLI_STORE_RESULT);
-    while ($row = mysqli_fetch_assoc($result)) {
-        $description = $row['description'];
-        $title = $row['title'];
-        $keywords = $row['keywords'];
-        $auther = $row['auther'];
-    }
-    */
-    ?>
-
-    <!-- <title><?php echo $title; ?></title>
-    <meta property="og:url" content="https://www.grootacademy.com/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot academy" />
-    <meta property="og:description" content="Your grow your knowladge with groot academy" />
-    <meta property="og:image" content="https://www.grootacademy.com/assets/images/groot-horizontal-logo-transparent.png" />
-    <meta name="description" content="<?php echo $description; ?>">
-    <meta name="keywords" content="<?php echo $keywords; ?>">
-    <meta name="author" content="<?php echo $auther; ?>"> -->
+<?php include('./includes/header_com.php');  ?>
+    <!--  META DATA -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
@@ -129,16 +40,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <meta name="Search Engine" CONTENT="https://www.google.co.in/">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-    <link rel="icon" type="image/x-icon" href="./assets/img/groot_favicon_icon.png">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <link href="./assets/css/groot.css" rel="stylesheet" />
 
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-    <!-- Nucleo Icons -->
+    <!--  META DATA -->
+    <?php include('./includes/header_down.php');  ?>
 
+<<<<<<< HEAD
     <link href="./assets/css/comments.css" rel="stylesheet" />
 
     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
@@ -709,3 +616,5 @@ stack Web development with python Django , Full stack Web development with PHP, 
             xhr.send(formData);
         });
     </script> -->
+=======
+>>>>>>> 4de6e8f351760d6888fd5574b1acddafb441bc9d

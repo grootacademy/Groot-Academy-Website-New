@@ -58,7 +58,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <li class="breadcrumb-item active" aria-current="page">Features</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="image" width="50" style="border-radius: 10px;" /> Flutter Application Development</h4>
+                <h4 class="course-heading"><img src="./assets/img/groot-academy-ios.png" alt="image" width="70" style="border-radius: 10px;" /> IOS application development </h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -81,18 +81,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Full Stack Developer </h3><br/><br/>
+        <h3 class="text-gradient text-primary mb-0 mt-2"> Step into the World of Limitless Creativity!  iOS Application Development at Groot Academy : Unleashing Innovation and Empowering Future Developers 
+ </h3><br/><br/>
         <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this full stack web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to full stack web development to guide you on selecting skills to learn.     </h6>
-       
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+        Are you eager to explore the captivating realm of iOS application development? Look no further! Groot Academy s iOS Application Development program offers a transformative learning experience that will empower you to create cutting-edge apps for Apple s iconic devices. </h6>
 
-        '></iframe>
+                    </div>
+
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+            '></iframe>
                     </div>
 
                 </div>
@@ -113,15 +114,11 @@ stack Web development with python Django , Full stack Web development with PHP, 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h3>
+        <h3 class="text-gradient text-primary mb-0 mt-2">Welcome to Groot Academy: Nurturing Excellence and Fostering Innovation </h3>
         <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-        <ul >
-        <li>Build dynamic data-driven websites and applications.</li>
-        <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Full Stack Developer Salary.</li>
-        <li>Diverse Growth Options.</li>
-    </ul>
+        <h6>At Groot Academy, we take pride in being a hub of excellence and innovation. Our mission is to nurture talent, ignite creativity, and equip aspiring developers with the skills they need to thrive in the dynamic world of iOS app development. When you join Groot Academy, you become part of a vibrant community that shares your passion for technology and innovation.
+ </h6>
+    
       </div>
      
     </div>
@@ -150,18 +147,20 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h3>
+              <h3 class="text-gradient text-primary mb-0 mt-2"> Embrace the Power of Collaboration: Together, We Create Brilliance
+</h3>
               <br/><br/>
-              <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
+              <h6>Collaboration lies at the heart of Groot Academy s educational philosophy. We believe in the power of teamwork and diverse perspectives. In our iOS Application Development program, you ll have the chance to collaborate with fellow students, engage in group projects, and bring your app ideas to life through collective creativity.
+Learning in a collaborative environment fosters essential teamwork skills and prepares you for the collaborative nature of the app development industry. Together, we can create brilliance and unleash the potential of Apple  s innovative iOS platform. </h6>
 
+                    </div>
+
+                </div>
             </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-        '></iframe>
+            '></iframe>
                     </div>
 
                 </div>
@@ -172,35 +171,182 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
                         <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
-              <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
-
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">Extensive Hands-On Experience: Turning Theory into Reality</h3>
+                                     <br/><br/>
+                                    <h6>While theory lays the foundation, hands-on experience is the key to unlocking your true potential as an iOS developer. At Groot Academy, we emphasize practical learning through real-world projects and interactive coding exercises. You ll have access to cutting-edge development tools and work on iOS apps from concept to implementation.
+Under the mentorship of our seasoned iOS developers, you ll gain the confidence to tackle challenges, code with precision, and design user-friendly interfaces. Our instructors bring a wealth of industry experience to the table, guiding you through the complexities of iOS app development and preparing you for the real app-building world.
+ </h6>
+                                 </div>
+                              </div>
+                            </div>
+                     </section>
+                    <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
                     </div>
-
                 </div>
             </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">  Expert Mentorship: Guiding You to Success</h3>
+                                     <br/><br/>
+                                    <h6>At Groot Academy, we understand the importance of personalized guidance on your learning journey. Our expert mentors are here to support you every step of the way, offering insights, answering questions, and providing constructive feedback. Their mentorship goes beyond technicalities, helping you grow as a developer and fostering the right mindset for innovation.
+Our mentors have navigated the iOS app development landscape, and they are eager to share their experiences and industry best practices with you. Their guidance will be instrumental in shaping you into a skilled and forward-thinking iOS developer
+ </h6>
+                    </div>
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">  Innovative Curriculum: Stay Ahead of the Curve</h3>
+                                     <br/><br/>
+                                    <h6>In the rapidly evolving world of technology, staying ahead of the curve is essential. Groot Academy s iOS Application Development curriculum is designed to keep you up-to-date with the latest iOS features, programming languages, and development frameworks. From learning Swift to exploring SwiftUI and ARKit, you ll be equipped with the knowledge to build cutting-edge, immersive iOS apps.
+We encourage innovative thinking and originality. Groot Academy provides a platform for you to experiment, prototype, and develop innovative iOS applications. Your ideas are the catalysts for change, and we believe in empowering you to think outside the box and turn your unique app visions into reality.
+</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Unleash Your App Creations: Shine in the Spotlight</h3>
+                                     <br/><br/>
+                                    <h6>As part of our iOS Application Development program, you wll have the opportunity to showcase your app creations at Groot Academy s exclusive app expos and events. These platforms offer you a chance to shine and demonstrate your talent and technical expertise to industry professionals and potential employers.
+The exposure gained from these events can open doors to exciting career opportunities or even inspire you to take the entrepreneurial path. Groot Academy celebrates the innovation and creativity of its students, setting the stage for a promising future in the iOS app development industry.
+ </h6>
+                    </div>
+                </div>
+            </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2">Launch Your Career: Opening Doors to Opportunities</h3>
+                                     <br/><br/>
+                                    <h6>Graduating from Groot Academy s iOS Application Development program is the first step toward a world of opportunities. The demand for skilled iOS developers is ever-growing, with companies seeking talented individuals who can create remarkable app experiences for Apple users worldwide.
+Whether you aspire to work with renowned tech companies or pursue your own app development venture, Groot Academy equips you with the skills, knowledge, and confidence to excel in the competitive iOS app development landscape. Additionally, our extensive network of industry partnerships and alumni connections enhances your chances of securing internships, job placements, and mentorships
+ </h6>
+        </div>
+    </div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                     <section class="py-3">
+                         <div class="container">
+                             <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Unleash Your iOS Developer Potential Today!</h3>
+                                     <br/><br/>
+                                    <h6>
+                                    If you are ready to embark on an inspiring journey in iOS application development, Groot Academy is the perfect place to begin. Embrace the world of limitless creativity and innovation that awaits you as an iOS developer. Unleash your potential, embrace the Apple ecosystem, and become part of a community that is shaping the future of mobile technology.
+Join us at Groot Academy and together, let s unleash innovation, and empower the next generation of iOS app developers! 🌱🎉
+#GrootAcademy #iOSDevelopment #AppDevelopers #Innovation #TechLeaders #AppCreators #MobileApps #EmpoweringInnovation #FutureReady #TechEducation #AppleEcosystem #SwiftProgramming #iOSAppDevelopment #CareerOpportunities
+
+                                    </h6>
+        </div>
+    </div>
+</div>
+</section>
+<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
 
 
 
@@ -222,8 +368,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <div class="col-md-12 btn bg-gradient-primary">
                     <div class="tab-content tab-space">
                         <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg">
-                                Java
+                            <span class="text-lg text-primary">
+                                Android App Development
                             </span>
                         </div>
 
@@ -236,12 +382,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <br /><br />
 
 
-                    <!-- <div class="row">
+                    <div class="row">
                         <div class="col-md -6">
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>What is Web?</option>
+                                    <option disabled>What is Android?</option>
                                     <option disabled>Web Features ?</option>
                                     <option disabled>Intervals and Objects</option>
                                     <option disabled>W3C and W3C Members</option>
@@ -249,24 +395,22 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
                                 </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Flutter</label>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to AndroidDevelopment </label>
                             </div>
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Introduction</option>
-                                    <option disabled>A brief history of Android</option>
-                                    <option disabled>What is Android?</option>
-                                    <option disabled>Why is Android important?</option>
-                                    <option disabled>What benefits does Android have?</option>
+                                    <option disabled>Parts in HTML Document</option>
+                                    <option disabled>Version Information</option>
+                                    <option disabled>Head Section</option>
+                                    <option disabled>Head Section</option>
 
-                                    <option disabled>What is OHA?</option>
-                                    <option disabled>Why to choose Android?</option>
-                                    <option disabled>Software architecture of Android</option>
-                                    <option disabled>Advantages of Android</option>
-                                    <option disabled>Android features Android market</option>
-                                    <option disabled>Comparing Android with other platform</option>
-                                    <option disabled>Terms and acronyms</option>
+                                    <option disabled>Meta Information</option>
+                                    <option disabled>Favicons</option>
+                                    <option disabled>Body Section</option>
+                                    <option disabled>HTML FORMS</option>
+                                    <option disabled>Anchors, Images</option>
 
 
 
@@ -449,8 +593,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>Cookies</option>
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Setting up React Router</option>
@@ -520,25 +664,25 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div> -->
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            <option disabled>Jest with Enzyme</option>
+                                    <option disabled>Jest with Enzyme</option>
 
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                    </div>
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
+                            </div>
+                            <div class="form-floating">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                            <option disabled>Build Application and Deployment</option>
+                                    <option disabled>Build Application and Deployment</option>
 
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                    </div>
+                                </select>
+                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
+                            </div>
 
-                    <!-- <div class="form-floating">
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Why Java was Developed</option>
@@ -558,8 +702,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Understanding Text Editors to Write Programs</option>
@@ -571,8 +715,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>Identifiers</option>
@@ -685,8 +829,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
+                            </div>
+                            <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
                                     <option disabled>What is String</option>
@@ -775,10 +919,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SOCKET PROGRAMMING</label>
                             </div>
 
-                        </div> -->
+                        </div>
 
 
-                    <!-- <div class="col-md -6">
+                        <div class="col-md -6">
 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
@@ -944,7 +1088,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Introduction to ios programming</option>
+                                    <option disabled>Introduction to web programming</option>
                                     <option disabled>Role of Servlet in web programming</option>
                                     <option disabled>Servlet Lifecycle</option>
                                     <option disabled>Servlet with Annotations</option>
@@ -1071,8 +1215,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             <div class="col-md-12 btn bg-gradient-primary">
                                 <div class="tab-content tab-space">
                                     <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            Spring
+                                        <span class="text-lg text-primary">
+                                            Android
                                         </span>
                                     </div>
 
@@ -1325,8 +1469,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>SQL Queries</option>
                                     <option disabled>Hibernate Queries language</option>
 
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</label>
                             </div>
@@ -1339,9 +1481,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>The Transactions API</option>
                                     <option disabled>Transaction Example Using Oracle</option>
                                     <option disabled>Locking</option>
-
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE TRANSACTIONS AND LOCKING </label>
                             </div>
@@ -1351,35 +1490,16 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     <option disabled>How caching improves performance</option>
                                     <option disabled>First level lache</option>
                                     <option disabled>Second level cache</option>
-
-
-
                                 </select>
                                 <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE CACHING </label>
                             </div>
-
-
-                        </div> -->
-
+                        </div>
+                    </div>
                 </div>
 
-
+                <?php include "./query-form.php" ?>
             </div>
-
-
-
-
-
-
-
-
-
-            <?php include "./query-form.php" ?>
-
-
-
         </div>
     </div>
-</div>
-<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+    <?php include "./footer.php" ?>
