@@ -302,10 +302,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <!-- </div>
             </div> -->
             <div class="col-lg-12">
-                <h1>Our Coding or Programming Courses</h1>
-            </div>
-
-            <div class="col-lg-12">
                 <div class="row">
                     <div class="col-md-4 col-xs-6 col-sm-6 mt-md-0">
                         <a href="./programming-courses-after-10th-class.php">
