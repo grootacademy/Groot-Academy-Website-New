@@ -496,39 +496,39 @@ stack Web development with python Django , Full stack Web development with PHP, 
                               <div class="card-body">
                                 <div class="row">
                                   <div class="col-md-12">
-                                    <label style="font-family: 'Chivo', sans-serif;"> Name</label>
+                                    <label style="font-family: 'Chivo', sans-serif;" class="text-light"> Name</label>
                                     <div class="input-group mb-4">
                                       <input class="form-control" name="name" placeholder="Enter Your Name" aria-label="Name..." type="text">
                                     </div>
                                   </div>
                                   <div class="col-md-12 ps-2">
-                                    <label style="font-family: 'Chivo', sans-serif;">Email</label>
+                                    <label style="font-family: 'Chivo', sans-serif;" class="text-light">Email</label>
                                     <div class="input-group">
                                       <input type="email" name="email" class="form-control" placeholder="Enter Your Email" aria-label="Email...">
                                     </div>
                                   </div>
                                 </div>
                                 <div class="mb-4">
-                                  <label style="font-family: 'Chivo', sans-serif;">Mobile</label>
+                                  <label style="font-family: 'Chivo', sans-serif;" class="text-light">Mobile</label>
                                   <div class="input-group">
                                     <input type="text" name="phone" id="phone" class="form-control" placeholder="Enter Your Mobile Number">
                                   </div>
                                 </div>
                                 <div class="mb-4">
-                                  <label style="font-family: 'Chivo', sans-serif;">Enter Courses Name You Are Intersted For</label>
+                                  <label style="font-family: 'Chivo', sans-serif;" class="text-light">Enter Courses Name You Are Intersted For</label>
                                   <div class="input-group">
                                     <input type="text" name="courseName" id="CourseName" class="form-control" placeholder="Enter Course Name">
                                   </div>
                                 </div>
                                 <div class="form-group mb-4">
-                                  <label style="font-family: 'Chivo', sans-serif;">Your message</label>
+                                  <label style="font-family: 'Chivo', sans-serif;" class="text-light">Your message</label>
                                   <textarea name="message" class="form-control" id="message" rows="4" placeholder="Enter A message that your want convey to us"></textarea>
                                 </div>
                                 <div class="row">
                                   <div class="col-md-12">
                                     <div class="form-check form-switch mb-4">
                                       <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked="">
-                                      <label class="form-check-label" for="flexSwitchCheckDefault">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
+                                      <label class="form-check-label" for="flexSwitchCheckDefault" class="text-light">I agree to the <a href="javascript:;" class="text-dark"><u>Terms and Conditions</u></a>.</label>
                                     </div>
                                   </div>
                                   <div class="col-md-12">
