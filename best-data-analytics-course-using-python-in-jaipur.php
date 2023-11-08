@@ -111,15 +111,15 @@
                                     It has been opted as the most preferred Language for Data Analytics and the increasing search trends on Python every day also indicate that it is the "Next Big Thing" and a must for aspirants in the Data Analytics field.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                    <!-- brochures button -->
+                                <!-- brochures button -->
 
-                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+                                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
 
-                <!-- brochures button -->
-              <!-- Left side bar  -->
+                                <!-- brochures button -->
+                                <!-- Left side bar  -->
 
-                <?php include("./includes/left-side-bar.php") ?>
-<!-- Left side bar  -->
+                                <?php include("./includes/left-side-bar.php") ?>
+                                <!-- Left side bar  -->
 
 
                             </div>
@@ -152,7 +152,7 @@
 
                                         <p>There are many different analytics training institutes available, but not all of them are created equal.
 
-                                        <p>Ducat, The IT Training School, is one of India's leading analytics training institutes, having a physical presence in Delhi, Jaipur, Gurgaon and Ghaziabad.
+                                        <p>Groot, The IT Training School, is one of India's leading analytics training institutes, having a physical presence in Delhi, Jaipur, Gurgaon and Ghaziabad.
 
                                         <p>The institute's extensive curriculum covers all of the fundamental competencies needed for a career in analytics.
 
@@ -160,10 +160,10 @@
                                     <div class="col-lg-6 p-4 mb-4">
                                         <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Analytics Training Importance
                                             </strong></h4>
-                                        <p>Ducat's analytics training program is designed to help you develop the skills you need to succeed in the real world.</p>
+                                        <p>Groot's analytics training program is designed to help you develop the skills you need to succeed in the real world.</p>
                                         <p>The program includes hands-on training with real-world data sets so that you can apply your skills to real-world problems.</p>
                                         <p> In addition to the technical skills,Groot-Academy also teaches you the soft skills essential for success in analytics. These skills include communication, teamwork, and problem-solving.</p>
-                                        <p>Ducat's analytics training program is also highly practical. The program includes a capstone project, where you can apply your skills to a real-world problem.</p>
+                                        <p>Groot's analytics training program is also highly practical. The program includes a capstone project, where you can apply your skills to a real-world problem.</p>
                                         <p>You will have the opportunity to show potential employers your talents through this project.</p>
                                         <p>Additionally,Groot-Academy helps its learners find jobs.</p>
                                         <p>The institute has a strong network of corporate partners who are always looking for talented data analysts and scientists.</p>
@@ -216,7 +216,7 @@
                                     <div class="col-lg-6">
                                         <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot-Academy?</strong></h4>
                                         <ul>
-                                            <li>Ducat has a dedicated team of highly expert trainers to identify, evaluate, implement, and provide the Best Data Analytics Using Python Training Institute in Jaipur for our students.</li>
+                                            <li>Groot has a dedicated team of highly expert trainers to identify, evaluate, implement, and provide the Best Data Analytics Using Python Training Institute in Jaipur for our students.</li>
                                             <li>Our Trainers leverage a defined methodology that helps identify opportunities, develop the most optimal resolution and maturely execute the solution.</li>
                                             <li>We have the best trainers across the world to provide the Best Data Analytics Using Python Training in Jaipur who are highly qualified and are the best in their field.</li>
                                             <li>The Training & Placement cell is committed to providing all attainable help to the students in their efforts to seek out employment and internships in every field.</li>
