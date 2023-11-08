@@ -553,7 +553,6 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <h2>Fill out this form</h2>
             <!-- return validateForm(); -->
             <form id="userForm  closePopup" action="./process.php" method="POST">
-
                 <label for="userName">Name:</label>
                 <input class="form-control" placeholder="Enter Name" autofocus required type="text" id="name" name="name">
                 <br>
