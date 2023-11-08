@@ -57,7 +57,7 @@
           </ol>
         </nav><br /><br />
 
-        <h4 class="course-heading">NodeJS Full Stack Developer | Full Stack Developemnt with NodeJs Course | MERN stack Developemnt Training in jaipur</h4>
+        <h4 class="course-heading">Open the Doors of Opportunity by Becoming a Expert Spring Framework Programmer</h4>
       </div>
       <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
         <div class="container border-bottom">
@@ -85,25 +85,22 @@
 
 
                 </span>
-                <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
-                <ul>
-                  <li><strong>What Do You Understand By MERN?</strong></li>
-                  <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                  <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                  <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                  <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                  <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                  <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                  <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
-                  <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
-                </ul>
+                <!-- <h5 class="text-gradient text-primary mb-0 mt-2"></h5> -->
+                <p>Spring is the most widely and popularly used Java framework. Spring Framework is a powerful lightweight application development framework used for Enterprise Java (JEE). If you want to build reliable web APIs, expand your Java knowledge, and develop market-ready skills, Spring is your framework. The Spring framework was ranked as one of the most popular Java frameworks by sources like HackerRank and Snyk. If you are aiming to become a server-side Java developer, then you will need to demonstrate Spring framework skills in almost all the Java interviews. Along with Hibernate, Spring is another mandatory skill for Java Programmers</p>
 
-                <p>How to become a MERN stack developer?</p>
-                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Spring Framework Programming.</h5>
+                <p>The core features of the Spring Framework can be used in developing any Java application. It can be described as a complete and modular framework. The Spring Framework can be used for all layer implementations of a real time application. It can also be used for the development of a particular layer of a real time application unlike Struts and Hibernate. Once you get under the hood of Spring, you will learn how Spring beans, the application context, dependency injection, and Spring Boot work together. Finally you will learn how to define, store, and edit information in your database using JPA and H2 technology..</p>
+                <ul>
+                  <li>Spring has flexible and comprehensive set of extensions and third-party libraries</li>
+                  <li>Spring is fast and productive</li>
+                  <li>Spring is everywhere</li>
+                  <li>Spring is secure</li>
+                </ul>
 
               </div>
               <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
+
+
 
                 <!-- brochures button -->
 
@@ -111,6 +108,7 @@
 
                 <!-- brochures button -->
                 <!-- Left side bar  -->
+
 
                 <?php include("./includes/left-side-bar.php") ?>
                 <!-- Left side bar  -->
@@ -129,15 +127,10 @@
               <div class="container-fluid">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h5>
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>What Do You Understand By MERN?</strong></h4>
-                    <p>Mern is one of the most popular stacks where it helps the user to create dynamic web interfaces. It is a technology which consists of MongoDB, ExpressJS, ReactJS, and NodeJS. It is a set of JavaScript-based technologies which are used in developing web-based applications. A stack is a bundle of technologies used to create a web application. It is a platform used in social media platforms, news aggregation applications and others. There are many eminent companies which use mern stack in web development. It is a technology which has a basic set of frameworks and rolls which facilitate the development of the application.</p>
-                    <p>MERN stack leverages has been discussed below:</p>
-                    <p><strong>MongoDB:</strong> It is a database layer which is a full stack application and used to store and manage data. It is an open-source, NoSQL, document-based database where it stores a set of data in binary JSON format. MongoDB is adaptable, where document models get the object code and allow data manipulation. It is distributed in the core, it has horizontal scaling and high availability.</p>
-                    <p><strong>Express:</strong> It uses JavaScript on the server side where it helps to create fast and secure back-end applications. It is an open source technology which is an unopinionated, lightweight framework built by nodejs. It is a platform which is designed for web applications and APIs. It was not developed to make websites which easily run on JavaScript machines, Express was developed.</p>
-                    <p><strong>ReactJS:</strong> It is declarative, efficient, and flexible for building user interfaces. It has UI components which are used to create the user interface of the single-page web application. It allows for the composition of the complex user interface from small and isolated, reusable pieces of code which are called components. It is fast, scalable, and offers code reusability. It is an open-source front-end JavaScript library. It is used on the frontend platforms like browsers, mobile applications, and others.</p>
-                    </p>
-                    <p><strong>NodeJS:</strong> It is a backend layer which hosts the server created using JavaScript. It is an open-source, cross-platform which is used to create server-side tools and applications. It hosts thousands of public/private packages via NPM to facilitate application development over multiple domains. It is designed to build scalable network applications and can execute JavaScript code outside of a browser.</p>
+                    <!-- <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h5> -->
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Jobs for Advance java Developer</strong></h4>
+                    <p>For a few years Spring has been the most popular server-side frameworks in the developer community. Since it is being used widely the number of job opportunities has been on the rise. This rise can be seen as the number of libraries related to Spring in Github is increasing, where out of 100 Github libraries 15 of them are Spring related. Also, developers are able to create Spring applications and several services with ease. Today the need of the hour for the Java developers looking for impressive growth is to learn Spring Framework.</p>
+
 
 
 
@@ -194,100 +187,38 @@
 
         </div>
       </div>
-      <div>
-        <div class="shadow-lg border-radius-xl p-4 mb-4">
-          <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Skills Require To Become A Mern Developer</strong></h4>
-          <p>Where students enroll for MERN stack developer training and desire to become professionals. To become a MERN professional you need to have expertise in different fields. Here we discuss the steps to become a MERN stack developer.</p>
-          <p><strong>Learn Front End Programming:</strong> It is necessary you need to know about front-end programming languages like HTML, CSS, and JavaScript. While these languages play a vital role where HTML is used to create input content which is displayed on the website and easily instructed on the page. It also helps in managing the fonts, colour, heading, graphics, and others. CSS is used to alter the appearance of the website. JavaScript is used to control the behavior of web pages and make them dynamic, interactive, and engaging.</p>
-          <p><strong>Learn Using Front End Tools:</strong> While you have basic knowledge of fr5ont end programming languages. Then you need to know about the various tools which are used in different front ends and tools and different tasks. It is an open-source version which is used to manage the codes and allows web developers to return documents. It is a fast, cable, decentralized and free platform.</p>
-          <p><strong>Understanding The Basics Of Website Design:</strong> Once you learn the technical side then you are ready to explore the design aspects, where you need to have some basic understanding of the principles of designing prototypes, which will help you to make an attractive and engaging website with various colors, fonts, and layouts on the website. It allows you to give your aspects of designing.</p>
-          <p><strong>Learn React:</strong> React is an open-source front-end library that is used to create the user interface where they have a single page application and mobile application. It helps to learn with online guides and with some expertise in the platform. Where it is necessary to learn React which is quite essential in the field of MERN stack development.</p>
-          <p><strong>Learn Back End Components:</strong> The backend components include Node.js. Express.js, and MongoDB. Where each component has a vital role and Node.js helps developers to create fast and scalable server-side web applications. Expres.js helps to create, design, and build a single page, multiple pages, and hybrid web applications and allows to the organization of web applications on the server side. MongoDB uses to manage the database in a flexible and scalable manner where they have a high capacity with volume and it easily drives multiple languages.</p>
-        </div>
-        <div class="shadow-lg border-radius-xl p-4 mb-4">
-          <h4 class="text-gradient text-primary mb-0 mt-2"><strong>What Our Students Will Get During Mern Stack Training Course?</strong></h4>
-          <p>Groot Academy avail the students with the best services where they get the best support from expert faculty who have years of experience in MERN stack training and have recognized certificates to train the students and give better knowledge in the field. Students get the proper theoretical training where they can have proper knowledge of the field and become an expert. After that students get practical training to become a professional in the field. Where they are guided in a proper way and opportunity to work in real-world projects which will make them more expertise.</p>
-          <p>Students also get career counseling where our professional counselors guide you in the proper way and help you to choose a career path according to your interest field. Where they help you to get your dream job and solving the doubt and queries related to the course.</p>
-          <p>Our experts provide students with all the tools and lab facilities where students get a proper idea of the field and reach towards their success goal.</p>
-          <p>We have a proper placement cell which helps the students to build the resumes and entitles them to the upcoming opportunity of various job options related to their field. It helps to get a job in top companies with good salary packages.</p>
-          <p>We offer the best services where students can easily come and clear their doubts after completion of the course without any other charges. Even we provide timely doubt sessions where each aspect of the training should be clear to the students.</p>
-        </div>
-        <div class="shadow-lg border-radius-xl p-4 mb-4">
-          <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Fast Facts:</strong></h5>
-          <ul>
-            <li>Performance and UI rendering</li>
-            <li>Budget-friendly platform.</li>
-            <li>Free and open source software.</li>
-            <li>Easy to switch between clients and servers.</li>
-            <li>Offers native experience to users.</li>
-          </ul>
-        </div>
-        <div class="shadow-lg border-radius-xl p-4 mb-4">
-          <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career Opportunities After Learning Mern Stack</strong></h4>
-          <p>MERN stack is one of the best options for professionals where students have proper planning and offer the best career in full stack application development. Where you can become a full stack developer where you can easily handle all the development processes on the front end, back end, and database. Where you have proper knowledge of the field and become a professional. Where you get good career opportunities with a good salary package. After learning the MERN stack course you can easily get a job at top companies. A MERN stack developer works as an IT professional in different domains. While they can become full stack developers, back-end developers, front-end development, and others. The average salary package of a MERN stack developer is 25000- 40000 per month and it increases according to the experience.</p>
-        </div>
-      </div>
+
+
+
       <div class="shadow-lg border-radius-xl p-4 mb-4">
+        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked Spring Framework Course Interview Questions</strong></h3>
         <div class="row">
           <div class="col-lg-6">
-            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Should You Learn Mern Stack?</strong></h4>
-            <ul>
-              <li>It is a platform which uses JavaScript for the front end and back end which easily reduces the learning time and cost of the product. You don’t need to learn many other languages for separate clients and server-side applications.</li>
-              <li>It helps to create a full stack application, a mobile application using React native, desktop application using Electron.js which is used for all the JavaScript.</li>
-              <li>MongoDB is a database which is used in different formats, easily stores and manages data, and has a standard platform for a few days where you can exchange the information in a full stack application through a client-server and others which helps to easily integrate the MERN application.</li>
-              <li>It is easily accessible, quick to learn, and has less cost which is very little required.</li>
-              <li>All libraries/ tools used in the MERN stack which is sufficient to develop full-fledged software applications.</li>
-            </ul>
-          </div>
-          <div class="col-lg-6">
-            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></h4>
-            <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities. Our Mern Stack Trainees are working across the nation. We at Groot Academy India, No#1 Mern Course in Jaipur with 100% Placement. Certified Trainers with Over 10,000 Students Trained in Online Mern Stack Course in Jaipur.</p>
-            <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
-          </div>
-        </div>
-      </div>
-      <div class="shadow-lg border-radius-xl p-4 mb-4">
-        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Key Takeaways:</strong> Mern stack developers can efficiently build web and mobile applications using standard processes and abilities. It implements design thinking with enhanced expertise in various technologies. In the coming years, MERN Stack is highly likely to be used extensively since more and more applications are now built-in in JavaScript.</h5>
-        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></h4>
-        <ul>
-          <li>Groot Academy is the best institute for learning MERN stack courses with quality eGroot Academyion.</li>
-          <li>Professional experts which offer proper training in theoretical and practical. according to industry-relevant training.</li>
-          <li>Students get the option to choose online and offline classes according to their preferences.</li>
-          <li>Institutes offer students the best placement at top companies with good salary packages.</li>
-          <li>Institute has a proper placement cell which helps the students to build a resume and give the latest updates about the job opening.</li>
-          <li>We make professionals and offer industry-relevant knowledge and become successful in the field.</li>
-          <li>Students get an internship where they get proper practical training.</li>
-          <li>We have a professional counseling expert who will give proper detailing of the course.</li>
-        </ul>
-      </div>
-      <div class="shadow-lg border-radius-xl p-4 mb-4">
-        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked MERN Course Interview Questions</strong></h3>
-        <div class="row">
-          <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">1: What are the advantages of ReactJS?</h5>
-            <p>Ans: The advantages of <strong>ReactJS</strong> are: Increases the application’s performance with Virtual DOM JSX makes code easy to read and write It renders both on the client and server-side Easy to integrate with other frameworks (<strong>Angular</strong>, BackboneJS) since it is only a view library Easy to write UI Test cases and integration with tools such as JEST.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">2: What do you understand about Virtual DOM?</h5>
-            <p>Ans: A virtual DOM is a lightweight JavaScript object which originally is just a copy of the real DOM. It is a node tree that lists the elements, their attributes, and content as objects and their properties. React render function creates a node tree out of the React components. It then updates this tree in response to the mutations in the data model which are caused by various actions done by the user or by the system.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the purpose of MongoDB?</h5>
-            <p>Ans: MongoDB is a document-oriented database manager designed for storing high volumes of data. It saves data in binary JSON format and implements the concept of collection and documentation. MongoDB is a cross-platform, NoSQL database equipped with high performance, high scalability, and flexibility that allow for seamless querying and indexing.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">4: What is the purpose of ExpressJS?</h5>
-            <p>Ans: ExpressJS is a web application framework designed to support and host Node.js projects. It is an open-source framework available under the MIT license. ExpressJS manages the workflow between the front end and the database and facilitates a smooth and secure transfer of data. It boasts excellent error handling and <strong>web design</strong> functionality to optimise the web development process.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Dependency Injection in Spring?</h5>
+            <p>Ans: Dependency Injection is a design pattern in Spring where the Spring IoC container supplies a dependent object (bean) with the required dependencies. This helps in achieving loose coupling between classes.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2: Explain the concept of Inversion of Control (IoC) in Spring.</h5>
+            <p>Ans: Inversion of Control (IoC) in Spring refers to the technique where the control over object creation and management is transferred from the application code to the Spring container. The container manages the objects of the application, including instantiating and configuring these objects.p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">3: What are the different types of Dependency Injection in Spring?h5>
+              <p>Ans: There are two types of Dependency Injection in Spring: Constructor Injection and Setter Injection. Constructor Injection involves passing dependencies through a class constructor, while Setter Injection involves setting the dependencies using setter methods.</p>
+              <h5 class="text-gradient text-primary mb-0 mt-2">4: Explain Bean Wiring in Spring.</h5>
+              <p>Ans: Bean Wiring in Spring is the process of defining the relationships between beans in the Spring container. This can be achieved through XML configuration, Java annotations, or Java-based configuration.</p>
 
 
           </div>
           <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">5: What do you know about Asynchronous API?</h5>
-            <p>Ans: Asynchronous API or non-blocking, all fall under the library of Node.js. Node.js servers never have to wait for API to return data. After accessing the API the server moves to the next one. The notification process of Node.js assists the server in receiving responses from previous API calls.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">6: Explain the concept of a thread pool?</h5>
-            <p>Ans: The libuv library handles thread pool. Libuv is a C library which is multi-platform in nature &amp; it provides support to asynchronous I/O-based operations for eg. networking, concurrency &amp; file systems.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">7: State the term I/O</h5>
-            <p>Ans: I/O (Input/Output) refers to the program’s interaction with systems networks &amp; disks. Some of the eg. is reading or writing data from or to a disk making HTTP requests and communicating to databases. It is stacked to the machine memory to run the program after the application begins.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">8: What do you know about Dependency Injection?</h5>
-            <p>Ans: Dependency injection is utilised for separating the client creation dependencies from behaviour, which lets you design a slackly coupled program. It also allows the modification of the behaviour of applications by using the components.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">9: What is CallBack Hell?</h5>
-            <p>Ans: A CallBack Hell is a condition, It occurs when many asynchronous functions are chained together. The asynchronous function expects a callback, as it is a return parameter.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">10: What is Mongoose?</h5>
-            <p>Ans: Mongoose is also called an object document mapper. It is used to provide a schema-based solution for modeling application data. Validation, Typecasting, query construction, business logic hooks, and others, are also functionalities of Mongoose.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">5: What is the Spring Container?</h5>
+            <p>Ans: The Spring Container is responsible for managing the lifecycle of Spring beans, including their instantiation, configuration, and assembly. There are two types of Spring containers: BeanFactory and ApplicationContext.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">6: What is the difference between Singleton and Prototype bean scopes in Spring?</h5>
+            <p>Ans:Singleton scope means that Spring container creates only one instance of the bean, and it's shared among all the requests. Prototype scope means that a new instance is created every time the bean is requested.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7: Explain the Spring Bean lifecycle</h5>
+            <p>Ans: The Spring Bean lifecycle consists of several phases: bean instantiation, bean population, bean initialization, and destruction of the bean. Initialization methods are called after bean instantiation, and destruction methods are called before the bean is removed from the container.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8: What is Aspect-Oriented Programming (AOP) in Spring?</h5>
+            <p>Ans:Aspect-Oriented Programming (AOP) is a programming paradigm that allows modularizing cross-cutting concerns such as logging, security, and transactions. In Spring, AOP is used to achieve method interception and add behaviors to methods.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9: What is the role of DispatcherServlet in Spring MVC?</h5>
+            <p>Ans: DispatcherServlet is the front controller in Spring MVC that receives all incoming requests and delegates them to the appropriate controllers for handling. It centralizes request processing and manages the flow of the Spring MVC application.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:Explain the flow of a request in Spring MVC.
+            </h5>
+            <p>Ans:When a request is received, DispatcherServlet maps it to the appropriate handler mapping, which then delegates the request to the corresponding controller. The controller processes the request, interacts with the model and view, and returns the response, which is rendered back to the client.</p>
           </div>
         </div>
       </div>
@@ -555,39 +486,39 @@
         <div class="row">
 
           <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Mern Stack?</h5>
-            <p>Ans: MERN is a technology stack used to develop a full-stack software application. A technology stack is a set of frameworks and tools which facilitate the development of an application. It is a platform which consists of MongoDB, Express.js, React.js, and Node.js.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">2: How long does it take to learn MERN stack?</h5>
-            <p>Ans: It depends on the fundamental skill set. If you have sound technical knowledge of underlying languages like HTML, CSS and JavaScript; it would take around 6-8 weeks to become a beginner-level MERN stack developer with hands-on practice.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the salary of a MERN Stack developer?</h5>
-            <p>Ans: The salary of a full stack developer depends on 3 different factors. It is location, skillset, and experience. Where the average salary is 25000- 40000 per month.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">4: What are some key concepts to learn in MERN Stack?</h5>
-            <p>Ans: MERN Stack is built of 4 robust technologies i.e. MongoDB, Express.js, React.js and Node, js. To become a MERN Stack developer, one should have a working knowledge of all the above technologies.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">5: What are the MERN stack developer jobs?</h5>
-            <p>Ans: As a MERN stack developer, you will be assigned one or multiple jobs like:</p>
-            <div class="d-flex">
-              <ul>
-                <li>Front end developer</li>
-                <li>Back end developer</li>
-              </ul>
-              <ul>
-                <li>Full stack developer</li>
-                <li>Database administrator</li>
-              </ul>
+            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is the Spring Framework?</h5>
+            <p>Ans: The Spring Framework is an open-source framework for building enterprise-level applications in Java. It provides comprehensive infrastructure support and promotes good design practices and coding standards.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2:What are the key features of the Spring Framework?<h5>
+                <p>Ans:The key features of the Spring Framework include Dependency Injection, Aspect-Oriented Programming, Data Access, Transaction Management, Model-View-Controller (MVC) framework, Security, and more. These features simplify Java development and promote modular and testable code.</p>
+                <h5 class="text-gradient text-primary mb-0 mt-2">3:What is Dependency Injection (DI) in Spring?</h5>
+                <p>Ans: Dependency Injection is a design pattern used in Spring to achieve Inversion of Control (IoC). It allows objects to be injected into a class, reducing the dependency on hard-coded components and making the system more maintainable and testable.</p>
+                <h5 class="text-gradient text-primary mb-0 mt-2">4:What is Aspect-Oriented Programming (AOP) in Spring?</h5>
+                <p>Ans: AOP in Spring allows developers to define custom aspects (cross-cutting concerns) such as logging, security, and transactions. These aspects can be applied across the application, promoting modularization of concerns and making the codebase more manageable.</p>
+                <h5 class="text-gradient text-primary mb-0 mt-2">5:What is the Model-View-Controller (MVC) framework in Spring?</h5>
+                <p>Ans: Spring MVC is a framework built on top of the Spring Framework that follows the MVC design pattern. It separates the application into Model (data), View (presentation), and Controller (handling user input), making the development process more organized and efficient.</p>
+                <div class="d-flex">
+                  <ul>
+                    <li>Front end developer</li>
+                    <li>Back end developer</li>
+                  </ul>
+                  <ul>
+                    <li>Full stack developer</li>
+                    <li>Database administrator</li>
+                  </ul>
 
-            </div>
+                </div>
           </div>
           <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">6: Things to prepare before applying for MERN Stack Developer Job</h5>
-            <p>Ans: Create a personal portfolio with experience and projects. Showcase your GitHub projects. Add 2-3 good MERN projects to your portfolio which should be live on some URL. Solve DS &amp; Algo problems to develop strong logic using Codewars, HackerRank, Codechef, etc. Revise Fundamentals of Javascript, React &amp; Node/Express.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">7: Where to find MERN stack jobs?</h5>
-            <p>Ans: There are several job portals where you can find Fullstack MERN job opportunities. LinkedIn Stack Overflow Jobs Apply on job portals Duct placement cells also help the students to get jobs.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">8: How is the placement teamwork?</h5>
-            <p>Ans: Groot Academy has a proper placement cell which helps the students to get their dream job.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">9: Does Groot Academy also hold workshops?</h5>
-            <p>A: Yes, we offer workshops for the students to give them a better knowledge of the particular field and help them become an expert.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">10: I Have More Queries.</h5>
-            <p>A: In case you have any other queries contact us and our experts will get in touch with you in a short period.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">6: How does Spring support database access?</h5>
+            <p>Ans:Spring provides various data access technologies such as JDBC, ORM frameworks like Hibernate and JPA, and data access abstraction through Spring Data. These technologies simplify database interactions and reduce boilerplate code in applications.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7: What is Spring Security?</h5>
+            <p>Ans: Spring Security is a robust and customizable authentication and access control framework for Java applications. It provides comprehensive security services for Java EE-based enterprise software applications, ensuring secure authentication and authorization mechanisms.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8: How does Spring support transaction management?</h5>
+            <p>Ans:Spring offers a consistent programming model for transaction management, supporting both programmatic and declarative transaction management. It simplifies the handling of transactions across different types of transactional resources, ensuring data integrity and consistency.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9:Is Spring only for Java applications?</h5>
+            <p>Ans:While Spring is primarily associated with Java applications, there are extensions and projects (such as Spring for .NET) that allow integration with other languages and platforms. However, the core Spring Framework is primarily used for Java applications.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:Where can I find resources to learn Spring Framework</h5>
+            <p>Ans: There are numerous online resources, tutorials, documentation, and books available to learn the Spring Framework. Websites like the official Spring Framework website (spring.io) offer extensive documentation and guides. Additionally, online learning platforms like Coursera, Udemy, and Pluralsight offer courses specifically focused on Spring Framework development. Books such as "Spring in Action" by Craig Walls and "Pro Spring 5" by Iuliana Cosmina are also excellent resources for in-depth learning.</p>
 
           </div>
         </div>
