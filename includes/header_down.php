@@ -139,12 +139,12 @@
             <span class="close " id="closePopup">&times;</span>
             <h2>Fill out this form</h2>
             <!-- return validateForm(); -->
-            <form id="userForm  closePopup" action="./process.php" method="POST">
+            <form id="userForm closePopup" action="./process.php" method="POST">
 
-                <label for="userName">Name:</label>
+                <label for="userName" class="text-light">Name:</label>
                 <input class="form-control" placeholder="Enter Name" autofocus required type="text" id="name" name="name">
                 <br>
-                <label for="mobile">Mobile:</label>
+                <label for="mobile" class="text-light">Mobile:</label>
                 <input class="form-control" type="text" placeholder="Enter Mobie" id="mobile" name="phone">
                 <br>
                 <input type="submit" onmousedown="validateForm()" class="closePopup btn form-control text-light" onclick="submitpopup()" value="Submit">
