@@ -91,7 +91,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-md-6 text-end ms-auto">
+                                        <div class="col-md-12 text-end ms-auto">
                                             <input type="submit" class="btn btn-round bg-gradient-info mb-0" />
                                         </div>
                                         <!-- <span>By creating an account I have read and agree to Groot Academy's <a href="#">Terms</a> and <a href="#">Privacy Policy</a></span> -->
