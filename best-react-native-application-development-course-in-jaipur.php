@@ -1,64 +1,63 @@
 <?php include('./includes/header_com.php');  ?>
-    <!--  META DATA -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
 
-    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
 ">
-    <link rel="canonical" href="https://grootacademy.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
 
 
-    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Groot Academy">
-    <meta property="og:url" content="https://grootacademy.com">
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
-    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
 
-    <meta property="og:image:width" content="90">
-    <meta property="og:image:height" content="90">
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
 
 
-    <meta name="language" content="en-us" />
-    <meta name="distribution" content="Global">
-    <meta name="Publisher" content="https://grootacademy.com">
-    <meta name="Rating" content="General">
-    <meta name=geography content="India ">
-    <meta name="geo.region" content="JP-RJ" />
-    <meta name="geo.placename" content="Jaipur" />
-    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/header_down.php');  ?>
 
 
 
-    <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
-
-
-<link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
-<div class="container mt-5">
+<div class="container-fluid mt-5">
     <div class="row">
         <div class="col-lg-12 mx-auto">
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Features</li>
+                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Full stack Development with nodeJS (MERN Stack Development)</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="./assets/img//groot-react-native-logo.webp" alt="image" width="50" style="border-radius: 10px;" /> React Native Application Development</h4>
+
+                <h4 class="course-heading">Open the Doors of Opportunity by Becoming a Expert React Native Programmer</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -69,271 +68,480 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     </div>
                 </div>
+
+
+                <div class="position-relative ">
+                    <div class="container-fluid  border-bottom ">
+                        <div class="row py-3">
+                            <div class="col-lg-8 mx-auto   text-start border border-radius-xl overflow-hidden shadow-lg mb-7">
+                                <h5 class="mt-4">Rated 5/5 (2700+ Reviews)</h5>
+                                <span>
+
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+
+
+                                </span>
+                                <!-- <h5 class="text-gradient text-primary mb-0 mt-2"></h5> -->
+                                <p>Our React Native Course Curriculum is meticulously prepared by the industry experts according to the job requirements of global mobile app development companies. We cover fundamentals like language overview, Basic C, Basic Swift Programming; react native project structure, UI application, and application creation along with advanced concepts such as frameworks, controllers, and publishing the application in the app store effectively. Our react native Course Syllabus can be personalized as per the learning requirements of students to upgrade their career into mobile app development.</p>
+
+                                <!-- <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Spring Framework Programming.</h5>
+                                <p>The core features of the Spring Framework can be used in developing any Java application. It can be described as a complete and modular framework. The Spring Framework can be used for all layer implementations of a real time application. It can also be used for the development of a particular layer of a real time application unlike Struts and Hibernate. Once you get under the hood of Spring, you will learn how Spring beans, the application context, dependency injection, and Spring Boot work together. Finally you will learn how to define, store, and edit information in your database using JPA and H2 technology..</p>
+                                <ul>
+                                    <li>Spring has flexible and comprehensive set of extensions and third-party libraries</li>
+                                    <li>Spring is fast and productive</li>
+                                    <li>Spring is everywhere</li>
+                                    <li>Spring is secure</li>
+                                </ul> -->
+
+                            </div>
+                            <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
+
+
+
+                                <!-- brochures button -->
+
+                                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+
+                                <!-- brochures button -->
+                                <!-- Left side bar  -->
+
+
+                                <?php include("./includes/left-side-bar.php") ?>
+                                <!-- Left side bar  -->
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">React Native: Unleashing Cross-Platform Brilliance!  Crafting Powerful Mobile Apps with JavaScript </h3><br/><br/>
-        <h6>
-        Are you eager to explore a revolutionary approach to mobile app development? 🚀🔥 Welcome to the world of React Native, where you can build stunning, high-performance apps using the power of JavaScript!     </h6>
-       
-      </div>
-     
+                        <section class="py-3">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <!-- <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h5> -->
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Jobs for react native Developer</strong></h4>
+                                        <p>React Native developers are in high demand across various industries, thanks to the widespread adoption of mobile applications. These developers specialize in using the React Native framework to create cross-platform mobile applications for iOS and Android. Their responsibilities typically include collaborating with the design team to implement user interfaces, integrating with backend services, and ensuring the performance and responsiveness of the applications. React Native developers also play a crucial role in troubleshooting, debugging, and optimizing code for maximum efficiency. With the constant evolution of mobile technologies, React Native developers are sought after for their ability to stay abreast of industry trends and quickly adapt to new tools and frameworks. Job opportunities for React Native developers can be found in diverse sectors such as e-commerce, healthcare, finance, and technology, as organizations recognize the importance of delivering seamless and engaging mobile experiences to their users.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked react native Development Course Interview Questions</strong></h3>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1: What is React Native?</h5>
+                        <p>Ans:React Native is an open-source mobile application framework created by Facebook. It allows developers to build cross-platform mobile applications using JavaScript and React. This means that the same codebase can be used to develop apps for both iOS and Android platforms.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2:How does React Native differ from traditional native app development?</h5>
+                        <p>Ans:Unlike traditional native app development, where separate codebases are required for iOS and Android, React Native enables the development of cross-platform applications using a single codebase. This can lead to increased efficiency and faster development cycles. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3:What are the key advantages of using React Native?</h5>
+                        <p>Ans:React Native offers advantages such as code reusability, a faster development cycle, and the ability to use web development skills to build mobile applications. It also provides a hot-reloading feature, allowing developers to see the immediate results of their code changes.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4:Is React Native suitable for all types of mobile applications?</h5>
+                        <p>Ans:React Native is well-suited for a wide range of applications, including business apps, social media apps, e-commerce apps, and more. However, for applications with complex, platform-specific features, native development might still be preferred.</p>
+
+
+                    </div>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5: Can React Native apps access device features and APIs?</h5>
+                        <p>Ans:Yes, React Native provides a bridge that allows developers to access native modules and APIs, enabling integration with device features such as the camera, GPS, and sensors.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6: How is React Native different from React</h5>
+                        <p>Ans:While React is a JavaScript library for building user interfaces, React Native extends it to support mobile app development. React is focused on web development, whereas React Native is tailored for mobile applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7:What is Expo in the context of React Native?</h5>
+                        <p>Ans:Expo is a set of tools and services built around React Native that simplifies the development process. It includes a variety of pre-built components and development tools, making it easier for developers to get started with React Native projects.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8:Is React Native only for small projects, or can it be used for large-scale applications?</h5>
+                        <p>Ans:React Native is suitable for both small and large-scale applications. Many well-known companies have successfully used React Native for large and complex mobile applications.</p>
+                    </div>
+                    <div class="col-lg-6">
+
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9:How is debugging done in React Native?
+                        </h5>
+                        <p>Ans:React Native includes debugging tools such as Chrome Developer Tools for debugging JavaScript code. Additionally, React Native Debugger and third-party tools can be used for more advanced debugging.
+
+                        </p>
+
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10:Is there community support for React Native?</h5>
+                        <p>Ans:Yes, React Native has a large and active community. This community provides support, shares knowledge, and contributes to the continuous improvement of the framework. There are also numerous resources, forums, and tutorials available for developers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                    </div>
-
-                </div>
-            </div>
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">The Beauty of React Native: Where Web Meets Mobile
-</h3>
-        <br/><br/>
-        <h6>React Native, a brainchild of Facebook, is a cutting-edge open-source framework that bridges the gap between web and mobile development. By leveraging the power of JavaScript and React, you can create native-like mobile apps that not only look beautiful but also perform seamlessly on both iOS and Android platforms.
-</h6>
-      
-      </div>
-     
+</div>
+<div class="shadow-lg border-radius-xl p-4 mb-4">
+    <div class=" w-100">
+        <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
     </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                    </div>
-
-                </div>
-            </div>
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Cross-Platform Excellence: Write Once, Deploy Everywhere</h3>
-              <br/><br/>
-              <h6>Embrace the efficiency of cross-platform development with React Native!  Craft your app is logic and user interface using a single codebase and deploy it effortlessly across multiple platforms. Say goodbye to the days of maintaining separate codebases, as React Native simplifies the development process and maximizes code reuse, saving you valuable time and effort.
- </h6>
-
-            </div>
-          
-          </div>
+    <div class="row">
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to React</h4>
+            <ul>
+                <li>What is React?</li>
+                <li>Why React?</li>
+                <li>React version history</li>
+                <li>React 16 vs React 15</li>
+                <li>Just React – Hello World</li>
+                <li>Using create-react-app</li>
+                <li>Anatomy of react project</li>
+                <li>Running the app</li>
+                <li>Debugging first react app</li>
+            </ul>
         </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                    </div>
-
-                </div>
-            </div>
-
-
-
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Blazing-Fast Performance: Elevating User Experience</h3>
-              <br/><br/>
-              <h6>Performance is at the heart of React Native development. By compiling to native code, React Native apps achieve impressive speed and responsiveness, providing users with a delightful experience. Say farewell to sluggish apps and embrace the snappy performance that React Native apps offer.</h6>
-
-            </div>
-          
-          </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Templating using JSX</h4>
+            <ul>
+                <li>Working with React. createElement</li>
+                <li>Expressions</li>
+                <li>Using logical operators</li>
+                <li>Specifying attributes</li>
+                <li>Specifying children</li>
+                <li>Fragments</li>
+            </ul>
         </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                    </div>
-
-                </div>
-            </div>
-
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2"> Pixel-Perfect Customization: A Designer is Dream</h3>
-              <br/><br/>
-              <h6>React Native is focus on UI components empowers designers and developers to collaborate seamlessly. Create visually stunning and pixel-perfect interfaces with React Native is extensive library of customizable components. From sleek animations to interactive user experiences, let your creativity run wild and bring your app is vision to life.</h6>
-
-            </div>
-          
-          </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">About Components</h4>
+            <ul>
+                <li>Significance of component architecture</li>
+                <li>Types of components</li>
+                <li>Functional</li>
+                <li>Class based</li>
+                <li>Pure</li>
+                <li>Component Composition</li>
+            </ul>
         </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-        '></iframe>
+        <h4 class="text-gradient text-primary mb-0 mt-2">Working with state and props</h4>
+
+        <div class="col-lg-4">
+            <ul>
+                <li>What is state and it significance</li>
+                <li>Read state and set state</li>
+                <li>Passing data to component using props</li>
+                <li>Validating props using propTypes</li>
+                <li>Supplying default values to props using defaultProps</li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Rendering lists</h4>
+            <ul>
+                <li>Using react key prop</li>
+                <li>Using map function to iterate on arrays to generate elements</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Event handling in React</h4>
+            <ul>
+                <li>Understanding React event system</li>
+                <li>Understanding Synthetic event</li>
+                <li>Passing arguments to event handlers</li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Understanding component lifecycle and handling errors</h4>
+            <ul>
+                <li>Understand the lifecycle methods</li>
+                <li>Handle errors using error boundaries</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Working with forms</str< /h4>
+                <ul>
+                    <li>Controlled components</li>
+                    <li>Uncontrolled components</li>
+                    <li>Understand the significance to default Value prop</li>
+                    <li>Using react ref prop to get access to DOM element</li>
+                </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Context</h4>
+            <ul>
+                <li>What is context</li>
+                <li>When to use context</li>
+                <li>Create Context</li>
+                <li>Context.Provider</li>
+                <li>Context.Consumer</li>
+                <li>Reading context in class</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Code-Splitting</h4>
+            <ul>
+                <li>What is code splitting</li>
+                <li>Why do you need code splitting</li>
+                <li>React.lazy</li>
+                <li>Suspense</li>
+                <li>Route-based code splitting</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">ooks</h4>
+            <ul>
+                <li>What are hooks</li>
+                <li>Why do you need hooks</li>
+                <li>Different types of hooks</li>
+                <li>Using state and effect hooks</li>
+                <li>Rules of hooks</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Routing with react router</h4>
+            <ul>
+                <li>Setting up react router</li>
+                <li>Understand routing in single page applications</li>
+                <li>Working with BrowserRouter and HashRouter components</li>
+                <li>Configuring route with Route component</li>
+                <li>Using Switch component to define routing rules</li>
+                <li>Making routes dynamic using route params</li>
+                <li>Working with nested routes</li>
+                <li>Navigating to pages using Link and NavLink component</li>
+                <li>Redirect routes using Redirect Component</li>
+                <li>Using Prompt component to get consent of user for navigation</li>
+                <li>Path less Route to handle failed matches</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Just Redux</h4>
+            <ul>
+                <li>What is redux</li>
+                <li>Why redux</li>
+                <li>Redux principles</li>
+                <li>Install and setup redux</li>
+                <li>Creating actions, reducer and store</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Immutable.js</h4>
+            <ul>
+                <li>What is Immutable.js?</li>
+                <li>Immutable collections</li>
+                <li>Lists</li>
+                <li>Maps</li>
+                <li>Sets</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">React Redux</h4>
+            <ul>
+                <li>What is React Redux</li>
+                <li>Why React Redux</li>
+                <li>Install and setup</li>
+                <li>Presentational vs Container components</li>
+                <li>Understand high order component</li>
+                <li>Understanding mapStateToProps and mapDispatchtToProps usage</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Redux middleware</h4>
+            <ul>
+                <li>Why redux middleware</li>
+                <li>Available redux middleware choices</li>
+                <li>What is redux saga</li>
+                <li>Install and setup redux saga</li>
+                <li>Working with Saga helpers</li>
+                <li>Sagas vs promises</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Unit Testing</h4>
+            <ul>
+                <li>Understand the significance of unit testing</li>
+                <li>Understand unit testing jargon and tools</li>
+                <li>Unit testing react components with Jest</li>
+                <li>Unit testing react components with enzyme</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Webpack Primer</h4>
+            <ul>
+                <li>What is webpack</li>
+                <li>Why webpack</li>
+                <li>Install and setup webpack</li>
+                <li>Working with webpack configuration file</li>
+                <li>Working with loaders</li>
+                <li>Working with plugins</li>
+                <li>Setting up Hot Module Replacement</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Isomorphic React</h4>
+            <ul>
+                <li>What is server-side rendering (SSR)?</li>
+                <li>Why SSR</li>
+                <li>Working with render To String and render To StaticM arkup methods</li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="shadow-lg border-radius-xl p-4 mb-4">
+    <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
+
+    <div class="row">
+
+        <div class="col-lg-6">
+            <h5 class="text-gradient text-primary mb-0 mt-2">1: Can existing native code be integrated into a React Native project?</h5>
+            <p>Ans:Yes, React Native allows the integration of existing native code written in Java, Objective-C, or Swift. This is particularly useful when developers need to leverage platform-specific functionality.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2:How does React Native handle performance compared to native development?<h5>
+                    <p>Ans:React Native performance is generally good, thanks to its use of native components. However, for highly complex or graphics-intensive applications, native development might still offer a performance edge.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">3:What are the primary navigation options in React Native?</h5>
+                    <p>Ans:React Navigation is a popular library for handling navigation in React Native applications. It provides a range of navigation patterns, including stack navigation, tab navigation, and drawer navigation.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">4:Is it possible to use third-party libraries with React Native?</h5>
+                    <p>Ans:Yes, React Native has a vast ecosystem of third-party libraries and modules that can be easily integrated into projects using tools like npm. This allows developers to leverage a wide range of functionalities without building everything from scratch.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">5:How does React Native handle updates and versioning?</h5>
+                    <p>Ans: React Native supports over-the-air updates, allowing developers to push updates to users without requiring them to download a new version from the app store. This is particularly useful for bug fixes and minor updates.
+
+                    </p>
+                    <div class="d-flex">
+                        <ul>
+                            <li>Front end developer</li>
+                            <li>Back end developer</li>
+                        </ul>
+                        <ul>
+                            <li>Full stack developer</li>
+                            <li>Database administrator</li>
+                        </ul>
+
                     </div>
+        </div>
+        <div class="col-lg-6">
+            <h5 class="text-gradient text-primary mb-0 mt-2">6:Can React Native apps be developed on Windows machines for iOS?</h5>
+            <p>Ans:While React Native allows development on Windows for Android apps, building iOS applications requires a macOS machine due to Apple's development environment restrictions. Developers can use tools like Expo to mitigate this requirement to some extent.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7: What is the role of Redux in React Native applications?</h5>
+            <p>Ans:Redux is a state management library that can be used with React Native to manage the application's state in a predictable way. It helps in handling complex data flows and maintaining a single source of truth for the application's data.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8:How does React Native handle security concerns in mobile applications?</h5>
+            <p>Ans:React Native itself doesn't provide specific security features, but developers can implement secure coding practices and use third-party libraries to address security concerns. Best practices include secure communication (HTTPS), secure storage, and input validation.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9:Can React Native apps be published on both the App Store and Google Play?</h5>
+            <p>Ans:Yes, React Native allows developers to create apps that can be published on both the App Store and Google Play. The same codebase can be used to generate separate builds for iOS and Android.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:Are there any limitations or challenges associated with React Native development?</h5>
+            <p>Ans:While React Native offers numerous advantages, challenges may include dealing with platform-specific issues, occasional delays in adopting the latest native features, and the need for native modules for certain functionalities. However, the community actively addresses these challenges with continuous improvements and updates.</p>
 
-                </div>
-            </div>
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-<!-- Nucleo Icons -->
-<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-<div class="container">
+        </div>
+    </div>
+</div>
 <div class="row">
-<div class="col-lg-12">
-<h3 class="text-gradient text-primary mb-0 mt-2"> A Thriving Ecosystem: Empowering Developers</h3>
-<br/><br/>
-<h6>React Native is ecosystem is vibrant and ever-expanding. With a rich collection of open-source libraries, pre-built components, and a supportive community, you will find everything you need to develop feature-rich apps with ease. Whether you are building a startup is MVP or a complex enterprise application, React Native is ecosystem has your back..</h6>
+    <div class="col-lg-6">
+        <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="tab-content tab-space">
+                <div class="tab-pane active" id="preview-features-1">
+                    <section class="py-3">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn react native Development ?</h5>
+                                    <br /><br />
+                                    <h6>
+                                        Learning react native development is a valuable skill for several reasons. Firstly, the demand for react native developers remains consistently high, providing ample job opportunities in diverse industries. The career prospects are lucrative, with competitive salaries and benefits. By mastering react native development, you gain access to a vast global user base through Apple's App Store, allowing you to showcase and distribute your applications to millions of iPhone and iPad users worldwide. Moreover, Apple's strong emphasis on design and user experience fosters a commitment to quality, encouraging developers to create visually appealing and user-friendly applications. The comprehensive development ecosystem, including the Xcode IDE, Swift programming language, and powerful frameworks, streamlines the development process, making it efficient and enjoyable. Ultimately, learning react native development not only opens the door to a fulfilling career but also equips you with the skills to contribute to the dynamic.</h6>
+                                </div>
 
-</div>
-
-</div>
-</div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-'></iframe>
-                    </div>
-
+                            </div>
+                        </div>
+                    </section>
                 </div>
+
             </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="tab-content tab-space">
+                <div class="tab-pane active" id="preview-features-1">
+                    <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                    <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                    <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                    <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                    <section class="py-3">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for react native Developer</h5>
+                                    <br /><br />
+                                    <h6>Jobs for react native developers are abundant and diverse, spanning various industries and company sizes. As an react native developer, you can find opportunities in tech companies, startups, finance, healthcare, and entertainment. Your primary role involves designing, developing, and maintaining applications for Apple's react native platform. Proficiency in Swift and Objective-C, along with a deep understanding of react native architecture and design patterns, are essential skills for success in this field. Positions range from entry-level roles, such as Junior react native Developer, to more advanced roles like Senior react native Engineer. The continuous growth of the mobile app industry ensures a steady demand for react native developers who can create innovative and high-quality applications. Whether you're passionate about creating consumer-facing apps, enterprise solutions, or cutting-edge technologies, a career in react native development offers a dynamic and rewarding pathway in the ever-evolving landscape of mobile technology.</h6>
 
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-<!-- Nucleo Icons -->
-<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<h3 class="text-gradient text-primary mb-0 mt-2"> Pioneering Innovation: Embrace the Cutting Edge</h3>
-<br/><br/>
-<h6>React Native is not just a framework; it is a catalyst for innovation. Embrace the latest trends, such as Progressive Web Apps (PWAs), push notifications, and real-time features, with React Native is adaptability and extensibility. Stay ahead of the curve and build apps that captivate and impress users.
-</h6>
+                                </div>
 
-</div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-</div>
-</div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-'></iframe>
-                    </div>
-
+                    <!-- '></iframe> -->
                 </div>
+
             </div>
-
-
-
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-<script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-<!-- Nucleo Icons -->
-<link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-<link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<h3 class="text-gradient text-primary mb-0 mt-2"> Unleash Your App is Potential with React Native!</h3>
-<br/><br/>
-<h6>If you are ready to embark on a transformative journey in mobile app development, React Native is your gateway to success. Join the ever-growing community of developers who are revolutionizing the mobile app landscape with this dynamic framework.
-Unleash your creativity, streamline your development process, and provide users with powerful and seamless app experiences on both iOS and Android with React Native. Embrace the future of mobile app development and let your brilliance shine! 
-#ReactNative #MobileAppDevelopment #JavaScript #CrossPlatform #UIUXDesign #HighPerformanceApps #Customization #FutureReady #AppCreators #MobileApps #NativeLikeApps #BlazingFast #InnovationCatalyst
-</h6>
-
+        </div>
+    </div>
 </div>
 
-</div>
-</div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-'></iframe>
-                    </div>
-
-                </div>
-            </div>
 
 
 
@@ -344,1174 +552,39 @@ Unleash your creativity, streamline your development process, and provide users 
 
 
 
+<div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
+    <div class="tab-content tab-space">
+        <div class="tab-pane active" id="preview-features-1">
+            <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+            <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+            <!-- Nucleo Icons -->
+            <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+            <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+            <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+            <section class="py-3">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
+                            <br /><br />
+                            <h6>
+                                For aspiring react native developers, a variety of training and placement avenues exist to nurture skills and secure employment in the field. Educational programs, both through traditional institutions and online platforms, offer specialized courses in react native development, covering crucial languages like Swift and Objective-C, as well as essential frameworks and tools. Apple's official developer documentation serves as an indispensable resource, providing in-depth insights into best practices and guidelines. Online learning platforms such as Udacity, Udemy, Coursera, and LinkedIn Learning offer comprehensive react native development courses with hands-on projects. Engaging in hackathons and coding challenges enhances practical skills and can serve as an impressive addition to a developer's portfolio. Networking through local meetups, conferences, and virtual events facilitates connections with industry professionals, potentially leading to mentorship opportunities and job placements. Additionally, pursuing internships or apprenticeships provides valuable real-world experience and a pathway to securing a position in react native development upon completion. By exploring these diverse training and placement options, aspiring react native developers can build a strong foundation and increase their chances of success in the competitive job market. </h6>
 
-
-
-
-
-            <div class="row">
-                <div class="col-md-12 btn bg-gradient-primary">
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg">
-                                Java
-                            </span>
                         </div>
 
                     </div>
                 </div>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-
-
-                <div>
-                    <br /><br />
-
-
-                    <!-- <div class="row">
-                        <div class="col-md -6">
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Web?</option>
-                                    <option disabled>Web Features ?</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>W3C and W3C Members</option>
-                                    <option disabled>Introduction to What WG</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to Flutter</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>A brief history of Android</option>
-                                    <option disabled>What is Android?</option>
-                                    <option disabled>Why is Android important?</option>
-                                    <option disabled>What benefits does Android have?</option>
-
-                                    <option disabled>What is OHA?</option>
-                                    <option disabled>Why to choose Android?</option>
-                                    <option disabled>Software architecture of Android</option>
-                                    <option disabled>Advantages of Android</option>
-                                    <option disabled>Android features Android market</option>
-                                    <option disabled>Comparing Android with other platform</option>
-                                    <option disabled>Terms and acronyms</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core HTML</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>HTML5 HISTORY</option>
-                                    <option disabled>Why HTML5?</option>
-                                    <option disabled>New Features and Groups</option>
-                                    <option disabled>Structure of HTML5 Document</option>
-                                    <option disabled>Semantics and Block Level Elements</option>
-                                    <option disabled>HTML5 Forms</option>
-
-                                    <option disabled>HTML5 Graphics</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance HTML5</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS Basics</option>
-                                    <option disabled>CSS Introduction</option>
-                                    <option disabled>CSS Syntax</option>
-                                    <option disabled>CSS Versions</option>
-                                    <option disabled>CSS Id & Class</option>
-                                    <option disabled>CSS Styling</option>
-
-                                    <option disabled>Styling Backgrounds</option>
-
-                                    <option disabled>Styling Text</option>
-                                    <option disabled>Styling Fonts</option>
-                                    <option disabled>CSS Borders</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core CSS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS3 Modules</option>
-                                    <option disabled>Selectors</option>
-                                    <option disabled>Box Model</option>
-                                    <option disabled>Backgrounds and Borders</option>
-                                    <option disabled>Text Effects</option>
-                                    <option disabled>2D/3D Transformations</option>
-                                    <option disabled>Core &Adanced Animations</option>
-                                    <option disabled>Multiple Column Layout</option>
-                                    <option disabled>User Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance CSS </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Basic JavaScript</option>
-                                    <option disabled>DOM and BOM</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>Prototype ,Hoisting and Closure</option>
-                                    <option disabled>Let , Const , Arrow , Class and Inheritance</option>
-                                    <option disabled>Map, Filter , Reduce , Template Literals</option>
-                                    <option disabled>forEach, for-in, for-of loop.</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Typescript</option>
-                                    <option disabled>Basic Types</option>
-                                    <option disabled>Class and Interfaces</option>
-                                    <option disabled>Modules</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Node | NPM</option>
-                                    <option disabled>Installation of CLI</option>
-                                    <option disabled>Setup Project</option>
-                                    <option disabled>Directory Structure</option>
-                                    <option disabled>Code Editors</option>
-                                    <option disabled>How React JS Application Boot</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>React Concepts</option>
-                                    <option disabled>JSX and TSX</option>
-                                    <option disabled>Render Elements</option>
-                                    <option disabled>Function and Class Components</option>
-                                    <option disabled>Props and State</option>
-                                    <option disabled>Handling Events</option>
-                                    <option disabled>Dynamic Data Rendering</option>
-                                    <option disabled>Property Binding</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC FEATURES OF REACT JS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Conditional Rendering</option>
-                                    <option disabled>List and Keys</option>
-                                    <option disabled>Forms Handling</option>
-                                    <option disabled>Forms Validations</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">KEY FEATURES OF REACT JS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding component lifecycle</option>
-                                    <option disabled>All Lifecycle Hooks</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENT LIFECYCLE HOOK </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding React Event System</option>
-                                    <option disabled>Passing arguments to event Handlers</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EVENT HANDLING REACT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Fetch</option>
-                                    <option disabled>Axios</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NETWORK CALL </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Services</option>
-                                    <option disabled>Building a Service</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM SERVICES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Local Storage</option>
-                                    <option disabled>Session Storage</option>
-                                    <option disabled>Cookies</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Setting up React Router</option>
-                                    <option disabled>Conﬁguring route with Route Component</option>
-                                    <option disabled>Making routes dynamic with Route Params</option>
-                                    <option disabled>Working with nested routes</option>
-                                    <option disabled>Link and NavLink</option>
-                                    <option disabled>Redirect Routes</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ROUTING WITH REACT ROUTER </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Material Design</option>
-                                    <option disabled>PrimeNG</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">UI COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Redux</option>
-                                    <option disabled>Install and setup</option>
-                                    <option disabled>Store ,Reducer , actions</option>
-                                    <option disabled>Dispatcher</option>
-
-                                    <option disabled>High order Components</option>
-
-                                    <option disabled>mapStateToProps and mapDispatchToProps usage</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Async Actions</option>
-                                    <option disabled>Middleware</option>
-                                    <option disabled>Redux Thunk and Redux Saga</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCE REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why We Need Hooks.</option>
-                                    <option disabled>Diﬀerent Types Of Hooks</option>
-                                    <option disabled>Using State And Eﬀect Hooks</option>
-                                    <option disabled>Usereducer , Useref Etc.</option>
-                                    <option disabled>Custom Hooks</option>
-                                    <option disabled>Rules Of Hooks</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">React Hooks </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Social Login</option>
-                                    <option disabled>Pagination</option>
-                                    <option disabled>Search</option>
-                                    <option disabled>Filter</option>
-                                    <option disabled>JWT Token</option>
-                                    <option disabled>File Uploadt</option>
-                                    <option disabled>Many More</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div> -->
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                            <option disabled>Jest with Enzyme</option>
-
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                    </div>
-                    <div class="form-floating">
-                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                            <option disabled>Build Application and Deployment</option>
-
-                        </select>
-                        <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                    </div>
-
-                    <!-- <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Java was Developed</option>
-                                    <option disabled>Application Areas of Java</option>
-                                    <option disabled>History of Java</option>
-                                    <option disabled>Platform Independency in Java</option>
-                                    <option disabled>U SP of Java: Java Features</li>
-                                    <option disabled>Sun-Oracle Deal</option>
-                                    <option disabled>Different Java Platforms</option>
-                                    <option disabled>Difference between JDK,JRE,JVM</option>
-                                    <option disabled>Java Versions</option>
-                                    <option disabled>JVM Architecture</option>
-                                    <option disabled>Understanding Path Variable: Why Set Path</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Text Editors to Write Programs</option>
-                                    <option disabled>How to compile java file</option>
-                                    <option disabled>Byte Code and class file</option>
-                                    <option disabled>How to run class file</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Identifiers</option>
-                                    <option disabled>Keywords</option>
-                                    <option disabled>Variables</option>
-                                    <option disabled>Literals</option>
-                                    <option disabled>Data Types</option>
-                                    <option disabled>Operators</option>
-                                    <option disabled>Comments</option>
-                                    <option disabled>Looping Statements</option>
-                                    <option disabled>Condition Statements</option>
-                                    <option disabled>Type Casting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA LANGUAGE FUNDAMENTALS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why OOP</option>
-                                    <option disabled>OOP Concepts with Real life examples</option>
-                                    <option disabled>Class& it's Syntax</option>
-                                    <option disabled>Object& it's Syntax</option>
-                                    <option disabled>Reference Variable</option>
-                                    <option disabled>Constructors</option>
-                                    <option disabled>Instance(Non-Static)& Static Variables</option>
-                                    <option disabled>Instance(Non-Static) & Static Methods</option>
-                                    <option disabled>this Keyword and it's usages</option>
-                                    <option disabled>Object & Static Initializers(Anonymous Blocks)</option>
-                                    <option disabled>Understanding '+' Operator</option>
-                                    <option disabled>Inheritance& it's Syntax</option>
-                                    <option disabled>Types of Inheritance</option>
-                                    <option disabled>Object Class as Root of Java Class Hierarchy</option>
-                                    <option disabled>Variable Hiding</option>
-                                    <option disabled>Method Hiding</option>
-                                    <option disabled>Method Overriding</option>
-                                    <option disabled>Method Overloading</option>
-                                    <option disabled>Super keyword and it's usages</option>
-                                    <option disabled>Final keyword and it's usages</option>
-                                    <option disabled>Constructor Chaining</option>
-                                    <option disabled>Upcasting and Downcasting</option>
-                                    <option disabled>Static &Dynamic Binding</option>
-                                    <option disabled>Run Time Polymorphism</option>
-                                    <option disabled>Abstract Keyword(Abstract classes and methods)</option>
-                                    <option disabled>Understanding Interfaces</option>
-                                    <option disabled>Implementation of Encapsulation</option>
-                                    <option disabled>Association with Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OOP IMPLEMENTATION (PIE) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Packages</option>
-                                    <option disabled>Setting Class path</option>
-                                    <option disabled>Reading Input from Keyboard</option>
-                                    <option disabled>Access Modifiers</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PACKAGES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Static Nested Class</option>
-                                    <option disabled>Non-static Nested Class</option>
-                                    <option disabled>Local Class</option>
-                                    <option disabled>Anonymous Class</option>
-                                    <option disabled>Nested Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NESTED TYPES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How to read command line arguments</option>
-                                    <option disabled>Wrapper Classes</option>
-                                    <option disabled>Parsing of Numeric Strings</option>
-                                    <option disabled>String representation of Primitives</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMAND LINE ARGUMENTS AND WRAPPER CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Types of Runtime Errors</option>
-                                    <option disabled>Understanding Exceptions</option>
-                                    <option disabled>Exception Class Hierarchy</option>
-                                    <option disabled>Try & Catch Blocks</option>
-                                    <option disabled>Patterns of Catch Block</option>
-                                    <option disabled>Nested Try statements</option>
-                                    <option disabled>Throw, throws and finally</option>
-                                    <option disabled>Creating Custom Exceptions</option>
-                                    <option disabled>Checked & Unchecked Exceptions</option>
-                                    <option disabled>Assertion</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
-                            </div> -->
-                    <!-- <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is String</option>
-                                    <option disabled>String Class</option>
-                                    <option disabled>Creating String Object</option>
-                                    <option disabled>Operations on String</option>
-                                    <option disabled>String Buffer Class and it's Methods</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between StringBuffer and StringBuilder</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH STRINGS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to AWT</option>
-                                    <option disabled>Introduction to Swing Components</option>
-                                    <option disabled>Look And Feel of Swing Components</option>
-                                    <option disabled>MVC Architecture of Swing Components</option>
-                                    <option disabled>Working with Image</option>
-                                    <option disabled>Advance Swing Components</option>
-                                    <option disabled>JOptionPane,JTree,JTable,JTabbedPane</option>
-                                    <option disabled>JfileChooser,JcolorChooser</option>
-                                    <option disabled>Menu Components</option>
-                                    <option disabled>JMenu</option>
-                                    <option disabled>JMenuItem</option>
-                                    <option disabled>JMenubar</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SWING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Multitasking: Why Concurrent Execution</option>
-                                    <option disabled>Multiprocessing v/s Multithreading</option>
-                                    <option disabled>Main Thread (Default Java Thread)</option>
-                                    <option disabled>Creating Child Threads and understanding context switching</option>
-                                    <option disabled>Thread States</option>
-                                    <option disabled>Thread Group</option>
-                                    <option disabled>Thread Synchronization: Methods and Blocks</option>
-                                    <option disabled>Inter-Thread communication</option>
-                                    <option disabled>Daemon Threads</option>
-                                    <option disabled>Deadlock</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MULTITHREADED PROGRAMMING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is I/O</option>
-                                    <option disabled>Why Need Streams</option>
-                                    <option disabled>Byte Streams and Character Streams</option>
-                                    <option disabled>Read/Write operations with file</option>
-                                    <option disabled>Scanner Class</option>
-                                    <option disabled>Object Serialization& Deserialization</option>
-                                    <option disabled>Transient keyword</option>
-                                    <option disabled>File Class and it's Methods</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">I/O STREAMS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Fundamentals of a Network</option>
-                                    <option disabled>Socket and ServerSocket Classes</option>
-                                    <option disabled>InetAddress Class</option>
-                                    <option disabled>DatagramSocket and DatagramPacket Classes</option>
-                                    <option disabled>URL,URLConnection,HttpURLConnection Classes</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SOCKET PROGRAMMING</label>
-                            </div>
-
-                        </div> -->
-
-
-                    <!-- <div class="col-md -6">
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding the Need Of Reflection</option>
-                                    <option disabled>Getting information about class's modifiers, fields, methods, constructors and super classes</option>
-                                    <option disabled>Finding out constant and method declaration belong to an interface</option>
-                                    <option disabled>Creating an instance of the class whose name is not known until runtime</option>
-                                    <option disabled>Getting and setting values of an object's field if field name is unknown until runtime</option>
-                                    <option disabled>Invoking a method on an object if the method is unknown until runtime</option>
-                                    <option disabled>Invoking Private Methods</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">REFLECTION </label>
-                            </div>
-
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Generics</option>
-                                    <option disabled>Lambda Expression</option>
-                                    <option disabled>Annotations</option>
-                                    <option disabled>Object Cloning</option>
-                                    <option disabled>Vargs</option>
-                                    <option disabled>Static-import</option>
-                                    <option disabled>Enum</option>
-                                    <option disabled>Static, Default and Private Methods of Interface</option>
-                                    <option disabled>Var Type</option>
-                                    <option disabled>Java Modules</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXTENDED & UTILITY CONCEPTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Collection?</option>
-                                    <option disabled>What is Framework?</option>
-                                    <option disabled>Collections Framework</option>
-                                    <option disabled>Core Interfaces</option>
-                                    <option disabled>Collection, List, Queue,Deque</option>
-                                    <option disabled>Set,NavigableSet, SortedSet</option>
-                                    <option disabled>Map,NavigableMap, SortedMap</option>
-                                    <option disabled>Core Classes</option>
-                                    <option disabled>ArrayList, LinkedList,PriorityQueue,ArrayDeque</option>
-                                    <option disabled>HashSet,LinkedHasSet,TreeSet,</option>
-                                    <option disabled>HashMap,IdentityHashMap,WeakHashMap,LinkedHashMap,Tree Map</option>
-                                    <option disabled>Accessing a Collection via an Iterator</option>
-                                    <option disabled>Accessing List via ListIterator</option>
-                                    <option disabled>Accessing a Collection via for each loop</option>
-                                    <option disabled>Working with User Defined Objects</option>
-                                    <option disabled>The Comparator and Comparable Interfaces</option>
-                                    <option disabled>The Legacy classes and Interfaces.</option>
-                                    <option disabled>Enumeration, Vector ,Stack</option>
-                                    <option disabled>Hashtable, Properties</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COLLECTIONS FRAMEWORK </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.util.Date</option>
-                                    <option disabled>java.util.Calender</option>
-                                    <option disabled>java.sql.Date</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATE & TIME API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.time.LocalDate</option>
-                                    <option disabled>java.time.LocalTime</option>
-                                    <option disabled>java.time.LocalDateTime</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JODA API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Locale</option>
-                                    <option disabled>Resource Bundle</option>
-                                    <option disabled>Usage of properties file</option>
-                                    <option disabled>Fetching text from Resource Bundle</option>
-                                    <option disabled>Displaying the text in HINDI</option>
-                                    <option disabled>Displaying date in Hindi</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SYSTEM PROPERTIES & INTERNATIONALIZATION (I18N</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled></option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">INTRODUCTION TO SQL (PROJECT BASED)</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need Of JDBC</option>
-                                    <option disabled>JDBC Drivers</option>
-                                    <option disabled>Statement, PreparedStatement, CallableStatement</option>
-                                    <option disabled>Scrollable and Updatable ResultSet</option>
-                                    <option disabled>Batch Updates</option>
-                                    <option disabled>Transaction</option>
-                                    <option disabled>Metadata</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATABASE PROGRAMMING USING JDBC</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding the Concept of Java EE : JEE Specification</option>
-                                    <option disabled>Java EE Architecture</option>
-                                    <option disabled>Single Tier</option>
-                                    <option disabled>Two Tier</option>
-                                    <option disabled>Three Tier</option>
-                                    <option disabled>N-Tier</option>
-                                    <option disabled>Java EE Components</option>
-                                    <option disabled>Web Components</option>
-                                    <option disabled>Distributed(Business) Components</option>
-                                    <option disabled>Java EE Containers&amp; Servers</option>
-                                    <option disabled>Web Container&amp; Web Server(Apache Tomcat)</option>
-                                    <option disabled>EJB Container&amp; Application Server(Weblogic,Glassfish,Websphere)</option>
-                                    <option disabled>Java EE Services</option>
-                                    <option disabled>JNDI Service</option>
-                                    <option disabled>Java Transaction Service</option>
-                                    <option disabled>JAAS</option>
-                                    <option disabled>JMS</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA EE(JAVA PLATFORM ENTERPRISE EDITION) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to ios programming</option>
-                                    <option disabled>Role of Servlet in web programming</option>
-                                    <option disabled>Servlet Lifecycle</option>
-                                    <option disabled>Servlet with Annotations</option>
-                                    <option disabled>@WebServlet</option>
-                                    <option disabled>@WebInitParam</option>
-                                    <option disabled>@WebListener</option>
-                                    <option disabled>@WebFilter</option>
-                                    <option disabled>@MultipartConfig</option>
-                                    <option disabled>Request Dispatching</option>
-                                    <option disabled>Parameters &amp; Attributes and their differences</option>
-                                    <option disabled>ServletConfig and ServletContext</option>
-                                    <option disabled>File Uploading and Downloading</option>
-                                    <option disabled>Session Tracking&amp;State Management</option>
-                                    <option disabled>Cookie</option>
-                                    <option disabled>Url Rewriting</option>
-                                    <option disabled>Hidden Form Field</option>
-                                    <option disabled>Session Object</option>
-                                    <option disabled>Events &amp; Listeners</option>
-                                    <option disabled>Dependency Injection</option>
-                                    <option disabled>Refreshing Servlet</option>
-                                    <option disabled>Filters</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVLET </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>JSP Architecture</option>
-                                    <option disabled>JSP Elements</option>
-                                    <option disabled>JSP Objects</option>
-                                    <option disabled>Understanding JavaBeans</option>
-                                    <option disabled>Custom Tags</option>
-                                    <option disabled>Using tags of JSTL</option>
-                                    <option disabled>Expression Language</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVER PAGES (JSP) & JSTL</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Front End Coding</option>
-                                    <option disabled>FORM DESIGNING</option>
-                                    <option disabled>HTML</option>
-                                    <option disabled>CSS</option>
-                                    <option disabled>JAVA SCRIPT</option>
-                                    <option disabled>BOOTSTRAP</option>
-                                    <option disabled>Back End Coding</option>
-                                    <option disabled>DATABASE DESIGNING</option>
-                                    <option disabled>Connecting forms to database</option>
-                                    <option disabled>Writing Business Logic</option>
-                                    <option disabled>Project Hosting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PROJECT CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Why Design Patterns…?</option>
-                                    <option disabled>Front Controller</option>
-                                    <option disabled>Composite View</option>
-                                    <option disabled>Factory Pattern</option>
-                                    <option disabled>Singleton Pattern</option>
-                                    <option disabled>DAO Pattern</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DESIGN PATTERN </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Email System and Protocols</option>
-                                    <option disabled>Sending &amp; Receiving Mails</option>
-                                    <option disabled>Handling Attachments</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA MAIL API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>RMI</option>
-                                    <option disabled>Web Services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO DISTRIBUTED PROGRAMMING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>@PathParam</option>
-                                    <option disabled>@Path</option>
-                                    <option disabled>@FormParam</option>
-                                    <option disabled>@QueryParam</option>
-                                    <option disabled>@DefaultValue</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO RESTFULL SERVICES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OVERVIEW OF JPA FRAMEWORK </label>
-                            </div>
-
-                            <div class="col-md-12 btn bg-gradient-primary">
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            Spring
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <br /><br /><br />
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-                                    <option disabled>What is Spring?</option>
-                                    <option disabled>Spring modules</option>
-                                    <option disabled>Understanding dependency Injection</option>
-                                    <option disabled>Applying aspect-oriented programming</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Containing your Bean</option>
-                                    <option disabled>Creating bean</option>
-                                    <option disabled>Injecting into bean properties</option>
-                                    <option disabled>Auto wiring</option>
-                                    <option disabled>Controlling bean creation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Declaring parent and Child Bean</option>
-                                    <option disabled>Applying method injection</option>
-                                    <option disabled>Injecting Non-spring Beans</option>
-                                    <option disabled>Registering Custom property editors</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCED BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing AOP</option>
-                                    <option disabled>Creating classic spring aspects</option>
-                                    <option disabled>Creating advice</option>
-                                    <option disabled>Defining Pointcuts and Advisors</option>
-                                    <option disabled>Using proxyFactory Bean</option>
-                                    <option disabled>Autoproxying</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVISING BEANS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Learning spring's data Access Philosphy</option>
-                                    <option disabled>Configuring a data source</option>
-                                    <option disabled>Using JDBC with Spring</option>
-                                    <option disabled>Working with JDBC Templates</option>
-                                    <option disabled>Using Spring's DAO Support Classes for JDBC</option>
-                                    <option disabled>Integrating Hibernate with Spring</option>
-                                    <option disabled>Caching</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HITTING THE DATABASE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Define MVC</option>
-                                    <option disabled>Hibernate Injection</option>
-                                    <option disabled>Spring Annotation</option>
-                                    <option disabled>Spring Controller</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO MVC </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Maven Configuration</option>
-                                    <option disabled>Converting Maven to Eclipse</option>
-                                    <option disabled>Various Maven Command</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAVEN DEPLOYMENT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Creating Rest</option>
-                                    <option disabled>Consuming Rest</option>
-                                    <option disabled>Calling on Client</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING REST API</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing Spring-WS</option>
-                                    <option disabled>Defining Contract (First!)</option>
-                                    <option disabled>Handling messages with service endpoints</option>
-                                    <option disabled>Wiring it all together</option>
-                                    <option disabled>Consuming Spring-WS Web services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BUILDING CONTRACT-FIRST WEB SERVICES IN SPRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING OBJECT/XML MAPPER</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Project Creation</option>
-                                    <option disabled>Boot Elements</option>
-                                    <option disabled>Boot Services</option>
-                                    <option disabled>Boot Annotation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING BOOT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE </label>
-                            </div>
-                            <div class="col-md-12 btn bg-gradient-primary">
-                                <br />
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            HIBERNATE
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div><br /><br /><br />
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need of ORM</option>
-                                    <option disabled>Problems using JDBC Directly</option>
-                                    <option disabled>ORM Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ORM</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Hibernate Architecture</option>
-                                    <option disabled>Hibernate configuration</option>
-                                    <option disabled>Hibernate's Support for Other Technologies</option>
-                                    <option disabled>Installing Hibernate</option>
-                                    <option disabled>A “Hello world” stand-alone application</option>
-                                    <option disabled>A Servlet–Based Hibernate application</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO HIBERNATE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Mapping a basic Java Class</option>
-                                    <option disabled>Mapping a Class with Binary Data</option>
-                                    <option disabled>Mapping a Serializable Class</option>
-                                    <option disabled>Mapping a class with Data/ calendar attributes</option>
-                                    <option disabled>Mapping a Read-only class</option>
-                                    <option disabled>Mapping a class using Versioning /Timestamps</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING PERSISTING CLASSES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Table-Per –class Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –subclass Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –concrete-subclass Hierarchy Mapping</option>
-                                    <option disabled>Persistence interfaces</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAPPING INHERITANCE WITH JAVA CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Associations</option>
-                                    <option disabled>Lazy initialization</option>
-                                    <option disabled>Mapping Maps/Sorted Maps</option>
-                                    <option disabled>Mapping Sets/Sorted Sets</option>
-                                    <option disabled>Mapping lists</option>
-                                    <option disabled>Mapping Arrays</option>
-                                    <option disabled>Mapping a Bidirectional Association</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH COLLECTIONS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Queries</option>
-                                    <option disabled>Named Queries</option>
-                                    <option disabled>SQL Queries</option>
-                                    <option disabled>Hibernate Queries language</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Configuration</option>
-                                    <option disabled>Database support</option>
-                                    <option disabled>Using Transactions</option>
-                                    <option disabled>The Transactions API</option>
-                                    <option disabled>Transaction Example Using Oracle</option>
-                                    <option disabled>Locking</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE TRANSACTIONS AND LOCKING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How caching improves performance</option>
-                                    <option disabled>First level lache</option>
-                                    <option disabled>Second level cache</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE CACHING </label>
-                            </div>
-
-
-                        </div> -->
-
-                </div>
-
-
-            </div>
-
-
-
-
-
-
-
-
-
-            <?php include "./query-form.php" ?>
-
-
-
+            <!-- '></iframe> -->
         </div>
+
     </div>
+</div>
+</div>
 </div>
 <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
 <?php include "./footer.php" ?>

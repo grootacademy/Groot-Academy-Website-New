@@ -322,7 +322,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6  col-sm-6 mt-md-0">
                         <a href="./programming-or-coding-course-after-12th.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="assets/img/course-card-images/software-engineering-chart-with-keywords-and-icons-sketch-G2NGCM.jpg" width="100%" >
+                                <img src="assets/img/course-card-images/software-engineering-chart-with-keywords-and-icons-sketch-G2NGCM.jpg" width="100%">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -573,7 +573,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-2">
-                        <a href="./best-data-analytics-course-using-python-in-jaipur.php">
+                        <a href="./best-data-science-course-using-python-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/course-card-images/Data-Science.png" width="100%">

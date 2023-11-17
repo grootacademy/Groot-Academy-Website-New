@@ -1,64 +1,63 @@
 <?php include('./includes/header_com.php');  ?>
-    <!--  META DATA -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
 
-    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
 ">
-    <link rel="canonical" href="https://grootacademy.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
 
 
-    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Groot Academy">
-    <meta property="og:url" content="https://grootacademy.com">
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
-    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
 
-    <meta property="og:image:width" content="90">
-    <meta property="og:image:height" content="90">
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
 
 
-    <meta name="language" content="en-us" />
-    <meta name="distribution" content="Global">
-    <meta name="Publisher" content="https://grootacademy.com">
-    <meta name="Rating" content="General">
-    <meta name=geography content="India ">
-    <meta name="geo.region" content="JP-RJ" />
-    <meta name="geo.placename" content="Jaipur" />
-    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/header_down.php');  ?>
 
 
 
-    <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
-
-
-<link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
-<div class="container mt-5">
+<div class="container-fluid mt-5">
     <div class="row">
         <div class="col-lg-12 mx-auto">
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Features</li>
+                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Full stack Development with nodeJS (MERN Stack Development)</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="./assets/img/hybridapp.png" alt="image" width="70" style="border-radius: 10px;" /> Hybrid application development </h4>
+
+                <h4 class="course-heading">Open the Doors of Opportunity by Becoming a Expert Flutter Programmer</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -69,1430 +68,535 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     </div>
                 </div>
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">
-        Empower the Best of Both Worlds!  Hybrid Application Development : Seamless Fusion of Native and Web Technologies 
- </h3><br/><br/>
-        <h6>
-        Are you ready to explore a powerful approach to app development that combines the best of native and web technologies?  Welcome to the captivating world of Hybrid Application Development, where creativity knows no bounds!. </h6>
-
-                    </div>
-
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-            '></iframe>
-                    </div>
-
-                </div>
-            </div>
 
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                <div class="position-relative ">
+                    <div class="container-fluid  border-bottom ">
+                        <div class="row py-3">
+                            <div class="col-lg-8 mx-auto   text-start border border-radius-xl overflow-hidden shadow-lg mb-7">
+                                <h5 class="mt-4">Rated 5/5 (2700+ Reviews)</h5>
+                                <span>
 
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">The Fusion of Native and Web: Bridging the Gap</h3>
-        <br/><br/>
-        <h6>
-        Hybrid Application Development represents the perfect synergy of native and web technologies. By leveraging web development languages like HTML, CSS, and JavaScript, hybrid apps are crafted to run seamlessly across multiple platforms and devices. This unique fusion bridges the gap between native and web apps, offering developers the flexibility to build apps faster and more efficiently.
-
-        </h6>
-    
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
-                    </div>
-
-                </div>
-            </div>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
 
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                                </span>
+                                <!-- <h5 class="text-gradient text-primary mb-0 mt-2"></h5> -->
+                                <p>
+                                    Flutter is an open-source UI toolkit from Google for building natively compiled applications across mobile, web, and desktop from a single codebase. Using the Dart programming language, Flutter facilitates rapid development with its hot reload feature, enabling real-time code changes. Its widget-based architecture streamlines UI creation, and a rich set of pre-built widgets simplifies customization. Flutter supports robust state management, testing, and seamless integration of packages for extended functionality. With deployment options for iOS, Android, web, and desktop, Flutter empowers developers to create visually appealing and performant applications with efficiency and consistency across diverse platforms.</p>
 
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">
-              Embracing Cross-Platform Compatibility: One Codebase, Multiple Platforms
-              </h3>
-              <br/><br/>
-              <h6>
-              Gone are the days of building separate apps for each platform. With Hybrid Application Development, you write one codebase that can be deployed on various platforms, be it iOS, Android, or the web. This cross-platform compatibility significantly reduces development time and costs, while simultaneously expanding your app is  reach to a broader audience. </h6>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Flutter application Programming.</h5>
+                                <p>
+                                    Flutter, developed by Google, is an open-source UI toolkit for building cross-platform applications using the Dart programming language. Three key features define Flutter development:</p>
+                                <ul>
+                                    <li><strong>Single Codebase for Multiple Platforms:</strong> Flutter allows developers to write code once and deploy it on iOS, Android, web, and desktop platforms, saving time and effort.</li>
 
-                    </div>
+                                    <li><strong>Hot Reload for Rapid Iteration:</strong> With its hot reload feature, developers can instantly view changes in the app during development without restarting, enhancing the iterative development process and speeding up debugging.</li>
 
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                                    <li><strong>Rich Widget-Based UI Development:</strong> Flutter's UI is constructed using a variety of customizable widgets, enabling the creation of visually appealing and responsive interfaces. This widget-based approach enhances code modularity and reusability.</li>
+                                </ul>
 
-            '></iframe>
-                    </div>
-
-                </div>
-            </div>
-
-
-
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2">Unleashing Speed and Efficiency: Building at the Speed of Innovation
-</h3>
-                                     <br/><br/>
-                                    <h6>
-                                    Speed and efficiency are the pillars of Hybrid Application Development. Thanks to pre-built plugins and frameworks like React Native, Ionic, and Xamarin, developers can accelerate the app-building process without compromising on performance. With access to a vast array of ready-to-use components, you can focus on bringing your unique app vision to life.                        </h6>
-                                 </div>
-                              </div>
                             </div>
-                     </section>
-                    <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
+                            <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
+
+
+
+                                <!-- brochures button -->
+
+                                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+
+                                <!-- brochures button -->
+                                <!-- Left side bar  -->
+
+
+                                <?php include("./includes/left-side-bar.php") ?>
+                                <!-- Left side bar  -->
+
+                            </div>
+                        </div>
                     </div>
+
                 </div>
             </div>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Customization at Your Fingertips: Tailor Your App Experience</h3>
-                                     <br/><br/>
-                                    <h6>Hybrid apps offer unmatched customization capabilities. Enhance your apps look and feel with CSS styling, and fine-tune the functionality with JavaScript enhancements. With full access to native device features through plugins, you can seamlessly integrate device functionalities like camera, GPS, and push notifications into your app, providing users with a seamless and engaging experience.</h6>
-                    </div>
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
+                        <section class="py-3">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <!-- <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h5> -->
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Jobs for Flutter Application Developer</strong></h4>
+                                        <p>
+                                            Flutter application developers are in high demand as businesses increasingly turn to cross-platform mobile app development. With expertise in Dart programming language and the Flutter framework, these developers create dynamic and visually appealing mobile applications for both Android and iOS platforms. They collaborate with design teams to implement user interfaces, ensure seamless navigation, and optimize app performance. Flutter developers are crucial in leveraging the framework's hot reload feature for rapid development, reducing time-to-market. Their responsibilities include troubleshooting, testing, and maintaining codebase integrity. As businesses recognize the efficiency and cost-effectiveness of Flutter in delivering consistent user experiences across devices, the demand for skilled Flutter application developers continues to grow, offering ample career opportunities in the ever-evolving field of mobile app development.</p>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2">  Simplified Maintenance and Updates: One Codebase, Easy Management</h3>
-                                     <br/><br/>
-                                    <h6>Managing multiple codebases for different platforms can be daunting. Hybrid Application Development simplifies maintenance by consolidating all updates and changes into one codebase. This means that bug fixes, feature enhancements, and updates can be rolled out uniformly across all platforms, streamlining the app maintenance process and ensuring a consistent user experience.</h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
                                 </div>
                             </div>
+                        </section>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked Flutter Application Development Interview Questions</strong></h3>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Flutter, and how does it differ from other mobile app development frameworks?</h5>
+                        <p>Ans: Flutter is an open-source UI software development toolkit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It stands out for its expressive UI, hot reload feature, and the use of the Dart programming language.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2: Explain the concept of "Hot Reload" in Flutter.</h5>
+                        <p>Ans:Hot Reload is a feature in Flutter that allows developers to instantly view the effects of code changes in the running app without restarting it. It speeds up the development process by quickly injecting new code into the running Dart Virtual Machine. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the Dart programming language, and why is it used in Flutter development?</h5>
+                        <p>Ans: Dart is a programming language optimized for building mobile, desktop, server, and web applications. It is used in Flutter because it provides the performance required for mobile apps and is well-integrated with the Flutter framework.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4: Describe the widget concept in Flutter and provide examples of stateful and stateless widgets.</h5>
+                        <p>Ans: In Flutter, everything is a widget, representing the structural and visual elements of an application. Stateless widgets are immutable and don't change over time, while stateful widgets can change dynamically during runtime. For example, a button might be a stateless widget, while a form might be a stateful widget.</p>
+
+
+                    </div>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5:Explain the purpose of the "pubspec.yaml" file in Flutter projects.</h5>
+                        <p>Ans: The "pubspec.yaml" file is used to define the project's metadata, dependencies, and other configuration settings. It includes information about the project name, version, dependencies on external packages, and other settings required for building and running the Flutter app.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6: What are Flutter packages, and how do you use them?</h5>
+                        <p>Ans:Flutter packages are pre-written code modules that provide additional functionality to Flutter applications. They can be easily integrated into a project by specifying them as dependencies in the "pubspec.yaml" file. Examples include packages for handling HTTP requests, state management, and UI components.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7: Explain the role of the MaterialApp widget in a Flutter application.</h5>
+                        <p>Ans: MaterialApp is a fundamental Flutter widget that defines the basic structure of a Material Design app. It includes settings such as theme, navigation, and routes, providing a consistent look and feel across different screens.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8: What is the purpose of the "setState" method in Flutter, and when is it used?</h5>
+                        <p>Ans:"setState" is a method in Flutter that informs the framework that the internal state of a State object has changed. When the state changes, this method triggers a rebuild of the widget subtree, updating the user interface to reflect the new state.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9: How does Flutter handle platform-specific code (iOS and Android) within a single codebase?</h5>
+                        <p>Ans: Flutter uses a flexible and extensible plugin system to interact with platform-specific code. Developers can use platform channels to call native code from Dart and vice versa, allowing seamless integration of platform-specific features.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10:What is the role of the "BuildContext" parameter in Flutter, and how is it used?</h5>
+                        <p>Ans:The "BuildContext" represents the location of a widget within the widget tree. It is essential for Flutter's state management and allows widgets to access the localizations, themes, and navigation information of their ancestor widgets. It is often passed as a parameter to methods that need information about the widget's context.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <div class=" w-100">
+                    <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction </h4>
+                        <ul>
+                            <li>Introduction</li>
+                            <li> Importance of Flutter Introduction to Dart Writing Dart code</li>
+                            <li> Dart Pad</li>
+                            <li> Installing Dart SDK</li>
+                            <li> IntelliJ IDEA</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Dart Programming Syntax</h4>
+                        <ul>
+                            <li>Introduction</li>
+                            <li> main () function</li>
+                            <li> Dart Variables</li>
+                            <li> Dart Data Types</li>
+                            <li> Input of Information to Dart Program</li>
+                            <li> Writing Comments</li>
+                            <li> Dart Conditional Operators</li>
+                            <li> If Statement</li>
+                            <li> If – Else Statement</li>
+                            <li> If…Else and Else…If... Statement</li>
+                            <li> If Else and Logical Operators</li>
+                            <li> For Loops</li>
+                            <li>While Loops</li>
+                            <li>Do-while Loops</li>
+                            <li>Break Statement</li>
+                            <li>Switch Case Statement</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Dart Functions & Object-Oriented Programming (OOP)</h4>
+                        <ul>
+
+                            <li>Functions</li>
+                            <li>Function Structure</li>
+                            <li>Creating a Function</li>
+                            <li>Function Return Data Types</li>
+                            <li>Void Function</li>
+                            <li>Function Returning Expression</li>
+                            <li>Functions and Variable Scope</li>
+                            <li>Object-Oriented Programming (OOP)</li>
+                            <li>Objects and Classes</li>
+                            <li>Creating a Class</li>
+                            <li>Adding Methods to Classes</li>
+                            <li>Providing Constructors for Your Classes</li>
+                            <li>Class — Getters and Setters</li>
+                            <li>Class Inheritance</li>
+                            <li>Abstract Class</li>
+                            <li>Dart Project Structure and Dart Libraries</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-12 border ">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">All About Flutter</h4>
+                        <div class="col-lg-12">
+                            <div class="col-lg-4">
+                                <ul>
+                                    <li> Understanding Flutter</li>
+                                    <li> Framework</li>
+                                    <li>Android Studio</li>
+                                    <li>▪ What is Android Studio?</li>
+                                    <li>▪ Android Studio Software Prerequisite</li>
+                                    <li>▪ Installing Android Studio</li>
+                                    <li>Flutter SDK</li>
+                                    <li>Installing and Configuring Flutter SDK</li>
+                                    <li>Creating a New Flutter Project</li>
+                                    <li>Setup an Android Virtual Device</li>
+                                    <li>Run a Flutter App</li>
+                                    <li>Installing Flutter on Mac</li>
+                                    <li>Test Your Flutter App on iOS Phone with Windows O.S</li>
+                                    <li>Android Studio Sugar and Spice</li>
+                                    <li>Run your Apps on a Hardware Device (Physical Phone)</li>
+                                    <li>▪ Run your Flutter App on Android Phone</li>
+                                    <li>▪ Run your Flutter App on Android Phone</li>
+                                    <li>Emulator Debug Mode</li>
+                                    <li>Introduction to Flutter Widgets</li>
+                                    <li>Creating a Flutter App Using Widgets</li>
+                                    <li>What is a Material App widget?</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Flutter Widgets Fundamentals</h4>
+                                <ul>
+                                    <li>Scaffold Widget</li>
+                                    <li>Image Widget</li>
+                                    <li>Container Widget</li>
+                                    <li>Column and Row Widgets</li>
+                                    <li>Icon Widget</li>
+                                    <li>Layouts in Flutter</li>
+                                    <li>Card Widget</li>
+                                    <li>App Icons for iOS and Android Apps</li>
+                                    <li>Hot Reload and Hot Restart</li>
+                                    <li>Stateful and Stateless Widgets</li>
+                                    <li>Use a Custom Font</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Navigation and Routing</h4>
+                                <ul>
+                                    <li>Button Widget</li>
+                                    <li>FloatingActionButton</li>
+                                    <li>RaisedButton, FlatButton, and IconButton</li>
+                                    <li>DropdownButton</li>
+                                    <li>OutlineButton</li>
+                                    <li>ButtonBar</li>
+                                    <li>PopupMenuButton</li>
+                                    <li>App Structure and Navigation</li>
+                                    <li>Navigate to a New Screen and Back</li>
+                                    <li>Navigate with Named Routes</li>
+                                    <li>Send and Return Data Among Screens</li>
+                                    <li>Animate a Widget Across Screens</li>
+                                    <li>WebView Widget in Flutter</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Visual, Behavioral, and Motion-Rich Widgets Implementing</h4>
+                                <ul>
+                                    <li>Material Design Guidelines - Part 1</li>
+                                    <li>Introduction</li>
+                                    <li>BottomNavigatorBar Widget</li>
+                                    <li>DefaultTabController, TabBar, and TabBarView Widgets</li>
+                                    <li>ListTile Widget</li>
+                                    <li>ListView Widget</li>
+                                    <li>Drawer Widget</li>
+                                    <li>DataTable Widget</li>
+                                    <li>SelectableText Widget</li>
+                                    <li>Stack Widget</li>
+                                    <li>Material Design Guidelines - Part 2</li>
+                                    <li>Input and Selections</li>
+                                    <li>Text Field Widget.</li>
+                                    <li>Checkbox Group and RadioButtonGroup Widgets</li>
+                                    <li>Date Picker.</li>
+                                    <li>Time Picker.</li>
+                                    <li>Slider Widget.</li>
+                                    <li>Switch Widget</li>
+                                    <li>Dialogs, Alerts, and Panels</li>
+                                    <li>Alert Dialog Widget</li>
+                                    <li>Cupertino Alert Dialog Widget.</li>
+                                    <li>Bottom Sheet.</li>
+                                    <li>Modal Bottom Sheet</li>
+                                    <li>Persistent Bottom Sheet.</li>
+                                    <li>Expansion Panel Widget.</li>
+                                    <li>Snack Bar Widget.</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Firebase</h4>
+                                <ul>
+                                    <li>Introduction</li>
+                                    <li> What is the JSON?</li>
+                                    <li> How does Firebase Database work?</li>
+                                    <li> Firebase authentication (Signup and Login to Flutter App)</li>
+                                    <li> Configure Your App to use Firebase Services</li>
+                                    <li> Adding Firebase to your Android App</li>
+                                    <li> Adding Firebase to your iOS App</li>
+                                    <li> Configuring Firebase Authentication</li>
+                                    <li> Login to an App Using Firebase User Accounts</li>
+                                    <li> Logout Configuration</li>
+                                    <li> Firebase Database</li>
+                                    <li> Which database is right for your project?</li>
+                                    <li> Real Time Database</li>
+                                    <li> Cloud Fire store</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Location-Aware Apps: Using GPS and Google Maps</h4>
+                                <ul>
+                                    <li>Introduction</li>
+                                    <li>What is GPS and how does it work?</li>
+                                    <li>The Camera Position</li>
+                                    <li>Adding Google Maps to a Flutter app</li>
+                                    <li>Getting a Google API key</li>
+                                    <li>Adding Google Maps Flutter plug-in as a dependency</li>
+                                    <li>Adding your API key for your Android app</li>
+                                    <li>Adding your API key for your iOS app</li>
+                                    <li>Adding a Google Map on Your Flutter App Screen</li>
+                                    <li>Adding a Google Map Marker</li>
+                                    <li>Google Map Types</li>
+                                    <li>Moving the Camera (Camera Animation)</li>
+                                    <li>Capturing an App User’s Location for iOS and Android Apps.</li>
+                                    <li>Getting a Google API key</li>
+                                    <li>Creating an App Interface</li>
+                                    <li>Configuring your App to Use Your API Key</li>
+                                    <li>Adding a Google Map on your Flutter App Screen</li>
+                                    <li>Adding a Google Map Marker</li>
+                                    <li>Flutter TM Application Development</li>
+                                    <li>Capturing Users’ Location</li>
+                                    <li>Configuring User App’s Permission</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">App Testing & Publishing</h4>
+                                <ul>
+                                    <li>Testing and Feedback for Your App</li>
+                                    <li>Setting up a Test Environment</li>
+                                    <li>Usability Testing by Participants</li>
+                                    <li>Starting your Test Session</li>
+                                    <li>Analyzing your Test</li>
+                                    <li>Publishing Flutter Apps</li>
+                                    <li>Publishing Android App on Google Play Store</li>
+                                    <li>Publishing iOS app on Apple Store</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <h4 class="text-gradient text-primary mb-0 mt-2">Placement Guide</h4>
+                                <ul>
+                                    <li>What is an Interview?</li>
+                                    <li>Tips to clear an Interview</li>
+                                    <li>Common Interview questions and answers</li>
+                                    <li>Flutter Interview Questions and Answers</li>
+                                    <li>Resume Building Guide</li>
+                                    <li>Attempt for Flutter Global Certification Exam if any</li>
+                                    <li>Start applying for Jobs</li>
+                                </ul>
+                            </div>
+
                         </div>
-                    </section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
                     </div>
-                </div>
-            </div>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2"> Innovation and Flexibility: Pioneering New Possibilities
-</h3>
-                                     <br/><br/>
-                                    <h6>Innovation knows no bounds in the world of Hybrid Application Development. With web technologies evolving rapidly, you can explore emerging trends like Progressive Web Apps (PWAs) and hybrid app advancements. This versatility empowers developers to embrace the latest features, provide users with cutting-edge experiences, and future-proof their apps.</h6>
-                    </div>
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
+                    <div class="shadow-lg border-radius-xl p-4 mb-4">
+                        <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
 
+                        <div class="row">
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2"> The Best of Both Worlds: Seamlessly Blending Strengths</h3>
-                                     <br/><br/>
-                                    <h6>Hybrid Application Development is not about choosing between native or web technologies. It is about harnessing the strengths of both to create powerful and versatile apps. By blending the user experience advantages of native apps with the cross-platform flexibility of web apps, you can deliver stunning and responsive applications that leave a lasting impression on your audience. </h6>
-        </div>
-    </div>
-</div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
+                            <div class="col-lg-6">
+                                <h5 class="text-gradient text-primary mb-0 mt-2">1: Is Flutter suitable for large-scale applications?</h5>
+                                <p>Ans: Yes, Flutter is suitable for large-scale applications. Its modular and scalable architecture, along with its performance benefits, makes it a viable choice for building complex and feature-rich applications.</p>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">2:What is the role of the Flutter framework in handling platform-specific designs?<h5>
+                                        <p>Ans: Flutter uses a concept called "Material Design" for Android and "Cupertino" for iOS to provide platform-specific designs. Developers can also customize the appearance using themes and widgets tailored for each platform.</p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">3:How does Flutter handle device orientation changes?</h5>
+                                        <p>Ans: Flutter automatically handles device orientation changes using the OrientationBuilder widget, allowing developers to adjust the UI based on the device orientation (portrait or landscape).
+                                        </p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">4:Can Flutter apps access device features like camera and location?</h5>
+                                        <p>Ans: Yes, Flutter has plugins that allow access to device features like the camera, GPS, and other sensors. Developers can use these plugins to integrate native device functionality into their Flutter applications.</p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">5:What is Flutter's testing framework, and how is testing done in Flutter?</h5>
+                                        <p>Ans: Flutter has a built-in testing framework called "flutter_test." Developers can write unit tests, widget tests, and integration tests to ensure the functionality and behavior of their Flutter applications.</p>
+                                        <div class="d-flex">
+                                            <ul>
+                                                <li>Front end developer</li>
+                                                <li>Back end developer</li>
+                                            </ul>
+                                            <ul>
+                                                <li>Full stack developer</li>
+                                                <li>Database administrator</li>
+                                            </ul>
 
+                                        </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <h5 class="text-gradient text-primary mb-0 mt-2">6: How does Flutter handle internationalization (i18n) and localization (l10n)?</h5>
+                                <p>Ans: Flutter has built-in support for internationalization and localization. Developers can use the intl package and arb files to provide translations for different languages and regions.</p>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">7:What is Flutter's approach to handling animations?</h5>
+                                <p>Ans: Flutter provides a rich set of animation APIs and widgets to create smooth and complex animations. The AnimatedBuilder, Tween, and Hero widgets are commonly used for creating animations in Flutter.</p>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">8:How does Flutter handle performance optimization?</h5>
+                                <p>Ans: Flutter achieves high performance through its use of a compiled programming language (Dart), the Flutter engine, and the absence of a JavaScript bridge. Additionally, developers can optimize performance by using the DevTools suite and profiling tools.</p>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">9:What is Flutter's support for responsive design?</h5>
+                                <p>Ans: Flutter encourages a responsive design approach through its use of widgets like LayoutBuilder and MediaQuery. Developers can create adaptive layouts that adjust based on screen size and device characteristics.
+                                </p>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">10:How can Flutter apps handle push notifications?</h5>
+                                <p>Ans: Flutter can handle push notifications using plugins like Firebase Cloud Messaging (FCM) or other push notification services. These plugins allow developers to integrate push notifications into their Flutter applications seamlessly.</p>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                    <!-- Nucleo Icons -->
-                     <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                     <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                     <section class="py-3">
-                         <div class="container">
-                             <div class="row">
-                                <div class="col-lg-12">
-                                    <h3 class="text-gradient text-primary mb-0 mt-2">Embrace the Hybrid Revolution Today!</h3>
-                                     <br/><br/>
-                                    <h6>
-                                    If you  are eager to embrace the best of both worlds in app development, Hybrid Application Development is your gateway to boundless possibilities. Join the ever-growing community of developers who are revolutionizing the mobile app landscape with this dynamic approach. Unleash your creativity, streamline your development process, and provide users with a remarkable app experience on any platform with Hybrid Application Development. Embrace innovation, and let your apps shine in the global mobile arena! #HybridDevelopment #AppDevelopment #Innovation #CrossPlatform #NativeAndWeb #SpeedAndEfficiency #Customization #FutureReady #TechRevolution #AppCreators #MobileApps #SeamlessExperience #HybridApps </h6>
-                    </div>
-                </div>
-            </div>
-            </section>
-            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- --> '>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="row">
-                <div class="col-md-12 btn bg-gradient-primary">
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg text-primary">
-                                Android App Development
-                            </span>
+                            </div>
                         </div>
-
                     </div>
-                </div>
-
-
-
-                <div>
-                    <br /><br />
-
-
                     <div class="row">
-                        <div class="col-md -6">
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                        <div class="col-lg-6">
+                            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                                <div class="tab-content tab-space">
+                                    <div class="tab-pane active" id="preview-features-1">
+                                        <section class="py-3">
+                                            <div class="container-fluid">
+                                                <div class="row">
+                                                    <div class="col-lg-12">
+                                                        <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
+                                                        <br /><br />
+                                                        <h6>Learning Spring Framework is highly advantageous for developers due to its widespread adoption in the software industry. With a strong demand for Spring professionals, acquiring expertise in this framework significantly enhances career prospects. Its versatility, simplification of development processes, seamless integration capabilities, robust security features, and active community support make it an attractive choice for developers. Additionally, Spring Framework offers valuable skills applicable to various project requirements, enabling developers to create scalable, efficient, and secure applications. Staying updated with the continuous improvements in Spring ensures that developers remain competitive and well-equipped with the latest tools and techniques in the dynamic field of software development, making it a compelling choice for anyone looking to advance their career in technology.</h6>
+                                                    </div>
 
-                                    <option disabled>What is Android?</option>
-                                    <option disabled>Web Features ?</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>W3C and W3C Members</option>
-                                    <option disabled>Introduction to What WG</option>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
 
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to AndroidDevelopment </label>
+                                </div>
                             </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>Parts in HTML Document</option>
-                                    <option disabled>Version Information</option>
-                                    <option disabled>Head Section</option>
-                                    <option disabled>Head Section</option>
-
-                                    <option disabled>Meta Information</option>
-                                    <option disabled>Favicons</option>
-                                    <option disabled>Body Section</option>
-                                    <option disabled>HTML FORMS</option>
-                                    <option disabled>Anchors, Images</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core HTML</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>HTML5 HISTORY</option>
-                                    <option disabled>Why HTML5?</option>
-                                    <option disabled>New Features and Groups</option>
-                                    <option disabled>Structure of HTML5 Document</option>
-                                    <option disabled>Semantics and Block Level Elements</option>
-                                    <option disabled>HTML5 Forms</option>
-
-                                    <option disabled>HTML5 Graphics</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance HTML5</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS Basics</option>
-                                    <option disabled>CSS Introduction</option>
-                                    <option disabled>CSS Syntax</option>
-                                    <option disabled>CSS Versions</option>
-                                    <option disabled>CSS Id & Class</option>
-                                    <option disabled>CSS Styling</option>
-
-                                    <option disabled>Styling Backgrounds</option>
-
-                                    <option disabled>Styling Text</option>
-                                    <option disabled>Styling Fonts</option>
-                                    <option disabled>CSS Borders</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core CSS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS3 Modules</option>
-                                    <option disabled>Selectors</option>
-                                    <option disabled>Box Model</option>
-                                    <option disabled>Backgrounds and Borders</option>
-                                    <option disabled>Text Effects</option>
-                                    <option disabled>2D/3D Transformations</option>
-                                    <option disabled>Core &Adanced Animations</option>
-                                    <option disabled>Multiple Column Layout</option>
-                                    <option disabled>User Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance CSS </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Basic JavaScript</option>
-                                    <option disabled>DOM and BOM</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>Prototype ,Hoisting and Closure</option>
-                                    <option disabled>Let , Const , Arrow , Class and Inheritance</option>
-                                    <option disabled>Map, Filter , Reduce , Template Literals</option>
-                                    <option disabled>forEach, for-in, for-of loop.</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Typescript</option>
-                                    <option disabled>Basic Types</option>
-                                    <option disabled>Class and Interfaces</option>
-                                    <option disabled>Modules</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Node | NPM</option>
-                                    <option disabled>Installation of CLI</option>
-                                    <option disabled>Setup Project</option>
-                                    <option disabled>Directory Structure</option>
-                                    <option disabled>Code Editors</option>
-                                    <option disabled>How React JS Application Boot</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>React Concepts</option>
-                                    <option disabled>JSX and TSX</option>
-                                    <option disabled>Render Elements</option>
-                                    <option disabled>Function and Class Components</option>
-                                    <option disabled>Props and State</option>
-                                    <option disabled>Handling Events</option>
-                                    <option disabled>Dynamic Data Rendering</option>
-                                    <option disabled>Property Binding</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC FEATURES OF REACT JS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Conditional Rendering</option>
-                                    <option disabled>List and Keys</option>
-                                    <option disabled>Forms Handling</option>
-                                    <option disabled>Forms Validations</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">KEY FEATURES OF REACT JS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding component lifecycle</option>
-                                    <option disabled>All Lifecycle Hooks</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENT LIFECYCLE HOOK </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding React Event System</option>
-                                    <option disabled>Passing arguments to event Handlers</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EVENT HANDLING REACT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Fetch</option>
-                                    <option disabled>Axios</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NETWORK CALL </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Services</option>
-                                    <option disabled>Building a Service</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM SERVICES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Local Storage</option>
-                                    <option disabled>Session Storage</option>
-                                    <option disabled>Cookies</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Setting up React Router</option>
-                                    <option disabled>Conﬁguring route with Route Component</option>
-                                    <option disabled>Making routes dynamic with Route Params</option>
-                                    <option disabled>Working with nested routes</option>
-                                    <option disabled>Link and NavLink</option>
-                                    <option disabled>Redirect Routes</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ROUTING WITH REACT ROUTER </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Material Design</option>
-                                    <option disabled>PrimeNG</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">UI COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Redux</option>
-                                    <option disabled>Install and setup</option>
-                                    <option disabled>Store ,Reducer , actions</option>
-                                    <option disabled>Dispatcher</option>
-
-                                    <option disabled>High order Components</option>
-
-                                    <option disabled>mapStateToProps and mapDispatchToProps usage</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Async Actions</option>
-                                    <option disabled>Middleware</option>
-                                    <option disabled>Redux Thunk and Redux Saga</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCE REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why We Need Hooks.</option>
-                                    <option disabled>Diﬀerent Types Of Hooks</option>
-                                    <option disabled>Using State And Eﬀect Hooks</option>
-                                    <option disabled>Usereducer , Useref Etc.</option>
-                                    <option disabled>Custom Hooks</option>
-                                    <option disabled>Rules Of Hooks</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">React Hooks </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Social Login</option>
-                                    <option disabled>Pagination</option>
-                                    <option disabled>Search</option>
-                                    <option disabled>Filter</option>
-                                    <option disabled>JWT Token</option>
-                                    <option disabled>File Uploadt</option>
-                                    <option disabled>Many More</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Jest with Enzyme</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Build Application and Deployment</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Java was Developed</option>
-                                    <option disabled>Application Areas of Java</option>
-                                    <option disabled>History of Java</option>
-                                    <option disabled>Platform Independency in Java</option>
-                                    <option disabled>U SP of Java: Java Features</li>
-                                    <option disabled>Sun-Oracle Deal</option>
-                                    <option disabled>Different Java Platforms</option>
-                                    <option disabled>Difference between JDK,JRE,JVM</option>
-                                    <option disabled>Java Versions</option>
-                                    <option disabled>JVM Architecture</option>
-                                    <option disabled>Understanding Path Variable: Why Set Path</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Text Editors to Write Programs</option>
-                                    <option disabled>How to compile java file</option>
-                                    <option disabled>Byte Code and class file</option>
-                                    <option disabled>How to run class file</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Identifiers</option>
-                                    <option disabled>Keywords</option>
-                                    <option disabled>Variables</option>
-                                    <option disabled>Literals</option>
-                                    <option disabled>Data Types</option>
-                                    <option disabled>Operators</option>
-                                    <option disabled>Comments</option>
-                                    <option disabled>Looping Statements</option>
-                                    <option disabled>Condition Statements</option>
-                                    <option disabled>Type Casting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA LANGUAGE FUNDAMENTALS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why OOP</option>
-                                    <option disabled>OOP Concepts with Real life examples</option>
-                                    <option disabled>Class& it's Syntax</option>
-                                    <option disabled>Object& it's Syntax</option>
-                                    <option disabled>Reference Variable</option>
-                                    <option disabled>Constructors</option>
-                                    <option disabled>Instance(Non-Static)& Static Variables</option>
-                                    <option disabled>Instance(Non-Static) & Static Methods</option>
-                                    <option disabled>this Keyword and it's usages</option>
-                                    <option disabled>Object & Static Initializers(Anonymous Blocks)</option>
-                                    <option disabled>Understanding '+' Operator</option>
-                                    <option disabled>Inheritance& it's Syntax</option>
-                                    <option disabled>Types of Inheritance</option>
-                                    <option disabled>Object Class as Root of Java Class Hierarchy</option>
-                                    <option disabled>Variable Hiding</option>
-                                    <option disabled>Method Hiding</option>
-                                    <option disabled>Method Overriding</option>
-                                    <option disabled>Method Overloading</option>
-                                    <option disabled>Super keyword and it's usages</option>
-                                    <option disabled>Final keyword and it's usages</option>
-                                    <option disabled>Constructor Chaining</option>
-                                    <option disabled>Upcasting and Downcasting</option>
-                                    <option disabled>Static &Dynamic Binding</option>
-                                    <option disabled>Run Time Polymorphism</option>
-                                    <option disabled>Abstract Keyword(Abstract classes and methods)</option>
-                                    <option disabled>Understanding Interfaces</option>
-                                    <option disabled>Implementation of Encapsulation</option>
-                                    <option disabled>Association with Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OOP IMPLEMENTATION (PIE) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Packages</option>
-                                    <option disabled>Setting Class path</option>
-                                    <option disabled>Reading Input from Keyboard</option>
-                                    <option disabled>Access Modifiers</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PACKAGES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Static Nested Class</option>
-                                    <option disabled>Non-static Nested Class</option>
-                                    <option disabled>Local Class</option>
-                                    <option disabled>Anonymous Class</option>
-                                    <option disabled>Nested Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NESTED TYPES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How to read command line arguments</option>
-                                    <option disabled>Wrapper Classes</option>
-                                    <option disabled>Parsing of Numeric Strings</option>
-                                    <option disabled>String representation of Primitives</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMAND LINE ARGUMENTS AND WRAPPER CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Types of Runtime Errors</option>
-                                    <option disabled>Understanding Exceptions</option>
-                                    <option disabled>Exception Class Hierarchy</option>
-                                    <option disabled>Try & Catch Blocks</option>
-                                    <option disabled>Patterns of Catch Block</option>
-                                    <option disabled>Nested Try statements</option>
-                                    <option disabled>Throw, throws and finally</option>
-                                    <option disabled>Creating Custom Exceptions</option>
-                                    <option disabled>Checked & Unchecked Exceptions</option>
-                                    <option disabled>Assertion</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is String</option>
-                                    <option disabled>String Class</option>
-                                    <option disabled>Creating String Object</option>
-                                    <option disabled>Operations on String</option>
-                                    <option disabled>String Buffer Class and it's Methods</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between StringBuffer and StringBuilder</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH STRINGS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to AWT</option>
-                                    <option disabled>Introduction to Swing Components</option>
-                                    <option disabled>Look And Feel of Swing Components</option>
-                                    <option disabled>MVC Architecture of Swing Components</option>
-                                    <option disabled>Working with Image</option>
-                                    <option disabled>Advance Swing Components</option>
-                                    <option disabled>JOptionPane,JTree,JTable,JTabbedPane</option>
-                                    <option disabled>JfileChooser,JcolorChooser</option>
-                                    <option disabled>Menu Components</option>
-                                    <option disabled>JMenu</option>
-                                    <option disabled>JMenuItem</option>
-                                    <option disabled>JMenubar</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SWING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Multitasking: Why Concurrent Execution</option>
-                                    <option disabled>Multiprocessing v/s Multithreading</option>
-                                    <option disabled>Main Thread (Default Java Thread)</option>
-                                    <option disabled>Creating Child Threads and understanding context switching</option>
-                                    <option disabled>Thread States</option>
-                                    <option disabled>Thread Group</option>
-                                    <option disabled>Thread Synchronization: Methods and Blocks</option>
-                                    <option disabled>Inter-Thread communication</option>
-                                    <option disabled>Daemon Threads</option>
-                                    <option disabled>Deadlock</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MULTITHREADED PROGRAMMING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is I/O</option>
-                                    <option disabled>Why Need Streams</option>
-                                    <option disabled>Byte Streams and Character Streams</option>
-                                    <option disabled>Read/Write operations with file</option>
-                                    <option disabled>Scanner Class</option>
-                                    <option disabled>Object Serialization& Deserialization</option>
-                                    <option disabled>Transient keyword</option>
-                                    <option disabled>File Class and it's Methods</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">I/O STREAMS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Fundamentals of a Network</option>
-                                    <option disabled>Socket and ServerSocket Classes</option>
-                                    <option disabled>InetAddress Class</option>
-                                    <option disabled>DatagramSocket and DatagramPacket Classes</option>
-                                    <option disabled>URL,URLConnection,HttpURLConnection Classes</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SOCKET PROGRAMMING</label>
-                            </div>
-
                         </div>
+                        <div class="col-lg-6">
+                            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-
-                        <div class="col-md -6">
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding the Need Of Reflection</option>
-                                    <option disabled>Getting information about class's modifiers, fields, methods, constructors and super classes</option>
-                                    <option disabled>Finding out constant and method declaration belong to an interface</option>
-                                    <option disabled>Creating an instance of the class whose name is not known until runtime</option>
-                                    <option disabled>Getting and setting values of an object's field if field name is unknown until runtime</option>
-                                    <option disabled>Invoking a method on an object if the method is unknown until runtime</option>
-                                    <option disabled>Invoking Private Methods</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">REFLECTION </label>
-                            </div>
-
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Generics</option>
-                                    <option disabled>Lambda Expression</option>
-                                    <option disabled>Annotations</option>
-                                    <option disabled>Object Cloning</option>
-                                    <option disabled>Vargs</option>
-                                    <option disabled>Static-import</option>
-                                    <option disabled>Enum</option>
-                                    <option disabled>Static, Default and Private Methods of Interface</option>
-                                    <option disabled>Var Type</option>
-                                    <option disabled>Java Modules</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXTENDED & UTILITY CONCEPTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Collection?</option>
-                                    <option disabled>What is Framework?</option>
-                                    <option disabled>Collections Framework</option>
-                                    <option disabled>Core Interfaces</option>
-                                    <option disabled>Collection, List, Queue,Deque</option>
-                                    <option disabled>Set,NavigableSet, SortedSet</option>
-                                    <option disabled>Map,NavigableMap, SortedMap</option>
-                                    <option disabled>Core Classes</option>
-                                    <option disabled>ArrayList, LinkedList,PriorityQueue,ArrayDeque</option>
-                                    <option disabled>HashSet,LinkedHasSet,TreeSet,</option>
-                                    <option disabled>HashMap,IdentityHashMap,WeakHashMap,LinkedHashMap,Tree Map</option>
-                                    <option disabled>Accessing a Collection via an Iterator</option>
-                                    <option disabled>Accessing List via ListIterator</option>
-                                    <option disabled>Accessing a Collection via for each loop</option>
-                                    <option disabled>Working with User Defined Objects</option>
-                                    <option disabled>The Comparator and Comparable Interfaces</option>
-                                    <option disabled>The Legacy classes and Interfaces.</option>
-                                    <option disabled>Enumeration, Vector ,Stack</option>
-                                    <option disabled>Hashtable, Properties</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COLLECTIONS FRAMEWORK </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.util.Date</option>
-                                    <option disabled>java.util.Calender</option>
-                                    <option disabled>java.sql.Date</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATE & TIME API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.time.LocalDate</option>
-                                    <option disabled>java.time.LocalTime</option>
-                                    <option disabled>java.time.LocalDateTime</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JODA API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Locale</option>
-                                    <option disabled>Resource Bundle</option>
-                                    <option disabled>Usage of properties file</option>
-                                    <option disabled>Fetching text from Resource Bundle</option>
-                                    <option disabled>Displaying the text in HINDI</option>
-                                    <option disabled>Displaying date in Hindi</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SYSTEM PROPERTIES & INTERNATIONALIZATION (I18N</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled></option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">INTRODUCTION TO SQL (PROJECT BASED)</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need Of JDBC</option>
-                                    <option disabled>JDBC Drivers</option>
-                                    <option disabled>Statement, PreparedStatement, CallableStatement</option>
-                                    <option disabled>Scrollable and Updatable ResultSet</option>
-                                    <option disabled>Batch Updates</option>
-                                    <option disabled>Transaction</option>
-                                    <option disabled>Metadata</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATABASE PROGRAMMING USING JDBC</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding the Concept of Java EE : JEE Specification</option>
-                                    <option disabled>Java EE Architecture</option>
-                                    <option disabled>Single Tier</option>
-                                    <option disabled>Two Tier</option>
-                                    <option disabled>Three Tier</option>
-                                    <option disabled>N-Tier</option>
-                                    <option disabled>Java EE Components</option>
-                                    <option disabled>Web Components</option>
-                                    <option disabled>Distributed(Business) Components</option>
-                                    <option disabled>Java EE Containers&amp; Servers</option>
-                                    <option disabled>Web Container&amp; Web Server(Apache Tomcat)</option>
-                                    <option disabled>EJB Container&amp; Application Server(Weblogic,Glassfish,Websphere)</option>
-                                    <option disabled>Java EE Services</option>
-                                    <option disabled>JNDI Service</option>
-                                    <option disabled>Java Transaction Service</option>
-                                    <option disabled>JAAS</option>
-                                    <option disabled>JMS</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA EE(JAVA PLATFORM ENTERPRISE EDITION) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to web programming</option>
-                                    <option disabled>Role of Servlet in web programming</option>
-                                    <option disabled>Servlet Lifecycle</option>
-                                    <option disabled>Servlet with Annotations</option>
-                                    <option disabled>@WebServlet</option>
-                                    <option disabled>@WebInitParam</option>
-                                    <option disabled>@WebListener</option>
-                                    <option disabled>@WebFilter</option>
-                                    <option disabled>@MultipartConfig</option>
-                                    <option disabled>Request Dispatching</option>
-                                    <option disabled>Parameters &amp; Attributes and their differences</option>
-                                    <option disabled>ServletConfig and ServletContext</option>
-                                    <option disabled>File Uploading and Downloading</option>
-                                    <option disabled>Session Tracking&amp;State Management</option>
-                                    <option disabled>Cookie</option>
-                                    <option disabled>Url Rewriting</option>
-                                    <option disabled>Hidden Form Field</option>
-                                    <option disabled>Session Object</option>
-                                    <option disabled>Events &amp; Listeners</option>
-                                    <option disabled>Dependency Injection</option>
-                                    <option disabled>Refreshing Servlet</option>
-                                    <option disabled>Filters</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVLET </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>JSP Architecture</option>
-                                    <option disabled>JSP Elements</option>
-                                    <option disabled>JSP Objects</option>
-                                    <option disabled>Understanding JavaBeans</option>
-                                    <option disabled>Custom Tags</option>
-                                    <option disabled>Using tags of JSTL</option>
-                                    <option disabled>Expression Language</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVER PAGES (JSP) & JSTL</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Front End Coding</option>
-                                    <option disabled>FORM DESIGNING</option>
-                                    <option disabled>HTML</option>
-                                    <option disabled>CSS</option>
-                                    <option disabled>JAVA SCRIPT</option>
-                                    <option disabled>BOOTSTRAP</option>
-                                    <option disabled>Back End Coding</option>
-                                    <option disabled>DATABASE DESIGNING</option>
-                                    <option disabled>Connecting forms to database</option>
-                                    <option disabled>Writing Business Logic</option>
-                                    <option disabled>Project Hosting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PROJECT CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Why Design Patterns…?</option>
-                                    <option disabled>Front Controller</option>
-                                    <option disabled>Composite View</option>
-                                    <option disabled>Factory Pattern</option>
-                                    <option disabled>Singleton Pattern</option>
-                                    <option disabled>DAO Pattern</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DESIGN PATTERN </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Email System and Protocols</option>
-                                    <option disabled>Sending &amp; Receiving Mails</option>
-                                    <option disabled>Handling Attachments</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA MAIL API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>RMI</option>
-                                    <option disabled>Web Services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO DISTRIBUTED PROGRAMMING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>@PathParam</option>
-                                    <option disabled>@Path</option>
-                                    <option disabled>@FormParam</option>
-                                    <option disabled>@QueryParam</option>
-                                    <option disabled>@DefaultValue</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO RESTFULL SERVICES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OVERVIEW OF JPA FRAMEWORK </label>
-                            </div>
-
-                            <div class="col-md-12 btn bg-gradient-primary">
                                 <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg text-primary">
-                                            Android
-                                        </span>
+                                    <div class="tab-pane active" id="preview-features-1">
+                                        <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                                        <!-- Nucleo Icons -->
+                                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                                        <section class="py-3">
+                                            <div class="container">
+                                                <div class="row">
+                                                    <div class="col-lg-12">
+                                                        <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                                        <br /><br />
+                                                        <h6>
+                                                            Professionals proficient in Spring Framework have a plethora of job opportunities across different domains within the software development landscape. Java Developers skilled in Spring are essential for creating robust, scalable applications, while Full Stack Developers with Spring expertise play a pivotal role in building comprehensive web solutions. Software Engineers and Application Architects leverage Spring Framework to design complex, high-performance applications, especially in enterprise-level projects. DevOps Engineers use Spring's features to optimize deployment pipelines and ensure seamless integration in CI/CD environments. Moreover, technical consultants provide valuable guidance to businesses on effective Spring implementation, while System Engineers maintain and enhance backend systems using Spring Framework. Additionally, freelancers and consultants often find rewarding projects that require their Spring Framework expertise, showcasing the framework's versatility and continued demand in the job market.</h6>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                                        <!-- '></iframe> -->
                                     </div>
 
                                 </div>
-                            </div>
-                            <br /><br /><br />
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-                                    <option disabled>What is Spring?</option>
-                                    <option disabled>Spring modules</option>
-                                    <option disabled>Understanding dependency Injection</option>
-                                    <option disabled>Applying aspect-oriented programming</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Containing your Bean</option>
-                                    <option disabled>Creating bean</option>
-                                    <option disabled>Injecting into bean properties</option>
-                                    <option disabled>Auto wiring</option>
-                                    <option disabled>Controlling bean creation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Declaring parent and Child Bean</option>
-                                    <option disabled>Applying method injection</option>
-                                    <option disabled>Injecting Non-spring Beans</option>
-                                    <option disabled>Registering Custom property editors</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCED BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing AOP</option>
-                                    <option disabled>Creating classic spring aspects</option>
-                                    <option disabled>Creating advice</option>
-                                    <option disabled>Defining Pointcuts and Advisors</option>
-                                    <option disabled>Using proxyFactory Bean</option>
-                                    <option disabled>Autoproxying</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVISING BEANS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Learning spring's data Access Philosphy</option>
-                                    <option disabled>Configuring a data source</option>
-                                    <option disabled>Using JDBC with Spring</option>
-                                    <option disabled>Working with JDBC Templates</option>
-                                    <option disabled>Using Spring's DAO Support Classes for JDBC</option>
-                                    <option disabled>Integrating Hibernate with Spring</option>
-                                    <option disabled>Caching</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HITTING THE DATABASE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Define MVC</option>
-                                    <option disabled>Hibernate Injection</option>
-                                    <option disabled>Spring Annotation</option>
-                                    <option disabled>Spring Controller</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO MVC </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Maven Configuration</option>
-                                    <option disabled>Converting Maven to Eclipse</option>
-                                    <option disabled>Various Maven Command</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAVEN DEPLOYMENT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Creating Rest</option>
-                                    <option disabled>Consuming Rest</option>
-                                    <option disabled>Calling on Client</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING REST API</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing Spring-WS</option>
-                                    <option disabled>Defining Contract (First!)</option>
-                                    <option disabled>Handling messages with service endpoints</option>
-                                    <option disabled>Wiring it all together</option>
-                                    <option disabled>Consuming Spring-WS Web services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BUILDING CONTRACT-FIRST WEB SERVICES IN SPRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING OBJECT/XML MAPPER</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Project Creation</option>
-                                    <option disabled>Boot Elements</option>
-                                    <option disabled>Boot Services</option>
-                                    <option disabled>Boot Annotation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING BOOT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE </label>
-                            </div>
-                            <div class="col-md-12 btn bg-gradient-primary">
-                                <br />
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            HIBERNATE
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div><br /><br /><br />
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need of ORM</option>
-                                    <option disabled>Problems using JDBC Directly</option>
-                                    <option disabled>ORM Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ORM</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Hibernate Architecture</option>
-                                    <option disabled>Hibernate configuration</option>
-                                    <option disabled>Hibernate's Support for Other Technologies</option>
-                                    <option disabled>Installing Hibernate</option>
-                                    <option disabled>A “Hello world” stand-alone application</option>
-                                    <option disabled>A Servlet–Based Hibernate application</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO HIBERNATE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Mapping a basic Java Class</option>
-                                    <option disabled>Mapping a Class with Binary Data</option>
-                                    <option disabled>Mapping a Serializable Class</option>
-                                    <option disabled>Mapping a class with Data/ calendar attributes</option>
-                                    <option disabled>Mapping a Read-only class</option>
-                                    <option disabled>Mapping a class using Versioning /Timestamps</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING PERSISTING CLASSES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Table-Per –class Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –subclass Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –concrete-subclass Hierarchy Mapping</option>
-                                    <option disabled>Persistence interfaces</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAPPING INHERITANCE WITH JAVA CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Associations</option>
-                                    <option disabled>Lazy initialization</option>
-                                    <option disabled>Mapping Maps/Sorted Maps</option>
-                                    <option disabled>Mapping Sets/Sorted Sets</option>
-                                    <option disabled>Mapping lists</option>
-                                    <option disabled>Mapping Arrays</option>
-                                    <option disabled>Mapping a Bidirectional Association</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH COLLECTIONS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Queries</option>
-                                    <option disabled>Named Queries</option>
-                                    <option disabled>SQL Queries</option>
-                                    <option disabled>Hibernate Queries language</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Configuration</option>
-                                    <option disabled>Database support</option>
-                                    <option disabled>Using Transactions</option>
-                                    <option disabled>The Transactions API</option>
-                                    <option disabled>Transaction Example Using Oracle</option>
-                                    <option disabled>Locking</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE TRANSACTIONS AND LOCKING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How caching improves performance</option>
-                                    <option disabled>First level lache</option>
-                                    <option disabled>Second level cache</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE CACHING </label>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <?php include "./query-form.php" ?>
+
+
+
+
+
+
+
+
+
+
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                                <!-- Nucleo Icons -->
+                                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                                <section class="py-3">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
+                                                <br /><br />
+                                                <h6>
+                                                    Training and placement in Spring Framework, a widely used Java-based framework for building enterprise-level applications, are crucial components in the software development industry. Training programs in Spring Framework typically cover essential concepts such as dependency injection, aspect-oriented programming, and model-view-controller architecture, enabling developers to create robust and scalable applications. These training sessions often include hands-on exercises and real-world projects to enhance practical skills. After completing the training, individuals are well-equipped to meet the demands of the industry. When it comes to placement, professionals with expertise in Spring Framework are highly sought after by various organizations, ranging from startups to large enterprises. They are employed as software developers, application architects, and system engineers, among other roles, to design and develop complex, high-performance applications. With the ever-increasing demand for Java-based enterprise solutions, individuals proficient in Spring Framework find ample opportunities in the job market, making it a popular choice for developers seeking rewarding careers in software development. </h6>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </section>
+                                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                                <!-- '></iframe> -->
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
-    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-    <?php include "./footer.php" ?>
+            <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+            <?php include "./footer.php" ?>
