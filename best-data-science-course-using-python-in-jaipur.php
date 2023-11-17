@@ -2,16 +2,16 @@
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Data Analyst Course in Jaipur [#1 Training Institute]</title>
+<title>Data science Course in Jaipur [#1 Training Institute]</title>
 
-<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta name="description" content="Looking for a Data science Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data science certification training. Enroll now!">
 
-<meta name="keywords" content="data analyst course in jaipur" />
+<meta name="keywords" content="data science course in jaipur" />
 <meta property="og:locale" content="en-US" />
 <meta property="og:site_name" content="grootacademy.com" />
 <meta property="og:url" content="https://grootacademy.com/best-data-Science-course-using-python-in-jaipur.php">
-<meta property="og:title" content="Data Analyst Course in Jaipur">
-<meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta property="og:title" content="Data science Course in Jaipur">
+<meta property="og:description" content="Looking for a Data science Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data science certification training. Enroll now!">
 <meta property="og:image" content="https://www.grootacademy.com/groot.png">
 
 <meta name="twitter:card" content="app" />
@@ -23,8 +23,8 @@
 <meta property="twitter:app:name:ipad" content="grootacademy" />
 <meta property="twitter:app:id:ipad" content="963042747" />
 <meta name="twitter:site" content="@grootacademy" />
-<meta name="twitter:title" content="Data Analyst Course in Jaipur">
-<meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta name="twitter:title" content="Data science Course in Jaipur">
+<meta name="twitter:description" content="Looking for a Data science Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data science certification training. Enroll now!">
 <meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
 
 
@@ -140,7 +140,7 @@
                                         <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Introduction</strong></h4>
                                         <p>The capacity to extract actionable insights from enormous amounts of data has become essential for businesses across industries in today's data-driven environment.</p>
 
-                                        <p>This growing demand for skilled data analysts and professionals has led numerous Science training institutes to emerge.</p>
+                                        <p>This growing demand for skilled data sciences and professionals has led numerous Science training institutes to emerge.</p>
 
                                         <p>One such institute that stands out isGroot-Academy, The IT Training School, known for its comprehensive and industry-focused Science programs.
 
@@ -166,7 +166,7 @@
                                         <p>Groot's Science training program is also highly practical. The program includes a capstone project, where you can apply your skills to a real-world problem.</p>
                                         <p>You will have the opportunity to show potential employers your talents through this project.</p>
                                         <p>Additionally,Groot-Academy helps its learners find jobs.</p>
-                                        <p>The institute has a strong network of corporate partners who are always looking for talented data analysts and scientists.</p>
+                                        <p>The institute has a strong network of corporate partners who are always looking for talented data sciences and scientists.</p>
                                         <p> With the help ofGroot-Academy, you can be confident that you can find a job after completing the program.</p>
 
                                         <p>If you are serious about a career in Science, I encourage you to be admitted toGroot-Academy IT Training School.</p>
@@ -347,379 +347,295 @@
     </marquee>
     <div class="row">
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistical Analysis</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction</h4>
             <ul>
-                <li>Counting, Probability, and Probability Distributions</li>
-                <li>Sampling Distributions</li>
-                <li>Estimation and Hypothesis Testing</li>
-                <li>Scatter Diagram</li>
-                <li>Anova and Chisquare</li>
-                <li>Imputation Techniques</li>
-                <li>Data Cleaning</li>
-                <li>Correlation and Regression</li>
+                <li>Introduction to Data Analytics</li>
+                <li>Introduction to Business Analytics</li>
+                <li>Understanding Business Applications</li>
+                <li>Data types and data Models</li>
+                <li>Type of Business Analytics</li>
+                <li>Evolution of Analytics</li>
+                <li>Data Science Components</li>
+                <li>Data Scientist Skillset</li>
+                <li>Univariate Data Analysis</li>
+                <li>Introduction to Sampling</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Data Science</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Basic Operations in R Programming</h4>
             <ul>
-                <li> Data Science Overview</li>
-                <li>Importance of Data Science</li>
-                <li>Types of Data Science</li>
-                <li>Descriptive Science</li>
-                <li>Diagnostic Science</li>
-                <li>Predictive Science</li>
-                <li>Prescriptive Science</li>
-                <li>Benefits of Data Science</li>
-                <li>Data Visualization for Decision Making</li>
-                <li>Data Types, Measure Of central tendency, Measures of Dispersion</li>
-                <li>Graphical Techniques, Skewness & Kurtosis, Box Plot</li>
-                <li>Descriptive Stats</li>
-                <li>Sampling Funnel, Sampling Variation, Central Limit Theorem, Confidence interval</li>
+                <li>Introduction to R programming</li>
+                <li>Types of Objects in R</li>
+                <li>Naming standards in R</li>
+                <li>Creating Objects in R</li>
+                <li>Data Structure in R</li>
+                <li>Matrix, Data Frame, String, Vectors</li>
+                <li>Understanding Vectors & Data input in R</li>
+                <li>Lists, Data Elements</li>
+                <li>Creating Data Files using R</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2"> Basics to Advanced </h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2"> Data Handling in R Programming </h4>
             <ul>
-                <li>Excel tutorial</li>
-                <li>Text to Columns</li>
-                <li>Concatenate</li>
-                <li>The Concatenate Function</li>
-                <li>The Right Function with Concatenation</li>
-                <li>Absolute Cell References</li>
-                <li>Data Validation</li>
-                <li>Time and Date Calculations</li>
-                <li>Conditional Formatting</li>
-                <li>Exploring Styles and Clearing Formatting</li>
-                <li>Using Conditional Formatting to Hide Cells</li>
-                <li>Using the IF Function</li>
-                <li>Changing the “Value if false” Condition to Text</li>
-                <li>Pivot Tables</li>
-                <li>Creating a Pivot Table</li>
-                <li>Specifying PivotTable Data</li>
-                <li>Changing a PivotTables Calculation</li>
-                <li>Filtering and Sorting a PivotTable</li>
-                <li>Creating a PivotChart</li>
-                <li>Grouping Items</li>
-                <li>Updating a PivotTable</li>
-                <li>Formatting a PivotTable</li>
-                <li>Using Slicers</li>
-                <li>Charts</li>
-                <li>Creating a Simple Chart</li>
-                <li>Charting Non-Adjacent Cells</li>
-                <li>Creating a Chart Using the Chart Wizard</li>
-                <li>Modifying Charts</li>
-                <li>Moving an Embedded Chart</li>
-                <li>Sizing an Embedded Chart</li>
-                <li>Changing the Chart Type</li>
-                <li>Chart Types</li>
-                <li>Changing the Way Data is Displayed</li>
-                <li>Moving the Legend</li>
-                <li>Formatting Charts</li>
-                <li>Adding Chart Items</li>
-                <li>Formatting All Text</li>
-                <li>Formatting and Aligning Numbers</li>
-                <li>Formatting the Plot Area</li>
-                <li>Formatting Data Markers</li>
-                <li>Pie Charts</li>
-                <li>Creating a Pie Chart</li>
-                <li>Moving the Pie Chart to its Own Sheet</li>
-                <li>Adding Data Labels</li>
-                <li>Exploding a Slice of a Pie Chart</li>
-                <li>Data Analysis − Overview</li>
-                <li>types of Data Analysis</li>
-                <li>Data Analysis Process</li>
-                <li>Working with Range Names</li>
-                <li>Copying Name using Formula Autocomplete</li>
-                <li>Range Name Syntax Rules</li>
-                <li>Creating Range Names</li>
-                <li>Creating Names for Constants</li>
-                <li>Managing Names</li>
-                <li>Scope of a Name</li>
-                <li>Editing Names</li>
-                <li>Applying Names</li>
-                <li>Using Names in a Formula</li>
-                <li>Viewing Names in a Workbook</li>
-                <li>Copying Formulas with Names</li>
-                <li>Difference between Tables and Ranges</li>
-                <li>Create Table</li>
-                <li>Table Name</li>
-                <li>Managing Names in a Table</li>
-                <li>Table Headers replacing Column Letters</li>
-                <li>Propagation of a Formula in a Table</li>
-                <li>Resize Table</li>
-                <li>Remove Duplicates</li>
-                <li>Convert to Range</li>
-                <li>Table Style Options</li>
-                <li>Table Styles</li>
-                <li>Cleaning Data with Text Functions</li>
-                <li>Removing Unwanted Characters from Text</li>
-                <li>Extracting Data Values from Text</li>
-                <li>Formatting Data with Text Functions</li>
-                <li>Date Formats</li>
-                <li>Conditional Formatting</li>
-                <li>Sorting</li>
-                <li>Filtering</li>
-                <li>Lookup Functions</li>
-                <li>Pivoting</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">SQL</h4>
-            <ul>
-                <li>Introduction to Oracle Database</li>
-                <li>Retrieve Data using the SQL SELECT Statement</li>
-                <li>Learn to Restrict and Sort Data</li>
-                <li>Usage of Single-Row Functions to Customize Output</li>
-                <li>Invoke Conversion Functions and Conditional Expressions</li>
-                <li>Aggregate Data Using the Group Functions</li>
-                <li>Display Data from Multiple Tables Using Joins</li>
-                <li>Use Sub-Queries to Solve Queries</li>
-                <li>The SET Operators</li>
-                <li>Data Manipulation Statements</li>
-                <li>Use of DDL Statements to Create and Manage Tables</li>
-                <li>Other Schema Objects</li>
-                <li>Control User Access</li>
-                <li>Management of Schema Objects</li>
-                <li>Manage Objects with Data Dictionary Views</li>
-                <li>Manipulate Large Data Sets</li>
-                <li>Data Management in Different Time Zones</li>
-                <li>Retrieve Data Using Sub-queries</li>
-                <li>Regular Expression Support</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Tableau Course Material
-            </h4>
-            <ul>
-                <li>Start Page</li>
-                <li>Show Me</li>
-                <li>Connecting to Excel Files</li>
-                <li>Connecting to Text Files</li>
-                <li>Connect to Microsoft SQL Server</li>
-                <li>Connecting to Microsoft Analysis Services</li>
-                <li>Creating and Removing Hierarchies</li>
-                <li>Bins</li>
-                <li>Joining Tables</li>
-                <li>Data Blending</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Basic Reports
-            </h4>
-            <ul>
-                <li>Parameters</li>
-                <li>Grouping Example 1</li>
-                <li>Grouping Example 2</li>
-                <li>Edit Groups</li>
-                <li>Set</li>
-                <li>Combined Sets</li>
-                <li>Creating a First Report</li>
-                <li>Data Labels</li>
-                <li>Create Folders</li>
+                <li>Basic Operations in R – Expressions, Constant Values, Arithmetic, Function Calls, Symbols</li>
+                <li>Sub-setting Data</li>
+                <li>Selecting (Keeping) Variables</li>
+                <li>Excluding (Dropping) Variables</li>
+                <li>Selecting Observations and Selection using Subset Function</li>
+                <li>Merging Data</li>
                 <li>Sorting Data</li>
-                <li>Add Totals, Sub Totals and Grand Totals to Report</li>
+                <li>Adding Rows</li>
+                <li>Visualization using R</li>
+                <li>Data Type Conversion</li>
+                <li>Built-In Numeric Functions</li>
+                <li>Built-In Character Functions</li>
+                <li>User Built Functions</li>
+                <li>Control Structures</li>
+                <li>Loop Functions</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Charts</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistics</h4>
             <ul>
-                <li>Area Chart</li>
-                <li>Bar Chart</li>
-                <li>Box Plot</li>
+                <li>Basic Statistics</li>
+                <li>Measure of central tendency</li>
+                <li>Types of Distributions</li>
+                <li>Anova</li>
+                <li>F-Test</li>
+                <li>Central Limit Theorem & applications</li>
+                <li>Types of variables</li>
+                <li>Relationships between variables</li>
+                <li>Central Tendency</li>
+                <li>Measures of Central Tendency</li>
+                <li>Kurtosis</li>
+                <li>Skewness</li>
+                <li>Arithmetic Mean / Average</li>
+                <li>Merits & Demerits of Arithmetic Mean</li>
+                <li>Mode, Merits & Demerits of Mode</li>
+                <li>Median, Merits & Demerits of Median</li>
+                <li>Range</li>
+                <li>Concept of Quantiles, Quartiles, percentile</li>
+                <li>Standard Deviation</li>
+                <li>Variance</li>
+                <li>Calculate Variance</li>
+                <li>Covariance</li>
+                <li>Correlation</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistics – 2</h4>
+            <ul>
+                <li>Hypothesis Testing</li>
+                <li>Multiple Linear Regression</li>
+                <li>Logistic Regression</li>
+                <li>Market Basket Analysis</li>
+                <li>Clustering (Hierarchical Clustering & K-means Clustering)</li>
+                <li>Classification (Decision Trees)</li>
+                <li>Time Series Analysis (Simple Moving Average, Exponential smoothing, ARIMA+)</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Probability</h4>
+            <ul>
+                <li>Standard Normal Distribution</li>
+                <li>Normal Distribution</li>
+                <li>Geometric Distribution</li>
+                <li>Poisson Distribution</li>
+                <li>Binomial Distribution</li>
+                <li>Parameters vs. Statistics</li>
+                <li>Probability Mass Function</li>
+                <li>Random Variable</li>
+                <li>Conditional Probability and Independence</li>
+                <li>Unions and Intersections</li>
+                <li>Finding Probability of dataset</li>
+                <li>Probability Terminology</li>
+                <li>Probability Distributions</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Data Visualization Techniques</h4>
+            <ul>
                 <li>Bubble Chart</li>
-                <li>Bump Chart</li>
-                <li>Bullet Graph</li>
-                <li>Circle Views</li>
-                <li>Dual Combination Chart</li>
-                <li>Dual Lines Chart</li>
-                <li>Funnel Chart</li>
-                <li>Traditional Funnel Charts</li>
-                <li>Gantt Chart</li>
-                <li>Grouped Bar or Side by Side Bars Chart</li>
-                <li>Heatmap</li>
-                <li>Highlight Table</li>
-                <li>Histogram</li>
-                <li>Cumulative Histogram</li>
-                <li>Line Chart</li>
-                <li>Lollipop Chart</li>
-                <li>Pareto Chart</li>
-                <li>Pie Chart</li>
+                <li>Sparklines</li>
+                <li>Waterfall chart</li>
+                <li>Box Plot</li>
+                <li>Line Charts</li>
+                <li>Frequency Chart</li>
+                <li>Bimodal & Multimodal Histograms</li>
+                <li>Histograms</li>
                 <li>Scatter Plot</li>
-                <li>Stacked Bar Chart</li>
-                <li>Text Label</li>
-                <li>Tree Map</li>
-                <li>Word Cloud</li>
-                <li>Waterfall Chart</li>
+                <li>Pie Chart</li>
+                <li>Bar Graph</li>
+                <li>Line Graph</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2"> Learn Tableau Advanced Reports</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Machine Learning</h4>
             <ul>
-                <li>Dual Axis Reports</li>
-                <li>Blended Axis</li>
-                <li>Individual Axis</li>
-                <li>Add Reference Lines</li>
-                <li>Reference Bands</li>
-                <li>Reference Distributions</li>
-                <li>Basic Maps</li>
-                <li>Symbol Map</li>
-                <li>Use Google Maps</li>
-                <li>Mapbox Maps as a Background Map</li>
-                <li>WMS Server Map as a Background Map</li>
+                <li>Overview & Terminologies</li>
+                <li>What is Machine Learning?</li>
+                <li>Why Learn?</li>
+                <li>When is Learning required?</li>
+                <li>Data Mining</li>
+                <li>Application Areas and Roles</li>
+                <li>Types of Machine Learning</li>
+                <li>Supervised Learning</li>
+                <li>Unsupervised Learning</li>
+                <li>Reinforcement learning</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Calculations & Filters</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Machine Learning Concepts & Terminologies</h4>
             <ul>
-                <li>Calculated Fields</li>
-                <li>Basic Approach to Calculate Rank</li>
-                <li>Advanced Approach to Calculate Ra</li>
-                <li>Calculating Running Total</li>
-                <li>Filters Introduction</li>
-                <li>Quick Filters</li>
-                <li>Filters on Dimensions</li>
-                <li>Conditional Filters</li>
-                <li>Top and Bottom Filters</li>
-                <li>Filters on Measures</li>
-                <li>Context Filters</li>
-                <li>Slicing Fliters</li>
-                <li>Data Source Filters</li>
-                <li>Extract Filters</li>
+                <li>Key tasks of Machine Learning</li>
+                <li>Modelling Terminologies</li>
+                <li>Learning a Class from Examples</li>
+                <li>Probability and Inference</li>
+                <li>PAC (Probably Approximately Correct) Learning</li>
+                <li>Noise</li>
+                <li>Noise and Model Complexity</li>
+                <li>Triple Trade-Off</li>
+                <li>Association Rules</li>
+                <li>Association Measures</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Dashboards</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Regression Techniques</h4>
             <ul>
-                <li>Create a Dashboard</li>
-                <li>Format Dashboard Layou</li>
-                <li>Create a Device Preview of a Dashboard</li>
-                <li>Create Filters on Dashboard</li>
-                <li>Dashboard Objects</li>
-                <li>Create a Story</li>
-                <li>Tableau online.</li>
-                <li>Overview of Tableau Server.</li>
-                <li>Publishing Tableau objects and scheduling/subscription</li>
+                <li>Concept of Regression</li>
+                <li>Best Fitting line</li>
+                <li>Simple Linear Regression</li>
+                <li>Building regression models using excel</li>
+                <li>Coefficient of determination (R- Squared)</li>
+                <li>Multiple Linear Regression</li>
+                <li>Assumptions of Linear Regression</li>
+                <li>Variable transformation</li>
+                <li>Reading coefficients in MLR</li>
+                <li>Multicollinearity</li>
+                <li>VIF</li>
+                <li>Methods of building Linear regression model in R</li>
+                <li>Model validation techniques</li>
+                <li>Cooks Distance</li>
+                <li>Q-Q Plot</li>
+                <li>Durbin- Watson Test</li>
+                <li>Kolmogorov-Smirnof Test</li>
+                <li>Homoskedasticity of error terms</li>
+                <li>Logistic Regression</li>
+                <li>Applications of logistic regression</li>
+                <li>Concept of odds</li>
+                <li>Concept of Odds Ratio</li>
+                <li>Derivation of logistic regression equation</li>
+                <li>Interpretation of logistic regression output</li>
+                <li>Model building for logistic regression</li>
+                <li>Model validations</li>
+                <li>Confusion Matrix</li>
+                <li>Concept of ROC/AOC Curve</li>
+                <li>KS Test</li>
             </ul>
         </div>
 
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Power BI
-            </h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Market Basket Analysis</h4>
             <ul>
-                <li>Get Started with Power BI</li>
-                <li>Overview: Power BI concepts</li>
-                <li>Sign up for Power BI</li>
-                <li>Overview: Power BI data sources</li>
-                <li>Connect to a SaaS solution</li>
-                <li>Upload a local CSV file</li>
-                <li>Connect to Excel data that can be refreshed</li>
-                <li>Connect to a sample</li>
-                <li>Create a Report with Visualizations</li>
-                <li>Explore the Power BI portal</li>
+                <li>Applications of Market Basket Analysis</li>
+                <li>What is association Rules</li>
+                <li>Overview of Apriori algorithm</li>
+                <li>Key terminologies in MBA</li>
+                <li>Support</li>
+                <li>Confidence</li>
+                <li>Lift</li>
+                <li>Model building for MBA</li>
+                <li>Transforming sales data to suit MBA</li>
+                <li>MBA Rule selection</li>
+                <li>Ensemble modelling applications using MBA</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Viz and Tiles</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Time Series Analysis (Forecasting)</h4>
             <ul>
-                <li>Overview: Visualizations</li>
-                <li>Using visualizations</li>
-                <li>Create a new report</li>
-                <li>Create and arrange visualizations</li>
-                <li>Format a visualization</li>
-                <li>Create chart visualizations</li>
-                <li>Use text, map, and gauge visualizations and save a report</li>
-                <li>Use a slicer to filter visualizations</li>
-                <li>Sort, copy, and paste visualizations</li>
-                <li>Download and use a custom visual from the gallery</li>
+                <li>Model building using ARIMA, ARIMAX, SARIMAX</li>
+                <li>Data De-trending & data differencing</li>
+                <li>KPSS Test</li>
+                <li>Dickey Fuller Test</li>
+                <li>Concept of stationarity</li>
+                <li>Model building using exponential smoothing</li>
+                <li>Model building using simple moving average</li>
+                <li>Time series analysis techniques</li>
+                <li>Components of time series</li>
+                <li>Prerequisites for time series analysis</li>
+                <li>Concept of Time series data</li>
+                <li>Applications of Forecasting</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2"> Reports and Dashboards</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Decision Trees using R</h4>
             <ul>
-                <li>Modify and Print a Report</li>
-                <li>Rename and delete report pages</li>
-                <li>Add a filter to a page or report</li>
-                <li>Set visualization interactions</li>
-                <li>Print a report page</li>
-                <li>Send a report to PowerPoint</li>
-                <li>Create a Dashboard</li>
-                <li>Create and manage dashboards</li>
-                <li>Pin a report tile to a dashboard</li>
-                <li>Pin a live report page to a dashboard</li>
-                <li>Pin a tile from another dashboard</li>
-                <li>Pin an Excel element to a dashboard</li>
-                <li>Manage pinned elements in Excel</li>
-                <li>Add a tile to a dashboard</li>
-                <li>Build a dashboard with Quick Insights</li>
-                <li>Set a Featured (default) dashboard</li>
-                <li>Ask Questions about Your Data</li>
-                <li>Ask a question with Power BI Q&A</li>
-                <li>Tweak your dataset for Q&A</li>
-                <li>Enable Cortana for Power BI</li>
+                <li>Understanding the Concept</li>
+                <li>Internal decision nodes</li>
+                <li>Terminal leaves.</li>
+                <li>Tree induction: Construction of the tree</li>
+                <li>Classification Trees</li>
+                <li>Entropy</li>
+                <li>Selecting Attribute</li>
+                <li>Information Gain</li>
+                <li>Partially learned tree</li>
+                <li>Overfitting</li>
+                <li>Causes for over fitting</li>
+                <li>Overfitting Prevention (Pruning) Methods</li>
+                <li>Reduced Error Pruning</li>
+                <li>Decision trees – Advantages & Drawbacks</li>
+                <li>Ensemble Models</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Publishing Workbooks and Workspace</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">K Means Clustering</h4>
             <ul>
-                <li>Share Data with Colleagues and Others</li>
-                <li>Publish a report to the web</li>
-                <li>Manage published reports</li>
-                <li>Share a dashboard</li>
-                <li>Create an app workspace and add users</li>
-                <li>Use an app workspace</li>
-                <li>Publish an app</li>
-                <li>Create a QR code to share a tile</li>
-                <li>Embed a report in SharePoint Online</li>
+                <li>Parametric Methods Recap</li>
+                <li>Clustering</li>
+                <li>Direct Clustering Method</li>
+                <li>Mixture densities</li>
+                <li>Classes v/s Clusters</li>
+                <li>Hierarchical Clustering</li>
+                <li>Dendogram interpretation</li>
+                <li>Non-Hierarchical Clustering</li>
+                <li>K-Means</li>
+                <li>Distance Metrics</li>
+                <li>K-Means Algorithm</li>
+                <li>K-Means Objective</li>
+                <li>Color Quantization</li>
+                <li>Vector Quantization</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Other Power BI Components and Table Relationship</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Tableau Analytics</h4>
             <ul>
-                <li>Use Power BI Mobile Apps</li>
-                <li>Get Power BI for mobile</li>
-                <li>View reports and dashboards in the iPad app</li>
-                <li>Use workspaces in the mobile app</li>
-                <li>Sharing from Power BI Mobile</li>
-                <li>Use Power BI Desktop</li>
-                <li>Install and launch Power BI Desktop</li>
-                <li>Get data</li>
-                <li>Reduce data</li>
-                <li>Transform data</li>
-                <li>Relate tables</li>
-                <li>Get Power BI Desktop data with the Power BI service</li>
-                <li>Export a report from Power BI service to Desktop</li>
+                <li>Tableau Introduction</li>
+                <li>Data connection to Tableau</li>
+                <li>Calculated fields, hierarchy, parameters, sets, groups in Tableau</li>
+                <li>Various visualizations Techniques in Tableau</li>
+                <li>Map based visualization using Tableau</li>
+                <li>Reference Lines</li>
+                <li>Adding Totals, sub totals, Captions</li>
+                <li>Advanced Formatting Options</li>
+                <li>Using Combined Field</li>
+                <li>Show Filter & Use various filter options</li>
+                <li>Data Sorting</li>
+                <li>Create Combined Field</li>
+                <li>Table Calculations</li>
+                <li>Creating Tableau Dashboard</li>
+                <li>Action Filters</li>
+                <li>Creating Story using Tableau</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">DAX functions
-            </h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Analytics using Tableau</h4>
             <ul>
-                <li>New Dax functions</li>
-                <li>Date and time functions</li>
-                <li>Time intelligence functions</li>
-                <li>Filter functions</li>
-                <li>Information functions</li>
-                <li>Logical functions</li>
-                <li>Math & trig functions</li>
-                <li>Parent and child functions</li>
-                <li>Text functions</li>
+                <li>Clustering using Tableau</li>
+                <li>Time series analysis using Tableau</li>
+                <li>Simple Linear Regression using Tableau</li>
             </ul>
         </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Python Basics</h4>
-            <ul>
-                <li>The print statement</li>
-                <li>Comments</li>
-                <li>Python Data Structures & Data Types</li>
-                <li>String Operations in Python</li>
-                <li>Simple Input & Output</li>
-                <li>Simple Output Formatting</li>
-                <li>Deep copy</li>
-                <li>Shallow copy</li>
-                <li>Operators in python</li>
-            </ul>
-        </div>
-
     </div>
 </div>
 
@@ -767,7 +683,7 @@
                                 <div class="col-lg-12">
                                     <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Data Science?</h5>
                                     <br /><br />
-                                    <h6>Learning data Science is highly valuable in today's data-driven world for several compelling reasons. First and foremost, data analysts play a crucial role in extracting meaningful insights from vast and complex datasets, empowering organizations to make informed decisions. As businesses increasingly rely on data to drive strategies, understanding data Science allows individuals to contribute to optimizing processes, identifying trends, and solving real-world problems. Moreover, data analysts are in high demand across various industries, offering excellent career prospects. By acquiring data Science skills, one gains proficiency in tools and techniques for data manipulation, statistical analysis, and visualization, enhancing both problem-solving abilities and critical thinking. Overall, learning data Science not only opens doors to diverse career opportunities but also equips individuals with the skills needed to navigate and succeed in the data-centric landscape of the modern workplace.</h6>
+                                    <h6>Learning data Science is highly valuable in today's data-driven world for several compelling reasons. First and foremost, data sciences play a crucial role in extracting meaningful insights from vast and complex datasets, empowering organizations to make informed decisions. As businesses increasingly rely on data to drive strategies, understanding data Science allows individuals to contribute to optimizing processes, identifying trends, and solving real-world problems. Moreover, data sciences are in high demand across various industries, offering excellent career prospects. By acquiring data Science skills, one gains proficiency in tools and techniques for data manipulation, statistical analysis, and visualization, enhancing both problem-solving abilities and critical thinking. Overall, learning data Science not only opens doors to diverse career opportunities but also equips individuals with the skills needed to navigate and succeed in the data-centric landscape of the modern workplace.</h6>
                                 </div>
 
                             </div>
@@ -794,10 +710,10 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Data Analysts</h5>
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Data Scientist</h5>
                                     <br /><br />
                                     <h6>
-                                        Data analysts are in high demand across industries due to the growing reliance on data-driven decision-making. In the business sector, data analysts are crucial for interpreting market trends, customer behavior, and operational efficiency. In finance, they contribute to risk assessment and portfolio management. Healthcare utilizes data analysts for optimizing patient care and resource allocation. Governments and non-profits benefit from data analysts in policy formulation and program evaluation. E-commerce companies rely on data analysts for personalized marketing strategies and inventory management. Tech firms use data analysts for product development and user experience enhancement. Media and entertainment industries leverage data Science for audience engagement and content optimization. The versatility of data Science transcends sectors, making it a key role in the contemporary job market with opportunities in diverse fields. </h6>
+                                        Data science has become integral to various industries, creating a demand for professionals with expertise in extracting valuable insights from large and complex datasets. Job opportunities in data science span a range of roles, including data sciences, data scientists, machine learning engineers, and data engineers. Data sciences focus on interpreting and visualizing data to aid decision-making, while data scientists employ statistical techniques and machine learning algorithms to derive actionable insights. Machine learning engineers develop and deploy predictive models, and data engineers design and manage the infrastructure for data generation and storage. Industries such as finance, healthcare, e-commerce, and technology are actively seeking data science talent to enhance their operations, optimize processes, and gain a competitive edge through informed decision-making. As the field continues to evolve.</h6>
 
                                 </div>
 
@@ -841,7 +757,7 @@
                         <div class="col-lg-12">
                             <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
                             <br /><br />
-                            <h6>Data analyst training and placement programs provide individuals with the essential skills and knowledge needed to excel in the field of data Science. These programs typically cover a range of topics, including data manipulation, statistical analysis, programming languages like Python and R, and data visualization techniques. Hands-on, practical experience with real-world datasets is often a core component of the training. Many training programs also focus on industry-relevant tools and technologies such as SQL, Excel, and data visualization tools like Tableau or Power BI. Beyond technical skills, these programs may emphasize critical thinking, problem-solving, and effective communication of analytical findings. Successful completion of a data analyst training program enhances one's employability and opens doors to various industries, including finance, healthcare, marketing, and technology. Many training programs also offer placement assistance, connecting graduates with job opportunities and providing a pathway to launch a successful career as a data analyst. </h6>
+                            <h6>Data science training and placement programs provide individuals with the essential skills and knowledge needed to excel in the field of data Science. These programs typically cover a range of topics, including data manipulation, statistical analysis, programming languages like Python and R, and data visualization techniques. Hands-on, practical experience with real-world datasets is often a core component of the training. Many training programs also focus on industry-relevant tools and technologies such as SQL, Excel, and data visualization tools like Tableau or Power BI. Beyond technical skills, these programs may emphasize critical thinking, problem-solving, and effective communication of analytical findings. Successful completion of a data science training program enhances one's employability and opens doors to various industries, including finance, healthcare, marketing, and technology. Many training programs also offer placement assistance, connecting graduates with job opportunities and providing a pathway to launch a successful career as a data science. </h6>
 
                         </div>
 
