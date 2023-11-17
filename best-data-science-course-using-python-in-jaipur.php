@@ -2,16 +2,16 @@
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Data Science Course in Jaipur [#1 Training Institute]</title>
+<title>Data Analyst Course in Jaipur [#1 Training Institute]</title>
 
-<meta name="description" content="Looking for a Data Science Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta name="description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
 
 <meta name="keywords" content="data analyst course in jaipur" />
 <meta property="og:locale" content="en-US" />
 <meta property="og:site_name" content="grootacademy.com" />
-<meta property="og:url" content="https://grootacademy.com/best-data-science-course-using-python-in-jaipur.php">
-<meta property="og:title" content="Data Science Course in Jaipur">
-<meta property="og:description" content="Looking for a Data Science Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta property="og:url" content="https://grootacademy.com/best-data-Science-course-using-python-in-jaipur.php">
+<meta property="og:title" content="Data Analyst Course in Jaipur">
+<meta property="og:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
 <meta property="og:image" content="https://www.grootacademy.com/groot.png">
 
 <meta name="twitter:card" content="app" />
@@ -24,7 +24,7 @@
 <meta property="twitter:app:id:ipad" content="963042747" />
 <meta name="twitter:site" content="@grootacademy" />
 <meta name="twitter:title" content="Data Analyst Course in Jaipur">
-<meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Analytics ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
+<meta name="twitter:description" content="Looking for a Data Analyst Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data Analyst certification training. Enroll now!">
 <meta name="twitter:image" content="https://www.grootacademy.com/groot.png">
 
 
@@ -87,23 +87,28 @@
 
 
                                 </span>
-                                <p>Are you Looking for the<strong> Best Institute for Data Analytics using Python training in Jaipur?</strong></p>
-                                <p>Groot Academy offers <strong>Data Analytics</strong> using Python training classes with live projects by expert trainers in Jaipur.
+                                <p>Are you Looking for the<strong> Best Institute for Data Science using Python training in Jaipur?</strong></p>
+                                <p>Groot Academy offers <strong>Data Science</strong> using Python training classes with live projects by expert trainers in Jaipur.
                                 </p>
-                                <p>Our <strong>Data Analytics</strong> using Python training program in Jaipur is specially designed for Undergraduates (UG), Graduates, working professionals, and also for Freelancers.
+                                <p>Our <strong>Data Science</strong> using Python training program in Jaipur is specially designed for Undergraduates (UG), Graduates, working professionals, and also for Freelancers.
 
-                                    We provide end-to-end learning on Data Analytics using Python Domain with deeper dives for creating a winning career for every profile.
+                                    We provide end-to-end learning on Data Science using Python Domain with deeper dives for creating a winning career for every profile.
 
-                                    If you are looking for a high-quality analytics training program that will give you the skills you need to succeed in the real world, thenGroot-Academy The IT Training School is the perfect place.
+                                    If you are looking for a high-quality Science training program that will give you the skills you need to succeed in the real world, thenGroot-Academy The IT Training School is the perfect place.
 
                                     ContactGroot-Academy at 8233266276
-                                    for more about their excellent job-oriented analytics training program.</p>
-                                <h4 class="text-gradient text-primary mb-0 mt-2"><strong>DATA SCIENCE & ML USING PYTHON TRAINING IN JAIPUR</strong></h4>
-                                <P>
-                                    Are you Looking for the Best Institute for Data Science ML using Python training in jaipur? groot offers Data Science ML using Python training classes with live projects by expert trainers in jaipur. Our Data science machine learning with Python training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professionals, and also for Freelancers. We provide end-to-end learning on Machine learning with Python Domain with deeper dives for creating a winning career for every profile.</P>
-
-                                <P>This course is designed for both complete beginners with no programming experience or experienced developers looking to make the jump to Data Science! Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. Currently, Python is the most popular Language in IT. Python adopted as a language of choice for almost all the domains in IT including Web Development, Cloud Computing (AWS, OpenStack, VMware, Google Cloud, etc.. ), Infrastructure Automations, Software Testing, Mobile Testing, Big Data, and Hadoop, Data Science, etc. This course sets you on a journey in python by playing with data, creating your own application, and also testing the same.
-                                </P>
+                                    for more about their excellent job-oriented Science training program.</p>
+                                <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why learn Data Science using Python?</strong></h4>
+                                <p>It's continued to be a great option for data scientists who use it for building Machine learning applications or using them and other scientific computations.</p>
+                                <p><strong> Data Science Using Python Training in Jaipur</strong> cuts development time in half with its simple-to-read syntax and easy compilation feature with the easy-to-learn concept.</p>
+                                <p>
+                                    Debugging any type of program is a breeze in this language with its built-in debugger.</p>
+                                <p>
+                                    It runs on every famous type of platform like Windows, Linux/Unix, and Mac OS and has been ported to Java and .NET virtual machines.</p>
+                                <p>
+                                    Python is free to use language, even for commercial products, because of its OSI-approved open-source license, so anyone can use it for free.</p>
+                                <p>
+                                    It has been opted as the most preferred Language for Data Science and the increasing search trends on Python every day also indicate that it is the "Next Big Thing" and a must for aspirants in the Data Science field.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
                                 <!-- brochures button -->
@@ -127,17 +132,79 @@
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <!-- <section class="py-3">
+                        <section class="py-3">
                             <div class="container-fluid">
-                                
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>Data Science Training Institute</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Introduction</strong></h4>
+                                        <p>The capacity to extract actionable insights from enormous amounts of data has become essential for businesses across industries in today's data-driven environment.</p>
+
+                                        <p>This growing demand for skilled data analysts and professionals has led numerous Science training institutes to emerge.</p>
+
+                                        <p>One such institute that stands out isGroot-Academy, The IT Training School, known for its comprehensive and industry-focused Science programs.
+
+                                        <p>The vast range of courses offered by Science Training Institute is created to give students the knowledge and skills they need to succeed in data Science.
+
+                                        <p>The institute addresses various issues, from fundamental ideas to cutting-edge methods, including data visualization, statistical analysis, machine learning, predictive modelling, and more.
+
+                                        <p>The curriculum is carefully crafted to meet the evolving industry demands and ensure learners are well-prepared to tackle real-world Science challenges.
+
+                                        <p>There are many different Science training institutes available, but not all of them are created equal.
+
+                                        <p>Groot, The IT Training School, is one of India's leading Science training institutes, having a physical presence in Delhi, Jaipur, Gurgaon and Ghaziabad.
+
+                                        <p>The institute's extensive curriculum covers all of the fundamental competencies needed for a career in Science.
+
+                                    </div>
+                                    <div class="col-lg-6 p-4 mb-4">
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Data Science Training Importance
+                                            </strong></h4>
+                                        <p>Groot's Science training program is designed to help you develop the skills you need to succeed in the real world.</p>
+                                        <p>The program includes hands-on training with real-world data sets so that you can apply your skills to real-world problems.</p>
+                                        <p> In addition to the technical skills,Groot-Academy also teaches you the soft skills essential for success in Science. These skills include communication, teamwork, and problem-solving.</p>
+                                        <p>Groot's Science training program is also highly practical. The program includes a capstone project, where you can apply your skills to a real-world problem.</p>
+                                        <p>You will have the opportunity to show potential employers your talents through this project.</p>
+                                        <p>Additionally,Groot-Academy helps its learners find jobs.</p>
+                                        <p>The institute has a strong network of corporate partners who are always looking for talented data analysts and scientists.</p>
+                                        <p> With the help ofGroot-Academy, you can be confident that you can find a job after completing the program.</p>
+
+                                        <p>If you are serious about a career in Science, I encourage you to be admitted toGroot-Academy IT Training School.</p>
+
+                                        <p> The institute's comprehensive curriculum, hands-on training, and placement assistance will give you the skills and knowledge you need to succeed in this exciting field.</p>
+                                    </div>
+                                </div>
                             </div>
-                        </section> -->
+                        </section>
                     </div>
                 </div>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <section class="py-3">
+                            <div class="row">
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Benefits of training fromGroot-Academy
+                                        </strong></h4>
+                                    <p>Here are some of the benefits of taking an Science course atGroot-Academy The IT Training School:
 
+                                    <p> You will learn from Industry-experienced and qualified instructors who are experts in their respective fields.</p>
+                                    <p> You will have use of the updated tools and numerous applications.</p>
+                                    <p> Networking opportunities with academic and professional peers are available.</p>
+                                    <p> You will receive an industry-recognised course completion certificate.</p>
+                                </div>
+                                <div class="col-lg-6 p-4 mb-4">
+                                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Why To Enroll In Our Data Science Using Python Training Course in Jaipur?</strong></h5>
+                                    <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities.</p>
+
+                                    <p>Our Data Science using Python Trainees are working across the nation. We atGroot-Academy India, The #1 Data Science using Python Course in Jaipur with 100% Placement.</p>
+
+                                    <p> Certified Trainers with Over 10,000 Students Trained in Data Science using Python Course in Jaipur.</p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
                 </div>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
@@ -146,690 +213,71 @@
                         <section class="py-3">
                             <div class="conainer-fluid">
                                 <div class="row">
-
-
-
-
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> Introduction To Python</h5>
-                                            <ul>
-                                                <li> Why Python</li>
-                                                <li>Application areas of python</li>
-                                                <li>Python implementations</li>
-                                                <li>Cpython</li>
-                                                <li>Jython</li>
-                                                <li>Ironpython</li>
-                                                <li>Pypy</li>
-                                                <li>Pythonversions</li>
-                                                <li>Installingpython</li>
-                                                <li>Python interpreter architecture</li>
-                                                <li>Python byte code compiler</li>
-                                                <li>Python virtual machine(pvm)</li>
-                                            </ul>
-
-                                        </div>
-                                        <div class="col-lg-6 p-4 mb-4">
-                                            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Writing and Executing First Python Program
-                                                </strong></h4>
-                                            <ul>
-                                                <li>Using interactive mode</li>
-                                                <li>Using script mode</li>
-                                                <li>General text editor and commandwindow</li>
-                                                <li>Idle editor and idleshell</li>
-                                                <li>Understanding print() function</li>
-                                                <li>How to compile python programexplicitly</li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-
-
-
-                                    <div class="row">
-                                        <div class="col-lg-6 p-4 mb-4">
-                                            <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Language Fundamentals
-                                                </strong></h4>
-                                            <ul>
-                                                <li>Character set</li>
-                                                <li> Keywords</li>
-                                                <li>Comments</li>
-                                                <li>Variables</li>
-                                                <li>Literals</li>
-                                                <li>Operators</li>
-                                                <li>Reading input fromconsole</li>
-                                                <li>Parsing string to int, ﬂoat
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-lg-6 p-4 mb-4">
-                                            <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Python Conditional Statements</strong></h5>
-                                            <ul>
-                                                <li>If statement</li>
-                                                <li> If else statement</li>
-                                                <li>If elif statement</li>
-                                                <li>If elif else statement</li>
-                                                <li>Nested if statement</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-
-
-
-
                                     <div class="col-lg-6">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Looping Statements</strong></h4>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot-Academy?</strong></h4>
                                         <ul>
-                                            <li>While loop</li>
-                                            <li>For loop</li>
-                                            <li>Nested loops</li>
-                                            <li>Pass, break and continuekeywords</li>
+                                            <li>Groot has a dedicated team of highly expert trainers to identify, evaluate, implement, and provide the Best Data Science Using Python Training Institute in Jaipur for our students.</li>
+                                            <li>Our Trainers leverage a defined methodology that helps identify opportunities, develop the most optimal resolution and maturely execute the solution.</li>
+                                            <li>We have the best trainers across the world to provide the Best Data Science Using Python Training in Jaipur who are highly qualified and are the best in their field.</li>
+                                            <li>The Training & Placement cell is committed to providing all attainable help to the students in their efforts to seek out employment and internships in every field.</li>
+                                            <li>The placement department works beside alternative departments as a team in moulding the scholars to the necessities of varied industries.</li>
+                                            <li>We have proactive and business-clued-in Placement Cells that pride themselves on a robust skilled network across numerous sectors.</li>
+                                            <li>It actively coordinates with every student and ensures that they get placed with purported MNCs within six months of graduating. We are the Best Data Science Using Python Training Institute in Jaipur.</li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-6 p-4 mb-4">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Standard Data Typesstrong></h4>
-                                        <ul>
-                                            <li>Int, ﬂoat, complex, bool,nonetype</li>
-                                            <li>Str, list, tuple,range</li>
-                                            <li>Dict, set, frozenset</li>
-                                        </ul>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>What Our Students Will Get During Data Science Using Python Training Course?</strong></h4>
+                                        <p>Get dedicated student support, career services, industry expert mentors, and real-world projects. Career Counselling. Timely Doubt Resolution. 50% Salary Hike, Career Counselling Case Studies + Tools + Certificate.</p>
                                     </div>
-                                    <div class="col-lg-6 p-4 mb-4">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>String Handling</h4>
-                                        <ul>
-                                            <li>What is string</li>
-                                            <li>String representations</li>
-                                            <li>Unicode string</li>
-                                            <li>String functions, methods</li>
-                                            <li>String indexing andslicing</li>
-                                            <li>String formatting</li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-lg-6 p-4 mb-4">
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python List
-                                        </h4>
-                                        <ul>
-                                            <li>Creating and accessinglists</li>
-                                            <li>Indexing and slicinglists</li>
-                                            <li>List methods</li>
-                                            <li>Nested lists</li>
-                                            <li>List comprehension</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Tuple
-                                    </h4>
-                                    <ul>
-                                        <li> Creating tuple</li>
-                                        <li>Accessing tuple</li>
-                                        <li>Immutability of tuple</li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python
-                                            Set</h4>
-                                    <ul>
-                                        <li>How to create a set</span></li>
-                                        <li>Iteration over sets</span></li>
-                                        <li>Python set methods</span></li>
-                                        <li>Python frozenset</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Python Dictionary</h4>
-                                    <ul>
-                                        <li>Creating a dictionary</span></li>
-                                        <li>Dictionary methods</span></li>
-                                        <li>Accessing values fromdictionary</span></li>
-                                        <li>Updating dictionary</span></li>
-                                        <li>Iterating dictionary</span></li>
-                                        <li>Dictionary comprehension</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Python Functions</h4>
-                                    <ul>
-                                        <li>Deﬁning a function</span></li>
-                                        <li>Calling a function</span></li>
-                                        <li>Types offunctions</span></li>
-                                        <li>Function arguments</span></li>
-                                        <li>Positional arguments, keywordarguments</span></li>
-                                        <li>Default arguments, non-defaultarguments</span></li>
-                                        <li>Arbitrary arguments, keyword arbitraryarguments</span></li>
-                                        <li>Function return statement</span></li>
-                                        <li>Nested function</span></li>
-                                        <li>Function as argument</span></li>
-                                        <li>Function as return statement</span></li>
-                                        <li>Decorator function</span></li>
-                                        <li>Closure</span> </li>
-                                        <li>Map(), ﬁlter(), reduce(), any()functions</span></li>
-                                        <li>Anonymous or lambdafunction</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Modules &amp; Packages</h4>
-                                    <ul>
-                                        <li>Why modules</span></li>
-                                        <li>Script v/smodule</span></li>
-                                        <li>Importingmodule</span> </li>
-                                        <li>Standard v/s third partymodules</span></li>
-                                        <li>Why packages</span></li>
-                                        <li>Understanding pip utility</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">File I/O</h4>
-                                    <ul>
-                                        <li>Introduction to ﬁlehandling</span></li>
-                                        <li>File modes</span></li>
-                                        <li>Functions and methods related to ﬁlehandling</span></li>
-                                        <li>Understanding with block</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Object Oriented Programming</h4>
-                                    <ul>
-                                        <li>Procedural v/s object orientedprogramming</span></li>
-                                        <li>OOP principles</span></li>
-                                        <li>Deﬁning a class &amp;objectcreation</span></li>
-                                        <li>Object attributes</span></li>
-                                        <li>Inheritance</span> </li>
-                                        <li>Encapsulation</span> </li>
-                                        <li>Polymorphism</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Exception Handling</h4>
-                                    <ul>
-                                        <li>Diﬀerence between syntax errors andexceptions</span></li>
-                                        <li>Keywords used in exceptionhandling</span></li>
-                                        <li>try, except, ﬁnally, raise,assert</span></li>
-                                        <li>Types of exceptblocks</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Regular Expressions(Regex)</h4>
-                                    <ul>
-                                        <li>Need of regularexpressions</span></li>
-                                        <li>Re module</span></li>
-                                        <li>Functions /methods related toregex</span></li>
-                                        <li>Meta characters &amp;specialsequences</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">GUI Programming</h4>
-                                    <ul>
-                                        <li>Introduction to tkinterprogramming</span></li>
-                                        <li>Tkinter widgets</span></li>
-                                        <li>Tk, label, Entry, Textbox,Button</span></li>
-                                        <li>Frame, messagebox, ﬁledialogetc</span></li>
-                                        <li>Layout managers</span></li>
-                                        <li>Event handling</span></li>
-                                        <li>Displaying image</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Multi-Threading Programming</h4>
-                                    <ul>
-                                        <li>Multi-processing v/s Multi-threading</span></li>
-                                        <li>Need of threads</span></li>
-                                        <li>Creating child threads</span></li>
-                                        <li>Functions /methods related tothreads</span></li>
-                                        <li>Thread synchronization andlocking</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Database</h4>
-                                    <ul>
-                                        <li>Database Concepts</span></li>
-                                        <li>What is DatabasePackage?</span></li>
-                                        <li>Understanding DataStorage</span></li>
-                                        <li>Relational Database (RDBMS)Concept</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">SQL (Structured Query Language)</h4>
-                                    <ul>
-                                        <li>SQLbasics</span> </li>
-                                        <li>DML, DDL &amp; DQL</span></li>
-                                        <li>DDL: create, alter, drop</span></li>
-                                        <li>SQLconstraints:</span> </li>
-                                        <li>Not null, unique,</span></li>
-                                        <li>Primary &amp; foreign key, compositekey</span></li>
-                                        <li>Check, default</span></li>
-                                        <li>DML: insert, update, delete andmerge</span></li>
-                                        <li>DQL : select</span></li>
-                                        <li>Select distinct</span></li>
-                                        <li>SQLwhere</span> </li>
-                                        <li>SQLoperators</span> </li>
-                                        <li>SQLlike</span> </li>
-                                        <li>SQL orderby</span></li>
-                                        <li>SQLaliases</span> </li>
-                                        <li>SQLviews</span> </li>
-                                        <li>SQLjoins</span> </li>
-                                        <li>Inner join</span></li>
-                                        <li>Left (outer) join</span></li>
-                                        <li>Right (outer) join</span></li>
-                                        <li>Full (outer) join</span></li>
-                                        <li>Mysql functions</span></li>
-                                        <li>Stringfunctions</span> </li>
-                                        <li>Char_length</span> </li>
-                                        <li>Concat</span> </li>
-                                        <li>Lower</span> </li>
-                                        <li>Reverse</span> </li>
-                                        <li>Upper</span> </li>
-                                        <li>Numericfunctions</span> </li>
-                                        <li>Max, min, sum</span></li>
-                                        <li>Avg, count,abs</span></li>
-                                        <li>Date functions</span></li>
-                                        <li>Curdate</span> </li>
-                                        <li>Curtime</span> </li>
-                                        <li>Now</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Statistics, Probability &amp;Analytics:</h4>
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistics</h4>
-                                    <ul>
-                                        <li>Sample or population</span></li>
-                                        <li>Measures of central tendency</span></li>
-                                        <li>Arithmetic mean</span></li>
-                                        <li>Harmonic mean</span></li>
-                                        <li>Geometric mean</span></li>
-                                        <li>Mode</span> </li>
-                                        <li>Quartile</span> </li>
-                                        <li>First quartile</span></li>
-                                        <li>Second quartile(median)</span></li>
-                                        <li>Third quartile</span></li>
-                                        <li>Standard deviation</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4class="text-gradient text-primary mb-0 mt-2">Probability Distributions</h4class=>
-                                        <ul>
-                                            <li>Introduction to probability</span></li>
-                                            <li>Conditional probability</span></li>
-                                            <li>Normal distribution</span></li>
-                                            <li>Uniform distribution</span></li>
-                                            <li>Exponential distribution</span></li>
-                                            <li>Right &amp; left skeweddistribution</span></li>
-                                            <li>Random distribution</span></li>
-                                            <li>Centrallimittheorem</span> </li>
-                                        </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">HypothesisTesting
-                                    </h4>
-                                    <ul>
-                                        <li>Normality test</span></li>
-                                        <li>Mean test</span></li>
-                                        <li>T-test</span> </li>
-                                        <li>Z-test</span> </li>
-                                        <li>ANOVA test</span></li>
-                                        <li>Chi square test</span></li>
-                                        <li>Correlation and covariance</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Numpy Package</h4>
-                                    <ul>
-                                        <li>Diﬀerence between list and numpyarray</span></li>
-                                        <li>Vector and matrixoperations</span></li>
-                                        <li>Array indexing andslicing</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Panda Package</h4>
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to pandas</h4>
-                                    <ul>
-                                        <li>Labeled and structureddata</span></li>
-                                        <li>Series and dataframe objects</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">How to load datasets</h4>
-                                    <ul>
-                                        <li>From excel</span></li>
-                                        <li>From csv</span></li>
-                                        <li>From html table</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Accessing data from Data Frame</h4>
-                                    <ul>
-                                        <li>at &amp;iat</span></li>
-                                        <li>loc&amp;iloc</span> </li>
-                                        <li>head() &amp; tail()</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Exploratory Data Analysis (EDA)</h4>
-                                    <ul>
-                                        <li>describe()</span> </li>
-                                        <li>groupby()</span> </li>
-                                        <li>crosstab()</span> </li>
-                                        <li>boolean slicing /query()</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Data Manipulation &amp; Cleaning</h4>
-                                    <ul>
-                                        <li>Map(), apply()</span></li>
-                                        <li>Combining data frames</span></li>
-                                        <li>Adding/removing rows &amp;columns</span></li>
-                                        <li>Sorting data</span></li>
-                                        <li>Handling missing values</span></li>
-                                        <li>Handling duplicacy</span></li>
-                                        <li>Handling data error</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Handling Date and Time</h4>
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Data Visualization using matplotlib and seaborn packages</h4>
-                                    <ul>
-                                        <li>Scatter plot, lineplot, barplot</span></li>
-                                        <li>Histogram, pie chart,</span></li>
-                                        <li>Jointplot, pairplot, heatmap</span></li>
-                                        <li>Outlier detection usingboxplot</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Machine Learning</strong>:</span></h4>
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Introduction To Machine Learning</h4>
-                                    <ul>
-                                        <li>Traditional v/s Machine LearningProgramming</span></li>
-                                        <li>Real life examples based onML</span></li>
-                                        <li>Steps of MLProgramming</span></li>
-                                        <li>Data Preprocessing revised</span></li>
-                                        <li>Terminology related toML</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Supervised Learning</h4>
-                                    <ul>
-                                        <li>Classiﬁcation</span> </li>
-                                        <li>Regression</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Unsupervised Learning</h4>
-                                    <ul>
-                                        <li>Clustering</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">KNN Classiﬁcation</h4>
-                                    <ul>
-                                        <li>Math behind KNN</span></li>
-                                        <li>KNN implementation</span></li>
-                                        <li>Understanding hyperparameters</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Performance metrics</h4>
-                                    <ul>
-                                        <li>Math behind KNN</span></li>
-                                        <li>KNN implementation</span></li>
-                                        <li>Understanding hyperparameters</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Regression
-                                    </h4>
-                                    <ul>
-                                        <li>Math behind regression</span></li>
-                                        <li>Simple linear regression</span></li>
-                                        <li>Multiple linear regression</span></li>
-                                        <li>Polynomial regression</span></li>
-                                        <li>Boston price prediction</span></li>
-                                        <li>Cost or loss functions</span></li>
-                                        <li>Mean absolute error</span></li>
-                                        <li>Mean squared error</span></li>
-                                        <li>Root mean squarederror</span></li>
-                                        <li>Least square error</span></li>
-                                        <li>Regularization</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Logistic Regression for classiﬁcation</h4>
-                                    <ul>
-                                        <li>Theory of logistic regression</span></li>
-                                        <li>Binary and multiclassclassiﬁcation</span></li>
-                                        <li>Implementing titanic dataset</span></li>
-                                        <li>Implementing iris dataset</span></li>
-                                        <li>Sigmoid and softmaxfunctions</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Support Vector Machines</h4>
-                                    <ul>
-                                        <li>Theory of SVM</span></li>
-                                        <li>SVM Implementation</span></li>
-                                        <li>kernel, gamma, alpha</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Decision Tree Classiﬁcation</h4>
-                                    <ul>
-                                        <li>Theory of decision tree</span></li>
-                                        <li>Node splitting</span></li>
-                                        <li>Implementation with iris dataset</span></li>
-                                        <li>Visualizingtree</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Ensemble Learning</h4>
-                                    <ul>
-                                        <li>Random forest</span></li>
-                                        <li>Bagging and boosting</span></li>
-                                        <li>Voting classiﬁer</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Model Selection Techniques</h4>
-                                    <ul>
-                                        <li>Cross validation</span></li>
-                                        <li>Grid and random search for hyper parametertuning</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Recommendation System</h4>
-                                    <ul>
-                                        <li>Content based technique</span></li>
-                                        <li>Collaborative ﬁlteringtechnique</span></li>
-                                        <li>Evaluating similarity based oncorrelation</span></li>
-                                        <li>Classiﬁcation-based recommendations</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Clustering
-                                    </h4>
-                                    <ul>
-                                        <li>K-means clustering</span></li>
-                                        <li>Hierarchical clustering</span></li>
-                                        <li>Elbow technique</span></li>
-                                        <li>Silhouette coeﬃcient</span></li>
-                                        <li>Dendogram</span> </li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Text Analysis</h4>
-                                    <ul>
-                                        <li>Install nltk</span></li>
-                                        <li>Tokenize words</span></li>
-                                        <li>Tokenizing sentences</span></li>
-                                        <li>Stop words customization</span></li>
-                                        <li>Stemming and lemmatization</span></li>
-                                        <li>Feature extraction</span></li>
-                                        <li>Sentiment analysis</span></li>
-                                        <li>Count vectorizer</span></li>
-                                        <li>Tﬁdfvectorizer</span> </li>
-                                        <li>Naive bayes algorithms</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Dimensionality Reduction</h4>
-                                    <ul>
-                                        <li>Principal componentanalysis(pca)</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Open CV</h4>
-                                    <ul>
-                                        <li>Reading images</span></li>
-                                        <li>Understanding gray scaleimage</span></li>
-                                        <li>Resizing image</span></li>
-                                        <li>Understanding haar classiﬁers</span></li>
-                                        <li>Face, eyes classiﬁcation</span></li>
-                                        <li>How to use webcam in opencv</span></li>
-                                        <li>Building image dataset</span></li>
-                                        <li>Capturing video</span></li>
-                                        <li>Face classiﬁcation invideo</span></li>
-                                        <li>Creating model for genderprediction</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau
-                                    </h4>
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Home</h4>
-                                    <ul>
-                                        <li>Tableau -overview</span></li>
-                                        <li>Tableau - environmentsetup</span></li>
-                                        <li>Tableau - getstarted</span></li>
-                                        <li>Tableau -navigation</span></li>
-                                        <li>Tableau - designﬂow</span></li>
-                                        <li>Tableau - ﬁletypes</span></li>
-                                        <li>Tableau - datatypes</span></li>
-                                        <li>Tableau - showme</span></li>
-                                        <li>Tableau - dataterminology</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Data Sources</h4>
-                                    <ul>
-                                        <li>Tableau - custom dataview</span></li>
-                                        <li>Tableau - datasources</span></li>
-                                        <li>Tableau - extractingdata</span></li>
-                                        <li>Tableau - ﬁeldsoperations</span></li>
-                                        <li>Tableau - editingmetadata</span></li>
-                                        <li>Tableau - datajoining</span></li>
-                                        <li>Tableau - datablending</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Work Sheet</h4>
-                                    <ul>
-                                        <li>Tableau - addworksheets</span></li>
-                                        <li>Tableau - renameworksheet</span></li>
-                                        <li>Tableau - save &amp;deleteworksheet</span></li>
-                                        <li>Tableau - reorderworksheet</span></li>
-                                        <li>Tableau - pagedworkbook</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Calculation</h4>
-                                    <ul>
-                                        <li>Tableau -operators</span></li>
-                                        <li>Tableau -functions</span></li>
-                                        <li>Tableau - numericcalculations</span></li>
-                                        <li>Tableau - stringcalculations</span></li>
-                                        <li>Tableau - datecalculations</span></li>
-                                        <li>Tableau - tablecalculations</span></li>
-                                        <li>Tableau - lodexpressions</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau – Sorting &amp; Filter</h4>
-                                    <ul>
-                                        <li>Tableau - basicsorting</span></li>
-                                        <li>Tableau - basicﬁlters</span></li>
-                                        <li>Tableau - quickﬁlters</span></li>
-                                        <li>Tableau - contextﬁlters</span></li>
-                                        <li>Tableau - conditionﬁlters</span></li>
-                                        <li>Tableau - topﬁlters</span></li>
-                                        <li>Tableau - ﬁlteroperations</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4 class="text-gradient text-primary mb-0 mt-2">Tableau - Charts</h4>
-                                    <ul>
-                                        <li>Tableau - barchart</span></li>
-                                        <li>Tableau - linechart</span></li>
-                                        <li>Tableau - piechart</span></li>
-                                        <li>Tableau -crosstab</span></li>
-                                        <li>Tableau - scatterplot</span></li>
-                                        <li>Tableau - bubblechart</span></li>
-                                        <li>Tableau - bulletgraph</span></li>
-                                        <li>Tableau - boxplot</span></li>
-                                        <li>Tableau - treemap</span></li>
-                                        <li>Tableau - bumpchart</span></li>
-                                        <li>Tableau - ganttchart</span></li>
-                                        <li>Tableau -histogram</span></li>
-                                        <li>Tableau - motioncharts</span></li>
-                                        <li>Tableau - waterfallcharts</span></li>
-                                        <li>Tableau –dashboard</span></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 p-4 mb-4">
-                                    <h4class="text-gradient text-primary mb-0 mt-2">Projects
-                                        </h4class=>
-                                        <ul>
-                                            <li>One project using python &amp;sql</span></li>
-                                            <li>One project using python &amp;ml</span></li>
-                                            <li>One dashboard usingtableau</span>&nbsp;</li>
-                                        </ul>
                                 </div>
                             </div>
+                        </section>
                     </div>
-                    </section>
                 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         </div>
-
     </div>
-</div>
-</section>
+    </section>
 </div>
 
 </div>
@@ -862,375 +310,413 @@
     </ul>
 </div>
 <div class="shadow-lg border-radius-xl p-4 mb-4">
-    <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked MERN Course Interview Questions</strong></h3>
+    <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked Data Science Interview Questions</strong></h3>
     <div class="row">
         <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">1: What are the advantages of ReactJS?</h5>
-            <p>Ans: The advantages of <strong>ReactJS</strong> are: Increases the application’s performance with Virtual DOM JSX makes code easy to read and write It renders both on the client and server-side Easy to integrate with other frameworks (<strong>Angular</strong>, BackboneJS) since it is only a view library Easy to write UI Test cases and integration with tools such as JEST.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">2: What do you understand about Virtual DOM?</h5>
-            <p>Ans: A virtual DOM is a lightweight JavaScript object which originally is just a copy of the real DOM. It is a node tree that lists the elements, their attributes, and content as objects and their properties. React render function creates a node tree out of the React components. It then updates this tree in response to the mutations in the data model which are caused by various actions done by the user or by the system.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the purpose of MongoDB?</h5>
-            <p>Ans: MongoDB is a document-oriented database manager designed for storing high volumes of data. It saves data in binary JSON format and implements the concept of collection and documentation. MongoDB is a cross-platform, NoSQL database equipped with high performance, high scalability, and flexibility that allow for seamless querying and indexing.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">4: What is the purpose of ExpressJS?</h5>
-            <p>Ans: ExpressJS is a web application framework designed to support and host Node.js projects. It is an open-source framework available under the MIT license. ExpressJS manages the workflow between the front end and the database and facilitates a smooth and secure transfer of data. It boasts excellent error handling and <strong>web design</strong> functionality to optimise the web development process.</p>
-
+            <h5 class="text-gradient text-primary mb-0 mt-2">1:What is data science?</h5>
+            <p>Ans: Data science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to extract insights and knowledge from structured and unstructured data.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2:What are the key skills required for a career in data science?</h5>
+            <p>Ans: Key skills include programming (e.g., Python, R), statistical analysis, machine learning, data cleaning and preprocessing, data visualization, and domain-specific knowledge.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">3:How does data science differ from traditional statistics?</h5>
+            <p>Ans: While both involve analyzing data, data science often deals with larger datasets, incorporates machine learning for predictive modeling, and focuses on extracting actionable insights from data.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">4: What is the CRISP-DM methodology in data science?</h5>
+            <p>Ans: CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely used methodology in data science that outlines the steps involved in a data mining or analytics project, including business understanding, data preparation, modeling, evaluation, and deployment.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">5:Explain the concept of machine learning in data science.</h5>
+            <p>Ans:Machine learning is a subset of artificial intelligence that involves the development of algorithms and models that enable systems to learn and make predictions or decisions without being explicitly programmed.</p>
 
         </div>
         <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">5: What do you know about Asynchronous API?</h5>
-            <p>Ans: Asynchronous API or non-blocking, all fall under the library of Node.js. Node.js servers never have to wait for API to return data. After accessing the API the server moves to the next one. The notification process of Node.js assists the server in receiving responses from previous API calls.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">6: Explain the concept of a thread pool?</h5>
-            <p>Ans: The libuv library handles thread pool. Libuv is a C library which is multi-platform in nature &amp; it provides support to asynchronous I/O-based operations for eg. networking, concurrency &amp; file systems.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">7: State the term I/O</h5>
-            <p>Ans: I/O (Input/Output) refers to the program’s interaction with systems networks &amp; disks. Some of the eg. is reading or writing data from or to a disk making HTTP requests and communicating to databases. It is stacked to the machine memory to run the program after the application begins.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">8: What do you know about Dependency Injection?</h5>
-            <p>Ans: Dependency injection is utilised for separating the client creation dependencies from behaviour, which lets you design a slackly coupled program. It also allows the modification of the behaviour of applications by using the components.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">9: What is CallBack Hell?</h5>
-            <p>Ans: A CallBack Hell is a condition, It occurs when many asynchronous functions are chained together. The asynchronous function expects a callback, as it is a return parameter.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">10: What is Mongoose?</h5>
-            <p>Ans: Mongoose is also called an object document mapper. It is used to provide a schema-based solution for modeling application data. Validation, Typecasting, query construction, business logic hooks, and others, are also functionalities of Mongoose.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">6: What is the significance of feature engineering in machine learning?</h5>
+            <p>Ans: Feature engineering involves selecting and transforming variables to improve model performance. It is a critical step in building effective machine learning models.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7:How is data science used in business?</h5>
+            <p>Ans:Data science helps businesses make data-driven decisions, optimize processes, improve customer experiences, and gain a competitive edge through insights derived from data analysis.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8:What is the role of a data scientist in an organization?</h5>
+            <p>Ans: Data scientists are responsible for collecting, analyzing, and interpreting complex datasets. They develop models, algorithms, and statistical analyses to extract valuable insights and inform decision-making.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9:How does data science contribute to artificial intelligence (AI)?</h5>
+            <p>Ans: Data science provides the foundation for AI by utilizing data to train and improve machine learning models, which are a key component of many AI applications.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:What are the ethical considerations in data science?</h5>
+            <p>Ans: Ethical considerations in data science include issues related to privacy, bias in algorithms, transparency, and the responsible use of data, ensuring that the impact of data science activities is fair and equitable.</p>
         </div>
     </div>
 </div>
 <div class="shadow-lg border-radius-xl p-4 mb-4">
     <marquee behavior="scroll" direction="left" width="100%" scrollamount="12">
         <div class="">
-            <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 shadow-lg border-radius-xl"><strong>cross content</strong></h2>
+            <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 shadow-lg border-radius-xl"><strong>Course content</strong></h2>
         </div>
     </marquee>
     <div class="row">
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">JAVASCRIPT (ES-5 and ES-6)</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Statistical Analysis</h4>
             <ul>
-                <li>Basic JavaScript</li>
-                <li>DOM and BOM</li>
-                <li>Intervals and Objects</li>
-                <li>Prototype ,Hoisting and Closure</li>
-                <li>Let , Const , Arrow , Class and Inheritance</li>
-                <li>Map, Filter , Reduce , Template Literals</li>
-                <li>forEach, for-in, for-of loop.</li>
+                <li>Counting, Probability, and Probability Distributions</li>
+                <li>Sampling Distributions</li>
+                <li>Estimation and Hypothesis Testing</li>
+                <li>Scatter Diagram</li>
+                <li>Anova and Chisquare</li>
+                <li>Imputation Techniques</li>
+                <li>Data Cleaning</li>
+                <li>Correlation and Regression</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Typescript</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Data Science</h4>
             <ul>
-                <li>Why Typescript</li>
-                <li>Basic Types</li>
-                <li>Class and Interfaces</li>
-                <li>Modules</li>
+                <li> Data Science Overview</li>
+                <li>Importance of Data Science</li>
+                <li>Types of Data Science</li>
+                <li>Descriptive Science</li>
+                <li>Diagnostic Science</li>
+                <li>Predictive Science</li>
+                <li>Prescriptive Science</li>
+                <li>Benefits of Data Science</li>
+                <li>Data Visualization for Decision Making</li>
+                <li>Data Types, Measure Of central tendency, Measures of Dispersion</li>
+                <li>Graphical Techniques, Skewness & Kurtosis, Box Plot</li>
+                <li>Descriptive Stats</li>
+                <li>Sampling Funnel, Sampling Variation, Central Limit Theorem, Confidence interval</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2"> REACT JS</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2"> Basics to Advanced </h4>
             <ul>
-                <li>What is React JS?</li>
-                <li>What is SPA?</li>
-                <li>DOM vs Virtual DOM</li>
-                <li>Advantages and Disadvantages</li>
-                <li>Key Features</li>
+                <li>Excel tutorial</li>
+                <li>Text to Columns</li>
+                <li>Concatenate</li>
+                <li>The Concatenate Function</li>
+                <li>The Right Function with Concatenation</li>
+                <li>Absolute Cell References</li>
+                <li>Data Validation</li>
+                <li>Time and Date Calculations</li>
+                <li>Conditional Formatting</li>
+                <li>Exploring Styles and Clearing Formatting</li>
+                <li>Using Conditional Formatting to Hide Cells</li>
+                <li>Using the IF Function</li>
+                <li>Changing the “Value if false” Condition to Text</li>
+                <li>Pivot Tables</li>
+                <li>Creating a Pivot Table</li>
+                <li>Specifying PivotTable Data</li>
+                <li>Changing a PivotTables Calculation</li>
+                <li>Filtering and Sorting a PivotTable</li>
+                <li>Creating a PivotChart</li>
+                <li>Grouping Items</li>
+                <li>Updating a PivotTable</li>
+                <li>Formatting a PivotTable</li>
+                <li>Using Slicers</li>
+                <li>Charts</li>
+                <li>Creating a Simple Chart</li>
+                <li>Charting Non-Adjacent Cells</li>
+                <li>Creating a Chart Using the Chart Wizard</li>
+                <li>Modifying Charts</li>
+                <li>Moving an Embedded Chart</li>
+                <li>Sizing an Embedded Chart</li>
+                <li>Changing the Chart Type</li>
+                <li>Chart Types</li>
+                <li>Changing the Way Data is Displayed</li>
+                <li>Moving the Legend</li>
+                <li>Formatting Charts</li>
+                <li>Adding Chart Items</li>
+                <li>Formatting All Text</li>
+                <li>Formatting and Aligning Numbers</li>
+                <li>Formatting the Plot Area</li>
+                <li>Formatting Data Markers</li>
+                <li>Pie Charts</li>
+                <li>Creating a Pie Chart</li>
+                <li>Moving the Pie Chart to its Own Sheet</li>
+                <li>Adding Data Labels</li>
+                <li>Exploding a Slice of a Pie Chart</li>
+                <li>Data Analysis − Overview</li>
+                <li>types of Data Analysis</li>
+                <li>Data Analysis Process</li>
+                <li>Working with Range Names</li>
+                <li>Copying Name using Formula Autocomplete</li>
+                <li>Range Name Syntax Rules</li>
+                <li>Creating Range Names</li>
+                <li>Creating Names for Constants</li>
+                <li>Managing Names</li>
+                <li>Scope of a Name</li>
+                <li>Editing Names</li>
+                <li>Applying Names</li>
+                <li>Using Names in a Formula</li>
+                <li>Viewing Names in a Workbook</li>
+                <li>Copying Formulas with Names</li>
+                <li>Difference between Tables and Ranges</li>
+                <li>Create Table</li>
+                <li>Table Name</li>
+                <li>Managing Names in a Table</li>
+                <li>Table Headers replacing Column Letters</li>
+                <li>Propagation of a Formula in a Table</li>
+                <li>Resize Table</li>
+                <li>Remove Duplicates</li>
+                <li>Convert to Range</li>
+                <li>Table Style Options</li>
+                <li>Table Styles</li>
+                <li>Cleaning Data with Text Functions</li>
+                <li>Removing Unwanted Characters from Text</li>
+                <li>Extracting Data Values from Text</li>
+                <li>Formatting Data with Text Functions</li>
+                <li>Date Formats</li>
+                <li>Conditional Formatting</li>
+                <li>Sorting</li>
+                <li>Filtering</li>
+                <li>Lookup Functions</li>
+                <li>Pivoting</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">ENVIRONMENTAL SETUP</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">SQL</h4>
             <ul>
-                <li>Node | NPM</li>
-                <li>Installation of CLI</li>
-                <li>Setup Project</li>
-                <li>Directory Structure</li>
-                <li>Code Editors</li>
-                <li>How React JS Application Boot</li>
+                <li>Introduction to Oracle Database</li>
+                <li>Retrieve Data using the SQL SELECT Statement</li>
+                <li>Learn to Restrict and Sort Data</li>
+                <li>Usage of Single-Row Functions to Customize Output</li>
+                <li>Invoke Conversion Functions and Conditional Expressions</li>
+                <li>Aggregate Data Using the Group Functions</li>
+                <li>Display Data from Multiple Tables Using Joins</li>
+                <li>Use Sub-Queries to Solve Queries</li>
+                <li>The SET Operators</li>
+                <li>Data Manipulation Statements</li>
+                <li>Use of DDL Statements to Create and Manage Tables</li>
+                <li>Other Schema Objects</li>
+                <li>Control User Access</li>
+                <li>Management of Schema Objects</li>
+                <li>Manage Objects with Data Dictionary Views</li>
+                <li>Manipulate Large Data Sets</li>
+                <li>Data Management in Different Time Zones</li>
+                <li>Retrieve Data Using Sub-queries</li>
+                <li>Regular Expression Support</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">BASIC FEATURES OF REACT JS</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Tableau Course Material
+            </h4>
             <ul>
-                <li>React Concepts</li>
-                <li>JSX and TSX</li>
-                <li>Render Elements</li>
-                <li>Function and Class Components</li>
-                <li>Props and State</li>
-                <li>Handling Events</li>
-                <li>Dynamic Data Rendering</li>
-                <li>Property Binding</li>
+                <li>Start Page</li>
+                <li>Show Me</li>
+                <li>Connecting to Excel Files</li>
+                <li>Connecting to Text Files</li>
+                <li>Connect to Microsoft SQL Server</li>
+                <li>Connecting to Microsoft Analysis Services</li>
+                <li>Creating and Removing Hierarchies</li>
+                <li>Bins</li>
+                <li>Joining Tables</li>
+                <li>Data Blending</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">KEY FEATURES OF REACT JS</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Basic Reports
+            </h4>
             <ul>
-                <li>Conditional Rendering</li>
-                <li>List and Keys</li>
-                <li>Forms Handling</li>
-                <li>Forms Validations</li>
+                <li>Parameters</li>
+                <li>Grouping Example 1</li>
+                <li>Grouping Example 2</li>
+                <li>Edit Groups</li>
+                <li>Set</li>
+                <li>Combined Sets</li>
+                <li>Creating a First Report</li>
+                <li>Data Labels</li>
+                <li>Create Folders</li>
+                <li>Sorting Data</li>
+                <li>Add Totals, Sub Totals and Grand Totals to Report</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">COMPONENT LIFECYCLE HOOK</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Charts</h4>
             <ul>
-                <li>Understanding component lifecycle</li>
-                <li>All Lifecycle Hooks</li>
+                <li>Area Chart</li>
+                <li>Bar Chart</li>
+                <li>Box Plot</li>
+                <li>Bubble Chart</li>
+                <li>Bump Chart</li>
+                <li>Bullet Graph</li>
+                <li>Circle Views</li>
+                <li>Dual Combination Chart</li>
+                <li>Dual Lines Chart</li>
+                <li>Funnel Chart</li>
+                <li>Traditional Funnel Charts</li>
+                <li>Gantt Chart</li>
+                <li>Grouped Bar or Side by Side Bars Chart</li>
+                <li>Heatmap</li>
+                <li>Highlight Table</li>
+                <li>Histogram</li>
+                <li>Cumulative Histogram</li>
+                <li>Line Chart</li>
+                <li>Lollipop Chart</li>
+                <li>Pareto Chart</li>
+                <li>Pie Chart</li>
+                <li>Scatter Plot</li>
+                <li>Stacked Bar Chart</li>
+                <li>Text Label</li>
+                <li>Tree Map</li>
+                <li>Word Cloud</li>
+                <li>Waterfall Chart</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">EVENT HANDLING REACT</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2"> Learn Tableau Advanced Reports</h4>
             <ul>
-                <li>Understanding React Event System</li>
-                <li>Passing arguments to event Handlers</li>
+                <li>Dual Axis Reports</li>
+                <li>Blended Axis</li>
+                <li>Individual Axis</li>
+                <li>Add Reference Lines</li>
+                <li>Reference Bands</li>
+                <li>Reference Distributions</li>
+                <li>Basic Maps</li>
+                <li>Symbol Map</li>
+                <li>Use Google Maps</li>
+                <li>Mapbox Maps as a Background Map</li>
+                <li>WMS Server Map as a Background Map</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">NETWORK CALL</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Calculations & Filters</h4>
             <ul>
-                <li>Fetch</li>
-                <li>Axios</li>
+                <li>Calculated Fields</li>
+                <li>Basic Approach to Calculate Rank</li>
+                <li>Advanced Approach to Calculate Ra</li>
+                <li>Calculating Running Total</li>
+                <li>Filters Introduction</li>
+                <li>Quick Filters</li>
+                <li>Filters on Dimensions</li>
+                <li>Conditional Filters</li>
+                <li>Top and Bottom Filters</li>
+                <li>Filters on Measures</li>
+                <li>Context Filters</li>
+                <li>Slicing Fliters</li>
+                <li>Data Source Filters</li>
+                <li>Extract Filters</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">CUSTOM SERVICES</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Learn Tableau Dashboards</h4>
             <ul>
-                <li> Services</li>
-                <li>Building a Service</li>
+                <li>Create a Dashboard</li>
+                <li>Format Dashboard Layou</li>
+                <li>Create a Device Preview of a Dashboard</li>
+                <li>Create Filters on Dashboard</li>
+                <li>Dashboard Objects</li>
+                <li>Create a Story</li>
+                <li>Tableau online.</li>
+                <li>Overview of Tableau Server.</li>
+                <li>Publishing Tableau objects and scheduling/subscription</li>
             </ul>
         </div>
 
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">LOCAL DATA STORAGE</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Power BI
+            </h4>
             <ul>
-                <li>Local Storage</li>
-                <li>Session Storage</li>
-                <li>Cookies</li>
+                <li>Get Started with Power BI</li>
+                <li>Overview: Power BI concepts</li>
+                <li>Sign up for Power BI</li>
+                <li>Overview: Power BI data sources</li>
+                <li>Connect to a SaaS solution</li>
+                <li>Upload a local CSV file</li>
+                <li>Connect to Excel data that can be refreshed</li>
+                <li>Connect to a sample</li>
+                <li>Create a Report with Visualizations</li>
+                <li>Explore the Power BI portal</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">ROUTING WITH REACT ROUTER</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Viz and Tiles</h4>
             <ul>
-                <li>Setting up React Router</li>
-                <li>Configuring route with Route Component</li>
-                <li>Making routes dynamic with Route Params</li>
-                <li>Working with nested routes</li>
-                <li>Link and NavLink</li>
-                <li>Redirect Routes</li>
+                <li>Overview: Visualizations</li>
+                <li>Using visualizations</li>
+                <li>Create a new report</li>
+                <li>Create and arrange visualizations</li>
+                <li>Format a visualization</li>
+                <li>Create chart visualizations</li>
+                <li>Use text, map, and gauge visualizations and save a report</li>
+                <li>Use a slicer to filter visualizations</li>
+                <li>Sort, copy, and paste visualizations</li>
+                <li>Download and use a custom visual from the gallery</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">UI COMPONENTS</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2"> Reports and Dashboards</h4>
             <ul>
-                <li>Angular Material</li>
-                <li>PrimeNG</li>
+                <li>Modify and Print a Report</li>
+                <li>Rename and delete report pages</li>
+                <li>Add a filter to a page or report</li>
+                <li>Set visualization interactions</li>
+                <li>Print a report page</li>
+                <li>Send a report to PowerPoint</li>
+                <li>Create a Dashboard</li>
+                <li>Create and manage dashboards</li>
+                <li>Pin a report tile to a dashboard</li>
+                <li>Pin a live report page to a dashboard</li>
+                <li>Pin a tile from another dashboard</li>
+                <li>Pin an Excel element to a dashboard</li>
+                <li>Manage pinned elements in Excel</li>
+                <li>Add a tile to a dashboard</li>
+                <li>Build a dashboard with Quick Insights</li>
+                <li>Set a Featured (default) dashboard</li>
+                <li>Ask Questions about Your Data</li>
+                <li>Ask a question with Power BI Q&A</li>
+                <li>Tweak your dataset for Q&A</li>
+                <li>Enable Cortana for Power BI</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">INTRODUCTION TO REDUX</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Publishing Workbooks and Workspace</h4>
             <ul>
-                <li>Why Redux</li>
-                <li>Install and setup</li>
-                <li>Store ,Reducer , actions</li>
-                <li>Dispatcher</li>
-                <li>High order Components</li>
-                <li>mapStateToProps and mapDispatchToProps usage</li>
+                <li>Share Data with Colleagues and Others</li>
+                <li>Publish a report to the web</li>
+                <li>Manage published reports</li>
+                <li>Share a dashboard</li>
+                <li>Create an app workspace and add users</li>
+                <li>Use an app workspace</li>
+                <li>Publish an app</li>
+                <li>Create a QR code to share a tile</li>
+                <li>Embed a report in SharePoint Online</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">ADVANCE REDUX</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Other Power BI Components and Table Relationship</h4>
             <ul>
-                <li>Async Actions</li>
-                <li>Middleware</li>
-                <li>Redux Thunk and Redux Saga</li>
+                <li>Use Power BI Mobile Apps</li>
+                <li>Get Power BI for mobile</li>
+                <li>View reports and dashboards in the iPad app</li>
+                <li>Use workspaces in the mobile app</li>
+                <li>Sharing from Power BI Mobile</li>
+                <li>Use Power BI Desktop</li>
+                <li>Install and launch Power BI Desktop</li>
+                <li>Get data</li>
+                <li>Reduce data</li>
+                <li>Transform data</li>
+                <li>Relate tables</li>
+                <li>Get Power BI Desktop data with the Power BI service</li>
+                <li>Export a report from Power BI service to Desktop</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">React Hooks</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">DAX functions
+            </h4>
             <ul>
-                <li>Why We Need Hooks.</li>
-                <li>Different Types Of Hooks</li>
-                <li>Using State And Effect Hooks</li>
-                <li>Usereducer , Useref Etc</li>
-                <li>Custom Hooks</li>
-                <li>Rules Of Hooks</li>
+                <li>New Dax functions</li>
+                <li>Date and time functions</li>
+                <li>Time intelligence functions</li>
+                <li>Filter functions</li>
+                <li>Information functions</li>
+                <li>Logical functions</li>
+                <li>Math & trig functions</li>
+                <li>Parent and child functions</li>
+                <li>Text functions</li>
             </ul>
         </div>
         <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Third Party Modules</h4>
+            <h4 class="text-gradient text-primary mb-0 mt-2">Python Basics</h4>
             <ul>
-                <li>Social Login</li>
-                <li>Pagination</li>
-                <li>Search</li>
-                <li>Filter</li>
-                <li>JWT Token</li>
-                <li>File Upload</li>
-                <li>Many More</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Rest Js Testing</h4>
-            <ul>
-                <li>Jest with Enzyme</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Develop a CRUD Application in React Js React JS Application Deployment</h4>
-            <ul>
-                <li>Build Application and Deployment</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Node Js</h4>
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Node.js</h4>
-            <ul>
-                <li>What is node.js</li>
-                <li>A word on event loop</li>
-                <li>Event driven architecture</li>
-                <li>Blocking vs non-blocking code</li>
-                <li>Node Process Model</li>
-                <li>Setup node.js</li>
-                <li>Node REPL</li>
-                <li>Debugging node.js app</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Modules in JS</h4>
-            <ul>
-                <li>Understanding exports and require</li>
-                <li>Creating modules</li>
-                <li>Importing modules</li>
-                <li>Quick tour on NPM</li>
-                <li>Installing 3rd party modules</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Events &amp; streams</h4>
-            <ul>
-                <li>Significance of Events</li>
-                <li>Event Emitter class</li>
-                <li>Emitting and listening to events</li>
-                <li>Types of streams</li>
-                <li>Working with streams</li>
-                <li>Composing streams using pipe</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Working with Process and File System</h4>
-            <ul>
-                <li>Process object</li>
-                <li>Handling exceptions at process level</li>
-                <li>Listening to process events</li>
-                <li>Working with file system using fs module</li>
-                <li>Creating, Copying, Deleting files</li>
-                <li>Creating, Copying, Deleting directories</li>
-                <li>Watching for file changes</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">HTTP</h4>
-            <ul>
-                <li>Building a Web Server</li>
-                <li>HTTP Request Methods, Headers</li>
-                <li>Response Codes and Headers</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Express Js</h4>
-            <h4 class="text-gradient text-primary mb-0 mt-2">Expressjs Introduction &amp; Setup</h4>
-            <ul>
-                <li>Building a Web Server</li>
-                <li>HTTP Request Methods, Headers</li>
-                <li>Response Codes and Headers</li>
-                <li>Serving static files with express</li>
-                <li>Express application generator</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Routing</h4>
-            <ul>
-                <li>Route Methods</li>
-                <li>Route Paths</li>
-                <li>Parameterized Routes</li>
-                <li>Route Handlers</li>
-                <li>Express Router</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Middleware</h4>
-            <ul>
-                <li>Types of middlewareApplication<br>- Router<br>- Error<br>- Built-in<br>- Third-party</li>
-                <li>Error middleware</li>
-                <li>Body parser, cors , cookie parser, session management</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-
-            <h4 class="text-gradient text-primary mb-0 mt-2">Template Engines</h4>
-            <ul>
-                <li>What are template engines</li>
-                <li>EJS</li>
-                <li>Jade</li>
-                <li>Handlebars</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Expressjs security</h4>
-            <ul>
-                <li>Authentication<br>- JWT<br>- Securing routes</li>
-                <li>Debugging in Express</li>
-                <li>Realtime programming with Socket.io</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">MongoDB</h4>
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to MongoDB</h4>
-            <ul>
-                <li>Installing MongoDB</li>
-                <li>The current SQL/NoSQL landscape</li>
-                <li>Document-oriented vs. other types of storage</li>
-                <li>Mongo's featureset</li>
-                <li>Common use-cases</li>
-                <li>MongoDB databases</li>
-                <li>MongoDB Collections</li>
-                <li>MongoDB Documents</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-
-            <h4 class="text-gradient text-primary mb-0 mt-2">CRUD Operations in Mongodb</h4>
-            <ul>
-                <li>Creating documentsinsert()<br>- update()<br>- save()</li>
-                <li>Querying documentsfind()<br>- Working with equality<br>- Query operators<br>- Building complex queries</li>
-                <li>Updating documents</li>
-                <li>Deleting documents</li>
-                <li>Limit</li>
-                <li>Order By</li>
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Mongoose</h4>
-            <ul>
-                <li>Word on ORM/ODM</li>
-
-                <li>Installing mongoose</li>
-
-                <li>Connecting to MongoDB from mongoose</li>
-
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Core concepts of Mongoose</h4>
-            <ul>
-                <li>Understanding mongoose schemas and datatypes</li>
-
-                <li>Working with Models</li>
-
-                <li>Using modifiers in schema</li>
-
-                <li>Using virtual fields</li>
-
-                <li>Optimizing query performance by enabling indexes</li>
-
-            </ul>
-        </div>
-        <div class="col-lg-4">
-            <h4 class="text-gradient text-primary mb-0 mt-2">Mern Application Deployment</h4>
-            <ul>
-                <li>Build Application</li>
-                <li>Deploy in Heroku</li>
+                <li>The print statement</li>
+                <li>Comments</li>
+                <li>Python Data Structures & Data Types</li>
+                <li>String Operations in Python</li>
+                <li>Simple Input & Output</li>
+                <li>Simple Output Formatting</li>
+                <li>Deep copy</li>
+                <li>Shallow copy</li>
+                <li>Operators in python</li>
             </ul>
         </div>
 
@@ -1243,39 +729,29 @@
     <div class="row">
 
         <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Mern Stack?</h5>
-            <p>Ans: MERN is a technology stack used to develop a full-stack software application. A technology stack is a set of frameworks and tools which facilitate the development of an application. It is a platform which consists of MongoDB, Express.js, React.js, and Node.js.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">2: How long does it take to learn MERN stack?</h5>
-            <p>Ans: It depends on the fundamental skill set. If you have sound technical knowledge of underlying languages like HTML, CSS and JavaScript; it would take around 6-8 weeks to become a beginner-level MERN stack developer with hands-on practice.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the salary of a MERN Stack developer?</h5>
-            <p>Ans: The salary of a full stack developer depends on 3 different factors. It is location, skillset, and experience. Where the average salary is 25000- 40000 per month.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">4: What are some key concepts to learn in MERN Stack?</h5>
-            <p>Ans: MERN Stack is built of 4 robust technologies i.e. MongoDB, Express.js, React.js and Node, js. To become a MERN Stack developer, one should have a working knowledge of all the above technologies.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">5: What are the MERN stack developer jobs?</h5>
-            <p>Ans: As a MERN stack developer, you will be assigned one or multiple jobs like:</p>
-            <div class="d-flex">
-                <ul>
-                    <li>Front end developer</li>
-                    <li>Back end developer</li>
-                </ul>
-                <ul>
-                    <li>Full stack developer</li>
-                    <li>Database administrator</li>
-                </ul>
+            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is data Science?</h5>
+            <p>Ans:Data Science is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2:Why is data Science important?</h5>
+            <p>Ans: Data Science helps organizations gain insights, make informed decisions, identify patterns and trends, optimize processes, and ultimately improve business performance.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">3: What are the key components of data Science?</h5>
+            <p>Ans:The key components include data collection, data processing, data storage, analysis, and interpretation. Techniques like statistical analysis, machine learning, and data visualization are often employed.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">4: What is the difference between descriptive, predictive, and prescriptive Science?</h5>
+            <p>Ans: Descriptive Science focuses on summarizing historical data, predictive Science involves forecasting future trends, and prescriptive Science recommends actions based on the analysis of available data.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">5: How is big data related to data Science?</h5>
+            <p>Ans:Big data refers to the large volume, velocity, and variety of data, while data Science deals with extracting meaningful insights from data. Big data Science involves specialized techniques to handle and analyze massive datasets.</p>
 
-            </div>
         </div>
         <div class="col-lg-6">
-            <h5 class="text-gradient text-primary mb-0 mt-2">6: Things to prepare before applying for MERN Stack Developer Job</h5>
-            <p>Ans: Create a personal portfolio with experience and projects. Showcase your GitHub projects. Add 2-3 good MERN projects to your portfolio which should be live on some URL. Solve DS &amp; Algo problems to develop strong logic using Codewars, HackerRank, Codechef, etc. Revise Fundamentals of Javascript, React &amp; Node/Express.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">7: Where to find MERN stack jobs?</h5>
-            <p>Ans: There are several job portals where you can find Fullstack MERN job opportunities. LinkedIn Stack Overflow Jobs Apply on job portals Duct placement cells also help the students to get jobs.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">8: How is the placement teamwork?</h5>
-            <p>Ans: Groot Academy has a proper placement cell which helps the students to get their dream job.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">9: Does Groot Academy also hold workshops?</h5>
-            <p>A: Yes, we offer workshops for the students to give them a better knowledge of the particular field and help them become an expert.</p>
-            <h5 class="text-gradient text-primary mb-0 mt-2">10: I Have More Queries.</h5>
-            <p>A: In case you have any other queries contact us and our experts will get in touch with you in a short period.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">6:What role does machine learning play in data Science?</h5>
+            <p>Ans: Machine learning is a subset of data Science that involves the use of algorithms and statistical models to enable systems to improve their performance on a task over time without being explicitly programmed.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7: How is data Science used in business?</h5>
+            <p>Ans: Businesses use data Science to understand customer behavior, optimize marketing strategies, improve operational efficiency, identify opportunities for growth, and mitigate risks.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8:What are some common challenges in data Science?</h5>
+            <p>Ans: Challenges include data quality issues, privacy concerns, the need for skilled professionals, choosing appropriate analytical techniques, and staying current with rapidly evolving technologies.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9:How is data visualization important in data Science?</h5>
+            <p>Ans:Data visualization is crucial for communicating insights effectively. It helps in making complex data more understandable and enables decision-makers to grasp patterns and trends quickly.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:What ethical considerations are associated with data Science?</h5>
+            <p>Ans: Ethical considerations include issues related to privacy, consent, bias in algorithms, and the responsible use of data. Ensuring fairness and transparency in Science processes is essential.</p>
 
         </div>
     </div>
@@ -1289,15 +765,9 @@
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Data Science?</h5>
                                     <br /><br />
-                                    <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-                                    <ul>
-                                        <li>Build dynamic data-driven websites and applications.</li>
-                                        <li>A Scope to be Part of Game-Changing Projects.</li>
-                                        <li>The High-Paying Full Stack Developer Salary.</li>
-                                        <li>Diverse Growth Options.</li>
-                                    </ul>
+                                    <h6>Learning data Science is highly valuable in today's data-driven world for several compelling reasons. First and foremost, data analysts play a crucial role in extracting meaningful insights from vast and complex datasets, empowering organizations to make informed decisions. As businesses increasingly rely on data to drive strategies, understanding data Science allows individuals to contribute to optimizing processes, identifying trends, and solving real-world problems. Moreover, data analysts are in high demand across various industries, offering excellent career prospects. By acquiring data Science skills, one gains proficiency in tools and techniques for data manipulation, statistical analysis, and visualization, enhancing both problem-solving abilities and critical thinking. Overall, learning data Science not only opens doors to diverse career opportunities but also equips individuals with the skills needed to navigate and succeed in the data-centric landscape of the modern workplace.</h6>
                                 </div>
 
                             </div>
@@ -1324,9 +794,10 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Data Analysts</h5>
                                     <br /><br />
-                                    <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
+                                    <h6>
+                                        Data analysts are in high demand across industries due to the growing reliance on data-driven decision-making. In the business sector, data analysts are crucial for interpreting market trends, customer behavior, and operational efficiency. In finance, they contribute to risk assessment and portfolio management. Healthcare utilizes data analysts for optimizing patient care and resource allocation. Governments and non-profits benefit from data analysts in policy formulation and program evaluation. E-commerce companies rely on data analysts for personalized marketing strategies and inventory management. Tech firms use data analysts for product development and user experience enhancement. Media and entertainment industries leverage data Science for audience engagement and content optimization. The versatility of data Science transcends sectors, making it a key role in the contemporary job market with opportunities in diverse fields. </h6>
 
                                 </div>
 
@@ -1370,7 +841,7 @@
                         <div class="col-lg-12">
                             <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
                             <br /><br />
-                            <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
+                            <h6>Data analyst training and placement programs provide individuals with the essential skills and knowledge needed to excel in the field of data Science. These programs typically cover a range of topics, including data manipulation, statistical analysis, programming languages like Python and R, and data visualization techniques. Hands-on, practical experience with real-world datasets is often a core component of the training. Many training programs also focus on industry-relevant tools and technologies such as SQL, Excel, and data visualization tools like Tableau or Power BI. Beyond technical skills, these programs may emphasize critical thinking, problem-solving, and effective communication of analytical findings. Successful completion of a data analyst training program enhances one's employability and opens doors to various industries, including finance, healthcare, marketing, and technology. Many training programs also offer placement assistance, connecting graduates with job opportunities and providing a pathway to launch a successful career as a data analyst. </h6>
 
                         </div>
 
