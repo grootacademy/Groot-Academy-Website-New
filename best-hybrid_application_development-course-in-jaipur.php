@@ -57,7 +57,7 @@
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">Open the Doors of Opportunity by Becoming a Expert Flutter Programmer</h4>
+                <h4 class="course-heading">Open the Doors of Opportunity by Becoming a Expert hybrid application Programmer</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -86,19 +86,16 @@
 
                                 </span>
                                 <!-- <h5 class="text-gradient text-primary mb-0 mt-2"></h5> -->
-                                <p>
-                                    Flutter is an open-source UI toolkit from Google for building natively compiled applications across mobile, web, and desktop from a single codebase. Using the Dart programming language, Flutter facilitates rapid development with its hot reload feature, enabling real-time code changes. Its widget-based architecture streamlines UI creation, and a rich set of pre-built widgets simplifies customization. Flutter supports robust state management, testing, and seamless integration of packages for extended functionality. With deployment options for iOS, Android, web, and desktop, Flutter empowers developers to create visually appealing and performant applications with efficiency and consistency across diverse platforms.</p>
+                                <p>Our hybrid application Course Curriculum is meticulously prepared by the industry experts according to the job requirements of global mobile app development companies. We cover fundamentals like language overview, Basic C, Basic Swift Programming; hybrid application project structure, UI application, and application creation along with advanced concepts such as frameworks, controllers, and publishing the application in the app store effectively. Our hybrid application Course Syllabus can be personalized as per the learning requirements of students to upgrade their career into mobile app development.</p>
 
-                                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Flutter application Programming.</h5>
-                                <p>
-                                    Flutter, developed by Google, is an open-source UI toolkit for building cross-platform applications using the Dart programming language. Three key features define Flutter development:</p>
+                                <!-- <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Spring Framework Programming.</h5>
+                                <p>The core features of the Spring Framework can be used in developing any Java application. It can be described as a complete and modular framework. The Spring Framework can be used for all layer implementations of a real time application. It can also be used for the development of a particular layer of a real time application unlike Struts and Hibernate. Once you get under the hood of Spring, you will learn how Spring beans, the application context, dependency injection, and Spring Boot work together. Finally you will learn how to define, store, and edit information in your database using JPA and H2 technology..</p>
                                 <ul>
-                                    <li><strong>Single Codebase for Multiple Platforms:</strong> Flutter allows developers to write code once and deploy it on iOS, Android, web, and desktop platforms, saving time and effort.</li>
-
-                                    <li><strong>Hot Reload for Rapid Iteration:</strong> With its hot reload feature, developers can instantly view changes in the app during development without restarting, enhancing the iterative development process and speeding up debugging.</li>
-
-                                    <li><strong>Rich Widget-Based UI Development:</strong> Flutter's UI is constructed using a variety of customizable widgets, enabling the creation of visually appealing and responsive interfaces. This widget-based approach enhances code modularity and reusability.</li>
-                                </ul>
+                                    <li>Spring has flexible and comprehensive set of extensions and third-party libraries</li>
+                                    <li>Spring is fast and productive</li>
+                                    <li>Spring is everywhere</li>
+                                    <li>Spring is secure</li>
+                                </ul> -->
 
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
@@ -131,9 +128,8 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <!-- <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> The main purpose of using the MERN stack is to develop apps using JavaScript only. It uses four technologies which make the technology stack and it is JS based. If you know JavaScript (and JSON), the backend, frontend, and database can be operated easily.</h5> -->
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Jobs for Flutter Application Developer</strong></h4>
-                                        <p>
-                                            Flutter application developers are in high demand as businesses increasingly turn to cross-platform mobile app development. With expertise in Dart programming language and the Flutter framework, these developers create dynamic and visually appealing mobile applications for both Android and iOS platforms. They collaborate with design teams to implement user interfaces, ensure seamless navigation, and optimize app performance. Flutter developers are crucial in leveraging the framework's hot reload feature for rapid development, reducing time-to-market. Their responsibilities include troubleshooting, testing, and maintaining codebase integrity. As businesses recognize the efficiency and cost-effectiveness of Flutter in delivering consistent user experiences across devices, the demand for skilled Flutter application developers continues to grow, offering ample career opportunities in the ever-evolving field of mobile app development.</p>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Jobs for hybrid application Developer</strong></h4>
+                                        <p>hybrid application developers are in demand across various industries, including technology, finance, healthcare, and entertainment. Their primary responsibility is to design, develop, and maintain applications for Apple's hybrid application platform, ensuring a seamless and user-friendly experience. Job opportunities for hybrid application developers can be found in both large corporations and startups, with roles ranging from Junior hybrid application Developer to Senior hybrid application Engineer. Key skills include proficiency in Swift and Objective-C, familiarity with Apple's development tools like Xcode, and a strong understanding of hybrid application architecture and design patterns. Additionally, experience with frameworks like UIKit, Core Data, and SwiftUI, as well as knowledge of version control systems and best coding practices, is highly valued. As the mobile app industry continues to grow, hybrid application developers play a crucial role in creating innovative and high-quality applications that cater to the diverse needs of users worldwide.</p>
 
 
 
@@ -195,408 +191,316 @@
 
 
             <div class="shadow-lg border-radius-xl p-4 mb-4">
-                <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked Flutter Application Development Interview Questions</strong></h3>
+                <h3 class="text-gradient text-primary mb-0 mt-2"><strong>Frequently Asked hybrid application Development Course Interview Questions</strong></h3>
                 <div class="row">
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Flutter, and how does it differ from other mobile app development frameworks?</h5>
-                        <p>Ans: Flutter is an open-source UI software development toolkit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. It stands out for its expressive UI, hot reload feature, and the use of the Dart programming language.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">2: Explain the concept of "Hot Reload" in Flutter.</h5>
-                        <p>Ans:Hot Reload is a feature in Flutter that allows developers to instantly view the effects of code changes in the running app without restarting it. It speeds up the development process by quickly injecting new code into the running Dart Virtual Machine. </p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">3: What is the Dart programming language, and why is it used in Flutter development?</h5>
-                        <p>Ans: Dart is a programming language optimized for building mobile, desktop, server, and web applications. It is used in Flutter because it provides the performance required for mobile apps and is well-integrated with the Flutter framework.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">4: Describe the widget concept in Flutter and provide examples of stateful and stateless widgets.</h5>
-                        <p>Ans: In Flutter, everything is a widget, representing the structural and visual elements of an application. Stateless widgets are immutable and don't change over time, while stateful widgets can change dynamically during runtime. For example, a button might be a stateless widget, while a form might be a stateful widget.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1: What is Auto Layout?</h5>
+                        <p>Ans:Auto Layout is a system provided by Apple to define rules for how your user interface elements should be laid out on different screen sizes and orientations.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2: How do I submit an app to the App Store?</h5>
+                        <p>Ans:To submit an app to the App Store, you need to enroll in the Apple Developer Program, follow the App Store guidelines, prepare your app for submission, and use App Store Connect to submit your app for review. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3:What is the Model-View-Controller (MVC) design pattern in hybrid application? </h5>
+                        <p>Ans: MVC is a design pattern commonly used in hybrid application development. It separates an application into three interconnected components: Model (data and business logic), View (user interface), and Controller (manages user input and updates the model and view).</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4: How do I handle user input in hybrid application apps?</h5>
+                        <p>Ans: User input in hybrid application apps is handled through gestures, touch events, and controls. You can use gesture recognizers and delegate methods to respond to user interactions.</p>
 
 
                     </div>
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">5:Explain the purpose of the "pubspec.yaml" file in Flutter projects.</h5>
-                        <p>Ans: The "pubspec.yaml" file is used to define the project's metadata, dependencies, and other configuration settings. It includes information about the project name, version, dependencies on external packages, and other settings required for building and running the Flutter app.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">6: What are Flutter packages, and how do you use them?</h5>
-                        <p>Ans:Flutter packages are pre-written code modules that provide additional functionality to Flutter applications. They can be easily integrated into a project by specifying them as dependencies in the "pubspec.yaml" file. Examples include packages for handling HTTP requests, state management, and UI components.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">7: Explain the role of the MaterialApp widget in a Flutter application.</h5>
-                        <p>Ans: MaterialApp is a fundamental Flutter widget that defines the basic structure of a Material Design app. It includes settings such as theme, navigation, and routes, providing a consistent look and feel across different screens.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">8: What is the purpose of the "setState" method in Flutter, and when is it used?</h5>
-                        <p>Ans:"setState" is a method in Flutter that informs the framework that the internal state of a State object has changed. When the state changes, this method triggers a rebuild of the widget subtree, updating the user interface to reflect the new state.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">9: How does Flutter handle platform-specific code (iOS and Android) within a single codebase?</h5>
-                        <p>Ans: Flutter uses a flexible and extensible plugin system to interact with platform-specific code. Developers can use platform channels to call native code from Dart and vice versa, allowing seamless integration of platform-specific features.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">10:What is the role of the "BuildContext" parameter in Flutter, and how is it used?</h5>
-                        <p>Ans:The "BuildContext" represents the location of a widget within the widget tree. It is essential for Flutter's state management and allows widgets to access the localizations, themes, and navigation information of their ancestor widgets. It is often passed as a parameter to methods that need information about the widget's context.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5: What is Core Data?</h5>
+                        <p>Ans: Core Data is a framework provided by Apple for data management and storage in hybrid application and macOS applications. It enables developers to work with data in terms of objects, allowing for efficient data storage and retrieval.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6: What is the AppDelegate in an hybrid application application?</h5>
+                        <p>Ans:The AppDelegate is a crucial part of an hybrid application app. It contains methods that respond to lifecycle events such as app launch, termination, and entering the background. It also initializes the app and sets up initial configurations.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7:What are Provisioning Profiles and Certificates?</h5>
+                        <p>Ans:Provisioning Profiles and Certificates are used for code signing in hybrid application development. They ensure that your app can be installed and run only on devices specified in the provisioning profile and are essential for testing and distribution.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8:How can I handle asynchronous tasks in hybrid application?</h5>
+                        <p>Ans:Asynchronous tasks, such as network requests or file operations, are commonly handled using closures, completion handlers, or async/await in Swift. Grand Central Dispatch (GCD) is also a powerful tool for managing concurrent tasks.</p>
+                    </div>
+                    <div class="col-lg-6">
+
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9: What is the hybrid application Human Interface Guidelines (HIG)?</h5>
+                        <p>Ans: The hybrid application Human Interface Guidelines provide design principles and best practices for creating a consistent and intuitive user interface in hybrid application apps. Following these guidelines ensures a positive user experience.</p>
+
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10:What is TestFlight?</h5>
+                        <p>Ans:TestFlight is a platform provided by Apple for beta testing hybrid application apps. Developers can invite users to test pre-release versions of their apps and collect feedback before the official App Store release.</p>
                     </div>
                 </div>
             </div>
-            <div class="shadow-lg border-radius-xl p-4 mb-4">
-                <div class=" w-100">
-                    <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+        </div>
+    </div>
+</div>
+<div class="shadow-lg border-radius-xl p-4 mb-4">
+    <div class=" w-100">
+        <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+    </div>
+    <div class="row">
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Introduction</h4>
+            <ul>
+                <li>Introduction to Mobile Computing</li>
+                <li>Introduction to</li>
+                <li>Android Development Environment</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Factors in Developing Mobile Applications</h4>
+            <ul>
+                <li>Mobile Software Engineering</li>
+                <li>Frameworks and Tools</li>
+                <li>Generic UI Development</li>
+                <li>Android User</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">More on UIs</h4>
+            <ul>
+                <li>VUIs and Mobile Apps</li>
+                <li>Text-to-Speech Techniques</li>
+                <li>Designing the Right UI</li>
+                <li>Multichannel and Multimodial UIs</li>
+            </ul>
+        </div>
+
+        <h4 class="text-gradient text-primary mb-0 mt-2">Intents and Services</h4>
+
+        <div class="col-lg-4">
+            <ul>
+                <li>Android Intents and Services</li>
+                <li>Characteristics of Mobile Applications</li>
+                <li>Successful Mobile Development </li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Storing and Retrieving Data</h4>
+            <ul>
+                <li>Synchronization and Replication of Mobile Data</li>
+                <li>Getting the Model Right</li>
+                <li>Android Storing and Retrieving Data</li>
+                <li>Working with a Content Provider</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Communications Via Network and the Web
+            </h4>
+            <ul>
+                <li>State Machine</li>
+                <li>Correct Communications Model</li>
+                <li>Android Networking and Web </li>
+            </ul>
+        </div>
+
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Telephony
+            </h4>
+            <ul>
+                <li>Deciding Scope of an App</li>
+                <li>Wireless Connectivity and Mobile Apps</li>
+                <li>Android Telephony</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Notifications and Alarms</h4>
+            <ul>
+                <li>Performance</li>
+                <li>Performance and Memory Management</li>
+                <li>Android Notifications and Alarms</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Graphics</h4>
+            <ul>
+                <li>Performance and Multithreading</li>
+                <li>Graphics and UI Performance</li>
+                <li>Android Graphics and</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Multimedia</h4>
+            <ul>
+                <li>Mobile Agents and Peer-to-Peer Architecture</li>
+                <li>Android Multimedia</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Location</h4>
+            <ul>
+                <li>Mobility and Location Based Services</li>
+                <li>Android</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Putting It All Together (as time allows)</h4>
+            <ul>
+                <li>Packaging and Deploying</li>
+                <li>Performance Best Practices</li>
+                <li>Android Field Service App</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Security and Hacking (as time allows)</h4>
+            <ul>
+                <li>Active Transactions</li>
+                <li>More on Security</li>
+                <li>Hacking Android</li>
+            </ul>
+        </div>
+        <div class="col-lg-4">
+            <h4 class="text-gradient text-primary mb-0 mt-2">Platforms and Additional Issues (as time allows)</h4>
+            <ul>
+                <li>Development Process</li>
+                <li>Architecture, Design, Technology Selection</li>
+                <li>Mobile App Development Hurdles</li>
+                <li>Testing</li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="shadow-lg border-radius-xl p-4 mb-4">
+    <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
+
+    <div class="row">
+
+        <div class="col-lg-6">
+            <h5 class="text-gradient text-primary mb-0 mt-2">1: What is hybrid application?</h5>
+            <p>Ans: hybrid application is Apple's mobile operating system that powers iPhones, iPads, and iPod Touch devices.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">2:What programming languages are used for hybrid application development?<h5>
+                    <p>Ans:Swift and Objective-C are the primary programming languages used for hybrid application development. Swift is the newer and preferred language introduced by Apple.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">3:What is Xcode?</h5>
+                    <p>Ans:Xcode is the integrated development environment (IDE) provided by Apple for hybrid application development. It includes tools for coding, debugging, and testing.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">4:How do I start hybrid application development?</h5>
+                    <p>Ans:To start hybrid application development, you need a Mac computer and Xcode installed. You can then choose a programming language (Swift is recommended for beginners) and follow online tutorials or Apple's official documentation.</p>
+                    <h5 class="text-gradient text-primary mb-0 mt-2">5:What is Interface Builder?</h5>
+                    <p>Ans: Interface Builder is a visual design editor integrated into Xcode that allows developers to design user interfaces for their hybrid application apps without writing code.</p>
+                    <div class="d-flex">
+                        <ul>
+                            <li>Front end developer</li>
+                            <li>Back end developer</li>
+                        </ul>
+                        <ul>
+                            <li>Full stack developer</li>
+                            <li>Database administrator</li>
+                        </ul>
+
+                    </div>
+        </div>
+        <div class="col-lg-6">
+            <h5 class="text-gradient text-primary mb-0 mt-2">6: What is the App Store?</h5>
+            <p>Ans:The App Store is Apple's digital distribution platform for hybrid application applications. Developers submit their apps to the App Store for users to download and install.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">7: How do I test my hybrid application app on a device?</h5>
+            <p>Ans:To test your app on a physical hybrid application device, you need to enroll in the Apple Developer Program, connect your device to your Mac, and deploy the app through Xcode</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">8: What is the difference between UIKit and SwiftUI?</h5>
+            <p>Ans:UIKit is a framework used for building traditional hybrid application user interfaces, while SwiftUI is a newer, declarative framework that simplifies the process of building user interfaces with less code.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">9:What is CocoaTouch?</h5>
+            <p>Ans:CocoaTouch is a framework for building hybrid application applications. It includes UIKit, Foundation, and other essential libraries for developing hybrid application apps.</p>
+            <h5 class="text-gradient text-primary mb-0 mt-2">10:How do I handle data persistence in hybrid application apps?</h5>
+            <p>Ans: hybrid application apps can use various techniques for data persistence, including Core Data (Apple's framework for object graph and data storage), UserDefaults, and external databases.</p>
+
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-6">
+        <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+            <div class="tab-content tab-space">
+                <div class="tab-pane active" id="preview-features-1">
+                    <section class="py-3">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn hybrid application Development ?</h5>
+                                    <br /><br />
+                                    <h6>
+                                        Learning hybrid application development is a valuable skill for several reasons. Firstly, the demand for hybrid application developers remains consistently high, providing ample job opportunities in diverse industries. The career prospects are lucrative, with competitive salaries and benefits. By mastering hybrid application development, you gain access to a vast global user base through Apple's App Store, allowing you to showcase and distribute your applications to millions of iPhone and iPad users worldwide. Moreover, Apple's strong emphasis on design and user experience fosters a commitment to quality, encouraging developers to create visually appealing and user-friendly applications. The comprehensive development ecosystem, including the Xcode IDE, Swift programming language, and powerful frameworks, streamlines the development process, making it efficient and enjoyable. Ultimately, learning hybrid application development not only opens the door to a fulfilling career but also equips you with the skills to contribute to the dynamic.</h6>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
                 </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction </h4>
-                        <ul>
-                            <li>Introduction</li>
-                            <li> Importance of Flutter Introduction to Dart Writing Dart code</li>
-                            <li> Dart Pad</li>
-                            <li> Installing Dart SDK</li>
-                            <li> IntelliJ IDEA</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Dart Programming Syntax</h4>
-                        <ul>
-                            <li>Introduction</li>
-                            <li> main () function</li>
-                            <li> Dart Variables</li>
-                            <li> Dart Data Types</li>
-                            <li> Input of Information to Dart Program</li>
-                            <li> Writing Comments</li>
-                            <li> Dart Conditional Operators</li>
-                            <li> If Statement</li>
-                            <li> If – Else Statement</li>
-                            <li> If…Else and Else…If... Statement</li>
-                            <li> If Else and Logical Operators</li>
-                            <li> For Loops</li>
-                            <li>While Loops</li>
-                            <li>Do-while Loops</li>
-                            <li>Break Statement</li>
-                            <li>Switch Case Statement</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Dart Functions & Object-Oriented Programming (OOP)</h4>
-                        <ul>
 
-                            <li>Functions</li>
-                            <li>Function Structure</li>
-                            <li>Creating a Function</li>
-                            <li>Function Return Data Types</li>
-                            <li>Void Function</li>
-                            <li>Function Returning Expression</li>
-                            <li>Functions and Variable Scope</li>
-                            <li>Object-Oriented Programming (OOP)</li>
-                            <li>Objects and Classes</li>
-                            <li>Creating a Class</li>
-                            <li>Adding Methods to Classes</li>
-                            <li>Providing Constructors for Your Classes</li>
-                            <li>Class — Getters and Setters</li>
-                            <li>Class Inheritance</li>
-                            <li>Abstract Class</li>
-                            <li>Dart Project Structure and Dart Libraries</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-12 border ">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">All About Flutter</h4>
-                        <div class="col-lg-12">
-                            <div class="col-lg-4">
-                                <ul>
-                                    <li> Understanding Flutter</li>
-                                    <li> Framework</li>
-                                    <li>Android Studio</li>
-                                    <li>▪ What is Android Studio?</li>
-                                    <li>▪ Android Studio Software Prerequisite</li>
-                                    <li>▪ Installing Android Studio</li>
-                                    <li>Flutter SDK</li>
-                                    <li>Installing and Configuring Flutter SDK</li>
-                                    <li>Creating a New Flutter Project</li>
-                                    <li>Setup an Android Virtual Device</li>
-                                    <li>Run a Flutter App</li>
-                                    <li>Installing Flutter on Mac</li>
-                                    <li>Test Your Flutter App on iOS Phone with Windows O.S</li>
-                                    <li>Android Studio Sugar and Spice</li>
-                                    <li>Run your Apps on a Hardware Device (Physical Phone)</li>
-                                    <li>▪ Run your Flutter App on Android Phone</li>
-                                    <li>▪ Run your Flutter App on Android Phone</li>
-                                    <li>Emulator Debug Mode</li>
-                                    <li>Introduction to Flutter Widgets</li>
-                                    <li>Creating a Flutter App Using Widgets</li>
-                                    <li>What is a Material App widget?</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Flutter Widgets Fundamentals</h4>
-                                <ul>
-                                    <li>Scaffold Widget</li>
-                                    <li>Image Widget</li>
-                                    <li>Container Widget</li>
-                                    <li>Column and Row Widgets</li>
-                                    <li>Icon Widget</li>
-                                    <li>Layouts in Flutter</li>
-                                    <li>Card Widget</li>
-                                    <li>App Icons for iOS and Android Apps</li>
-                                    <li>Hot Reload and Hot Restart</li>
-                                    <li>Stateful and Stateless Widgets</li>
-                                    <li>Use a Custom Font</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Navigation and Routing</h4>
-                                <ul>
-                                    <li>Button Widget</li>
-                                    <li>FloatingActionButton</li>
-                                    <li>RaisedButton, FlatButton, and IconButton</li>
-                                    <li>DropdownButton</li>
-                                    <li>OutlineButton</li>
-                                    <li>ButtonBar</li>
-                                    <li>PopupMenuButton</li>
-                                    <li>App Structure and Navigation</li>
-                                    <li>Navigate to a New Screen and Back</li>
-                                    <li>Navigate with Named Routes</li>
-                                    <li>Send and Return Data Among Screens</li>
-                                    <li>Animate a Widget Across Screens</li>
-                                    <li>WebView Widget in Flutter</li>
-                                </ul>
-                            </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Visual, Behavioral, and Motion-Rich Widgets Implementing</h4>
-                                <ul>
-                                    <li>Material Design Guidelines - Part 1</li>
-                                    <li>Introduction</li>
-                                    <li>BottomNavigatorBar Widget</li>
-                                    <li>DefaultTabController, TabBar, and TabBarView Widgets</li>
-                                    <li>ListTile Widget</li>
-                                    <li>ListView Widget</li>
-                                    <li>Drawer Widget</li>
-                                    <li>DataTable Widget</li>
-                                    <li>SelectableText Widget</li>
-                                    <li>Stack Widget</li>
-                                    <li>Material Design Guidelines - Part 2</li>
-                                    <li>Input and Selections</li>
-                                    <li>Text Field Widget.</li>
-                                    <li>Checkbox Group and RadioButtonGroup Widgets</li>
-                                    <li>Date Picker.</li>
-                                    <li>Time Picker.</li>
-                                    <li>Slider Widget.</li>
-                                    <li>Switch Widget</li>
-                                    <li>Dialogs, Alerts, and Panels</li>
-                                    <li>Alert Dialog Widget</li>
-                                    <li>Cupertino Alert Dialog Widget.</li>
-                                    <li>Bottom Sheet.</li>
-                                    <li>Modal Bottom Sheet</li>
-                                    <li>Persistent Bottom Sheet.</li>
-                                    <li>Expansion Panel Widget.</li>
-                                    <li>Snack Bar Widget.</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Firebase</h4>
-                                <ul>
-                                    <li>Introduction</li>
-                                    <li> What is the JSON?</li>
-                                    <li> How does Firebase Database work?</li>
-                                    <li> Firebase authentication (Signup and Login to Flutter App)</li>
-                                    <li> Configure Your App to use Firebase Services</li>
-                                    <li> Adding Firebase to your Android App</li>
-                                    <li> Adding Firebase to your iOS App</li>
-                                    <li> Configuring Firebase Authentication</li>
-                                    <li> Login to an App Using Firebase User Accounts</li>
-                                    <li> Logout Configuration</li>
-                                    <li> Firebase Database</li>
-                                    <li> Which database is right for your project?</li>
-                                    <li> Real Time Database</li>
-                                    <li> Cloud Fire store</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Location-Aware Apps: Using GPS and Google Maps</h4>
-                                <ul>
-                                    <li>Introduction</li>
-                                    <li>What is GPS and how does it work?</li>
-                                    <li>The Camera Position</li>
-                                    <li>Adding Google Maps to a Flutter app</li>
-                                    <li>Getting a Google API key</li>
-                                    <li>Adding Google Maps Flutter plug-in as a dependency</li>
-                                    <li>Adding your API key for your Android app</li>
-                                    <li>Adding your API key for your iOS app</li>
-                                    <li>Adding a Google Map on Your Flutter App Screen</li>
-                                    <li>Adding a Google Map Marker</li>
-                                    <li>Google Map Types</li>
-                                    <li>Moving the Camera (Camera Animation)</li>
-                                    <li>Capturing an App User’s Location for iOS and Android Apps.</li>
-                                    <li>Getting a Google API key</li>
-                                    <li>Creating an App Interface</li>
-                                    <li>Configuring your App to Use Your API Key</li>
-                                    <li>Adding a Google Map on your Flutter App Screen</li>
-                                    <li>Adding a Google Map Marker</li>
-                                    <li>Flutter TM Application Development</li>
-                                    <li>Capturing Users’ Location</li>
-                                    <li>Configuring User App’s Permission</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">App Testing & Publishing</h4>
-                                <ul>
-                                    <li>Testing and Feedback for Your App</li>
-                                    <li>Setting up a Test Environment</li>
-                                    <li>Usability Testing by Participants</li>
-                                    <li>Starting your Test Session</li>
-                                    <li>Analyzing your Test</li>
-                                    <li>Publishing Flutter Apps</li>
-                                    <li>Publishing Android App on Google Play Store</li>
-                                    <li>Publishing iOS app on Apple Store</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-4">
-                                <h4 class="text-gradient text-primary mb-0 mt-2">Placement Guide</h4>
-                                <ul>
-                                    <li>What is an Interview?</li>
-                                    <li>Tips to clear an Interview</li>
-                                    <li>Common Interview questions and answers</li>
-                                    <li>Flutter Interview Questions and Answers</li>
-                                    <li>Resume Building Guide</li>
-                                    <li>Attempt for Flutter Global Certification Exam if any</li>
-                                    <li>Start applying for Jobs</li>
-                                </ul>
-                            </div>
+            <div class="tab-content tab-space">
+                <div class="tab-pane active" id="preview-features-1">
+                    <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                    <!-- Nucleo Icons -->
+                    <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                    <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                    <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                    <section class="py-3">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for hybrid application Developer</h5>
+                                    <br /><br />
+                                    <h6>Jobs for hybrid application developers are abundant and diverse, spanning various industries and company sizes. As an hybrid application developer, you can find opportunities in tech companies, startups, finance, healthcare, and entertainment. Your primary role involves designing, developing, and maintaining applications for Apple's hybrid application platform. Proficiency in Swift and Objective-C, along with a deep understanding of hybrid application architecture and design patterns, are essential skills for success in this field. Positions range from entry-level roles, such as Junior hybrid application Developer, to more advanced roles like Senior hybrid application Engineer. The continuous growth of the mobile app industry ensures a steady demand for hybrid application developers who can create innovative and high-quality applications. Whether you're passionate about creating consumer-facing apps, enterprise solutions, or cutting-edge technologies, a career in hybrid application development offers a dynamic and rewarding pathway in the ever-evolving landscape of mobile technology.</h6>
 
-                        </div>
-                    </div>
-
-                    <div class="shadow-lg border-radius-xl p-4 mb-4">
-                        <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
-
-                        <div class="row">
-
-                            <div class="col-lg-6">
-                                <h5 class="text-gradient text-primary mb-0 mt-2">1: Is Flutter suitable for large-scale applications?</h5>
-                                <p>Ans: Yes, Flutter is suitable for large-scale applications. Its modular and scalable architecture, along with its performance benefits, makes it a viable choice for building complex and feature-rich applications.</p>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">2:What is the role of the Flutter framework in handling platform-specific designs?<h5>
-                                        <p>Ans: Flutter uses a concept called "Material Design" for Android and "Cupertino" for iOS to provide platform-specific designs. Developers can also customize the appearance using themes and widgets tailored for each platform.</p>
-                                        <h5 class="text-gradient text-primary mb-0 mt-2">3:How does Flutter handle device orientation changes?</h5>
-                                        <p>Ans: Flutter automatically handles device orientation changes using the OrientationBuilder widget, allowing developers to adjust the UI based on the device orientation (portrait or landscape).
-                                        </p>
-                                        <h5 class="text-gradient text-primary mb-0 mt-2">4:Can Flutter apps access device features like camera and location?</h5>
-                                        <p>Ans: Yes, Flutter has plugins that allow access to device features like the camera, GPS, and other sensors. Developers can use these plugins to integrate native device functionality into their Flutter applications.</p>
-                                        <h5 class="text-gradient text-primary mb-0 mt-2">5:What is Flutter's testing framework, and how is testing done in Flutter?</h5>
-                                        <p>Ans: Flutter has a built-in testing framework called "flutter_test." Developers can write unit tests, widget tests, and integration tests to ensure the functionality and behavior of their Flutter applications.</p>
-                                        <div class="d-flex">
-                                            <ul>
-                                                <li>Front end developer</li>
-                                                <li>Back end developer</li>
-                                            </ul>
-                                            <ul>
-                                                <li>Full stack developer</li>
-                                                <li>Database administrator</li>
-                                            </ul>
-
-                                        </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <h5 class="text-gradient text-primary mb-0 mt-2">6: How does Flutter handle internationalization (i18n) and localization (l10n)?</h5>
-                                <p>Ans: Flutter has built-in support for internationalization and localization. Developers can use the intl package and arb files to provide translations for different languages and regions.</p>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">7:What is Flutter's approach to handling animations?</h5>
-                                <p>Ans: Flutter provides a rich set of animation APIs and widgets to create smooth and complex animations. The AnimatedBuilder, Tween, and Hero widgets are commonly used for creating animations in Flutter.</p>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">8:How does Flutter handle performance optimization?</h5>
-                                <p>Ans: Flutter achieves high performance through its use of a compiled programming language (Dart), the Flutter engine, and the absence of a JavaScript bridge. Additionally, developers can optimize performance by using the DevTools suite and profiling tools.</p>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">9:What is Flutter's support for responsive design?</h5>
-                                <p>Ans: Flutter encourages a responsive design approach through its use of widgets like LayoutBuilder and MediaQuery. Developers can create adaptive layouts that adjust based on screen size and device characteristics.
-                                </p>
-                                <h5 class="text-gradient text-primary mb-0 mt-2">10:How can Flutter apps handle push notifications?</h5>
-                                <p>Ans: Flutter can handle push notifications using plugins like Firebase Cloud Messaging (FCM) or other push notification services. These plugins allow developers to integrate push notifications into their Flutter applications seamlessly.</p>
+                                </div>
 
                             </div>
                         </div>
-                    </div>
+                    </section>
+                    <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                    <!-- '></iframe> -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+    <div class="tab-content tab-space">
+        <div class="tab-pane active" id="preview-features-1">
+            <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+            <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+            <!-- Nucleo Icons -->
+            <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+            <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+            <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+            <section class="py-3">
+                <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
-                            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-features-1">
-                                        <section class="py-3">
-                                            <div class="container-fluid">
-                                                <div class="row">
-                                                    <div class="col-lg-12">
-                                                        <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
-                                                        <br /><br />
-                                                        <h6>Learning Spring Framework is highly advantageous for developers due to its widespread adoption in the software industry. With a strong demand for Spring professionals, acquiring expertise in this framework significantly enhances career prospects. Its versatility, simplification of development processes, seamless integration capabilities, robust security features, and active community support make it an attractive choice for developers. Additionally, Spring Framework offers valuable skills applicable to various project requirements, enabling developers to create scalable, efficient, and secure applications. Staying updated with the continuous improvements in Spring ensures that developers remain competitive and well-equipped with the latest tools and techniques in the dynamic field of software development, making it a compelling choice for anyone looking to advance their career in technology.</h6>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </section>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-features-1">
-                                        <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-                                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                                        <!-- Nucleo Icons -->
-                                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-                                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                                        <section class="py-3">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-lg-12">
-                                                        <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
-                                                        <br /><br />
-                                                        <h6>
-                                                            Professionals proficient in Spring Framework have a plethora of job opportunities across different domains within the software development landscape. Java Developers skilled in Spring are essential for creating robust, scalable applications, while Full Stack Developers with Spring expertise play a pivotal role in building comprehensive web solutions. Software Engineers and Application Architects leverage Spring Framework to design complex, high-performance applications, especially in enterprise-level projects. DevOps Engineers use Spring's features to optimize deployment pipelines and ensure seamless integration in CI/CD environments. Moreover, technical consultants provide valuable guidance to businesses on effective Spring implementation, while System Engineers maintain and enhance backend systems using Spring Framework. Additionally, freelancers and consultants often find rewarding projects that require their Spring Framework expertise, showcasing the framework's versatility and continued demand in the job market.</h6>
-
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-                                        <!-- '></iframe> -->
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-
-
-
-
-
-
-                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                        <div class="tab-content tab-space">
-                            <div class="tab-pane active" id="preview-features-1">
-                                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-                                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                                <!-- Nucleo Icons -->
-                                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-                                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                                <section class="py-3">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-lg-12">
-                                                <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
-                                                <br /><br />
-                                                <h6>
-                                                    Training and placement in Spring Framework, a widely used Java-based framework for building enterprise-level applications, are crucial components in the software development industry. Training programs in Spring Framework typically cover essential concepts such as dependency injection, aspect-oriented programming, and model-view-controller architecture, enabling developers to create robust and scalable applications. These training sessions often include hands-on exercises and real-world projects to enhance practical skills. After completing the training, individuals are well-equipped to meet the demands of the industry. When it comes to placement, professionals with expertise in Spring Framework are highly sought after by various organizations, ranging from startups to large enterprises. They are employed as software developers, application architects, and system engineers, among other roles, to design and develop complex, high-performance applications. With the ever-increasing demand for Java-based enterprise solutions, individuals proficient in Spring Framework find ample opportunities in the job market, making it a popular choice for developers seeking rewarding careers in software development. </h6>
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </section>
-                                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-                                <!-- '></iframe> -->
-                            </div>
+                        <div class="col-lg-12">
+                            <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
+                            <br /><br />
+                            <h6>
+                                For aspiring hybrid application developers, a variety of training and placement avenues exist to nurture skills and secure employment in the field. Educational programs, both through traditional institutions and online platforms, offer specialized courses in hybrid application development, covering crucial languages like Swift and Objective-C, as well as essential frameworks and tools. Apple's official developer documentation serves as an indispensable resource, providing in-depth insights into best practices and guidelines. Online learning platforms such as Udacity, Udemy, Coursera, and LinkedIn Learning offer comprehensive hybrid application development courses with hands-on projects. Engaging in hackathons and coding challenges enhances practical skills and can serve as an impressive addition to a developer's portfolio. Networking through local meetups, conferences, and virtual events facilitates connections with industry professionals, potentially leading to mentorship opportunities and job placements. Additionally, pursuing internships or apprenticeships provides valuable real-world experience and a pathway to securing a position in hybrid application development upon completion. By exploring these diverse training and placement options, aspiring hybrid application developers can build a strong foundation and increase their chances of success in the competitive job market. </h6>
 
                         </div>
+
                     </div>
                 </div>
-            </div>
-            <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-            <?php include "./footer.php" ?>
+            </section>
+            <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+            <!-- '></iframe> -->
+        </div>
+
+    </div>
+</div>
+</div>
+</div>
+<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+<?php include "./footer.php" ?>
