@@ -310,7 +310,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-xs-6 col-sm-6 mt-md-0">
                         <a href="./programming-courses-after-10th-class.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="100%">
+                                <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="100%" height="20%">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
@@ -323,7 +323,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./programming-or-coding-course-after-12th.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="assets/img/course-card-images/software-engineering-chart-with-keywords-and-icons-sketch-G2NGCM.jpg" width="100%">
-                                <b style="text-align: center; font-size:medium;">Software Engineering</b>
+                                <b style="text-align: center; font-size:medium;margin-top:13px;">Software Engineering</b>
                             </div>
                             <div class="mt-2 ms-2">
                                 <p style="text-align: center;">After 12th</p>
@@ -334,8 +334,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4  col-sm-6 col-xs-6 mt-md-0">
                         <a href="./our-internship-programmes.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/intenship-programme.png" width="90%">
-                                <b style="text-align: center; font-size:medium;">Our Internship Program</b>
+                                <img src="./assets/img/course-card-images/intenship-programme.png" width="90%" height="75%">
+                                <b style="text-align: center; font-size:medium; margin-top:13px;">Our Internship Program</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -345,7 +345,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-webdesigning-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/web desiging1.avif" width="100%">
-                                <b style="text-align: center; font-size:medium;">Website Designing</b>
+                                <b style="text-align: center; font-size:medium; margin-top:30px;">Website Designing</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -365,7 +365,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-front-end-development-course-with-angular-js-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/react js logo.png" width="100%">
-                                <b style="text-align: center; font-size:medium;">Front End Developement</b>
+                                <b style="text-align: center; font-size:medium; margin-top:17px;">Front End Developement</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -375,7 +375,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-full-stack-web-development-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/Full-Stack-Web-Developer-by-groot-academy.png" width="100%">
-                                <b style="text-align: center; font-size:medium;">Full Stack Development</b>
+                                <b style="text-align: center; font-size:medium; margin-top:22px;">Full Stack Development</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -385,8 +385,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-course-for-back-end-development-with-Java.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/groot-tech-logos/develop-a-backend-for-your-project-in-java-by-groot-academy.png" width="100%" height="140">
-                                <b style="text-align: center; font-size:medium;">Back End With Java</b>
+                                <img src="./assets/img/groot-tech-logos/develop-a-backend-for-your-project-in-java-by-groot-academy.png" width="100%">
+                                <b style="text-align: center; font-size:medium; margin-top:26px;">Back End With Java</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -396,7 +396,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-back-end-development-course-with-php-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/php1 image.png" width="100%">
-                                <b style="text-align: center; margin-top: 44px; font-size:medium;">Back End With PHP</b>
+                                <b style="text-align: center; margin-top: 46px; font-size:medium;margin-top:125px;">Back End With PHP</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -406,7 +406,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-course-back-end-development-with-nodejs-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/nodejs-course-card2.jpg" width="100%">
-                                <b style="text-align: center; margin-top: 23px; font-size:medium;">Back End With Node Js</b>
+                                <b style="text-align: center; margin-top: 20px; font-size:medium;">Back End With Node Js</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -416,8 +416,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-advance-java-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/groot-tech-logos/servlet-and-jsp-advance-java-logo-by-groot-academy.jpg" width="100%" height="150px">
-                                <b style="text-align: center; font-size:medium;">Advance Java</b>
+                                <img src="./assets/img/groot-tech-logos/servlet-and-jsp-advance-java-logo-by-groot-academy.jpg" width="100%">
+                                <b style="text-align: center; font-size:medium;margin-top:16px;">Advance Java</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -426,8 +426,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-data-structure-course-and-algorithms-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/data structure.webp" width="100%" height="">
-                                <b style="text-align: center; font-size:medium;">Data Structure & Algorithm</b>
+                                <img src="./assets/img/course-card-images/data structure.webp" width="100%">
+                                <b style="text-align: center; font-size:medium;margin-top:68px;">Data Structure & Algorithm</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -437,7 +437,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="#">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/Python-programming-logo-by-groot-academy.jpg" width="100%">
-                                <b style="text-align: center; font-size:medium;">Python</b>
+                                <b style="text-align: center; font-size:medium; margin-top:65px;">Python</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -449,7 +449,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-c-plus-plus-programming-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/c&c++ images.jpeg" width="100%">
-                                <b style="text-align: center; font-size:medium;">C /C++</b>
+                                <b style="text-align: center; font-size:medium; margin-top:27px;">C /C++</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -459,8 +459,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-spring-boot-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/groot-tech-logos/spring-boot-logo-by-groot-academy.png" width="100%" height="178px">
-                                <b style="text-align: center; font-size:medium;">Spring Boot</b>
+                                <img src="./assets/img/groot-tech-logos/spring-boot-logo-by-groot-academy.png" width="100%">
+                                <b style="text-align: center; font-size:medium; margin-top:18px;">Spring Boot</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -470,7 +470,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./course-spring-mvc.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/groot-academy-spring-mvc-logo.png" width="100%">
-                                <b style="text-align: center; font-size:medium;">Spring MVC</b>
+                                <b style="text-align: center; font-size:medium; margin-top:22px;">Spring MVC</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -480,7 +480,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-spring-framework-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/groot-academy-spring-framework-logo.png" width="100%">
-                                <b style="text-align: center; font-size:medium;">Spring Framework</b>
+                                <b style="text-align: center; font-size:medium; margin-top:29px;">Spring Framework</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -489,8 +489,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./digitalmarkating.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/Digital_Marketing2.png" width="100%" height="170px">
-                                <b style="text-align: center; font-size:medium;">Digital Marketing</b>
+                                <img src="./assets/img/course-card-images/Digital_Marketing2.png" width="100%">
+                                <b style="text-align: center; font-size:medium; margin-top:21px;">Digital Marketing</b>
                             </div>
 
                         </a>
@@ -502,7 +502,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <center>
                                     <img src="./assets/img/groot-academy-android.png" width="40%">
                                 </center>
-                                <b style="text-align: center; font-size:medium;">Android Developement</b>
+                                <b style="text-align: center; font-size:medium; margin-top:32px;">Android Developement</b>
                             </div>
 
                         </a>
@@ -552,7 +552,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <center>
                                     <img src="./assets/img/groot-react-native-logo.webp" width="50%">
                                 </center>
-                                <b style="text-align: center; font-size:medium;">React Native App development
+                                <b style="text-align: center; font-size:medium;margin-top:3px;">React Native App development
                                 </b>
                             </div>
 
@@ -565,7 +565,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <center>
                                     <img src="./assets/img/course-card-images/Data-Analytics-with-python-course-in-noida.jpg.webp" width="100%">
                                 </center>
-                                <b style="text-align: center; font-size:medium;">Data Analitics
+                                <b style="text-align: center; font-size:medium;margin-top:5px;">Data Analitics
                                 </b>
                             </div>
 
