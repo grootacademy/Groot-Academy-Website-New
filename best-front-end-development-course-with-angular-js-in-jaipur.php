@@ -53,11 +53,11 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-spring-boot-course-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-front-end-development-course-with-angular-js-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">Spring Boot & Microservices Security With Hibernate & Jpa</h4>
+                <h4 class="course-heading">React Js Course Syllabus</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -276,13 +276,15 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>Spring Boot & Microservices Security With Hibernate & Jpa</h5>
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Spring Boot & Microservices Security With Hibernate & JPA Training Overview</strong></h4>
-                                        <p>Spring Boot & Microservices Security with Hibernate & JPA course in jaipur offered by Groot Academy is very reputed in the industry. Spring Boot is a very renowned framework of Java for creating microservices and web services. The Spring boot instantly creates applications based on Spring and makes it easy for developers to not write similar boilerplate configuration repeatedly.
-
-                                            The collection of independent small services that can communicate with each other over a network, forms a large application which is a software architectural style and that is Microservices. Setting up a spring profile is required to secure a user's Hibernate. The Hibernate application's security can be controlled and a user's account can be protected using the Spring profile. Simple API is provided by Spring Boot which is a java framework which is available for Spring Boot microservices and web applications' managing, building, and deploying. It enables the creation of both online and mobile applications . The Spring Boot framework is used to set up Hibernate which is intended to provide a safe environment for databases and microservices.
-
-                                            Throughout the Spring Boot and Microservices training you will also learn to secure web pages in Java web applications which are based on spring framework. These credentials are used for data access layers which are stored in Spring Data JPA with hibernate.</p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>React Js Course Syllabus</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Js Course Syllabus</strong></h4>
+                                        <p>Our React.JS Course equips the learner for developing a single-page or mobile applications and creates
+                                            reusable components for web pages and mobile applications. We have designed React.JS Course Syllabus by
+                                            industry experts as per the requirements of current trends. The React.JS Course Curriculum contains
+                                            basic elements like introduction, JSX overview, Environmental setup, real-time applications,
+                                            forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as
+                                            router and navigations, Flux, Redux, and Unit testing methods. Check out the detailed React.JS Course
+                                            Content below.</p>
 
 
 
@@ -341,27 +343,12 @@
             </div>
 
             <div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why choose Groot Academy for Spring Boot and Microservices Security with Hibernate & JPA Course</strong></h4>
-                    <p>Groot Academy is the best Spring Boot and Microservices Security training institute in jaipur with 100% placement assistance. During and even after course completion students can ask any doubt or query related to the course. We have veteran trainers with extensive industry experience. Groot Academy trainers support each student in their live project preparation. Students are welcome at any time and have access to the labs. We also set up our students for meetings and provide them with tools to discover new careers. We have designed Spring Boot Microservices Security course in such a way that Students will be working on active live projects. Our trainers help students in understanding difficult specialised concepts by practical learning approach.</p>
 
-                </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career After Spring Boot & Microservices Security with Hibernate Course</strong></h4>
-                    <p>There are plenty of jobs you can avail after completing Spring Boot & Microservices Security with Hibernate & JPA Certification. Some of the popular job profiles in this domain are Microservices Architect, Software Developer, Java Developer, Java Engineer, Java Architect, Solution Architect and many more. Different job roles have different work profiles such as the work profile of Microservices Architect is to develop, design and implement various micro services applications. Software architects create design and structure of software applications. There are also multiple other career options in this domain which are promising and rewarding.</p>
-
-                </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Placement Assistance after Spring Boot Microservices & Security with Hibernate Course:</strong></h4>
-                    <p>At Groot Academy The IT Training School, we offer our students trending industry based learning, which helps our students to get placement more efficiently in top MNCs.</p>
-                    <p>We have collaborated with more than 800 placement partners and our students are continuously being placed in these world class companies like Accenture, IBM, Cognizant, CSC , Bajaj Allianz and many more.</p>
-                    <p>We conduct regular HR sessions for our students, where we train for interviews and continuously coordinate with companies to learn their hiring needs.</p>
-                    <p>We also offer students to take part in placement drives who have completed a minimum of 70% - 80% of the course syllabus.</p>
-                </div>
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
                     <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
-                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in Spring Boot development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
-                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of Spring Boot development.</p>
+                    <p>At React Groot Academy, we pride ourselves on delivering an exceptional React.js course designed to cultivate mastery in web development. Our team of instructors isn't just composed of teachers; they are seasoned industry veterans committed to unraveling the intricacies of React.js development. When you choose React Groot Academy, you're not just enrolling in a course – you're investing in a transformative learning experience. </p>
+                    <p>Expert Instructors: Learn from accomplished professionals who bring a wealth of experience in React.js development. Our instructors are not only passionate about teaching but have a deep understanding of industry trends and best practices.</p>
+                    <p>Practical Projects: Theory is essential, but practical application is paramount. Engage in hands-on projects that simulate real-world scenarios, allowing you to apply your learning and build a robust portfolio.</p>
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
@@ -372,101 +359,300 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Basics of Sp</h4>
-                        <ul>
-                            <li>What is Spring</li>
 
-                            <li>Spring Modules</li>
-                            <li>Spring Application </li>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Introduction to React</strong></h4>
+                        <ul>
+                            <li>What is React?
+                            </li>
+                            <li>Why React?
+                            </li>
+                            <li>React version history
+                            </li>
+                            <li>React 16 vs React 15
+                            </li>
+                            <li>Just React – Hello World
+                            </li>
+                            <li>Using create-react-app
+                            </li>
+                            <li>Anatomy of react project
+                            </li>
+                            <li>Running the app
+                            </li>
+                            <li>Debugging first react app
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring with ID </h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Templating using JSX</strong></h4>
                         <ul>
-                            <li>Spring in Myec </li>
-                            <li>Spring in Eclips</li>
-                            <li> IOC container</li>
+                            <li>Working with React. createElement
+                            </li>
+                            <li>Expressions
+                            </li>
+                            <li>Using logical operators
+                            </li>
+                            <li>Specifying attributes
+                            </li>
+                            <li>Specifying children
+                            </li>
+                            <li>Fragments
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Dependency Injection</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>About Components</strong></h4>
                         <ul>
-                            <li> Constructor Injection</li>
-                            <li>CI Dependent Object</li>
-                            <li>CI with collection</li>
-                            <li>CI with Map</li>
-                            <li>CI Inheriting Bean</li>
-                            <li>Setter Injection</li>
-                            <li>SI Dependent Object</li>
-                            <li>SI with Collection</li>
-                            <li>SI with Map</li>
-                            <li>CI vs SI</li>
-                            <li>Autowiring</li>
-                            <li>Factory Method</li>
+                            <li>Significance of component architecture
+                            </li>
+                            <li>Types of components
+                            </li>
+                            <li>Functional
+                            </li>
+                            <li>Class based
+                            </li>
+                            <li>Pure
+                            </li>
+                            <li>Component Composition
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with state and props</strong></h4>
                         <ul>
-                            <li> AOP Terminology</li>
-                            <li> AOP Implementations</li>
-                            <li> Pointcut</li>
-                            <li> Advices </li>
+                            <li>What is state and it significance
+                            </li>
+                            <li>Read state and set state
+                            </li>
+                            <li>Passing data to component using props
+                            </li>
+                            <li>Validating props using propTypes
+                            </li>
+                            <li>Supplying default values to props using defaultProps
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring JDBC </h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Rendering lists</strong></h4>
                         <ul>
-                            <li> JdbcTemplate Example</li>
-                            <li> PreparedStatement</li>
-                            <li> ResultSetExtractor</li>
-                            <li> RowMapper</li>
-                            <li> NamedParameter</li>
-                            <li> SimpleJdbcTemplate </li>
-
+                            <li>Using react key prop
+                            </li>
+                            <li>Using map function to iterate on arrays to generate elements
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">pring with ORM </h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Event handling in React</strong></h4>
                         <ul>
-                            <li> Spring with Hibernate</li>
-                            <li> Spring with JPA </li>
-
+                            <li>Understanding React event system
+                            </li>
+                            <li>Understanding Synthetic event
+                            </li>
+                            <li>Passing arguments to event handlers
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"> SpEL</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Understanding component lifecycle and
+                                &nbsp;handling errors</strong></h4>
                         <ul>
-                            <li> SpEL Examples</li>
-                            <li>Operators in SpEL</li>
-                            <li>variable in SpEL</li>
+                            <li>Understand the lifecycle methods
+                            </li>
+                            <li>Handle errors using error boundaries
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring 3 MVC</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with forms&lt;/str</strong></h4>
                         <ul>
-                            <li> Remoting with Spring</li>
-                            <li>Spring with RMI</li>
-                            <li>Http Invoker</li>
-                            <li>Hessian</li>
-                            <li>Burlap</li>
-                            <li>Spring with JMS</li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">OXM Frameworks </h4>
-                        <ul>
-                            <li> Spring with JAXB</li>
-                            <li>Spring with Xstream</li>
-                            <li>Spring with Castor</li>
+                            <li>Controlled components
+                            </li>
+                            <li>Uncontrolled components
+                            </li>
+                            <li>Understand the significance to default Value prop
+                            </li>
+                            <li>Using react ref prop to get access to DOM element
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring Java Mail - Web Integration </h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Context</strong></h4>
                         <ul>
-                            <li> Spring with Struts2</li>
-                            <li>Login and Logout Application</li>
+                            <li>What is context
+                            </li>
+                            <li>When to use context
+                            </li>
+                            <li>Create Context
+                            </li>
+                            <li>Context.Provider
+                            </li>
+                            <li>Context.Consumer
+                            </li>
+                            <li>Reading context in class
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Code-Splitting</strong></h4>
+                        <ul>
+                            <li>What is code splitting
+                            </li>
+                            <li>Why do you need code splitting
+                            </li>
+                            <li>React.lazy
+                            </li>
+                            <li>Suspense
+                            </li>
+                            <li>Route-based code splitting
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>ooks</strong></h4>
+                        <ul>
+                            <li>What are hooks
+                            </li>
+                            <li>Why do you need hooks
+                            </li>
+                            <li>Different types of hooks
+                            </li>
+                            <li>Using state and effect hooks
+                            </li>
+                            <li>Rules of hooks
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Routing with react router</strong></h4>
+                        <ul>
+                            <li>Setting up react router
+                            </li>
+                            <li>Understand routing in single page applications
+                            </li>
+                            <li>Working with BrowserRouter and HashRouter components
+                            </li>
+                            <li>Configuring route with Route component
+                            </li>
+                            <li>Using Switch component to define routing rules
+                            </li>
+                            <li>Making routes dynamic using route params
+                            </li>
+                            <li>Working with nested routes
+                            </li>
+                            <li>Navigating to pages using Link and NavLink component
+                            </li>
+                            <li>Redirect routes using Redirect Component
+                            </li>
+                            <li>Using Prompt component to get consent of user for navigation
+                            </li>
+                            <li>Path less Route to handle failed matches
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Just Redux</strong></h4>
+                        <ul>
+                            <li>What is redux
+                            </li>
+                            <li>Why redux
+                            </li>
+                            <li>Redux principles
+                            </li>
+                            <li>Install and setup redux
+                            </li>
+                            <li>Creating actions, reducer and store
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Immutable.js</strong></h4>
+                        <ul>
+                            <li>What is Immutable.js?
+                            </li>
+                            <li>Immutable collections
+                            </li>
+                            <li>Lists
+                            </li>
+                            <li>Maps
+                            </li>
+                            <li>Sets
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Redux</strong></h4>
+                        <ul>
+                            <li>What is React Redux
+                            </li>
+                            <li>Why React Redux
+                            </li>
+                            <li>Install and setup
+                            </li>
+                            <li>Presentational vs Container components
+                            </li>
+                            <li>Understand high order component
+                            </li>
+                            <li>Understanding mapStateToProps and mapDispatchtToProps usage
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Redux middleware</strong></h4>
+                        <ul>
+                            <li>Why redux middleware
+                            </li>
+                            <li>Available redux middleware choices
+                            </li>
+                            <li>What is redux saga
+                            </li>
+                            <li>Install and setup redux saga
+                            </li>
+                            <li>Working with Saga helpers
+                            </li>
+                            <li>Sagas vs promises
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Unit Testing</strong></h4>
+                        <ul>
+                            <li>Understand the significance of unit testing
+                            </li>
+                            <li>Understand unit testing jargon and tools
+                            </li>
+                            <li>Unit testing react components with Jest
+                            </li>
+                            <li>Unit testing react components with enzyme
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Webpack Primer</strong></h4>
+                        <ul>
+                            <li>What is webpack
+                            </li>
+                            <li>Why webpack
+                            </li>
+                            <li>Install and setup webpack
+                            </li>
+                            <li>Working with webpack configuration file
+                            </li>
+                            <li>Working with loaders
+                            </li>
+                            <li>Working with plugins
+                            </li>
+                            <li>Setting up Hot Module Replacement
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Isomorphic React</strong></h4>
+                        <ul>
+                            <li>What is server-side rendering (SSR)?
+                            </li>
+                            <li>Why SSR
+                            </li>
+                            <li>Working with render To String and render To StaticM arkup methods
+                            </li>
                         </ul>
                     </div>
 
@@ -484,28 +670,28 @@
                 <div class="row">
 
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is Spring Boot?</h5>
-                        <p>Answer: Spring Boot is a framework that simplifies the development of Java-based applications, providing a set of conventions and defaults for common use cases. It is widely used for building microservices.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">2. What are Microservices?</h5>
-                        <p>Answer: Microservices is an architectural style where a large application is broken down into small, independent services that communicate over well-defined APIs. Each microservice is responsible for a specific business capability.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">3.How does Spring Boot facilitate Microservices development?</h5>
-                        <p>Answer: Spring Boot provides a set of tools and conventions that make it easy to create and deploy microservices. It includes features like embedded servers, dependency management, and auto-configuration.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">4. What is Hibernate and JPA?</h5>
-                        <p>Answer: Hibernate is an Object-Relational Mapping (ORM) framework for Java, while Java Persistence API (JPA) is a specification for managing relational data in Java applications. Hibernate is often used as the implementation of JPA.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">5.How can I secure my Spring Boot Microservices?</h5>
-                        <p>Answer: Spring Security is commonly used for securing Spring Boot applications. It provides authentication and authorization mechanisms to control access to your microservices.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is ReactJS, and why should I learn it?</h5>
+                        <p>Answer: ReactJS is a JavaScript library for building user interfaces, particularly for single-page applications where UI changes over time. Learning ReactJS is crucial for modern web development, as it allows for the creation of dynamic, interactive, and efficient user interfaces.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2.What does the ReactJS course cover in terms of curriculum?</h5>
+                        <p>Answer: Our ReactJS course covers a comprehensive syllabus, including but not limited to: React fundamentals, component-based architecture, state and props management, hooks, routing, handling forms, integrating with APIs, and deploying React applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3.Who are the instructors, and what sets them apart?</h5>
+                        <p>Answer: Our instructors are seasoned industry professionals with extensive experience in React.js development. They bring real-world insights, practical knowledge, and a passion for teaching. Their goal is to ensure you not only understand the concepts but can apply them effectively in a professional setting.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4. Is this course suitable for beginners with no prior programming experience?</h5>
+                        <p>Answer: Yes, our ReactJS course is designed to cater to learners with varying levels of experience. While some familiarity with JavaScript is beneficial, our curriculum includes introductory modules to help beginners grasp the fundamentals before delving into React.js specifics.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5. How hands-on is the course? Will I be working on projects?</h5>
+                        <p>Answer: Absolutely! Our course is designed to be hands-on. You will work on practical projects that simulate real-world scenarios, allowing you to apply your knowledge and build a portfolio showcasing your React.js skills.</p>
                     </div>
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">6.Can I integrate Spring Security with Hibernate and JPA? </h5>
-                        <p>Answer: Yes, Spring Security can be easily integrated with Hibernate and JPA. You can use Spring Security to secure the endpoints and manage user authentication and authorization.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">7. What is OAuth2, and how is it related to Spring Boot Security?</h5>
-                        <p>Answer: OAuth2 is an authorization framework that enables third-party applications to obtain limited access to a web service. Spring Security provides OAuth2 support, allowing you to implement OAuth2-based authentication and authorization in your microservices.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">8. How can I handle user authentication in a Spring Boot Microservice?</h5>
-                        <p>Answer: You can use Spring Security's authentication providers and configure them to use a database-backed authentication provider with Hibernate and JPA.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">9.What are the best practices for securing Microservices?</h5>
-                        <p>Answer: Follow the principle of least privilege, use secure communication (HTTPS), validate and sanitize inputs, regularly update dependencies, and consider using tools like Spring Cloud Security for managing distributed security in microservices architecture.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How can I ensure data integrity and security with Hibernate and JPA?</h5>
-                        <p>Answer: Implement proper data validation, use parameterized queries to prevent SQL injection, and encrypt sensitive data. Additionally, configure Hibernate to enforce constraints at the database level for data integrity</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6.Are there any prerequisites for enrolling in the ReactJS course?</h5>
+                        <p>Answer: While not mandatory, a basic understanding of HTML, CSS, and JavaScript can be helpful. Our introductory modules are designed to bring everyone up to speed, regardless of their initial level of familiarity with these technologies.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7. Can I get assistance or support outside of class hours?</h5>
+                        <p>Answer: Yes, we understand that learning is an ongoing process. We offer additional support through discussion forums, Q&A sessions, and dedicated channels for students to connect with instructors and peers.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8.What sets this ReactJS course apart from others in the market?</h5>
+                        <p>Answer: Our course stands out due to its comprehensive curriculum, hands-on approach, experienced instructors, and a focus on real-world application. We go beyond teaching React.js syntax to ensure you gain a deep understanding of best practices and industry-relevant skills.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9.Is there any career guidance or support provided after completing the course?</h5>
+                        <p>Answer: Yes, we offer career guidance to help you navigate the job market successfully. From resume building to interview preparation, our goal is to empower you for a successful career in React.js development.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How do I enroll, and what is the duration of the ReactJS course?</h5>
+                        <p>Answer: You can enroll through our online platform. The course duration may vary, but it is structured to accommodate both full-time and part-time learners. Check our website or contact us for specific details on the upcoming sessions.</p>
 
                     </div>
                 </div>
