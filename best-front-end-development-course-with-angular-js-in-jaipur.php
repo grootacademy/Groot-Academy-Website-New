@@ -1,64 +1,63 @@
 <?php include('./includes/header_com.php');  ?>
-    <!--  META DATA -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
 
-    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
 ">
-    <link rel="canonical" href="https://grootacademy.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
 
 
-    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Groot Academy">
-    <meta property="og:url" content="https://grootacademy.com">
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
-    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
 
-    <meta property="og:image:width" content="90">
-    <meta property="og:image:height" content="90">
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
 
 
-    <meta name="language" content="en-us" />
-    <meta name="distribution" content="Global">
-    <meta name="Publisher" content="https://grootacademy.com">
-    <meta name="Rating" content="General">
-    <meta name=geography content="India ">
-    <meta name="geo.region" content="JP-RJ" />
-    <meta name="geo.placename" content="Jaipur" />
-    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/header_down.php');  ?>
 
 
 
-    <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
-
-
-<link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
-<div class="container mt-5">
+<div class="container-fluid mt-5">
     <div class="row">
         <div class="col-lg-12 mx-auto">
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Features</li>
+                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item active" aria-current="page">best-spring-boot-course-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="./assets/img/angular.png" alt="image" width="40" style="border-radius: 10px;" /> ANGULAR JS TRAINING INSTITUTE JAIPUR | ANGULAR JAVASCRIPT COURSE IN JAIPUR </h4>
+
+                <h4 class="course-heading">Spring Boot & Microservices Security With Hibernate & Jpa</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -69,448 +68,510 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     </div>
                 </div>
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2"><h3>Open the Doors of Opportunity by Becoming an Expert AngularJS Programmer</h3><br/><br/>
-        <h6>
-        Over the past couple of years, the growth of AngularJS has taken a huge leap and under such a scenario, like an obvious fact, the career opportunities in this field have taken a tremendous leap. So if you are looking for a career that will fill your pockets big, then it’s high time that you learn AngularJS. Although there is a wide range of JavaScript frameworks, AngularJS has managed to stand out among all of those because of its peculiar features. It offers many such features that are unique and are of great use to the users like two-way binding, handling dependency injections, etc. The professionals who aspire to achieve a stable career in SPA (Single Page Application) are more ready to benefit from AngularJS.</h6>
-       
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-        '></iframe>
+
+                <div class="position-relative ">
+                    <div class="container-fluid  border-bottom ">
+                        <div class="row py-3">
+                            <div class="col-lg-8 mx-auto   text-start border border-radius-xl overflow-hidden shadow-lg mb-7">
+                                <h5 class="mt-4">Rated 5/5 (2700+ Reviews)</h5>
+                                <span>
+
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+
+
+                                </span>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
+                                <ul>
+                                    <li><strong>What Do You Understand By MERN?</strong></li>
+                                    <li><strong>Skills Require To Become A Mern Developer</strong></li>
+                                    <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
+                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
+                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
+                                    <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
+                                </ul>
+
+                                <p>How to become a MERN stack developer?</p>
+                                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
+                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+
+                            </div>
+                            <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
+                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+
+
+                                <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
+                                <form method="post" action="./process.php">
+                                    <div class="mb-1">
+                                        <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
+                                    </div>
+                                    <div class="mb-1">
+                                        <input type="email" name="email" required="" id="email" placeholder="Enter your Email" class="form-control">
+                                    </div>
+                                    <div class="mb-1">
+                                        <input type="text" name="phone" required="" id="phone" placeholder="Enter Contact Number" class="form-control">
+                                    </div>
+                                    <!--
+                                    <div class="mb-1">
+                                        <select name="course" required="" id="course" class="form-control">
+                                            <option value="" disabled="">Select a Course</option>
+                                            <option value="Cloud ">Cloud </option>
+                                            <option value="Motion Graphics">Motion Graphics</option>
+                                            <option value="VFX">VFX</option>
+                                            <option value="solidworks">solidworks</option>
+                                            <option value="Catia ">Catia </option>
+                                            <option value="servicenow ">servicenow </option>
+                                            <option value="Flutter">Flutter</option>
+                                            <option value="pmp">pmp</option>
+                                            <option value="Photography">Photography</option>
+                                            <option value="Photography">Photography</option>
+                                            <option value="videography">videography</option>
+                                            <option value="Java">Java</option>
+                                            <option value="Multimedia &amp; Animation">Multimedia &amp; Animation</option>
+                                            <option value="data analytics">data analytics</option>
+                                            <option value="business analytics">business analytics</option>
+                                            <option value="Python">Python</option>
+                                            <option value="Data Science">Data Science</option>
+                                            <option value="Machine Learning">Machine Learning</option>
+                                            <option value="AWS">AWS</option>
+                                            <option value="Azure">Azure</option>
+                                            <option value="Salesforce">Salesforce</option>
+                                            <option value="Hadoop">Hadoop</option>
+                                            <option value="Linux">Linux</option>
+                                            <option value="C">C</option>
+                                            <option value="Salesforce Admin">Salesforce Admin</option>
+                                            <option value="Advanced Excel ">Advanced Excel </option>
+                                            <option value="C++">C++</option>
+                                            <option value="S4 Hana Fico">S4 Hana Fico</option>
+                                            <option value="Salesforce Admin development">Salesforce Admin development</option>
+                                            <option value="Android">Android</option>
+                                            <option value="S4 Hana Mm">S4 Hana Mm</option>
+                                            <option value="IOT">IOT</option>
+                                            <option value="IOS">IOS</option>
+                                            <option value="S4 Hana Hcm">S4 Hana Hcm</option>
+                                            <option value="Devops">Devops</option>
+                                            <option value="SAP">SAP</option>
+                                            <option value="S4 Hana Sd">S4 Hana Sd</option>
+                                            <option value="Oracle">Oracle</option>
+                                            <option value="UI &amp; UX Design">UI &amp; UX Design</option>
+                                            <option value="Data science with R">Data science with R</option>
+                                            <option value="Power BI">Power BI</option>
+                                            <option value="Tableau">Tableau</option>
+                                            <option value="Cyber Security">Cyber Security</option>
+                                            <option value="Ms SQL">Ms SQL</option>
+                                            <option value="SQL">SQL</option>
+                                            <option value="MIS">MIS</option>
+                                            <option value="AutoCad">AutoCad</option>
+                                            <option value="Embedded system">Embedded system</option>
+                                            <option value="Plc scada">Plc scada</option>
+                                            <option value="PHP">PHP</option>
+                                            <option value="Web DESIGNING">Web DESIGNING</option>
+                                            <option value="UI">UI</option>
+                                            <option value="React">React</option>
+                                            <option value="Mern">Mern</option>
+                                            <option value="Angular">Angular</option>
+                                            <option value="Mean">Mean</option>
+                                            <option value="Graphic Designing">Graphic Designing</option>
+                                            <option value="DotNet">DotNet</option>
+                                            <option value="Testing">Testing</option>
+                                            <option value="CCNA">CCNA</option>
+                                            <option value="CCNP">CCNP</option>
+                                            <option value="MCSA">MCSA</option>
+                                            <option value="Digital Marketing">Digital Marketing</option>
+                                            <option value="Ethical Hacking">Ethical Hacking</option>
+                                            <option value="German Language">German Language</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                    </div>
+-->
+                                    <div class="mt-2">
+                                        <button class="btn home-banner text-light w-100" type="submit">Submit</button>
+                                    </div>
+                                </form>
+
+                                <!-- <ul class="list-group">
+                                    <li class="list-group-item">Cras justo odio</li>
+                                    <li class="list-group-item">Dapibus ac facilisis in</li>
+                                    <li class="list-group-item">Morbi leo risus</li>
+                                    <li class="list-group-item">Porta ac consectetur ac</li>
+                                    <li class="list-group-item">Vestibulum at eros</li>
+                                </ul>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="list-group" id="list-tab" role="tablist">
+                                            <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Home</a>
+                                            <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Profile</a>
+                                            <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Messages</a>
+                                            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Settings</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-8">
+                                        <div class="tab-content" id="nav-tabContent">
+                                            <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">...</div>
+                                            <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">...</div>
+                                            <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">...</div>
+                                            <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">...</div>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+
+                                <div class="">
+                                    <div class="card-header">
+                                        <h5 class="card-title my-3">Popular Courses</h5>
+                                    </div>
+                                    <div class="p-0">
+                                        <div class="list-catergory">
+                                            <div class="item-list">
+                                                <ul class="list-group mb-0 p-3" type='none'>
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg   " href="">ANGULAR JS </a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP EXPERTS</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP FULL STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">REACT JS</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MEAN STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">UI &amp; UX</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MERN STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">WEB DESIGNING</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
                     </div>
 
                 </div>
             </div>
 
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn AngularJS ?</h3>
-        <br/><br/>
-        <h6>Angular is Developed by Google, Powered by Microsoft and now being used on over 9,000 websites, including some famous companies like Intel, Sprint, NBC, Walgreens and ABC News. The statistics show the popularity of Angular framework among the developers. It is an all- powerful JavaScript system that permits all engineers to make Single Page Applications in a spotless and efficient manner. It is a cutting edge JS structure that allows the usage of HTML as a master language. So as to give upgraded and responsive client experience. </h6>
-        <ul >
-        <li>AngularJS Facilitates Immensely to Parallel Development.</li>
-        <li>AngularJS Manages Dependencies.</li>
-        <li>Reduced Line Coding.</li>
-        <li>MVC Compatibility.</li>
-        <li>High Performancey.</li>
+                        <section class="py-3">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>Spring Boot & Microservices Security With Hibernate & Jpa</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Spring Boot & Microservices Security With Hibernate & JPA Training Overview</strong></h4>
+                                        <p>Spring Boot & Microservices Security with Hibernate & JPA course in jaipur offered by Groot Academy is very reputed in the industry. Spring Boot is a very renowned framework of Java for creating microservices and web services. The Spring boot instantly creates applications based on Spring and makes it easy for developers to not write similar boilerplate configuration repeatedly.
 
-    </ul>
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                                            The collection of independent small services that can communicate with each other over a network, forms a large application which is a software architectural style and that is Microservices. Setting up a spring profile is required to secure a user's Hibernate. The Hibernate application's security can be controlled and a user's account can be protected using the Spring profile. Simple API is provided by Spring Boot which is a java framework which is available for Spring Boot microservices and web applications' managing, building, and deploying. It enables the creation of both online and mobile applications . The Spring Boot framework is used to set up Hibernate which is intended to provide a safe environment for databases and microservices.
 
-        '></iframe>
+                                            Throughout the Spring Boot and Microservices training you will also learn to secure web pages in Java web applications which are based on spring framework. These credentials are used for data access layers which are stored in Spring Data JPA with hibernate.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </section>
                     </div>
 
                 </div>
             </div>
 
+            <div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why choose Groot Academy for Spring Boot and Microservices Security with Hibernate & JPA Course</strong></h4>
+                    <p>Groot Academy is the best Spring Boot and Microservices Security training institute in jaipur with 100% placement assistance. During and even after course completion students can ask any doubt or query related to the course. We have veteran trainers with extensive industry experience. Groot Academy trainers support each student in their live project preparation. Students are welcome at any time and have access to the labs. We also set up our students for meetings and provide them with tools to discover new careers. We have designed Spring Boot Microservices Security course in such a way that Students will be working on active live projects. Our trainers help students in understanding difficult specialised concepts by practical learning approach.</p>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                </div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career After Spring Boot & Microservices Security with Hibernate Course</strong></h4>
+                    <p>There are plenty of jobs you can avail after completing Spring Boot & Microservices Security with Hibernate & JPA Certification. Some of the popular job profiles in this domain are Microservices Architect, Software Developer, Java Developer, Java Engineer, Java Architect, Solution Architect and many more. Different job roles have different work profiles such as the work profile of Microservices Architect is to develop, design and implement various micro services applications. Software architects create design and structure of software applications. There are also multiple other career options in this domain which are promising and rewarding.</p>
 
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for AngularJS Programmers</h3>
-              <br/><br/>
-              <h6>The progress of the job market of AngularJS is going really well, promising bright job prospects in the future. Gaining appreciable popularity in web development also meant the need for talented professionals who can meet the expectations of the enterprise. Many prominent web developers have revealed that a professional with Hadoop and AngularJS skills in their functional CV is highly sought after. According to payscale, the standard pay of an AngularJS developer is 425,863 per annum in India. The salary of AngularJS developers in the UK slightly varies in different surveys conducted by various sites. A pay that will fill your pockets big time and helps you grow as a developer alongside is always a good asset in the eyes of an employee. </h6>
-
+                </div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Placement Assistance after Spring Boot Microservices & Security with Hibernate Course:</strong></h4>
+                    <p>At Groot Academy The IT Training School, we offer our students trending industry based learning, which helps our students to get placement more efficiently in top MNCs.</p>
+                    <p>We have collaborated with more than 800 placement partners and our students are continuously being placed in these world class companies like Accenture, IBM, Cognizant, CSC , Bajaj Allianz and many more.</p>
+                    <p>We conduct regular HR sessions for our students, where we train for interviews and continuously coordinate with companies to learn their hiring needs.</p>
+                    <p>We also offer students to take part in placement drives who have completed a minimum of 70% - 80% of the course syllabus.</p>
+                </div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
+                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in Spring Boot development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
+                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of Spring Boot development.</p>
+                </div>
             </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <div class="w-100 float-right">
+                    <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="12"> -->
+                    <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+                    <!-- </marquee> -->
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Basics of Sp</h4>
+                        <ul>
+                            <li>What is Spring</li>
 
-        '></iframe>
+                            <li>Spring Modules</li>
+                            <li>Spring Application </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring with ID </h4>
+                        <ul>
+                            <li>Spring in Myec </li>
+                            <li>Spring in Eclips</li>
+                            <li> IOC container</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Dependency Injection</h4>
+                        <ul>
+                            <li> Constructor Injection</li>
+                            <li>CI Dependent Object</li>
+                            <li>CI with collection</li>
+                            <li>CI with Map</li>
+                            <li>CI Inheriting Bean</li>
+                            <li>Setter Injection</li>
+                            <li>SI Dependent Object</li>
+                            <li>SI with Collection</li>
+                            <li>SI with Map</li>
+                            <li>CI vs SI</li>
+                            <li>Autowiring</li>
+                            <li>Factory Method</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"></h4>
+                        <ul>
+                            <li> AOP Terminology</li>
+                            <li> AOP Implementations</li>
+                            <li> Pointcut</li>
+                            <li> Advices </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring JDBC </h4>
+                        <ul>
+                            <li> JdbcTemplate Example</li>
+                            <li> PreparedStatement</li>
+                            <li> ResultSetExtractor</li>
+                            <li> RowMapper</li>
+                            <li> NamedParameter</li>
+                            <li> SimpleJdbcTemplate </li>
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">pring with ORM </h4>
+                        <ul>
+                            <li> Spring with Hibernate</li>
+                            <li> Spring with JPA </li>
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"> SpEL</h4>
+                        <ul>
+                            <li> SpEL Examples</li>
+                            <li>Operators in SpEL</li>
+                            <li>variable in SpEL</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring 3 MVC</h4>
+                        <ul>
+                            <li> Remoting with Spring</li>
+                            <li>Spring with RMI</li>
+                            <li>Http Invoker</li>
+                            <li>Hessian</li>
+                            <li>Burlap</li>
+                            <li>Spring with JMS</li>
+                        </ul>
                     </div>
 
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">OXM Frameworks </h4>
+                        <ul>
+                            <li> Spring with JAXB</li>
+                            <li>Spring with Xstream</li>
+                            <li>Spring with Castor</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring Java Mail - Web Integration </h4>
+                        <ul>
+                            <li> Spring with Struts2</li>
+                            <li>Login and Logout Application</li>
+                        </ul>
+                    </div>
+
+                    <div class="w-100 text-center">
+                        <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="10"> -->
+                        <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
+                        <!-- </marquee> -->
+                    </div>
                 </div>
             </div>
 
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
 
+                <div class="row">
 
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
-              <br/><br/>
-              <h6>The curriculum of AngularJS at Groot Academy is curated by industry experts. The team is well- aware of the industry trends and has included a syllabus that complements the competitive market. We acknowledge that practical knowledge is imperative to succeed in the relentless market. That’s why we include live projects with which the students get hands-on experience of real-life projects.
-<br/>
-Our mentors who conduct classes flaunt vast knowledge and expertise in the Software industry. We will ensure a step-by-step learning process which is why we start with the basics first and will steadily master the skills of developing web platforms using AngularJS. Also we are aware of the challenges of getting a job which is why we provide 100% placement assistance wherein we guide students with resume preparation and interview questions to survive in this cut- throat competition.
-<br/>
-Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best AngularJS training institute in Jaipur and nearby cities of Rajasthan.</h6>
-
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is Spring Boot?</h5>
+                        <p>Answer: Spring Boot is a framework that simplifies the development of Java-based applications, providing a set of conventions and defaults for common use cases. It is widely used for building microservices.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2. What are Microservices?</h5>
+                        <p>Answer: Microservices is an architectural style where a large application is broken down into small, independent services that communicate over well-defined APIs. Each microservice is responsible for a specific business capability.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3.How does Spring Boot facilitate Microservices development?</h5>
+                        <p>Answer: Spring Boot provides a set of tools and conventions that make it easy to create and deploy microservices. It includes features like embedded servers, dependency management, and auto-configuration.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4. What is Hibernate and JPA?</h5>
+                        <p>Answer: Hibernate is an Object-Relational Mapping (ORM) framework for Java, while Java Persistence API (JPA) is a specification for managing relational data in Java applications. Hibernate is often used as the implementation of JPA.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5.How can I secure my Spring Boot Microservices?</h5>
+                        <p>Answer: Spring Security is commonly used for securing Spring Boot applications. It provides authentication and authorization mechanisms to control access to your microservices.</p>
                     </div>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6.Can I integrate Spring Security with Hibernate and JPA? </h5>
+                        <p>Answer: Yes, Spring Security can be easily integrated with Hibernate and JPA. You can use Spring Security to secure the endpoints and manage user authentication and authorization.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7. What is OAuth2, and how is it related to Spring Boot Security?</h5>
+                        <p>Answer: OAuth2 is an authorization framework that enables third-party applications to obtain limited access to a web service. Spring Security provides OAuth2 support, allowing you to implement OAuth2-based authentication and authorization in your microservices.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8. How can I handle user authentication in a Spring Boot Microservice?</h5>
+                        <p>Answer: You can use Spring Security's authentication providers and configure them to use a database-backed authentication provider with Hibernate and JPA.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9.What are the best practices for securing Microservices?</h5>
+                        <p>Answer: Follow the principle of least privilege, use secure communication (HTTPS), validate and sanitize inputs, regularly update dependencies, and consider using tools like Spring Cloud Security for managing distributed security in microservices architecture.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How can I ensure data integrity and security with Hibernate and JPA?</h5>
+                        <p>Answer: Implement proper data validation, use parameterized queries to prevent SQL injection, and encrypt sensitive data. Additionally, configure Hibernate to enforce constraints at the database level for data integrity</p>
 
+                    </div>
                 </div>
             </div>
-
-
             <div class="row">
-                <div class="col-md-12 btn bg-gradient-primary">
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg">
-                                Angular js
-                            </span>
-                        </div>
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <section class="py-3">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
+                                                <br /><br />
+                                                <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
+                                                <ul>
+                                                    <li>Build dynamic data-driven websites and applications.</li>
+                                                    <li>A Scope to be Part of Game-Changing Projects.</li>
+                                                    <li>The High-Paying Full Stack Developer Salary.</li>
+                                                    <li>Diverse Growth Options.</li>
+                                                </ul>
+                                            </div>
 
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-                <div>
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
-                    <br />
-                    <br />
-                    <br />
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                                <!-- Nucleo Icons -->
+                                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                                <section class="py-3">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                                <br /><br />
+                                                <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
 
+                                            </div>
 
+                                        </div>
+                                    </div>
+                                </section>
+                                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-                    <div class="row">
-                        <div class="col-md -6">
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Course Objectives</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Basic JavaScript</option>
-                                    <option disabled>DOM and BOM</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>Prototype ,Hoisting and Closure</option>
-                                    <option disabled>Let , Const , Arrow , Class and Inheritance</option>
-                                    <option disabled>Map, Filter , Reduce , Template Literals</option>
-                                    <option disabled>ForEach, for-in, for-of loop.</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Typescript</option>
-                                    <option disabled>Basic Types</option>
-                                    <option disabled>Class and Interfaces</option>
-                                    <option disabled>Modules</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Real-time environmental setup</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">GITHUB </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Angular</option>
-                                    <option disabled>What is SPA</option>
-                                    <option disabled>Comparison between different versions</option>
-                                    <option disabled>Advantages and Disadvantages</option>
-                                    <option disabled>Key Features</li>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ANGULAR </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Node /NPM</option>
-                                    <option disabled>Angular CLI</option>
-                                    <option disabled>Setup Project</option>
-                                    <option disabled>Directory Structure</option>
-                                    <option disabled>Code Editors</option>
-                                    <option disabled>How Angular Application Boot</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Module</option>
-                                    <option disabled>Decorator</option>
-                                    <option disabled>NgModule</option>
-                                    <option disabled>Core Module</option>
-                                    <option disabled>Bootstrapping</option>
-                                    <option disabled>Shared Modules</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MODULES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Components</option>
-                                    <option disabled>Component Architecture Patterns</option>
-                                    <option disabled>Metadata</option>
-                                    <option disabled>State and Behaviors</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Template Expression or Interpolation Data Binding (Event ,Property , Two Way)</option>
-                                    <option disabled>*ngIf , *ngFor , *ngSwicth</option>
-                                    <option disabled>Built-in Structural and Attributes Directive</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">TEMPLATES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Built-in Pipes</option>
-                                    <option disabled>Custom Pipes</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PIPES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Routes , RouterModule , routerLink Child Routing</option>
-                                    <option disabled>Params</option>
-                                    <option disabled>Guards</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Routing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Structured Directives</option>
-                                    <option disabled>Attribute Directives</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM DIRECTIVES </label>
+                                <!-- '></iframe> -->
                             </div>
 
                         </div>
-
-
-                        <div class="col-md -6">
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Template Driven</option>
-                                    <option disabled>Reactive Form</option>
-                                    <option disabled>Custom Validators</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">VALIDATIONS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Observable vs Promise</option>
-                                    <option disabled>Network Call</option>
-                                    <option disabled>HTTP Request | Response</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ASYNCHRONOUS OPERATIONS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Services</option>
-                                    <option disabled>Building a Service</option>
-                                    <option disabled>Dependency Injections</option>
-                                    <option disabled>Injectors and Providers</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVICES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Component LifeCycle</option>
-                                    <option disabled>All LifeCycle Hooks</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LIFECYCLE HOOKS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Local Storage</option>
-                                    <option disabled>Session Storage</option>
-                                    <option disabled>Cookies</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>@Input().</option>
-                                    <option disabled>@Output() with EventEmitter</option>
-                                    <option disabled>@Viewchid()</option>
-                                    <option disabled>Shared Service</option>
-                                    <option disabled>Subject</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMUNICATION BETWEEN COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Server-Side Rendering</option>
-                                    <option disabled>Angular Universal</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SERVER-SIDE RENDERING ( </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Testing</option>
-                                    <option disabled>Unit Testing with Karma and Jasmine</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Angular Testing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">LAZY LOADING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Angular Material </option>
-                                    <option disabled>PrimeNG </option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">UI COMPONENTS </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Social Login </option>
-                                    <option disabled>Pagination </option>
-                                    <option disabled>Filter </option>
-                                    <option disabled>JWT Token </option>
-                                    <option disabled>File upload </option>
-                                    <option disabled>Many More </option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Build Application </option>
-                                    <option disabled>Deploy in Heroku </option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">Angular ApplicationDeployment </label>
-                            </div>
-                        </div>
-
                     </div>
+                </div>
+            </div>
 
 
 
@@ -520,12 +581,40 @@ Groot Academy has been a leading programming training institute in jaipur. Our a
 
 
 
-                    <?php include "./query-form.php" ?>
 
 
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                        <!-- Nucleo Icons -->
+                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
+                                        <br /><br />
+                                        <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </section>
+                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                        <!-- '></iframe> -->
+                    </div>
 
                 </div>
             </div>
         </div>
-        <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-        <?php include "./footer.php" ?>
+    </div>
+    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+    <?php include "./footer.php" ?>
