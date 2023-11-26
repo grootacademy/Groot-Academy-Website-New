@@ -53,11 +53,11 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-spring-boot-course-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-back-end-development-course-with-php-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">Spring Boot & Microservices Security With Hibernate & Jpa</h4>
+                <h4 class="course-heading">PHP Course Syllabus</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -277,12 +277,12 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>PHP Course Syllabus</h5>
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>PHP Course Syllabus</strong></h4>
-                                        <p>SLA is one of its kind Institute which not only equips you in technology skills but will trainyoufor free in Aptitude skills, Soft Skills, Mock Interviews, Interview Skills, Work ethics andCorporate Values that you need to know to get into IT Industry. Our training
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>PHP Course</strong></h4>
+                                        <p>Groot Academy is one of its kind Institute which not only equips you in technology skills but will trainyoufor free in Aptitude skills, Soft Skills, Mock Interviews, Interview Skills, Work ethics andCorporate Values that you need to know to get into IT Industry. Our training
                                             is given by expertreal time development experienced trainers and we enable each and every student of ourstodo their own real time projects by the end of the program.</p>
                                         <p>We do not buy you a job by bribing companies to secure a place in IT, instead we equipyouwith the skills needed to get employed in IT and will support you with unlimited number of
                                             relevant interview opportunities so that your career in IT becomes assured. Our support will bethere until you get placed in an IT Company as that’s our mission too.</p>
-                                        <p>If you want to just have an IT certification, you can do your course anywhere. If youaspiretoget into an IT Job, then you should choose SLA. With SLA, your IT dreamwill definitelycomeinto reality.</p>
+                                        <p>If you want to just have an IT certification, you can do your course anywhere. If youaspiretoget into an IT Job, then you should choose Groot Academy. With Groot Academy, your IT dreamwill definitelycomeinto reality.</p>
 
 
 
@@ -520,7 +520,7 @@
                         <p>Answer:PHP developers should be mindful of security practices, such as input validation, output sanitization, and protection against SQL injection and cross-site scripting (XSS) attacks. Regularly updating PHP and using secure coding practices contribute to a safer application. </p>
                         <h5 class="text-gradient text-primary mb-0 mt-2">8.How can I start learning PHP for web development?</h5>
                         <p>Answer:Beginners can start by exploring online tutorials, documentation, and interactive coding platforms. Additionally, enrolling in structured PHP courses or joining coding communities can provide valuable guidance and support during the learning journey.</p>
-                        
+
                     </div>
                 </div>
             </div>
