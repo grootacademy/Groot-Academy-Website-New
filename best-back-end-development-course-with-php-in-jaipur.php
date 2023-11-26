@@ -520,6 +520,7 @@
                         <p>Answer:PHP developers should be mindful of security practices, such as input validation, output sanitization, and protection against SQL injection and cross-site scripting (XSS) attacks. Regularly updating PHP and using secure coding practices contribute to a safer application. </p>
                         <h5 class="text-gradient text-primary mb-0 mt-2">8.How can I start learning PHP for web development?</h5>
                         <p>Answer:Beginners can start by exploring online tutorials, documentation, and interactive coding platforms. Additionally, enrolling in structured PHP courses or joining coding communities can provide valuable guidance and support during the learning journey.</p>
+                        
                     </div>
                 </div>
             </div>
