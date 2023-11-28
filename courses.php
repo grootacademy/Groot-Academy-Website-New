@@ -353,7 +353,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
                         <a href="./best-webdesigning-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/web-desiging1.avif" width="100%">
+                                <img src="./assets/img/course-card-images/web desiging.png" width="100%">
                                 <b style="text-align: center; font-size:medium; margin-top:30px;">Website Designing</b>
                             </div>
                             <div class="mt-2 ms-2">
