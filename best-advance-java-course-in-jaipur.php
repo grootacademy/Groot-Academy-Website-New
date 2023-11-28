@@ -1,64 +1,63 @@
 <?php include('./includes/header_com.php');  ?>
-    <!--  META DATA -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
 
-    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
 ">
-    <link rel="canonical" href="https://grootacademy.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
 
 
-    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Groot Academy">
-    <meta property="og:url" content="https://grootacademy.com">
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
-    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
-stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
 
-    <meta property="og:image:width" content="90">
-    <meta property="og:image:height" content="90">
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
 
 
-    <meta name="language" content="en-us" />
-    <meta name="distribution" content="Global">
-    <meta name="Publisher" content="https://grootacademy.com">
-    <meta name="Rating" content="General">
-    <meta name=geography content="India ">
-    <meta name="geo.region" content="JP-RJ" />
-    <meta name="geo.placename" content="Jaipur" />
-    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/header_down.php');  ?>
 
 
 
-    <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
-
-
-<link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
-<div class="container mt-5">
+<div class="container-fluid mt-5">
     <div class="row">
         <div class="col-lg-12 mx-auto">
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Features</li>
+                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item active" aria-current="page">best-advance-java-course-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
-                <h4 class="course-heading"><img src="./assets/img/java.png" alt="image" width="50" style="border-radius: 10px;" /> Advance java Developer| Advance java Developer Course | Advance java Developer Training</h4>
+
+                <h4 class="course-heading">Advanced Java course in jaipur</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -69,1313 +68,578 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     </div>
                 </div>
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Open the Doors of Opportunity by Becoming an Expert Advance java  Developer </h3><br/><br/>
-        <h6>
-        Do you also wish to learn the web development technologies that help you develop and maintain both front-end and back-end applications? If so then this Advance java web development course is for you. The basic principle is that a stack involves multiple layers, each layer has its use and its coding is done by a single technology expert. Our roadmap to Advance java web development to guide you on selecting skills to learn.     </h6>
-       
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-        '></iframe>
+
+                <div class="position-relative ">
+                    <div class="container-fluid  border-bottom ">
+                        <div class="row py-3">
+                            <div class="col-lg-8 mx-auto   text-start border border-radius-xl overflow-hidden shadow-lg mb-7">
+                                <h5 class="mt-4">Rated 5/5 (2700+ Reviews)</h5>
+                                <span>
+
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+                                    <b class="text-warning h1 " style="text-shadow: 0px 0px 5px black;">&#9733;</b>
+
+
+                                </span>
+                                <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
+                                <ul>
+                                    <li><strong>What Do You Understand By Advanced Java course?</strong></li>
+                                    <li><strong>Skills Require To Become A java Developer</strong></li>
+                                    <li><strong>What Our Students Will Get During Advanced Java Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning Advanced Java course</strong></li>
+                                    <li><strong>Why To Enrol In Our Advanced Java Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn Advanced Java course?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For Advanced Java Developer</strong></li>
+                                    <li><strong>Frequently Asked Advanced Java Course Interview Questions</strong></li>
+                                    <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
+                                </ul>
+
+                                <p>Becoming an Advanced Java Developer</p>
+                                <p>Advanced Java developers are highly sought after in today's competitive tech landscape. As a full-stack developer, mastering Advanced Java is key to creating robust and efficient web applications. The combination of a strong foundation in Java programming and expertise in advanced frameworks and tools sets you on the path to becoming a proficient Advanced Java developer.</p>
+                                <p>At Groot Academy, we understand the significance of Advanced Java in contemporary software development. Our institute, with over two decades of experience, is dedicated to providing top-notch IT education, with a specialized focus on Advanced Java. Our seasoned faculty comprises professionals who bring real-world experience to the classroom, ensuring that students gain practical insights into the intricacies of Advanced Java development.</p>
+                            </div>
+                            <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
+                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+
+
+                                <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
+                                <form method="post" action="./process.php">
+                                    <div class="mb-1">
+                                        <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
+                                    </div>
+                                    <div class="mb-1">
+                                        <input type="email" name="email" required="" id="email" placeholder="Enter your Email" class="form-control">
+                                    </div>
+                                    <div class="mb-1">
+                                        <input type="text" name="phone" required="" id="phone" placeholder="Enter Contact Number" class="form-control">
+                                    </div>
+                                    <!--
+                                    <div class="mb-1">
+                                        <select name="course" required="" id="course" class="form-control">
+                                            <option value="" disabled="">Select a Course</option>
+                                            <option value="Cloud ">Cloud </option>
+                                            <option value="Motion Graphics">Motion Graphics</option>
+                                            <option value="VFX">VFX</option>
+                                            <option value="solidworks">solidworks</option>
+                                            <option value="Catia ">Catia </option>
+                                            <option value="servicenow ">servicenow </option>
+                                            <option value="Flutter">Flutter</option>
+                                            <option value="pmp">pmp</option>
+                                            <option value="Photography">Photography</option>
+                                            <option value="Photography">Photography</option>
+                                            <option value="videography">videography</option>
+                                            <option value="Java">Java</option>
+                                            <option value="Multimedia &amp; Animation">Multimedia &amp; Animation</option>
+                                            <option value="data analytics">data analytics</option>
+                                            <option value="business analytics">business analytics</option>
+                                            <option value="Python">Python</option>
+                                            <option value="Data Science">Data Science</option>
+                                            <option value="Machine Learning">Machine Learning</option>
+                                            <option value="AWS">AWS</option>
+                                            <option value="Azure">Azure</option>
+                                            <option value="Salesforce">Salesforce</option>
+                                            <option value="Hadoop">Hadoop</option>
+                                            <option value="Linux">Linux</option>
+                                            <option value="C">C</option>
+                                            <option value="Salesforce Admin">Salesforce Admin</option>
+                                            <option value="Advanced Excel ">Advanced Excel </option>
+                                            <option value="C++">C++</option>
+                                            <option value="S4 Hana Fico">S4 Hana Fico</option>
+                                            <option value="Salesforce Admin development">Salesforce Admin development</option>
+                                            <option value="Android">Android</option>
+                                            <option value="S4 Hana Mm">S4 Hana Mm</option>
+                                            <option value="IOT">IOT</option>
+                                            <option value="IOS">IOS</option>
+                                            <option value="S4 Hana Hcm">S4 Hana Hcm</option>
+                                            <option value="Devops">Devops</option>
+                                            <option value="SAP">SAP</option>
+                                            <option value="S4 Hana Sd">S4 Hana Sd</option>
+                                            <option value="Oracle">Oracle</option>
+                                            <option value="UI &amp; UX Design">UI &amp; UX Design</option>
+                                            <option value="Data science with R">Data science with R</option>
+                                            <option value="Power BI">Power BI</option>
+                                            <option value="Tableau">Tableau</option>
+                                            <option value="Cyber Security">Cyber Security</option>
+                                            <option value="Ms SQL">Ms SQL</option>
+                                            <option value="SQL">SQL</option>
+                                            <option value="MIS">MIS</option>
+                                            <option value="AutoCad">AutoCad</option>
+                                            <option value="Embedded system">Embedded system</option>
+                                            <option value="Plc scada">Plc scada</option>
+                                            <option value="PHP">PHP</option>
+                                            <option value="Web DESIGNING">Web DESIGNING</option>
+                                            <option value="UI">UI</option>
+                                            <option value="React">React</option>
+                                            <option value="Mern">Mern</option>
+                                            <option value="Angular">Angular</option>
+                                            <option value="Mean">Mean</option>
+                                            <option value="Graphic Designing">Graphic Designing</option>
+                                            <option value="DotNet">DotNet</option>
+                                            <option value="Testing">Testing</option>
+                                            <option value="CCNA">CCNA</option>
+                                            <option value="CCNP">CCNP</option>
+                                            <option value="MCSA">MCSA</option>
+                                            <option value="Digital Marketing">Digital Marketing</option>
+                                            <option value="Ethical Hacking">Ethical Hacking</option>
+                                            <option value="German Language">German Language</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                    </div>
+-->
+                                    <div class="mt-2">
+                                        <button class="btn home-banner text-light w-100" type="submit">Submit</button>
+                                    </div>
+                                </form>
+
+                                <!-- <ul class="list-group">
+                                    <li class="list-group-item">Cras justo odio</li>
+                                    <li class="list-group-item">Dapibus ac facilisis in</li>
+                                    <li class="list-group-item">Morbi leo risus</li>
+                                    <li class="list-group-item">Porta ac consectetur ac</li>
+                                    <li class="list-group-item">Vestibulum at eros</li>
+                                </ul>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="list-group" id="list-tab" role="tablist">
+                                            <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Home</a>
+                                            <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Profile</a>
+                                            <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Messages</a>
+                                            <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Settings</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-8">
+                                        <div class="tab-content" id="nav-tabContent">
+                                            <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">...</div>
+                                            <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">...</div>
+                                            <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">...</div>
+                                            <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">...</div>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+
+                                <div class="">
+                                    <div class="card-header">
+                                        <h5 class="card-title my-3">Popular Courses</h5>
+                                    </div>
+                                    <div class="p-0">
+                                        <div class="list-catergory">
+                                            <div class="item-list">
+                                                <ul class="list-group mb-0 p-3" type='none'>
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg   " href="">ANGULAR JS </a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP EXPERTS</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">PHP FULL STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">REACT JS</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MEAN STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">UI &amp; UX</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">MERN STACK</a></li>
+
+
+                                                    <li class="form-control btn btn-primary text-start py-1 my-1 ps-3 "><a class="text-light text-decoration-none text-lg  " href="">WEB DESIGNING</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
                     </div>
 
                 </div>
             </div>
 
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-4">
                 <div class="tab-content tab-space">
                     <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-        <!-- Nucleo Icons -->
-        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-<section class="py-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="text-gradient text-primary mb-0 mt-2">Why should you learn Advance java Web Development ?</h3>
-        <br/><br/>
-        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-        <ul >
-        <li>Build dynamic data-driven websites and applications.</li>
-        <li>A Scope to be Part of Game-Changing Projects.</li>
-        <li>The High-Paying Advance java Developer Salary.</li>
-        <li>Diverse Growth Options.</li>
-    </ul>
-      </div>
-     
-    </div>
-  </div>
-</section>
-<!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>Advanced Java course</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Advanced Java Development: Mastering Core Concepts with Groot Academy</strong></h4>
+                                        <p>Unlock the power of Advanced Java Development with Groot Academy's highly esteemed course in Jaipur. Our Advanced Java program is designed to equip you with the skills and knowledge needed to excel in the dynamic field of Java application development.</p>
+                                        <p>At Groot Academy, we understand the significance of Advanced Java in contemporary software development. Our institute, with over two decades of experience, is dedicated to providing top-notch IT education, with a specialized focus on Advanced Java. Our seasoned faculty comprises professionals who bring real-world experience to the classroom, ensuring that students gain practical insights into the intricacies of Advanced Java development.</p>
 
-        '></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </section>
                     </div>
 
                 </div>
             </div>
 
+            <div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Choose Groot Academy for Advanced Java Development Course</strong></h4>
+                    <p>Groot Academy stands out as the premier institute for Advanced Java Development in Bangalore, offering a comprehensive course that propels your career in the dynamic world of Java programming. Here are some compelling reasons to choose Groot Academy for your Advanced Java journey:</p>
+                    <p><strong> Trainers with Industry Insight:</strong>
+                        Our seasoned trainers bring a wealth of industry experience to the classroom, ensuring you learn not just the theory but also gain practical insights into real-world Java development scenarios. Benefit from their expertise and stay ahead in the competitive tech landscape.</p>
+                    <p><strong> Project Exposure:</strong>
+                        At Groot Academy, we believe in learning by doing. Our Advanced Java Development course incorporates hands-on experience with live projects. This practical approach not only enhances your coding skills but also prepares you for the challenges of real-world Java development.</p>
+                </div>
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career Paths After Advanced Java Development Certification</strong></h4>
+                    <p>Upon completing the Advanced Java Development certification, a plethora of exciting career opportunities await you. The skills acquired in this course open doors to diverse roles in the ever-evolving field of software development. Here are some prominent job profiles you can explore:</p>
+                    <p>Advanced Java Development not only equips you with the technical prowess to navigate the intricate landscape of Java but opens the gateway to a diverse array of captivating career paths. Java Software Engineers, armed with proficiency in frameworks like Spring and Hibernate, craft the
+                        backbone of software applications. They bring to life innovative solutions, ensuring optimal performance and scalability. For those with a penchant for holistic design, the role of a Java Architect beckons. Architects delve into the intricacies of system architecture, making pivotal decisions that shape the technological future of projects. The realm of Full Stack Java Development, on the other hand, demands a blend of front-end finesse and back-end robustness, offering a dynamic and challenging avenue for those who relish versatility in their work.</p>
+                    <p>As you advance in your Java development journey, leadership roles emerge, beckoning individuals to assume positions like Java Development Lead or Development Manager. Here, the focus extends beyond code; it encompasses orchestrating teams, ensuring project success, and contributing to the strategic vision of the organization. For those with a consultative edge, the role of a Java Technical Consultant comes to the forefront, involving a delicate balance between technical acumen and business insight. Meanwhile, Solutions Architects in Java play a pivotal role in designing comprehensive solutions that seamlessly integrate into the fabric of an organization. Whether your passion lies in hands-on coding, team leadership, or strategic planning, the world of Advanced Java Development unfolds with a myriad of possibilities, inviting you to carve a unique and rewarding career path.</p>
+                </div>
 
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Jobs for Advance java Developer</h3>
-              <br/><br/>
-              <h6>A Advance java web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.  </h6>
-
+                <div class="shadow-lg border-radius-xl p-4 mb-4">
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
+                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in Advanced Java development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
+                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of Advanced Java development.</p>
+                </div>
             </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <div class="w-100 float-right">
+                    <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="12"> -->
+                    <h2 class="w-35 text-gradient text-primary mt-2 text-center mx-auto p-2 border-radius-xl" style="border-bottom: 3px solid; border-bottom-color: linear-gradient(to right, #FF5733, #FFC300);"><strong>Course content</strong></h2>
+                    <!-- </marquee> -->
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>1.</strong> Introduction to Advanced Java Concepts</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Overview of Advanced Java</h4>
+                        <ul>
+                            <li>Understanding the need for advanced Java development</li>
+                            <li>Differentiating between core and advanced Java</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"> Java Database Connectivity (JDBC)</h4>
 
-        '></iframe>
+                        <li>Connecting to databases using JDBC</li>
+                        <li>Executing SQL queries and updates</li>
+                        <li>Handling transactions</li>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>2.</strong> Multithreading and Concurrency</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Multithreading</h4>
+                        <ul>
+                            <li>Basics of threads in Java</li>
+                            <li>Synchronization and thread safety</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Advanced Multithreading Concepts</h4>
+                        <ul>
+                            <li>Thread pools and executors</li>
+                            <li>Concurrent collections</li>
+                            <li>Atomic variables and locks</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"> <strong>3.</strong>Java Networking</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Socket Programming in Java</h4>
+                        <ul>
+                            <li>Overview of sockets</li>
+                            <li>Implementing client-server communication</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Remote Method Invocation (RMI)</h4>
+                        <ul>
+                            <li>Understanding RMI</li>
+                            <li>Developing distributed applications with RMI</li>
+                        </ul>
+
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>4.</strong> Java EE (Enterprise Edition)</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Java EE</h4>
+                        <ul>
+                            <li>Overview of Java EE architecture</li>
+                            <li>Java EE vs. Java SE</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Servlets and JSP</h4>
+                        <ul>
+                            <li>Creating dynamic web applications</li>
+                            <li>Handling HTTP requests and responses</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>5.</strong>Enterprise JavaBeans (EJB) </h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Understanding EJB</h4>
+                        <ul>
+                            <li>Overview of Enterprise JavaBeans</li>
+                            <li>Session beans, entity beans, and message-driven beans</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">EJB Transactions and Security</h4>
+                        <ul>
+                            <li>Managing transactions in EJB</li>
+                            <li>Implementing security in EJB applications</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>6.</strong> Spring Framework</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to the Spring Framework</h4>
+                        <ul>
+                            <li>Core concepts and IoC (Inversion of Control)</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Spring MVC</h4>
+                        <ul>
+                            <li>Developing web applications with Spring MVC</li>
+                            <li>Handling forms and validations</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>7.</strong>Hibernate </h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to Hibernate</h4>
+                        <ul>
+                            <li>Object-Relational Mapping (ORM) concepts</li>
+                            <li>Configuring Hibernate</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Hibernate Query Language (HQL) and Criteria API</h4>
+                        <ul>
+                            <li>Writing queries with HQL</li>
+                            <li>Using Criteria API for dynamic queries</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>8.</strong>RESTful Web Services </h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to REST</h4>
+                        <ul>
+                            <li>Principles of RESTful architecture</li>
+                            <li>Implementing RESTful services with JAX-RS</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">JSON and XML Processing in Java</h4>
+                        <ul>
+                            <li>Working with JSON and XML data in Java applications</li>
+                            <li>JAXB (Java Architecture for XML Binding)</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>9.</strong>Testing and Logging </h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">JUnit and TestNG</h4>
+                        <ul>
+                            <li>Writing unit tests for Java applications</li>
+                            <li>Test automation and best practices</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Logging with SLF4J and Logback</h4>
+                        <ul>
+                            <li>Logging principles</li>
+                            <li>Configuring and using SLF4J and Logback for logging</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-12">
+                        <h3 class="text-gradient text-primary mb-0 mt-2"><strong>10.</strong> Advanced Java Best Practices and Design Patterns</h3>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Code Optimization and Best Practices</h4>
+                        <ul>
+                            <li>Performance optimization techniques</li>
+                            <li>Coding standards and best practices</li>
+                        </ul>
+                        <h4 class="text-gradient text-primary mb-0 mt-2">Design Patterns in Java</h4>
+                        <ul>
+                            <li>Common design patterns and their implementations</li>
+                            <li>Applying design patterns to solve real-world problems</li>
+                        </ul>
                     </div>
 
+
+                    <div class="w-100 text-center">
+                        <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="10"> -->
+                        <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
+                        <!-- </marquee> -->
+                    </div>
                 </div>
             </div>
 
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
 
+                <div class="row">
 
-
-
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-              <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-              <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-              <!-- Nucleo Icons -->
-              <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-              <link href="./assets/css/nucleo-svg.css" rel="stylesheet" /><link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-      <section class="py-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h3>
-              <br/><br/>
-              <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
-
-            </div>
-          
-          </div>
-        </div>
-      </section>
-      <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-        '></iframe>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is Advanced Java? </h5>
+                        <p>Answer: Advanced Java refers to the advanced features and capabilities of the Java programming language beyond the basics covered in the core Java course. It includes topics such as Servlets, JSP (JavaServer Pages), JDBC (Java Database Connectivity), and more.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2. Why should I learn Advanced Java?</h5>
+                        <p>Answer:Learning Advanced Java allows you to build robust and scalable web applications, work with databases, and understand advanced concepts in Java development. It is essential for Java developers who want to create enterprise-level applications. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3. What are Servlets and JSP?</h5>
+                        <p>Answer: Servlets are Java programs that run on a web server, handling requests and generating dynamic web content. JSP (JavaServer Pages) is a technology used to create dynamic web pages with Java. Together, they enable the development of powerful and efficient web applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4. How does JDBC contribute to Advanced Java?</h5>
+                        <p>Answer: JDBC (Java Database Connectivity) is a Java API that allows Java applications to interact with databases. It enables the execution of SQL queries, retrieval of data, and manipulation of databases, making it a crucial component for building database-driven applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5.What is the significance of JavaBeans in Advanced Java?</h5>
+                        <p>Answer:JavaBeans are reusable software components for Java that follow a set of design conventions. In Advanced Java, JavaBeans are commonly used in conjunction with technologies like JSP for creating modular and maintainable web applications. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6. Can you explain the Model-View-Controller (MVC) architecture in the context of Advanced Java?</h5>
+                        <p>Answer:MVC is a design pattern used in Advanced Java for organizing code in a way that separates the application logic into three interconnected components: Model (data and business logic), View (user interface), and Controller (handles user input and updates the model). This architecture enhances modularity and maintainability. </p>
                     </div>
-
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7. How does Advanced Java handle session management?Session management is crucial for maintaining user state across multiple requests in a web application. Advanced Java uses techniques like HttpSession to manage sessions, enabling developers to store and retrieve user-specific data during a user's interaction with the application.</h5>
+                        <p>Answer:Session management is crucial for maintaining user state across multiple requests in a web application. Advanced Java uses techniques like HttpSession to manage sessions, enabling developers to store and retrieve user-specific data during a user's interaction with the application. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8.What are Design Patterns, and why are they important in Advanced Java?</h5>
+                        <p>Answer: Design Patterns are general reusable solutions to common problems encountered in software design. In Advanced Java, understanding and applying design patterns enhance the efficiency, maintainability, and scalability of the code.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9. Are there any prerequisites for taking an Advanced Java course?</h5>
+                        <p>Answer:A solid understanding of core Java concepts, object-oriented programming, and basic web development knowledge would be beneficial before diving into Advanced Java. </p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How can I practice and reinforce what I learn in the Advanced Java course?</h5>
+                        <p>Answer: - Practice is key. Engage in hands-on coding by working on projects, building web applications, and experimenting with the concepts learned in the course. Additionally, participate in coding challenges and contribute to open-source projects to further enhance your skills.</p>
+                    </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             <div class="row">
-                <div class="col-md-12 btn bg-gradient-primary">
-                    <div class="tab-content tab-space">
-                        <div class="tab-pane active" id="preview-modal">
-                            <span class="text-lg">
-                                Java
-                            </span>
-                        </div>
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <section class="py-3">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
+                                                <br /><br />
+                                                <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
+                                                <ul>
+                                                    <li>Build dynamic data-driven websites and applications.</li>
+                                                    <li>A Scope to be Part of Game-Changing Projects.</li>
+                                                    <li>The High-Paying Full Stack Developer Salary.</li>
+                                                    <li>Diverse Growth Options.</li>
+                                                </ul>
+                                            </div>
 
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-
-
-
-                <div>
-                    <br /><br />
-
-
-                    <div class="row">
-                        <div class="col-md -6">
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Web?</option>
-                                    <option disabled>Web Features ?</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>W3C and W3C Members</option>
-                                    <option disabled>Introduction to What WG</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Introduction to WEB </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>Parts in HTML Document</option>
-                                    <option disabled>Version Information</option>
-                                    <option disabled>Head Section</option>
-                                    <option disabled>Head Section</option>
-
-                                    <option disabled>Meta Information</option>
-                                    <option disabled>Favicons</option>
-                                    <option disabled>Body Section</option>
-                                    <option disabled>HTML FORMS</option>
-                                    <option disabled>Anchors, Images</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core HTML</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>HTML5 HISTORY</option>
-                                    <option disabled>Why HTML5?</option>
-                                    <option disabled>New Features and Groups</option>
-                                    <option disabled>Structure of HTML5 Document</option>
-                                    <option disabled>Semantics and Block Level Elements</option>
-                                    <option disabled>HTML5 Forms</option>
-
-                                    <option disabled>HTML5 Graphics</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance HTML5</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS Basics</option>
-                                    <option disabled>CSS Introduction</option>
-                                    <option disabled>CSS Syntax</option>
-                                    <option disabled>CSS Versions</option>
-                                    <option disabled>CSS Id & Class</option>
-                                    <option disabled>CSS Styling</option>
-
-                                    <option disabled>Styling Backgrounds</option>
-
-                                    <option disabled>Styling Text</option>
-                                    <option disabled>Styling Fonts</option>
-                                    <option disabled>CSS Borders</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Core CSS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction</option>
-                                    <option disabled>CSS3 Modules</option>
-                                    <option disabled>Selectors</option>
-                                    <option disabled>Box Model</option>
-                                    <option disabled>Backgrounds and Borders</option>
-                                    <option disabled>Text Effects</option>
-                                    <option disabled>2D/3D Transformations</option>
-                                    <option disabled>Core &Adanced Animations</option>
-                                    <option disabled>Multiple Column Layout</option>
-                                    <option disabled>User Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Advance CSS </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Basic JavaScript</option>
-                                    <option disabled>DOM and BOM</option>
-                                    <option disabled>Intervals and Objects</option>
-                                    <option disabled>Prototype ,Hoisting and Closure</option>
-                                    <option disabled>Let , Const , Arrow , Class and Inheritance</option>
-                                    <option disabled>Map, Filter , Reduce , Template Literals</option>
-                                    <option disabled>forEach, for-in, for-of loop.</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVASCRIPT (ES-5 and ES-6) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Typescript</option>
-                                    <option disabled>Basic Types</option>
-                                    <option disabled>Class and Interfaces</option>
-                                    <option disabled>Modules</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Typescript </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Node | NPM</option>
-                                    <option disabled>Installation of CLI</option>
-                                    <option disabled>Setup Project</option>
-                                    <option disabled>Directory Structure</option>
-                                    <option disabled>Code Editors</option>
-                                    <option disabled>How React JS Application Boot</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ENVIRONMENTAL SETUP </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>React Concepts</option>
-                                    <option disabled>JSX and TSX</option>
-                                    <option disabled>Render Elements</option>
-                                    <option disabled>Function and Class Components</option>
-                                    <option disabled>Props and State</option>
-                                    <option disabled>Handling Events</option>
-                                    <option disabled>Dynamic Data Rendering</option>
-                                    <option disabled>Property Binding</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC FEATURES OF REACT JS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Conditional Rendering</option>
-                                    <option disabled>List and Keys</option>
-                                    <option disabled>Forms Handling</option>
-                                    <option disabled>Forms Validations</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">KEY FEATURES OF REACT JS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding component lifecycle</option>
-                                    <option disabled>All Lifecycle Hooks</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMPONENT LIFECYCLE HOOK </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding React Event System</option>
-                                    <option disabled>Passing arguments to event Handlers</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EVENT HANDLING REACT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Fetch</option>
-                                    <option disabled>Axios</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NETWORK CALL </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to Services</option>
-                                    <option disabled>Building a Service</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CUSTOM SERVICES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Local Storage</option>
-                                    <option disabled>Session Storage</option>
-                                    <option disabled>Cookies</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">LOCAL DATA STORAGE </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Setting up React Router</option>
-                                    <option disabled>Conﬁguring route with Route Component</option>
-                                    <option disabled>Making routes dynamic with Route Params</option>
-                                    <option disabled>Working with nested routes</option>
-                                    <option disabled>Link and NavLink</option>
-                                    <option disabled>Redirect Routes</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ROUTING WITH REACT ROUTER </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Material Design</option>
-                                    <option disabled>PrimeNG</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">UI COMPONENTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Redux</option>
-                                    <option disabled>Install and setup</option>
-                                    <option disabled>Store ,Reducer , actions</option>
-                                    <option disabled>Dispatcher</option>
-
-                                    <option disabled>High order Components</option>
-
-                                    <option disabled>mapStateToProps and mapDispatchToProps usage</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Async Actions</option>
-                                    <option disabled>Middleware</option>
-                                    <option disabled>Redux Thunk and Redux Saga</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCE REDUX </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why We Need Hooks.</option>
-                                    <option disabled>Diﬀerent Types Of Hooks</option>
-                                    <option disabled>Using State And Eﬀect Hooks</option>
-                                    <option disabled>Usereducer , Useref Etc.</option>
-                                    <option disabled>Custom Hooks</option>
-                                    <option disabled>Rules Of Hooks</option>
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">React Hooks </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Social Login</option>
-                                    <option disabled>Pagination</option>
-                                    <option disabled>Search</option>
-                                    <option disabled>Filter</option>
-                                    <option disabled>JWT Token</option>
-                                    <option disabled>File Uploadt</option>
-                                    <option disabled>Many More</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Third Party Modules </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Jest with Enzyme</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Rest Js Testing </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Build Application and Deployment</option>
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">Develop a CRUD Application in React Js React JS Application Deployment </label>
-                            </div>
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why Java was Developed</option>
-                                    <option disabled>Application Areas of Java</option>
-                                    <option disabled>History of Java</option>
-                                    <option disabled>Platform Independency in Java</option>
-                                    <option disabled>U SP of Java: Java Features</li>
-                                    <option disabled>Sun-Oracle Deal</option>
-                                    <option disabled>Different Java Platforms</option>
-                                    <option disabled>Difference between JDK,JRE,JVM</option>
-                                    <option disabled>Java Versions</option>
-                                    <option disabled>JVM Architecture</option>
-                                    <option disabled>Understanding Path Variable: Why Set Path</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO JAVA </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Text Editors to Write Programs</option>
-                                    <option disabled>How to compile java file</option>
-                                    <option disabled>Byte Code and class file</option>
-                                    <option disabled>How to run class file</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING FIRST JAVA PROGRAM </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Identifiers</option>
-                                    <option disabled>Keywords</option>
-                                    <option disabled>Variables</option>
-                                    <option disabled>Literals</option>
-                                    <option disabled>Data Types</option>
-                                    <option disabled>Operators</option>
-                                    <option disabled>Comments</option>
-                                    <option disabled>Looping Statements</option>
-                                    <option disabled>Condition Statements</option>
-                                    <option disabled>Type Casting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA LANGUAGE FUNDAMENTALS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Why OOP</option>
-                                    <option disabled>OOP Concepts with Real life examples</option>
-                                    <option disabled>Class& it's Syntax</option>
-                                    <option disabled>Object& it's Syntax</option>
-                                    <option disabled>Reference Variable</option>
-                                    <option disabled>Constructors</option>
-                                    <option disabled>Instance(Non-Static)& Static Variables</option>
-                                    <option disabled>Instance(Non-Static) & Static Methods</option>
-                                    <option disabled>this Keyword and it's usages</option>
-                                    <option disabled>Object & Static Initializers(Anonymous Blocks)</option>
-                                    <option disabled>Understanding '+' Operator</option>
-                                    <option disabled>Inheritance& it's Syntax</option>
-                                    <option disabled>Types of Inheritance</option>
-                                    <option disabled>Object Class as Root of Java Class Hierarchy</option>
-                                    <option disabled>Variable Hiding</option>
-                                    <option disabled>Method Hiding</option>
-                                    <option disabled>Method Overriding</option>
-                                    <option disabled>Method Overloading</option>
-                                    <option disabled>Super keyword and it's usages</option>
-                                    <option disabled>Final keyword and it's usages</option>
-                                    <option disabled>Constructor Chaining</option>
-                                    <option disabled>Upcasting and Downcasting</option>
-                                    <option disabled>Static &Dynamic Binding</option>
-                                    <option disabled>Run Time Polymorphism</option>
-                                    <option disabled>Abstract Keyword(Abstract classes and methods)</option>
-                                    <option disabled>Understanding Interfaces</option>
-                                    <option disabled>Implementation of Encapsulation</option>
-                                    <option disabled>Association with Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OOP IMPLEMENTATION (PIE) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Packages</option>
-                                    <option disabled>Setting Class path</option>
-                                    <option disabled>Reading Input from Keyboard</option>
-                                    <option disabled>Access Modifiers</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PACKAGES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Static Nested Class</option>
-                                    <option disabled>Non-static Nested Class</option>
-                                    <option disabled>Local Class</option>
-                                    <option disabled>Anonymous Class</option>
-                                    <option disabled>Nested Interface</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">NESTED TYPES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How to read command line arguments</option>
-                                    <option disabled>Wrapper Classes</option>
-                                    <option disabled>Parsing of Numeric Strings</option>
-                                    <option disabled>String representation of Primitives</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COMMAND LINE ARGUMENTS AND WRAPPER CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Types of Runtime Errors</option>
-                                    <option disabled>Understanding Exceptions</option>
-                                    <option disabled>Exception Class Hierarchy</option>
-                                    <option disabled>Try & Catch Blocks</option>
-                                    <option disabled>Patterns of Catch Block</option>
-                                    <option disabled>Nested Try statements</option>
-                                    <option disabled>Throw, throws and finally</option>
-                                    <option disabled>Creating Custom Exceptions</option>
-                                    <option disabled>Checked & Unchecked Exceptions</option>
-                                    <option disabled>Assertion</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXCEPTION HANDLING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is String</option>
-                                    <option disabled>String Class</option>
-                                    <option disabled>Creating String Object</option>
-                                    <option disabled>Operations on String</option>
-                                    <option disabled>String Buffer Class and it's Methods</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between String and StringBuffer class</option>
-                                    <option disabled>Difference between StringBuffer and StringBuilder</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH STRINGS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to AWT</option>
-                                    <option disabled>Introduction to Swing Components</option>
-                                    <option disabled>Look And Feel of Swing Components</option>
-                                    <option disabled>MVC Architecture of Swing Components</option>
-                                    <option disabled>Working with Image</option>
-                                    <option disabled>Advance Swing Components</option>
-                                    <option disabled>JOptionPane,JTree,JTable,JTabbedPane</option>
-                                    <option disabled>JfileChooser,JcolorChooser</option>
-                                    <option disabled>Menu Components</option>
-                                    <option disabled>JMenu</option>
-                                    <option disabled>JMenuItem</option>
-                                    <option disabled>JMenubar</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SWING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Multitasking: Why Concurrent Execution</option>
-                                    <option disabled>Multiprocessing v/s Multithreading</option>
-                                    <option disabled>Main Thread (Default Java Thread)</option>
-                                    <option disabled>Creating Child Threads and understanding context switching</option>
-                                    <option disabled>Thread States</option>
-                                    <option disabled>Thread Group</option>
-                                    <option disabled>Thread Synchronization: Methods and Blocks</option>
-                                    <option disabled>Inter-Thread communication</option>
-                                    <option disabled>Daemon Threads</option>
-                                    <option disabled>Deadlock</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MULTITHREADED PROGRAMMING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is I/O</option>
-                                    <option disabled>Why Need Streams</option>
-                                    <option disabled>Byte Streams and Character Streams</option>
-                                    <option disabled>Read/Write operations with file</option>
-                                    <option disabled>Scanner Class</option>
-                                    <option disabled>Object Serialization& Deserialization</option>
-                                    <option disabled>Transient keyword</option>
-                                    <option disabled>File Class and it's Methods</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">I/O STREAMS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Fundamentals of a Network</option>
-                                    <option disabled>Socket and ServerSocket Classes</option>
-                                    <option disabled>InetAddress Class</option>
-                                    <option disabled>DatagramSocket and DatagramPacket Classes</option>
-                                    <option disabled>URL,URLConnection,HttpURLConnection Classes</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SOCKET PROGRAMMING</label>
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                                <!-- Nucleo Icons -->
+                                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                                <section class="py-3">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                                <br /><br />
+                                                <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </section>
+                                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                                <!-- '></iframe> -->
                             </div>
 
                         </div>
+                    </div>
+                </div>
+            </div>
 
 
-                        <div class="col-md -6">
 
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Understanding the Need Of Reflection</option>
-                                    <option disabled>Getting information about class's modifiers, fields, methods, constructors and super classes</option>
-                                    <option disabled>Finding out constant and method declaration belong to an interface</option>
-                                    <option disabled>Creating an instance of the class whose name is not known until runtime</option>
-                                    <option disabled>Getting and setting values of an object's field if field name is unknown until runtime</option>
-                                    <option disabled>Invoking a method on an object if the method is unknown until runtime</option>
-                                    <option disabled>Invoking Private Methods</option>
 
 
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">REFLECTION </label>
-                            </div>
 
 
 
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
 
-                                    <option disabled>Generics</option>
-                                    <option disabled>Lambda Expression</option>
-                                    <option disabled>Annotations</option>
-                                    <option disabled>Object Cloning</option>
-                                    <option disabled>Vargs</option>
-                                    <option disabled>Static-import</option>
-                                    <option disabled>Enum</option>
-                                    <option disabled>Static, Default and Private Methods of Interface</option>
-                                    <option disabled>Var Type</option>
-                                    <option disabled>Java Modules</option>
 
+            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
+                <div class="tab-content tab-space">
+                    <div class="tab-pane active" id="preview-features-1">
+                        <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                        <!-- Nucleo Icons -->
+                        <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                        <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                        <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                        <section class="py-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
+                                        <br /><br />
+                                        <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
 
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">EXTENDED & UTILITY CONCEPTS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>What is Collection?</option>
-                                    <option disabled>What is Framework?</option>
-                                    <option disabled>Collections Framework</option>
-                                    <option disabled>Core Interfaces</option>
-                                    <option disabled>Collection, List, Queue,Deque</option>
-                                    <option disabled>Set,NavigableSet, SortedSet</option>
-                                    <option disabled>Map,NavigableMap, SortedMap</option>
-                                    <option disabled>Core Classes</option>
-                                    <option disabled>ArrayList, LinkedList,PriorityQueue,ArrayDeque</option>
-                                    <option disabled>HashSet,LinkedHasSet,TreeSet,</option>
-                                    <option disabled>HashMap,IdentityHashMap,WeakHashMap,LinkedHashMap,Tree Map</option>
-                                    <option disabled>Accessing a Collection via an Iterator</option>
-                                    <option disabled>Accessing List via ListIterator</option>
-                                    <option disabled>Accessing a Collection via for each loop</option>
-                                    <option disabled>Working with User Defined Objects</option>
-                                    <option disabled>The Comparator and Comparable Interfaces</option>
-                                    <option disabled>The Legacy classes and Interfaces.</option>
-                                    <option disabled>Enumeration, Vector ,Stack</option>
-                                    <option disabled>Hashtable, Properties</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">COLLECTIONS FRAMEWORK </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.util.Date</option>
-                                    <option disabled>java.util.Calender</option>
-                                    <option disabled>java.sql.Date</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATE & TIME API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>java.time.LocalDate</option>
-                                    <option disabled>java.time.LocalTime</option>
-                                    <option disabled>java.time.LocalDateTime</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JODA API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding Locale</option>
-                                    <option disabled>Resource Bundle</option>
-                                    <option disabled>Usage of properties file</option>
-                                    <option disabled>Fetching text from Resource Bundle</option>
-                                    <option disabled>Displaying the text in HINDI</option>
-                                    <option disabled>Displaying date in Hindi</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SYSTEM PROPERTIES & INTERNATIONALIZATION (I18N</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled></option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-0 text-lg" for="floatingSelect">INTRODUCTION TO SQL (PROJECT BASED)</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need Of JDBC</option>
-                                    <option disabled>JDBC Drivers</option>
-                                    <option disabled>Statement, PreparedStatement, CallableStatement</option>
-                                    <option disabled>Scrollable and Updatable ResultSet</option>
-                                    <option disabled>Batch Updates</option>
-                                    <option disabled>Transaction</option>
-                                    <option disabled>Metadata</option>
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DATABASE PROGRAMMING USING JDBC</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Understanding the Concept of Java EE : JEE Specification</option>
-                                    <option disabled>Java EE Architecture</option>
-                                    <option disabled>Single Tier</option>
-                                    <option disabled>Two Tier</option>
-                                    <option disabled>Three Tier</option>
-                                    <option disabled>N-Tier</option>
-                                    <option disabled>Java EE Components</option>
-                                    <option disabled>Web Components</option>
-                                    <option disabled>Distributed(Business) Components</option>
-                                    <option disabled>Java EE Containers&amp; Servers</option>
-                                    <option disabled>Web Container&amp; Web Server(Apache Tomcat)</option>
-                                    <option disabled>EJB Container&amp; Application Server(Weblogic,Glassfish,Websphere)</option>
-                                    <option disabled>Java EE Services</option>
-                                    <option disabled>JNDI Service</option>
-                                    <option disabled>Java Transaction Service</option>
-                                    <option disabled>JAAS</option>
-                                    <option disabled>JMS</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA EE(JAVA PLATFORM ENTERPRISE EDITION) </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introduction to web programming</option>
-                                    <option disabled>Role of Servlet in web programming</option>
-                                    <option disabled>Servlet Lifecycle</option>
-                                    <option disabled>Servlet with Annotations</option>
-                                    <option disabled>@WebServlet</option>
-                                    <option disabled>@WebInitParam</option>
-                                    <option disabled>@WebListener</option>
-                                    <option disabled>@WebFilter</option>
-                                    <option disabled>@MultipartConfig</option>
-                                    <option disabled>Request Dispatching</option>
-                                    <option disabled>Parameters &amp; Attributes and their differences</option>
-                                    <option disabled>ServletConfig and ServletContext</option>
-                                    <option disabled>File Uploading and Downloading</option>
-                                    <option disabled>Session Tracking&amp;State Management</option>
-                                    <option disabled>Cookie</option>
-                                    <option disabled>Url Rewriting</option>
-                                    <option disabled>Hidden Form Field</option>
-                                    <option disabled>Session Object</option>
-                                    <option disabled>Events &amp; Listeners</option>
-                                    <option disabled>Dependency Injection</option>
-                                    <option disabled>Refreshing Servlet</option>
-                                    <option disabled>Filters</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVLET </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>JSP Architecture</option>
-                                    <option disabled>JSP Elements</option>
-                                    <option disabled>JSP Objects</option>
-                                    <option disabled>Understanding JavaBeans</option>
-                                    <option disabled>Custom Tags</option>
-                                    <option disabled>Using tags of JSTL</option>
-                                    <option disabled>Expression Language</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA SERVER PAGES (JSP) & JSTL</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Front End Coding</option>
-                                    <option disabled>FORM DESIGNING</option>
-                                    <option disabled>HTML</option>
-                                    <option disabled>CSS</option>
-                                    <option disabled>JAVA SCRIPT</option>
-                                    <option disabled>BOOTSTRAP</option>
-                                    <option disabled>Back End Coding</option>
-                                    <option disabled>DATABASE DESIGNING</option>
-                                    <option disabled>Connecting forms to database</option>
-                                    <option disabled>Writing Business Logic</option>
-                                    <option disabled>Project Hosting</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">PROJECT CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Why Design Patterns…?</option>
-                                    <option disabled>Front Controller</option>
-                                    <option disabled>Composite View</option>
-                                    <option disabled>Factory Pattern</option>
-                                    <option disabled>Singleton Pattern</option>
-                                    <option disabled>DAO Pattern</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">DESIGN PATTERN </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Email System and Protocols</option>
-                                    <option disabled>Sending &amp; Receiving Mails</option>
-                                    <option disabled>Handling Attachments</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">JAVA MAIL API </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>RMI</option>
-                                    <option disabled>Web Services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO DISTRIBUTED PROGRAMMING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>@PathParam</option>
-                                    <option disabled>@Path</option>
-                                    <option disabled>@FormParam</option>
-                                    <option disabled>@QueryParam</option>
-                                    <option disabled>@DefaultValue</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO RESTFULL SERVICES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">OVERVIEW OF JPA FRAMEWORK </label>
-                            </div>
-
-                            <div class="col-md-12 btn bg-gradient-primary">
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            Spring
-                                        </span>
                                     </div>
 
                                 </div>
                             </div>
-                            <br /><br /><br />
+                        </section>
+                        <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
 
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-                                    <option disabled>What is Spring?</option>
-                                    <option disabled>Spring modules</option>
-                                    <option disabled>Understanding dependency Injection</option>
-                                    <option disabled>Applying aspect-oriented programming</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING</label>
-                            </div>
-
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Containing your Bean</option>
-                                    <option disabled>Creating bean</option>
-                                    <option disabled>Injecting into bean properties</option>
-                                    <option disabled>Auto wiring</option>
-                                    <option disabled>Controlling bean creation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BASIC BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Declaring parent and Child Bean</option>
-                                    <option disabled>Applying method injection</option>
-                                    <option disabled>Injecting Non-spring Beans</option>
-                                    <option disabled>Registering Custom property editors</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVANCED BEAN WIRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing AOP</option>
-                                    <option disabled>Creating classic spring aspects</option>
-                                    <option disabled>Creating advice</option>
-                                    <option disabled>Defining Pointcuts and Advisors</option>
-                                    <option disabled>Using proxyFactory Bean</option>
-                                    <option disabled>Autoproxying</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">ADVISING BEANS </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Learning spring's data Access Philosphy</option>
-                                    <option disabled>Configuring a data source</option>
-                                    <option disabled>Using JDBC with Spring</option>
-                                    <option disabled>Working with JDBC Templates</option>
-                                    <option disabled>Using Spring's DAO Support Classes for JDBC</option>
-                                    <option disabled>Integrating Hibernate with Spring</option>
-                                    <option disabled>Caching</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HITTING THE DATABASE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Define MVC</option>
-                                    <option disabled>Hibernate Injection</option>
-                                    <option disabled>Spring Annotation</option>
-                                    <option disabled>Spring Controller</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO MVC </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Maven Configuration</option>
-                                    <option disabled>Converting Maven to Eclipse</option>
-                                    <option disabled>Various Maven Command</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAVEN DEPLOYMENT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Creating Rest</option>
-                                    <option disabled>Consuming Rest</option>
-                                    <option disabled>Calling on Client</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING REST API</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Introducing Spring-WS</option>
-                                    <option disabled>Defining Contract (First!)</option>
-                                    <option disabled>Handling messages with service endpoints</option>
-                                    <option disabled>Wiring it all together</option>
-                                    <option disabled>Consuming Spring-WS Web services</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">BUILDING CONTRACT-FIRST WEB SERVICES IN SPRING</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING OBJECT/XML MAPPER</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Project Creation</option>
-                                    <option disabled>Boot Elements</option>
-                                    <option disabled>Boot Services</option>
-                                    <option disabled>Boot Annotation</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SPRING BOOT </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE </label>
-                            </div>
-                            <div class="col-md-12 btn bg-gradient-primary">
-                                <br />
-                                <div class="tab-content tab-space">
-                                    <div class="tab-pane active" id="preview-modal">
-                                        <span class="text-lg">
-                                            HIBERNATE
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div><br /><br /><br />
-
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Need of ORM</option>
-                                    <option disabled>Problems using JDBC Directly</option>
-                                    <option disabled>ORM Implementation</option>
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO ORM</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Hibernate Architecture</option>
-                                    <option disabled>Hibernate configuration</option>
-                                    <option disabled>Hibernate's Support for Other Technologies</option>
-                                    <option disabled>Installing Hibernate</option>
-                                    <option disabled>A “Hello world” stand-alone application</option>
-                                    <option disabled>A Servlet–Based Hibernate application</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">INTRODUCTION TO HIBERNATE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                                    <option disabled>Mapping a basic Java Class</option>
-                                    <option disabled>Mapping a Class with Binary Data</option>
-                                    <option disabled>Mapping a Serializable Class</option>
-                                    <option disabled>Mapping a class with Data/ calendar attributes</option>
-                                    <option disabled>Mapping a Read-only class</option>
-                                    <option disabled>Mapping a class using Versioning /Timestamps</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">CREATING PERSISTING CLASSES</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Table-Per –class Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –subclass Hierarchy Mapping</option>
-                                    <option disabled>Table-Per –concrete-subclass Hierarchy Mapping</option>
-                                    <option disabled>Persistence interfaces</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">MAPPING INHERITANCE WITH JAVA CLASSES </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Associations</option>
-                                    <option disabled>Lazy initialization</option>
-                                    <option disabled>Mapping Maps/Sorted Maps</option>
-                                    <option disabled>Mapping Sets/Sorted Sets</option>
-                                    <option disabled>Mapping lists</option>
-                                    <option disabled>Mapping Arrays</option>
-                                    <option disabled>Mapping a Bidirectional Association</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">WORKING WITH COLLECTIONS</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Queries</option>
-                                    <option disabled>Named Queries</option>
-                                    <option disabled>SQL Queries</option>
-                                    <option disabled>Hibernate Queries language</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>Configuration</option>
-                                    <option disabled>Database support</option>
-                                    <option disabled>Using Transactions</option>
-                                    <option disabled>The Transactions API</option>
-                                    <option disabled>Transaction Example Using Oracle</option>
-                                    <option disabled>Locking</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE TRANSACTIONS AND LOCKING </label>
-                            </div>
-                            <div class="form-floating">
-                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-
-                                    <option disabled>How caching improves performance</option>
-                                    <option disabled>First level lache</option>
-                                    <option disabled>Second level cache</option>
-
-
-
-                                </select>
-                                <label style="color: black" class="mt-2 text-lg" for="floatingSelect">HIBERNATE CACHING </label>
-                            </div>
-
-
-                        </div>
-
+                        <!-- '></iframe> -->
                     </div>
 
-
                 </div>
-
-
-
-
-
-
-
-
-
-                <?php include "./query-form.php" ?>
-
-
-
             </div>
         </div>
     </div>

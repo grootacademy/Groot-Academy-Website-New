@@ -87,21 +87,23 @@
                                 </span>
                                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                                 <ul>
-                                    <li><strong>What Do You Understand By MERN?</strong></li>
-                                    <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                                    <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                                    <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                                    <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
+                                    <li><strong>What Do You Understand By PHP Course?</strong></li>
+                                    <li><strong>Skills Require To Become A PHP Developer</strong></li>
+                                    <li><strong>What Our Students Will Get During PHP Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning PHP Course</strong></li>
+                                    <li><strong>Why To Enrol In Our PHP Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn PHP ?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For PHP Developer</strong></li>
+                                    <li><strong>Frequently Asked PHP Course Interview Questions</strong></li>
                                     <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
                                 </ul>
 
-                                <p>How to become a MERN stack developer?</p>
-                                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
-
+                                <p>How to become a Becoming a PHP Developer?</p>
+                                <p>PHP (Hypertext Preprocessor) is a versatile server-side scripting language that powers a significant portion of the web. If you're looking to become a PHP developer, you're in the right place. A PHP developer is responsible for creating dynamic and interactive web pages, handling databases, and implementing various functionalities on the server side.</p>
+                                <p>Master PHP Fundamentals:
+                                    Start with the basics of PHP, including variables, data types, control structures, functions, and loops. Get comfortable with writing PHP code and understand how it interacts with web servers to produce dynamic content.</p>
+                                <p>Build a Strong Portfolio:
+                                    Showcase your skills and projects in a portfolio. Include a variety of projects that highlight different aspects of PHP development, such as database integration, authentication, and working with APIs.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
                                 <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
