@@ -187,7 +187,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <h3 class="text-white">Recognized certifications.</h3>
 
 
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">ENroll Now</a>
+                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round py-3 px-6 h4">ENroll Now</a>
                     </div>
                 </div>
 

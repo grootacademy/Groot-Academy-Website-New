@@ -187,7 +187,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <h3 class="text-white">Recognized certifications.</h3>
 
 
-            <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">ENroll Now</a>
+            <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round py-3 px-6 h4">ENroll Now</a>
           </div>
         </div>
 
@@ -204,11 +204,14 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <div class="container">
       <div class="row align-items-center">
 
-        <div class="col-lg-2  me-auto p-lg-2  mt-1">
-          <div class="card  card-background-mask-primary tilt" data-tilt style="background-image: linear-gradient(310deg, #7928CA 50%, #FF0080 50%);">
+        <div class="col-lg-2 ms-auto me-auto py-6  mt-1">
+          <div class="card  card-background-mask-primary tilt " data-tilt style="background-image: linear-gradient(310deg, #7928CA 50%, #FF0080 50%);">
             <div class="full-background" style="background-image: url('./assets/img/logo.jpg')"></div>
-            <div class="card-body pt-0 text-center">
+            <div class="card-body pt-3 text-center">
+
               <h2 class="text-white mt-3">Theory</h2>
+
+
             </div>
           </div>
 
