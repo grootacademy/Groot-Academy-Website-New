@@ -53,11 +53,11 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-webdesigning-course-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-web-designing -course-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">webdesigning course</h4>
+                <h4 class="course-heading">web designing course</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -87,18 +87,18 @@
                                 </span>
                                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                                 <ul>
-                                    <li><strong>What Do You Understand By webdesigning?</strong></li>
-                                    <li><strong>Skills Require To Become A webdesigning Developer</strong></li>
-                                    <li><strong>What Our Students Will Get During webdesigning Training Course?</strong></li>
-                                    <li><strong>Career Opportunities After Learning webdesigning</strong></li>
-                                    <li><strong>Why To Enrol In Our webdesigning Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn webdesigning?</strong></li>
-                                    <li><strong>Reasons To Choose Groot Academy For webdesigning Developer</strong></li>
-                                    <li><strong>Frequently Asked webdesigning Course Interview Questions</strong></li>
+                                    <li><strong>What Do You Understand By web designing ?</strong></li>
+                                    <li><strong>Skills Require To Become A web designing Developer</strong></li>
+                                    <li><strong>What Our Students Will Get During web designing Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning web designing </strong></li>
+                                    <li><strong>Why To Enrol In Our web designing Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn web designing ?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For web designing Developer</strong></li>
+                                    <li><strong>Frequently Asked web designing Course Interview Questions</strong></li>
                                     <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
                                 </ul>
 
-                                <p>How to become a webdesigning developer?</p>
+                                <p>How to become a web designing developer?</p>
                                 <p>Are you passionate about crafting visually stunning and user-friendly websites? Become a proficient web designer through our comprehensive Web Design Mastery course! Aspiring to create a strong foundation in both front-end and design principles, our program focuses on HTML, CSS, and essential design tools.</p>
                                 <p>Web Design Mastery is designed for individuals eager to master the art of web design. Whether you're a beginner or looking to enhance your skills, our course provides a well-rounded eGroot Academyion in the following key areas:</p>
                             </div>
@@ -275,7 +275,7 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>webdesigning course</h5>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>web designing course</h5>
                                         <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Web Design & Development Overview</strong></h4>
                                         <p>The Web Design & Development course at Groot Academy in Jaipur is highly regarded in the industry, offering comprehensive training in the dynamic realm of web development and design. Web design is a critical aspect of creating visually appealing and user-friendly websites, and the course places a strong emphasis on security, ensuring that graduates are equipped to build robust and secure online experiences.</p>
                                         <p>Web Design involves the art and science of crafting visually captivating websites that deliver an optimal user experience. This course covers modern design principles, responsive layouts, and the latest web technologies, empowering students to create websites that are not only aesthetically pleasing but also functionally effective. Students will gain proficiency in industry-standard tools and frameworks for web development, allowing them to design and implement compelling and responsive websites.</p>
@@ -338,27 +338,21 @@
 
             <div>
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Choose PixelCraft Academy for Web Designing Course</strong></h4>
-                    <p>PixelCraft Academy stands out as the premier institute for Web Designing in Bangalore, offering a comprehensive course with a 100% placement assistance guarantee. We prioritize the success of our students not only during the course but also beyond, with continuous support for any queries or doubts they may have post-completion.</p>
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Choose Groot Academy Academy for Web Designing Course</strong></h4>
+                    <p>Groot Academy Academy stands out as the premier institute for Web Designing in Bangalore, offering a comprehensive course with a 100% placement assistance guarantee. We prioritize the success of our students not only during the course but also beyond, with continuous support for any queries or doubts they may have post-completion.</p>
                     <p><strong>Expert Trainers with Industry Experience:</strong>Our seasoned trainers bring extensive industry experience, ensuring that our students receive top-notch education with real-world insights. They are committed to nurturing each student's skills and guiding them through every aspect of web designing.</p>
                 </div>
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career After Spring Boot & Microservices Security with Hibernate Course</strong></h4>
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career After web designing Course</strong></h4>
                     <p> After completing a comprehensive Web Designing course, a plethora of exciting career opportunities become available to individuals with a strong grasp of this skill set. The field of web designing is dynamic and diverse, offering various job profiles that cater to different aspects of web development and design. Here are some popular job roles and their corresponding work profiles in the realm of web designing:</p>
                     <p><strong>Front-End Developer:</strong>Work Profile: Front-end developers bring designs to life by implementing them using HTML, CSS, and JavaScript. They ensure that websites are responsive, visually appealing, and function seamlessly across different devices.</p>
                     <p><strong> Developer:</strong>Work Profile: Web developers are responsible for the overall development of websites. They may work on both front-end and back-end technologies, ensuring that websites are functional, secure, and efficient.</p>
                 </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Placement Assistance after Spring Boot Microservices & Security with Hibernate Course:</strong></h4>
-                    <p>At Groot Academy The IT Training School, we offer our students trending industry based learning, which helps our students to get placement more efficiently in top MNCs.</p>
-                    <p>We have collaborated with more than 800 placement partners and our students are continuously being placed in these world class companies like Accenture, IBM, Cognizant, CSC , Bajaj Allianz and many more.</p>
-                    <p>We conduct regular HR sessions for our students, where we train for interviews and continuously coordinate with companies to learn their hiring needs.</p>
-                    <p>We also offer students to take part in placement drives who have completed a minimum of 70% - 80% of the course syllabus.</p>
-                </div>
+
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
                     <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
-                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in webdesigning development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
-                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of webdesigning development.</p>
+                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in web designing development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
+                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of web designing development.</p>
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
