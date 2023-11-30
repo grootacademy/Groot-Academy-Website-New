@@ -104,7 +104,7 @@
 
                 <!-- brochures button -->
 
-                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+                <!-- <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
 
                 <!-- brochures button -->
                 <!-- Left side bar  -->

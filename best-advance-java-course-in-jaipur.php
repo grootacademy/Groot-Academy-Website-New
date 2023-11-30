@@ -103,7 +103,7 @@
                                 <p>At Groot Academy, we understand the significance of Advanced Java in contemporary software development. Our institute, with over two decades of experience, is dedicated to providing top-notch IT education, with a specialized focus on Advanced Java. Our seasoned faculty comprises professionals who bring real-world experience to the classroom, ensuring that students gain practical insights into the intricacies of Advanced Java development.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>

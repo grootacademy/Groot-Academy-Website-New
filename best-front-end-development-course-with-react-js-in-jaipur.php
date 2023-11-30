@@ -53,11 +53,11 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-web-designing -course-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-front-end-development-course-with-react-js-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">web designing course</h4>
+                <h4 class="course-heading">React Js Course Syllabus</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -87,23 +87,24 @@
                                 </span>
                                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                                 <ul>
-                                    <li><strong>What Do You Understand By web designing ?</strong></li>
-                                    <li><strong>Skills Require To Become A web designing Developer</strong></li>
-                                    <li><strong>What Our Students Will Get During web designing Training Course?</strong></li>
-                                    <li><strong>Career Opportunities After Learning web designing </strong></li>
-                                    <li><strong>Why To Enrol In Our web designing Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn web designing ?</strong></li>
-                                    <li><strong>Reasons To Choose Groot Academy For web designing Developer</strong></li>
-                                    <li><strong>Frequently Asked web designing Course Interview Questions</strong></li>
+                                    <li><strong>What Do You Understand By MERN?</strong></li>
+                                    <li><strong>Skills Require To Become A Mern Developer</strong></li>
+                                    <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
+                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
+                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
                                     <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
                                 </ul>
 
-                                <p>How to become a web designing developer?</p>
-                                <p>Are you passionate about crafting visually stunning and user-friendly websites? Become a proficient web designer through our comprehensive Web Design Mastery course! Aspiring to create a strong foundation in both front-end and design principles, our program focuses on HTML, CSS, and essential design tools.</p>
-                                <p>Web Design Mastery is designed for individuals eager to master the art of web design. Whether you're a beginner or looking to enhance your skills, our course provides a well-rounded eGroot Academyion in the following key areas:</p>
+                                <p>How to become a MERN stack developer?</p>
+                                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
+                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
@@ -275,11 +276,16 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>web designing course</h5>
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Web Design & Development Overview</strong></h4>
-                                        <p>The Web Design & Development course at Groot Academy in Jaipur is highly regarded in the industry, offering comprehensive training in the dynamic realm of web development and design. Web design is a critical aspect of creating visually appealing and user-friendly websites, and the course places a strong emphasis on security, ensuring that graduates are equipped to build robust and secure online experiences.</p>
-                                        <p>Web Design involves the art and science of crafting visually captivating websites that deliver an optimal user experience. This course covers modern design principles, responsive layouts, and the latest web technologies, empowering students to create websites that are not only aesthetically pleasing but also functionally effective. Students will gain proficiency in industry-standard tools and frameworks for web development, allowing them to design and implement compelling and responsive websites.</p>
-                                        <p>Security is a paramount consideration in today's digital landscape, and the Web Design & Development course addresses this by incorporating best practices in web security. Students will explore strategies for securing web applications, protecting against common vulnerabilities, and implementing encryption techniques to safeguard user data. The course covers the integration of security measures at various stages of web development, ensuring that websites are resilient to potential threats.</p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>React Js Course Syllabus</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Js Course Syllabus</strong></h4>
+                                        <p>Our React.JS Course equips the learner for developing a single-page or mobile applications and creates
+                                            reusable components for web pages and mobile applications. We have designed React.JS Course Syllabus by
+                                            industry experts as per the requirements of current trends. The React.JS Course Curriculum contains
+                                            basic elements like introduction, JSX overview, Environmental setup, real-time applications,
+                                            forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as
+                                            router and navigations, Flux, Redux, and Unit testing methods. Check out the detailed React.JS Course
+                                            Content below.</p>
+
 
 
 
@@ -337,22 +343,12 @@
             </div>
 
             <div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Choose Groot Academy Academy for Web Designing Course</strong></h4>
-                    <p>Groot Academy Academy stands out as the premier institute for Web Designing in Bangalore, offering a comprehensive course with a 100% placement assistance guarantee. We prioritize the success of our students not only during the course but also beyond, with continuous support for any queries or doubts they may have post-completion.</p>
-                    <p><strong>Expert Trainers with Industry Experience:</strong>Our seasoned trainers bring extensive industry experience, ensuring that our students receive top-notch education with real-world insights. They are committed to nurturing each student's skills and guiding them through every aspect of web designing.</p>
-                </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career After web designing Course</strong></h4>
-                    <p> After completing a comprehensive Web Designing course, a plethora of exciting career opportunities become available to individuals with a strong grasp of this skill set. The field of web designing is dynamic and diverse, offering various job profiles that cater to different aspects of web development and design. Here are some popular job roles and their corresponding work profiles in the realm of web designing:</p>
-                    <p><strong>Front-End Developer:</strong>Work Profile: Front-end developers bring designs to life by implementing them using HTML, CSS, and JavaScript. They ensure that websites are responsive, visually appealing, and function seamlessly across different devices.</p>
-                    <p><strong> Developer:</strong>Work Profile: Web developers are responsible for the overall development of websites. They may work on both front-end and back-end technologies, ensuring that websites are functional, secure, and efficient.</p>
-                </div>
 
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
                     <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
-                    <p>At Groot Academy, our team of trainers comprises seasoned experts dedicated to identifying, evaluating, and implementing the best practices in web designing development. Our trainers are not just instructors; they are industry veterans with a wealth of experience. </p>
-                    <p>We leverage a well-defined methodology that goes beyond conventional training approaches. This methodology helps our students identify opportunities, develop optimal solutions, and execute them with maturity and precision in the realm of web designing development.</p>
+                    <p>At React Groot Academy, we pride ourselves on delivering an exceptional React.js course designed to cultivate mastery in web development. Our team of instructors isn't just composed of teachers; they are seasoned industry veterans committed to unraveling the intricacies of React.js development. When you choose React Groot Academy, you're not just enrolling in a course – you're investing in a transformative learning experience. </p>
+                    <p>Expert Instructors: Learn from accomplished professionals who bring a wealth of experience in React.js development. Our instructors are not only passionate about teaching but have a deep understanding of industry trends and best practices.</p>
+                    <p>Practical Projects: Theory is essential, but practical application is paramount. Engage in hands-on projects that simulate real-world scenarios, allowing you to apply your learning and build a robust portfolio.</p>
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
@@ -362,123 +358,301 @@
                     <!-- </marquee> -->
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 1: Introduction to Web Design</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Understanding the Basics</h4>
+                    <div class="col-lg-4">
+
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Introduction to React</strong></h4>
                         <ul>
-                            <li>Definition and Importance of Web Design</li>
-                            <li>Evolution of Web Design</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Essential Concepts</h4>
-                        <ul>
-                            <li>HTML, CSS, JavaScript</li>
-                            <li>Responsive Web Design</li>
-                            <li>User Experience (UX) and User Interface (UI) Design</li>
+                            <li>What is React?
+                            </li>
+                            <li>Why React?
+                            </li>
+                            <li>React version history
+                            </li>
+                            <li>React 16 vs React 15
+                            </li>
+                            <li>Just React – Hello World
+                            </li>
+                            <li>Using create-react-app
+                            </li>
+                            <li>Anatomy of react project
+                            </li>
+                            <li>Running the app
+                            </li>
+                            <li>Debugging first react app
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 2: HTML (Hypertext Markup Language)</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to HTML</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Templating using JSX</strong></h4>
                         <ul>
-                            <li>Structure of HTML Document</li>
-                            <li>HTML Elements and Tags</li>
+                            <li>Working with React. createElement
+                            </li>
+                            <li>Expressions
+                            </li>
+                            <li>Using logical operators
+                            </li>
+                            <li>Specifying attributes
+                            </li>
+                            <li>Specifying children
+                            </li>
+                            <li>Fragments
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"> HTML5 Features</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>About Components</strong></h4>
                         <ul>
-                            <li>Semantic Elements</li>
-                            <li>Multimedia Elements (Audio, Video)</li>
-                            <li>Forms and Input Elements</li>
+                            <li>Significance of component architecture
+                            </li>
+                            <li>Types of components
+                            </li>
+                            <li>Functional
+                            </li>
+                            <li>Class based
+                            </li>
+                            <li>Pure
+                            </li>
+                            <li>Component Composition
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Creating a Web Page with HTML</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with state and props</strong></h4>
                         <ul>
-                            <li>Building a Simple Web </li>
-                            <li>Links and Navigation</li>
+                            <li>What is state and it significance
+                            </li>
+                            <li>Read state and set state
+                            </li>
+                            <li>Passing data to component using props
+                            </li>
+                            <li>Validating props using propTypes
+                            </li>
+                            <li>Supplying default values to props using defaultProps
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 3: CSS (Cascading Style Sheets)</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to CSS</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Rendering lists</strong></h4>
                         <ul>
-                            <li>Styling HTML Elements</li>
-                            <li>CSS Selectors and Properties</li>
+                            <li>Using react key prop
+                            </li>
+                            <li>Using map function to iterate on arrays to generate elements
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Layout and Positioning</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Event handling in React</strong></h4>
                         <ul>
-                            <li>Box Model</li>
-                            <li>Flexbox and Grid Layouts</li>
+                            <li>Understanding React event system
+                            </li>
+                            <li>Understanding Synthetic event
+                            </li>
+                            <li>Passing arguments to event handlers
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Responsive Design</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Understanding component lifecycle and
+                                &nbsp;handling errors</strong></h4>
                         <ul>
-                            <li>Media Queries</li>
-                            <li>Fluid Grids and Flexible Images</li>
+                            <li>Understand the lifecycle methods
+                            </li>
+                            <li>Handle errors using error boundaries
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 4: JavaScript Basics</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to JavaScript</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with forms&lt;/str</strong></h4>
                         <ul>
-                            <li>Variables, Data Types, and Operators</li>
-                            <li>Control Structures (if statements, loops)</li>
+                            <li>Controlled components
+                            </li>
+                            <li>Uncontrolled components
+                            </li>
+                            <li>Understand the significance to default Value prop
+                            </li>
+                            <li>Using react ref prop to get access to DOM element
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">DOM Manipulation</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Context</strong></h4>
                         <ul>
-                            <li>Accessing and Modifying HTML Elements</li>
-                            <li>Event HandlingIntroduction to jQuery</li>
+                            <li>What is context
+                            </li>
+                            <li>When to use context
+                            </li>
+                            <li>Create Context
+                            </li>
+                            <li>Context.Provider
+                            </li>
+                            <li>Context.Consumer
+                            </li>
+                            <li>Reading context in class
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Introduction to jQuery</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Code-Splitting</strong></h4>
                         <ul>
-                            <li>Basics of jQuery</li>
-                            <li>Using jQuery for DOM Manipulation</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 5: UX/UI Design Principles</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Understanding User Experience (UX)</h4>
-                        <ul>
-                            <li>Usability Principles</li>
-                            <li>User Research and Personas</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">User Interface (UI) Design</h4>
-                        <ul>
-                            <li>Design Principles</li>
-                            <li>Color Theory and Typography</li>
+                            <li>What is code splitting
+                            </li>
+                            <li>Why do you need code splitting
+                            </li>
+                            <li>React.lazy
+                            </li>
+                            <li>Suspense
+                            </li>
+                            <li>Route-based code splitting
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Module 6: Design Tools</h4>
-                        <h4 class="text-gradient text-primary mb-0 mt-2"> Introduction to Design Tools</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>ooks</strong></h4>
                         <ul>
-                            <li>Adobe XD, Figma, Sketch</li>
+                            <li>What are hooks
+                            </li>
+                            <li>Why do you need hooks
+                            </li>
+                            <li>Different types of hooks
+                            </li>
+                            <li>Using state and effect hooks
+                            </li>
+                            <li>Rules of hooks
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Creating Prototypes</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Routing with react router</strong></h4>
                         <ul>
-                            <li> Wireframing and Prototyping Basics</li>
+                            <li>Setting up react router
+                            </li>
+                            <li>Understand routing in single page applications
+                            </li>
+                            <li>Working with BrowserRouter and HashRouter components
+                            </li>
+                            <li>Configuring route with Route component
+                            </li>
+                            <li>Using Switch component to define routing rules
+                            </li>
+                            <li>Making routes dynamic using route params
+                            </li>
+                            <li>Working with nested routes
+                            </li>
+                            <li>Navigating to pages using Link and NavLink component
+                            </li>
+                            <li>Redirect routes using Redirect Component
+                            </li>
+                            <li>Using Prompt component to get consent of user for navigation
+                            </li>
+                            <li>Path less Route to handle failed matches
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2">Assessment and Certification</h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Just Redux</strong></h4>
                         <ul>
-                            <li>Quizzes and Assignments</li>
-                            <li>Final Project Evaluation</li>
-                            <li>Course Completion Certificate</li>
+                            <li>What is redux
+                            </li>
+                            <li>Why redux
+                            </li>
+                            <li>Redux principles
+                            </li>
+                            <li>Install and setup redux
+                            </li>
+                            <li>Creating actions, reducer and store
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Immutable.js</strong></h4>
+                        <ul>
+                            <li>What is Immutable.js?
+                            </li>
+                            <li>Immutable collections
+                            </li>
+                            <li>Lists
+                            </li>
+                            <li>Maps
+                            </li>
+                            <li>Sets
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Redux</strong></h4>
+                        <ul>
+                            <li>What is React Redux
+                            </li>
+                            <li>Why React Redux
+                            </li>
+                            <li>Install and setup
+                            </li>
+                            <li>Presentational vs Container components
+                            </li>
+                            <li>Understand high order component
+                            </li>
+                            <li>Understanding mapStateToProps and mapDispatchtToProps usage
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Redux middleware</strong></h4>
+                        <ul>
+                            <li>Why redux middleware
+                            </li>
+                            <li>Available redux middleware choices
+                            </li>
+                            <li>What is redux saga
+                            </li>
+                            <li>Install and setup redux saga
+                            </li>
+                            <li>Working with Saga helpers
+                            </li>
+                            <li>Sagas vs promises
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Unit Testing</strong></h4>
+                        <ul>
+                            <li>Understand the significance of unit testing
+                            </li>
+                            <li>Understand unit testing jargon and tools
+                            </li>
+                            <li>Unit testing react components with Jest
+                            </li>
+                            <li>Unit testing react components with enzyme
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Webpack Primer</strong></h4>
+                        <ul>
+                            <li>What is webpack
+                            </li>
+                            <li>Why webpack
+                            </li>
+                            <li>Install and setup webpack
+                            </li>
+                            <li>Working with webpack configuration file
+                            </li>
+                            <li>Working with loaders
+                            </li>
+                            <li>Working with plugins
+                            </li>
+                            <li>Setting up Hot Module Replacement
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Isomorphic React</strong></h4>
+                        <ul>
+                            <li>What is server-side rendering (SSR)?
+                            </li>
+                            <li>Why SSR
+                            </li>
+                            <li>Working with render To String and render To StaticM arkup methods
+                            </li>
                         </ul>
                     </div>
 
@@ -496,28 +670,29 @@
                 <div class="row">
 
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">1. What is web designing?</h5>
-                        <p>Answer: Web designing is the process of creating and arranging visual elements on a website. It involves the use of various design tools, coding languages, and graphic design principles to enhance the user experience and aesthetics of a website.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">2. What skills are essential for a career in web designing?</h5>
-                        <p>Answer:Essential skills include proficiency in HTML, CSS, and JavaScript, a good understanding of graphic design principles, creativity, attention to detail, and the ability to create user-friendly interfaces.How important is responsive design in web designing? </p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">3.How important is responsive design in web designing?</h5>
-                        <p>Answer: Responsive design is crucial as it ensures that websites adapt and display optimally on various devices and screen sizes. This is essential for providing a seamless user experience across desktops, tablets, and smartphones.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">4. What is the difference between UI and UX design?</h5>
-                        <p>Answer: UI (User Interface) design focuses on the look and feel of a website, emphasizing visual elements. UX (User Experience) design focuses on the overall user experience, ensuring that the website is easy to navigate and meets user needs.Which tools are commonly used in web designing?</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">5.Which tools are commonly used in web designing?</h5>
-                        <p>Answer: Popular tools include Adobe Creative Suite (Photoshop, Illustrator), Sketch, Figma, and various code editors like Visual Studio Code. Content Management Systems (CMS) like WordPress are also widely used.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is ReactJS, and why should I learn it?</h5>
+                        <p>Answer: ReactJS is a JavaScript library for building user interfaces, particularly for single-page applications where UI changes over time. Learning ReactJS is crucial for modern web development, as it allows for the creation of dynamic, interactive, and efficient user interfaces.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2.What does the ReactJS course cover in terms of curriculum?</h5>
+                        <p>Answer: Our ReactJS course covers a comprehensive syllabus, including but not limited to: React fundamentals, component-based architecture, state and props management, hooks, routing, handling forms, integrating with APIs, and deploying React applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3.Who are the instructors, and what sets them apart?</h5>
+                        <p>Answer: Our instructors are seasoned industry professionals with extensive experience in React.js development. They bring real-world insights, practical knowledge, and a passion for teaching. Their goal is to ensure you not only understand the concepts but can apply them effectively in a professional setting.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4. Is this course suitable for beginners with no prior programming experience?</h5>
+                        <p>Answer: Yes, our ReactJS course is designed to cater to learners with varying levels of experience. While some familiarity with JavaScript is beneficial, our curriculum includes introductory modules to help beginners grasp the fundamentals before delving into React.js specifics.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5. How hands-on is the course? Will I be working on projects?</h5>
+                        <p>Answer: Absolutely! Our course is designed to be hands-on. You will work on practical projects that simulate real-world scenarios, allowing you to apply your knowledge and build a portfolio showcasing your React.js skills.</p>
                     </div>
                     <div class="col-lg-6">
-                        <h5 class="text-gradient text-primary mb-0 mt-2">6.How does web designing contribute to SEO? </h5>
-                        <p>Answer: Web designing plays a role in SEO by influencing factors such as page load speed, mobile-friendliness, and overall user experience. Well-designed websites with clean code and optimal performance tend to rank higher in search engine results.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">7. What is the importance of color schemes in web designing?</h5>
-                        <p>Answer: Color schemes influence the visual appeal and mood of a website. Well-chosen color combinations enhance branding, readability, and user engagement.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">8.How can I stay updated with the latest trends in web designing?</h5>
-                        <p>Answer: Stay informed by following industry blogs, attending webinars, joining online communities, and exploring design showcases. Additionally, regularly updating skills through continuous learning is crucial in staying current with industry trends.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">9. Can I start a career in web designing without a formal degree?</h5>
-                        <p>Answer: Yes, many successful web designers are self-taught or have learned through online courses and practical experience. Building a strong portfolio and gaining practical skills are often more important than formal education.</p>
-                        <h5 class="text-gradient text-primary mb-0 mt-2">10.What is the role of a web designer in the development process?</h5>
-                        <p>Answer: Web designers collaborate with developers to create the visual elements and layout of a website. They work on user interface design, user experience optimization, and ensure that the website aligns with the client's branding and objectives.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6.Are there any prerequisites for enrolling in the ReactJS course?</h5>
+                        <p>Answer: While not mandatory, a basic understanding of HTML, CSS, and JavaScript can be helpful. Our introductory modules are designed to bring everyone up to speed, regardless of their initial level of familiarity with these technologies.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7. Can I get assistance or support outside of class hours?</h5>
+                        <p>Answer: Yes, we understand that learning is an ongoing process. We offer additional support through discussion forums, Q&A sessions, and dedicated channels for students to connect with instructors and peers.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8.What sets this ReactJS course apart from others in the market?</h5>
+                        <p>Answer: Our course stands out due to its comprehensive curriculum, hands-on approach, experienced instructors, and a focus on real-world application. We go beyond teaching React.js syntax to ensure you gain a deep understanding of best practices and industry-relevant skills.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9.Is there any career guidance or support provided after completing the course?</h5>
+                        <p>Answer: Yes, we offer career guidance to help you navigate the job market successfully. From resume building to interview preparation, our goal is to empower you for a successful career in React.js development.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How do I enroll, and what is the duration of the ReactJS course?</h5>
+                        <p>Answer: You can enroll through our online platform. The course duration may vary, but it is structured to accommodate both full-time and part-time learners. Check our website or contact us for specific details on the upcoming sessions.</p>
+
                     </div>
                 </div>
             </div>

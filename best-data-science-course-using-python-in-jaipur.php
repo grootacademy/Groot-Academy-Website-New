@@ -113,7 +113,7 @@
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
                                 <!-- brochures button -->
 
-                                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+                                <!-- <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
 
                                 <!-- brochures button -->
                                 <!-- Left side bar  -->

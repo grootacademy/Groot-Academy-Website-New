@@ -345,7 +345,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             </a>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-            <a href="./best-webdesigning-course-in-jaipur.php">
+            <a href="./best-web-designing-course-in-jaipur.php">
               <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                 <img src="./assets/img/course-card-images/web desiging1.avif" width="100%">
                 <b style="text-align: center; font-size:medium; margin-top:30px;">Website Designing</b>
@@ -365,7 +365,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div> -->
           <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-            <a href="./best-front-end-development-course-with-angular-js-in-jaipur.php">
+            <a href="./best-front-end-development-course-with-react-js-in-jaipur.php">
               <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                 <img src="./assets/img/course-card-images/react js logo.png" width="100%">
                 <b style="text-align: center; font-size:medium; margin-top:17px;">Front End Developement</b>

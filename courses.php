@@ -204,11 +204,14 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <div class="container">
             <div class="row align-items-center">
 
-                <div class="col-lg-2  me-auto p-lg-2  mt-1">
+                <div class="col-lg-2 ms-auto me-auto py-5  mt-1">
                     <div class="card  card-background-mask-primary tilt" data-tilt style="background-image: linear-gradient(310deg, #7928CA 50%, #FF0080 50%);">
                         <div class="full-background" style="background-image: url('./assets/img/logo.jpg')"></div>
-                        <div class="card-body pt-0 text-center">
-                            <h2 class="text-white mt-3">Theory</h2>
+                        <div class="card-body pt-3 text-center">
+
+                            <h2 class="text-white mt-3"> Theory</h2>
+
+
                         </div>
                     </div>
 
@@ -351,10 +354,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-webdesigning-course-in-jaipur.php">
+                        <a href="./best-web-designing-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
-                                <img src="./assets/img/course-card-images/web desiging.png" width="100%">
-                                <b style="text-align: center; font-size:medium; margin-top:30px;">Website Designing</b>
+                                <img src="./assets/img/course-card-images/web desiging-card2.png" width="100%">
+                                <b style="text-align: center; font-size:medium; margin-top:18px;">Website Designing</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -371,10 +374,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div> -->
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-front-end-development-course-with-angular-js-in-jaipur.php">
+                        <a href="./best-front-end-development-course-with-react-js-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/course-card-images/react js logo.png" width="100%">
-                                <b style="text-align: center; font-size:medium; margin-top:17px;">Front End Developement</b>
+                                <b style="text-align: center; font-size:medium; margin-top:17px;">Front End Developement With ReactJS</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -384,7 +387,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <a href="./best-full-stack-web-development-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/Full-Stack-Web-Developer-by-groot-academy.png" width="100%">
-                                <b style="text-align: center; font-size:medium; margin-top:22px;">Full Stack Development</b>
+                                <b style="text-align: center; font-size:medium; margin-top:22px;">Full Web Stack Development With NodeJS</b>
                             </div>
                             <div class="mt-2 ms-2">
                             </div>
@@ -534,7 +537,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 <center>
                                     <img src="./assets/img/groot-academy-ios.png" width="50%">
                                 </center>
-                                <b style="text-align: center;margin-top: 33px; font-size:medium;">IOS Web Development</b>
+                                <b style="text-align: center;margin-top: 33px; font-size:medium;">IOS Development</b>
                             </div>
 
                         </a>

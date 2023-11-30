@@ -106,7 +106,7 @@
                                 <p> <strong> the Basics of Spring Framework:</strong>Gain knowledge of the fundamental concepts of the Spring framework, including Dependency Injection and Aspect-Oriented Programming.</p>
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>

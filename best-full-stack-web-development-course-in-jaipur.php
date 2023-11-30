@@ -57,7 +57,7 @@
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">Full Stack Developer Course</h4>
+                <h4 class="course-heading">Best Full Stack Web Development Course in Jaipur</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -91,10 +91,10 @@
                                     <li><strong>Skills Require To Become A Mern Developer</strong></li>
                                     <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
                                     <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
+                                    <li><strong>Why To Enroll In Our Mern Stack Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn Mern Stack Web Development?</strong></li>
                                     <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
+                                    <li><strong>Frequently Asked for MERN stack Web Development Course Interview Questions</strong></li>
                                     <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
                                 </ul>
 
@@ -104,7 +104,7 @@
 
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
@@ -276,15 +276,15 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:Full Stack Developer Course</h5>
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Full Stack Course Syllabus</strong></h4>
-                                        <p>Since learning
-                                            <strong>Full Stack Developer</strong> is a comprehensive program we have included all the essential
-                                            concepts of
-                                            <strong>Full Stack Development in our syllabus</strong>. The content of the syllabus is updated
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Importance of Full Stack Developemnt Course with NodeJS</h5>
+                                        <p>Since learning<strong>Full Stack Developer</strong> is a comprehensive program we have included all the essential
+                                            concepts of<strong>Full Stack Development in our syllabus</strong>. The content of the syllabus is updated
                                             regularly and it is the best in the
                                             industry. Softlogic offers<strong>Full Stack Developer Course Syllabus.</strong>
                                         </p>
+                                        <p>A Full Stack Development course with Node.js holds significant importance in the realm of web development for several reasons. Let's delve into the key aspects that make this combination valuable:</p>
+                                        <p>Versatility and Full Stack Proficiency: Node.js is a runtime that allows developers to use JavaScript for server-side scripting. When integrated into a Full Stack Development course, it enables learners to become proficient in both frontend (client-side) and backend (server-side) development.
+                                            Full Stack Developers with Node.js expertise can seamlessly work on the entire web application stack, covering both the user interface and server-side logic. This versatility is crucial in the modern development landscape.</p>
 
 
 
@@ -345,10 +345,12 @@
             <div>
 
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy for MERN stack Development? </strong></h4>
+                    <p>As of my last knowledge update in January 2023, there is no widely recognized or prominent institution known as "Groot Academy" for MERN stack development. However, if you're asking about the potential advantages or reasons one might consider choosing a hypothetical academy named "Groot Academy" for MERN stack development, here are some generic points that could apply:</p>
                     <p>At Full Stack Groot Academy, we take pride in our team of trainers, a group of seasoned experts committed to discerning, evaluating, and implementing the most effective practices in full-stack development. Our instructors aren't merely educators; they are industry veterans with a rich reservoir of experience.</p>
                     <p>Expert Instructors: Learn from professionals who have not just theoretical knowledge but practical insights from years of hands-on experience in full-stack development. Our instructors are dedicated to providing you with the skills needed in the dynamic world of web development.</p>
                     <p>Interactive Learning Environment: Engage in interactive sessions with instructors and peers. We believe in creating a collaborative atmosphere where questions are encouraged, discussions are fostered, and learning is a dynamic, interactive process.</p>
+                    <p>Comprehensive Curriculum:Groot Academy may offer a comprehensive curriculum covering the MERN stack (MongoDB, Express.js, React.js, Node.js). A well-structured curriculum ensures that learners gain proficiency in both frontend and backend technologies.</p>
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
