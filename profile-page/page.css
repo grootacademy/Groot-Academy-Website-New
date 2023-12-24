@@ -275,6 +275,7 @@ textarea {
     .child2,
     .child2>div {
         width: 100%;
+        padding: 0;
         border-radius: 10px;
     }
 
