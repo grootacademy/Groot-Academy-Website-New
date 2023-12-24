@@ -233,7 +233,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     </div>
     <div class="row">
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/JITIN-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100" src="./assets/img/profileImages/jatin-goyal-sir.jpg" alt="">
@@ -265,10 +265,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/BHASKAR-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 bg-white" src="./assets/img/profileImages/bhaskar-sir.JPEG" alt="">
@@ -300,10 +300,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/SATNAM-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 h-100" src="./assets/img/profileImages/satnam_sir.jpg" alt="">
@@ -335,12 +335,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/ANKIT-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 h-100" src="./assets/img/profileImages/ankit-sir.JPEG" alt="profileImage">
@@ -372,16 +372,16 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/DEEPENDRA-SIR.html">
           <div class="card3">
             <div class="card-image1">
-              <img class="w-100 h-100" src="./assets/img/profileImages/depander-sir.png" alt="">
+              <img class="w-100 h-100" src="./assets/img/profileImages/deependra-sir.png" alt="">
             </div>
             <div class="details1">
-              <h2>depander swami</h2>
+              <h2>deependra swami</h2>
               <p>Web Developer</p>
               <ul>
                 <li>
@@ -407,10 +407,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-4 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/PAWAN-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 h-100" src="./assets/img/profileImages/pawan-sir.JPEG" alt="">
@@ -442,12 +442,12 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col-lg-6 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/MOHIT-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
@@ -479,10 +479,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-6 col-12">
-        <div class="card-wrapper">
+        <a class="card-wrapper" href="./profile-page/SNDEEP-SIR.html">
           <div class="card3">
             <div class="card-image1">
               <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
@@ -514,7 +514,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
 
     </div>
