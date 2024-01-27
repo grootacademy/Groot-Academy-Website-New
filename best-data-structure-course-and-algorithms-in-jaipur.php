@@ -87,27 +87,28 @@
                 </span>
                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                 <ul>
-                  <li><strong>What Do You Understand By MERN?</strong></li>
-                  <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                  <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                  <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                  <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                  <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                  <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                  <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
-                  <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
+                  <li><strong>Understanding DSA (Data Structures & Algorithms)</strong></li>
+                  <li><strong>Skills Required to Excel in Data Structures & Algorithms</strong></li>
+                  <li><strong>Benefits for Students Enrolling in our DSA Training Course</strong></li>
+                  <li><strong>Career Opportunities After Mastering Data Structures & Algorithms</strong></li>
+                  <li><strong>Reasons to Choose Our DSA Training Course in Jaipur</strong></li>
+                  <li><strong>Why Should You Learn Data Structures & Algorithms?</strong></li>
+                  <li><strong>Why Opt for Groot Academy's Data Structures & Algorithms Program?</strong></li>
+                  <li><strong>Frequently Asked DSA Course Interview Questions</strong></li>
+                  <li><strong>FAQs About Data Structures & Algorithms</strong></li>
                 </ul>
 
-                <p>How to become a MERN stack developer?</p>
-                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
-
+                <p>How to Become Proficient in Data Structures & Algorithms?</p>
+                <p>Data Structures & Algorithms (DSA) are fundamental components in the world of computer science and programming. DSA experts are individuals who possess a deep understanding of organizing and managing data effectively, as well as devising efficient algorithms to manipulate and process this data.</p>
+                <p>As the demand for skilled professionals in DSA continues to rise, it has become a popular choice for students seeking a comprehensive understanding of programming principles.</p>
+                <p>Groot Academy, with over two decades of experience, stands out as a premier institute providing top-notch IT education. Our seasoned faculty, with both expertise and practical experience, guides students through a curriculum that blends theory with hands-on training. This approach ensures that students not only grasp the theoretical aspects of DSA but also gain practical skills that make them industry-ready.</p>
+                <p>Our placement team further assists students in securing rewarding positions at leading companies, complete with competitive salary packages. Here's why our DSA training program is the right choice for aspiring professionals:</p>
               </div>
               <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
 
                 <!-- brochures button -->
 
-                <!-- <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
+                <!-- <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a> -->
 
                 <!-- brochures button -->
                 <!-- Left side bar  -->

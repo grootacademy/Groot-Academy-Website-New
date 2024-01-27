@@ -289,17 +289,17 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
     <div class="container mt-sm-5 mt-3">
 
-    <div class="row">
+        <div class="row">
             <div class="col-lg-12">
-            <h1>Our Job Oriented Training and Courses</h1>
+                <h1>Our Job Oriented Training and Courses</h1>
             </div>
-    </div>
+        </div>
         <div class="row">
             <!-- <div class="col-lg-3">
                 <div class="position-sticky pb-lg-5 pb-3 mt-lg-0 mt-5 ps-2" style="top: 100px">
                      -->
-                    <!-- <h6 class="text-secondary font-weight-normal pe-3">A selection of 45 page sections that fit perfectly in any combination</h6> -->
-                <!-- </div>
+            <!-- <h6 class="text-secondary font-weight-normal pe-3">A selection of 45 page sections that fit perfectly in any combination</h6> -->
+            <!-- </div>
             </div> -->
             <div class="col-lg-12">
                 <div class="row">
@@ -338,7 +338,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-webdesigning-course-in-jaipur.php">
+                        <a href="./best-web-designing-course-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets//img/Website-Design-logo-groot.jpg" width="256px">
                                 <b style="text-align: center; font-size:medium;">Website Designing</b>
@@ -358,7 +358,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-front-end-development-course-with-angular-js-in-jaipur.php">
+                        <a href="./best-front-end-development-course-with-react-js-in-jaipur.php">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlcBh3y5knx8PbLtCF4shyag0sFWGlCmV82vGZ_u6zvS94r1Hu2eu-E1He9C9lAm3wMA&usqp=CAU" width="256px">
                                 <b style="text-align: center; font-size:medium;">Front End Developement</b>

@@ -53,11 +53,11 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-c-programming-course-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-front-end-development-course-with-react-js-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
-                <h4 class="course-heading">C Language</h4>
+                <h4 class="course-heading">React Js Course Syllabus</h4>
             </div>
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
                 <div class="container border-bottom">
@@ -276,9 +276,15 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong> C Language Training Institute In jaipur.</h5>
-                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Best C Language Training In jaipur | C Language Training Institute In jaipur</strong></h4>
-                                        <p>Are you Looking for the Best Institute for C Language Training Course in jaipur? Groot Academy offers C Language training classes with live projects by expert trainers in jaipur. Our C Language training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professionals, and also for Freelancers. We provide end to end learning on C Language Domain with deeper dives for creating a winning career for every profile.</p>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>React Js Course Syllabus</h5>
+                                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Js Course Syllabus</strong></h4>
+                                        <p>Our React.JS Course equips the learner for developing a single-page or mobile applications and creates
+                                            reusable components for web pages and mobile applications. We have designed React.JS Course Syllabus by
+                                            industry experts as per the requirements of current trends. The React.JS Course Curriculum contains
+                                            basic elements like introduction, JSX overview, Environmental setup, real-time applications,
+                                            forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as
+                                            router and navigations, Flux, Redux, and Unit testing methods. Check out the detailed React.JS Course
+                                            Content below.</p>
 
 
 
@@ -337,36 +343,12 @@
             </div>
 
             <div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>WHY TO ENROLL IN OUR C LANGUAGE TRAINING COURSE IN JAIPUR?</strong></h4>
-                    <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our C Language Trainees are working across the nation. We at Ducat India, No#1 C Language Course in jaipur with 100% Placement.</p>
 
-                </div>
                 <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>WHAT OUR STUDENTS WILL GET DURING C LANGUAGE TRAINING COURSE?</strong></h4>
-                    <p>Get dedicated student support, career services, industry expert mentors, and real-world projects. Career Counselling. Timely Doubt Resolution. 50% Salary Hike, Career Counselling Case Studies + Tools + Certificate.</p>
-
-                </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Career Opportunities after C Language Training in jaipur</strong></h4>
-                    <p>As the demand for C language continues to surge in the IT industry, acquiring skills through C Language Training in jaipur opens up a myriad of career opportunities. Organizations are actively seeking proficient candidates capable of leveraging the power of C for software development and system programming. This training equips candidates with the essential programming skills, making them valuable assets in the competitive job market.</p>
-                    <h4 class="text-gradient text-primary mb-0 mt-2">Diverse Job Profiles Await C Language Graduates:</h4>
-                    <p>Upon successful completion of C Language Training, candidates can explore a variety of job profiles. They become eligible for roles such as C Programmer, Systems Analyst, Software Developer, and Embedded Systems Engineer. The versatility of C language ensures that trained individuals can contribute to diverse projects, from developing applications to working on firmware for embedded systems.</p>
-                    <p>Adding C language proficiency to your resume enhances your standing in the eyes of potential employers. The depth of understanding gained during the training is highly regarded in the industry, making you a preferred candidate for challenging and rewarding positions. The comprehensive C Language Training Institute in jaipur ensures that you are well-prepared to tackle real-world programming scenarios.</p>
-                    <p>Our training program includes personalized career counseling sessions conducted by experienced professionals. These sessions assist you in aligning your skills and interests with the right career path. Whether you aspire to be a Software Engineer, System Analyst, or pursue a career in Embedded Systems, our counselors guide you towards achieving your career goals.</p>
-                    <p>At our institute, the learning journey doesn't end with the completion of the course. We offer continuous support through doubt resolution sessions, ensuring that every aspect of the training is crystal clear to the students. Our commitment to ongoing learning helps you stay updated with the latest developments in the dynamic field of C programming.</p>
-                </div>
-                <div class="shadow-lg border-radius-xl p-4 mb-4">
-                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Choose Groot Academy for C Language Training in Jaipur </strong></h4>
-                    <p>
-                        Why Groot Academy Stands Out:
-                    <p> Groot Academy is your gateway to excellence in C Language Training in Jaipur. Our institution is driven by a dedicated team of highly skilled trainers committed to identifying, evaluating, and implementing the best training methodologies for our students. We take pride in providing the Best C Language Training Institute in Jaipur, with trainers who are not only highly qualified but also leaders in their field.</p>
-                    Expert Trainers and Defined Methodology:
-                    <p> Our trainers leverage a well-defined methodology, identifying opportunities and developing optimal resolutions to ensure mature execution of training programs. With the best trainers from around the world, Groot Academy offers a learning experience that is unparalleled, setting the standard for C Language Training in Jaipur.</p>
-                    Comprehensive Training and Placement Support:
-                    <p> The Training & Placement cell at Groot Academy is dedicated to providing extensive support to students in their pursuit of employment and internships across various fields. Working in tandem with other departments, the placement team collaborates as a cohesive unit to mold students according to the diverse requirements of industries.</p>
-                    </p>
-
+                    <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why Groot Academy? </strong></h4>
+                    <p>At React Groot Academy, we pride ourselves on delivering an exceptional React.js course designed to cultivate mastery in web development. Our team of instructors isn't just composed of teachers; they are seasoned industry veterans committed to unraveling the intricacies of React.js development. When you choose React Groot Academy, you're not just enrolling in a course – you're investing in a transformative learning experience. </p>
+                    <p>Expert Instructors: Learn from accomplished professionals who bring a wealth of experience in React.js development. Our instructors are not only passionate about teaching but have a deep understanding of industry trends and best practices.</p>
+                    <p>Practical Projects: Theory is essential, but practical application is paramount. Engage in hands-on projects that simulate real-world scenarios, allowing you to apply your learning and build a robust portfolio.</p>
                 </div>
             </div>
             <div class="shadow-lg border-radius-xl p-4 mb-4">
@@ -377,153 +359,303 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>INTRODUCTION TO C</strong></span></h4>
+
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Introduction to React</strong></h4>
                         <ul>
-                            <li><span>History of C language</span></li>
-                            <li><span>Features of C language</span></li>
-                            <li><span>Importance of C language</span></li>
-                            <li><span>Procedural approach</span></li>
+                            <li>What is React?
+                            </li>
+                            <li>Why React?
+                            </li>
+                            <li>React version history
+                            </li>
+                            <li>React 16 vs React 15
+                            </li>
+                            <li>Just React – Hello World
+                            </li>
+                            <li>Using create-react-app
+                            </li>
+                            <li>Anatomy of react project
+                            </li>
+                            <li>Running the app
+                            </li>
+                            <li>Debugging first react app
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>C LANGUAGE ENVIRONMENT</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Templating using JSX</strong></h4>
                         <ul>
-                            <li><span>Introduction to compiler, interpreter, assembler</span></li>
-                            <li><span>Working of compiler</span></li>
-                            <li><span>Compiling, linking and running process</span></li>
-                            <li><span>IDEs</span></li>
+                            <li>Working with React. createElement
+                            </li>
+                            <li>Expressions
+                            </li>
+                            <li>Using logical operators
+                            </li>
+                            <li>Specifying attributes
+                            </li>
+                            <li>Specifying children
+                            </li>
+                            <li>Fragments
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>BASICS OF C LANGUAGE and Buzzwords</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>About Components</strong></h4>
                         <ul>
-                            <li><span>Preprocessor directives</span></li>
-                            <li><span>Data type</span></li>
-                            <li><span>Variables</span></li>
-                            <li><span>Constants</span></li>
-                            <li><span>Identifiers</span></li>
-                            <li><span>Tokens</span></li>
-                            <li><span>Keywords</span></li>
+                            <li>Significance of component architecture
+                            </li>
+                            <li>Types of components
+                            </li>
+                            <li>Functional
+                            </li>
+                            <li>Class based
+                            </li>
+                            <li>Pure
+                            </li>
+                            <li>Component Composition
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>INPUT AND OUTPUT INSTRUCTIONS</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with state and props</strong></h4>
                         <ul>
-                            <li><span>Reading and writing functions</span></li>
-                            <li><span>Built in functions</span></li>
+                            <li>What is state and it significance
+                            </li>
+                            <li>Read state and set state
+                            </li>
+                            <li>Passing data to component using props
+                            </li>
+                            <li>Validating props using propTypes
+                            </li>
+                            <li>Supplying default values to props using defaultProps
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>FLOW CONTROL STATEMENTS</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Rendering lists</strong></h4>
                         <ul>
-                            <li><span>Jump statements(goto, break, continue)</span></li>
-                            <li><span>If statement</span></li>
-                            <li><span>If else statement</span></li>
-                            <li><span>Nested if else statement</span></li>
-                            <li><span>If else if ladder statement</span></li>
-                            <li><span>Switch case statement</span></li>
-                            <li><span>Loops(for, while, do while)</span></li>
+                            <li>Using react key prop
+                            </li>
+                            <li>Using map function to iterate on arrays to generate elements
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>POINTERS</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Event handling in React</strong></h4>
                         <ul>
-                            <li><span>Introduction to pointers</span></li>
-                            <li><span>Pointer expressions</span></li>
-                            <li><span>Types of Pointers</span></li>
-                            <li><span>Void Pointer</span></li>
-                            <li><span>NULL Pointer</span></li>
-                            <li><span>Wild Pointer</span></li>
-                            <li><span>Dangling Pointer</span></li>
-                            <li><span>Various examples of pointers</span></li>
-                            <li><span>Pointer Arithmatics</span></li>
-                            <li><span>Array using pointers</span></li>
-                            <li><span>String using pointers</span></li>
-                            <li><span>Pointers in Functions</span></li>
+                            <li>Understanding React event system
+                            </li>
+                            <li>Understanding Synthetic event
+                            </li>
+                            <li>Passing arguments to event handlers
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>ARRAY AND STRING</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Understanding component lifecycle and
+                                &nbsp;handling errors</strong></h4>
                         <ul>
-                            <li><span>Introduction to array</span></li>
-                            <li><span>One, two, multi-dimensional arrays</span></li>
-                            <li><span>Various operations on array</span></li>
-                            <li><span>Applications of array</span></li>
-                            <li><span>Sorting and searching in array</span></li>
-                            <li><span>Introduction to string</span></li>
-                            <li><span>Various operations on strings</span></li>
-                            <li><span>Applications of string</span></li>
+                            <li>Understand the lifecycle methods
+                            </li>
+                            <li>Handle errors using error boundaries
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>ENUM</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Working with forms&lt;/str</strong></h4>
                         <ul>
-                            <li><span>Introduction to enum</span></li>
-                            <li><span>Various examples of enum</span></li>
+                            <li>Controlled components
+                            </li>
+                            <li>Uncontrolled components
+                            </li>
+                            <li>Understand the significance to default Value prop
+                            </li>
+                            <li>Using react ref prop to get access to DOM element
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>FILE MANAGEMENT</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Context</strong></h4>
                         <ul>
-                            <li><span>Introduction to file management</span></li>
-                            <li><span>File opening modes</span></li>
-                            <li><span>Opening and closing a file</span></li>
-                            <li><span>Input output operations on file</span></li>
-                            <li><span>Error handling</span></li>
-                            <li><span>Command line arguments</span></li>
-                            <li><span>Applications of file management</span></li>
+                            <li>What is context
+                            </li>
+                            <li>When to use context
+                            </li>
+                            <li>Create Context
+                            </li>
+                            <li>Context.Provider
+                            </li>
+                            <li>Context.Consumer
+                            </li>
+                            <li>Reading context in class
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>PREPROCESSOR</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Code-Splitting</strong></h4>
                         <ul>
-                            <li><span>Macros</span></li>
-                            <li><span>File inclusions</span></li>
-                            <li><span>Compiler control directives</span></li>
+                            <li>What is code splitting
+                            </li>
+                            <li>Why do you need code splitting
+                            </li>
+                            <li>React.lazy
+                            </li>
+                            <li>Suspense
+                            </li>
+                            <li>Route-based code splitting
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>FUNCTIONS</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>ooks</strong></h4>
                         <ul>
-                            <li><span>Introduction to functions</span></li>
-                            <li><span>Types of functions</span></li>
-                            <li><span>Nesting of functions</span></li>
-                            <li><span>Various examples of functions</span></li>
-                            <li><span>Integer passing is functions</span></li>
-                            <li><span>Strings passing is functions</span></li>
-                            <li><span>Function returning address</span></li>
-                            <li><span>Recursion</span></li>
-                            <li><span>Storage classes</span></li>
+                            <li>What are hooks
+                            </li>
+                            <li>Why do you need hooks
+                            </li>
+                            <li>Different types of hooks
+                            </li>
+                            <li>Using state and effect hooks
+                            </li>
+                            <li>Rules of hooks
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>STRUCTURE</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Routing with react router</strong></h4>
                         <ul>
-                            <li><span>Introduction to structure</span></li>
-                            <li><span>Advantages of structure</span></li>
-                            <li><span>Array of structure</span></li>
-                            <li><span>Structure using pointer</span></li>
-                            <li><span>Structure with functions</span></li>
-                            <li><span>Applications of structure</span></li>
+                            <li>Setting up react router
+                            </li>
+                            <li>Understand routing in single page applications
+                            </li>
+                            <li>Working with BrowserRouter and HashRouter components
+                            </li>
+                            <li>Configuring route with Route component
+                            </li>
+                            <li>Using Switch component to define routing rules
+                            </li>
+                            <li>Making routes dynamic using route params
+                            </li>
+                            <li>Working with nested routes
+                            </li>
+                            <li>Navigating to pages using Link and NavLink component
+                            </li>
+                            <li>Redirect routes using Redirect Component
+                            </li>
+                            <li>Using Prompt component to get consent of user for navigation
+                            </li>
+                            <li>Path less Route to handle failed matches
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>UNION</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Just Redux</strong></h4>
                         <ul>
-                            <li><span>Introduction to union</span></li>
-                            <li><span>Advantages of union</span></li>
+                            <li>What is redux
+                            </li>
+                            <li>Why redux
+                            </li>
+                            <li>Redux principles
+                            </li>
+                            <li>Install and setup redux
+                            </li>
+                            <li>Creating actions, reducer and store
+                            </li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
-                        <h4 class="text-gradient text-primary mb-0 mt-2"><span><strong>DYNAMIC MEMORY ALLOCATION</strong></span></h4>
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Immutable.js</strong></h4>
                         <ul>
-                            <li><span>Introduction to dynamic memory allocation</span></li>
-                            <li><span>Advantage of dynamic memory allocation</span></li>
-                            <li><span>Malloc(), calloc(),realloc(),free();</span></li>
-                            <li><span>Array implementation using dynamic memory
-                                    allocation</span>&nbsp;</li>
+                            <li>What is Immutable.js?
+                            </li>
+                            <li>Immutable collections
+                            </li>
+                            <li>Lists
+                            </li>
+                            <li>Maps
+                            </li>
+                            <li>Sets
+                            </li>
                         </ul>
                     </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>React Redux</strong></h4>
+                        <ul>
+                            <li>What is React Redux
+                            </li>
+                            <li>Why React Redux
+                            </li>
+                            <li>Install and setup
+                            </li>
+                            <li>Presentational vs Container components
+                            </li>
+                            <li>Understand high order component
+                            </li>
+                            <li>Understanding mapStateToProps and mapDispatchtToProps usage
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Redux middleware</strong></h4>
+                        <ul>
+                            <li>Why redux middleware
+                            </li>
+                            <li>Available redux middleware choices
+                            </li>
+                            <li>What is redux saga
+                            </li>
+                            <li>Install and setup redux saga
+                            </li>
+                            <li>Working with Saga helpers
+                            </li>
+                            <li>Sagas vs promises
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Unit Testing</strong></h4>
+                        <ul>
+                            <li>Understand the significance of unit testing
+                            </li>
+                            <li>Understand unit testing jargon and tools
+                            </li>
+                            <li>Unit testing react components with Jest
+                            </li>
+                            <li>Unit testing react components with enzyme
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Webpack Primer</strong></h4>
+                        <ul>
+                            <li>What is webpack
+                            </li>
+                            <li>Why webpack
+                            </li>
+                            <li>Install and setup webpack
+                            </li>
+                            <li>Working with webpack configuration file
+                            </li>
+                            <li>Working with loaders
+                            </li>
+                            <li>Working with plugins
+                            </li>
+                            <li>Setting up Hot Module Replacement
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4">
+                        <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Isomorphic React</strong></h4>
+                        <ul>
+                            <li>What is server-side rendering (SSR)?
+                            </li>
+                            <li>Why SSR
+                            </li>
+                            <li>Working with render To String and render To StaticM arkup methods
+                            </li>
+                        </ul>
+                    </div>
+
                     <div class="w-100 text-center">
                         <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="10"> -->
                         <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
@@ -531,70 +663,112 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-    <div class="shadow-lg border-radius-xl p-4 mb-4">
-        <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ) for C Language Training Institute in jaipur</strong></h4>
+            <div class="shadow-lg border-radius-xl p-4 mb-4">
+                <h4 class="text-gradient text-primary mt-2"><strong>Frequently Asked Questions (FAQ)</strong></h4>
 
-        <div class="row">
+                <div class="row">
 
-            <div class="col-lg-6">
-                <h5 class="text-gradient text-primary mb-0 mt-2">1. What is C Language Training, and why is it essential?</h5>
-                <p>Ans:C Language Training is a structured program designed to teach individuals the fundamentals of the C programming language. It is essential as C is a foundational language widely used in software development, and mastering it lays a solid groundwork for a career in programming.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">2. Who can enroll in C Language Training at your institute?</h5>
-                <p>Ans:Our C Language Training is suitable for beginners with no prior programming experience as well as for professionals looking to enhance their skills. Anyone aspiring to become proficient in C programming is welcome.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">3.What topics are covered in the C Language Training program? </h5>
-                <p>Ans:Our comprehensive program covers a range of topics, including basic syntax, data types, control structures, functions, arrays, pointers, file handling, and more. We ensure a thorough understanding of the C language and its applications.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">4. How experienced are the trainers conducting the C Language Training?</h5>
-                <p>Ans:Our trainers are highly experienced professionals with expertise in C programming. They bring a wealth of industry knowledge to the training sessions, providing practical insights and real-world examples.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">5. What is the duration of the C Language Training program?</h5>
-                <p>Ans:The duration of the program may vary based on the specific course offering. Typically, our C Language Training programs range from a few weeks to a couple of months, ensuring comprehensive coverage of the curriculum.</p>
-            </div>
-            <div class="col-lg-6">
-                <h5 class="text-gradient text-primary mb-0 mt-2">6.Is there any prerequisite for enrolling in the C Language Training?</h5>
-                <p>Ans:No specific prerequisites are required for beginners' courses. However, familiarity with basic computer operations is beneficial. For advanced courses, a basic understanding of programming concepts may be recommended.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">7.How is the training delivered - in-person or online?</h5>
-                <p>Ans:We offer flexible training options. You can choose between in-person, instructor-led classes at our jaipur institute or opt for online sessions, allowing you to learn from the comfort of your home.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">8.Are there practical exercises and projects included in the training?</h5>
-                <p>Ans:Yes, our training includes hands-on practical exercises and projects. This approach ensures that students not only grasp theoretical concepts but also gain practical experience in applying them to real-world scenarios.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">9.Does the institute provide any certification upon completion of the C Language Training?</h5>
-                <p>Ans:Yes, we provide a certification of completion to all participants who successfully finish the C Language Training program. This certification adds value to your resume, showcasing your proficiency in C programming.</p>
-                <h5 class="text-gradient text-primary mb-0 mt-2">10. How does the institute support students in job placement after the training?</h5>
-                <p>Ans:Our Training & Placement cell actively assists students in preparing for job interviews, building resumes, and connecting with potential employers. We have a strong network with various companies, facilitating job placements for our trained individuals.</p>
-
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-                <div class="tab-content tab-space">
-                    <div class="tab-pane active" id="preview-features-1">
-                        <section class="py-3">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
-                                        <br /><br />
-                                        <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
-                                        <ul>
-                                            <li>Build dynamic data-driven websites and applications.</li>
-                                            <li>A Scope to be Part of Game-Changing Projects.</li>
-                                            <li>The High-Paying Full Stack Developer Salary.</li>
-                                            <li>Diverse Growth Options.</li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </section>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">1.What is ReactJS, and why should I learn it?</h5>
+                        <p>Answer: ReactJS is a JavaScript library for building user interfaces, particularly for single-page applications where UI changes over time. Learning ReactJS is crucial for modern web development, as it allows for the creation of dynamic, interactive, and efficient user interfaces.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">2.What does the ReactJS course cover in terms of curriculum?</h5>
+                        <p>Answer: Our ReactJS course covers a comprehensive syllabus, including but not limited to: React fundamentals, component-based architecture, state and props management, hooks, routing, handling forms, integrating with APIs, and deploying React applications.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">3.Who are the instructors, and what sets them apart?</h5>
+                        <p>Answer: Our instructors are seasoned industry professionals with extensive experience in React.js development. They bring real-world insights, practical knowledge, and a passion for teaching. Their goal is to ensure you not only understand the concepts but can apply them effectively in a professional setting.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">4. Is this course suitable for beginners with no prior programming experience?</h5>
+                        <p>Answer: Yes, our ReactJS course is designed to cater to learners with varying levels of experience. While some familiarity with JavaScript is beneficial, our curriculum includes introductory modules to help beginners grasp the fundamentals before delving into React.js specifics.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">5. How hands-on is the course? Will I be working on projects?</h5>
+                        <p>Answer: Absolutely! Our course is designed to be hands-on. You will work on practical projects that simulate real-world scenarios, allowing you to apply your knowledge and build a portfolio showcasing your React.js skills.</p>
                     </div>
+                    <div class="col-lg-6">
+                        <h5 class="text-gradient text-primary mb-0 mt-2">6.Are there any prerequisites for enrolling in the ReactJS course?</h5>
+                        <p>Answer: While not mandatory, a basic understanding of HTML, CSS, and JavaScript can be helpful. Our introductory modules are designed to bring everyone up to speed, regardless of their initial level of familiarity with these technologies.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">7. Can I get assistance or support outside of class hours?</h5>
+                        <p>Answer: Yes, we understand that learning is an ongoing process. We offer additional support through discussion forums, Q&A sessions, and dedicated channels for students to connect with instructors and peers.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">8.What sets this ReactJS course apart from others in the market?</h5>
+                        <p>Answer: Our course stands out due to its comprehensive curriculum, hands-on approach, experienced instructors, and a focus on real-world application. We go beyond teaching React.js syntax to ensure you gain a deep understanding of best practices and industry-relevant skills.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">9.Is there any career guidance or support provided after completing the course?</h5>
+                        <p>Answer: Yes, we offer career guidance to help you navigate the job market successfully. From resume building to interview preparation, our goal is to empower you for a successful career in React.js development.</p>
+                        <h5 class="text-gradient text-primary mb-0 mt-2">10.How do I enroll, and what is the duration of the ReactJS course?</h5>
+                        <p>Answer: You can enroll through our online platform. The course duration may vary, but it is structured to accommodate both full-time and part-time learners. Check our website or contact us for specific details on the upcoming sessions.</p>
 
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-6">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <section class="py-3">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Why should you learn Full Stack Web Development ?</h5>
+                                                <br /><br />
+                                                <h6>Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers. If you’re a fresher looking to break into your tech career or a mid-career professional looking to enter the world of web development from a non-tech profession, you should consider the following advantages of becoming a full-stack developer: </h6>
+                                                <ul>
+                                                    <li>Build dynamic data-driven websites and applications.</li>
+                                                    <li>A Scope to be Part of Game-Changing Projects.</li>
+                                                    <li>The High-Paying Full Stack Developer Salary.</li>
+                                                    <li>Diverse Growth Options.</li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
+
+                        <div class="tab-content tab-space">
+                            <div class="tab-pane active" id="preview-features-1">
+                                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+                                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+                                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+                                <!-- Nucleo Icons -->
+                                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
+                                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
+                                <section class="py-3">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                                <br /><br />
+                                                <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </section>
+                                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
+
+                                <!-- '></iframe> -->
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
             <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
 
                 <div class="tab-content tab-space">
@@ -610,9 +784,9 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h5 class="text-gradient text-primary mb-0 mt-2">Jobs for Full Stack Developer</h5>
+                                        <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
                                         <br /><br />
-                                        <h6>A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas. With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge. </h6>
+                                        <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
 
                                     </div>
 
@@ -628,49 +802,5 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-    <div class="position-relative border-radius-xl overflow-hidden shadow-lg mb-7">
-
-        <div class="tab-content tab-space">
-            <div class="tab-pane active" id="preview-features-1">
-                <!-- <iframe class="w-100 height-300" srcdoc='<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-                <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-                <!-- Nucleo Icons -->
-                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
-                <link href="./assets/css/nucleo-svg.css" rel="stylesheet" />
-                <link href="./assets/css/soft-design-system.min.css" rel="stylesheet" /><!-- -------- START Features w/ icons and text on left & gradient title and text on right -------- -->
-                <section class="py-3">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <h5 class="text-gradient text-primary mb-0 mt-2">Training and Placement</h5>
-                                <br /><br />
-                                <h6>Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech. Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan. . </h6>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </section>
-                <!-- -------- END Features w/ icons and text on left & gradient title and text on right -------- -->
-
-                <!-- '></iframe> -->
-            </div>
-
-        </div>
-    </div>
-</div>
-</div>
-<!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+    <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
+    <?php include "./footer.php" ?>

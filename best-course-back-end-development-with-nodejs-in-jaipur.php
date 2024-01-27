@@ -53,7 +53,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
-                        <li class="breadcrumb-item active" aria-current="page">best-course-back-end-development-with-nodejs-in-jaipur.php</li>
+                        <li class="breadcrumb-item active" aria-current="page">best-course-back-end-development-with-node-js-in-jaipur.php</li>
                     </ol>
                 </nav><br /><br />
 
@@ -87,24 +87,26 @@
                                 </span>
                                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                                 <ul>
-                                    <li><strong>What Do You Understand By MERN?</strong></li>
-                                    <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                                    <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                                    <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                                    <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                                    <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                                    <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                                    <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
+                                    <li><strong>What Do You Understand By backend Development with node js?</strong></li>
+                                    <li><strong>Skills Require To Become A backend Developer with node js</strong></li>
+                                    <li><strong>What Our Students Will Get During backend Developer with node js Training Course?</strong></li>
+                                    <li><strong>Career Opportunities After Learning backend Developer with node js</strong></li>
+                                    <li><strong>Why To Enrol In Our backend Developer with node js Training Course in Jaipur?</strong></li>
+                                    <li><strong>Why Should You Learn backend Developer with node js?</strong></li>
+                                    <li><strong>Reasons To Choose Groot Academy For backend Developer with node js</strong></li>
+                                    <li><strong>Frequently Asked backend with node js Course Interview Questions</strong></li>
                                     <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
                                 </ul>
 
-                                <p>How to become a MERN stack developer?</p>
-                                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+                                <p>Embarking on the Journey to Become a Node.js Backend Developer</p>
+                                <p>
+                                    Becoming a Node.js backend developer is an exciting and rewarding venture in today's tech-driven landscape. As a backend developer, you wield the power to craft the server-side logic that drives web applications, and Node.js is at the forefront of this revolution. A Node.js backend developer utilizes their expertise in JavaScript to seamlessly
+                                    handle server-side operations. Leveraging the event-driven, non-blocking I/O model of Node.js, developers can create scalable and efficient applications. Proficiency in handling data storage, managing APIs, and ensuring the seamless flow of information between the server and client are key aspects of this role.
+                                </p>
 
                             </div>
                             <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>

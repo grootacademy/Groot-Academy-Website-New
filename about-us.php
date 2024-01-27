@@ -1,49 +1,50 @@
 <?php include('./includes/header_com.php');  ?>
-    <!--  META DATA -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
 
-    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
 
-    <meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+<meta name="description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
 stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <link rel="canonical" href="https://grootacademy.com/" />
-    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
-    <meta name="copyright" content="Groot Academy Pvt Ltd" />
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
 
 
-    <meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
 
-    <meta property="og:site_name" content="Groot Academy">
-    <meta property="og:url" content="https://grootacademy.com">
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
-    <meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center">
+<meta property="og:description" content="<p>Groot Academy is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
 stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
 ">
-    <meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
 
 
-    <meta property="og:image:width" content="90">
-    <meta property="og:image:height" content="90">
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
+<link rel="stylesheet" href="style.css">
 
 
-    <meta name="language" content="en-us" />
-    <meta name="distribution" content="Global">
-    <meta name="Publisher" content="https://grootacademy.com">
-    <meta name="Rating" content="General">
-    <meta name=geography content="India ">
-    <meta name="geo.region" content="JP-RJ" />
-    <meta name="geo.placename" content="Jaipur" />
-    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
 
-    <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
+<!--  META DATA -->
+<?php include('./includes/header_down.php');  ?>
 
 
 <!-- End Navbar -->
@@ -231,93 +232,291 @@ stack Web development with python Django , Full stack Web development with PHP, 
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-6 col-12">
-        <div class="card card-profile overflow-hidden">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
-              <a href="javascript:;">
-                <div class="p-3 pe-md-0">
-                  <img class="w-100 border-radius-md" src="./assets/img/bhaskar.jpg" alt="image">
-
-                </div>
-              </a>
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/JITIN-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100" src="./assets/img/profileImages/jatin-goyal-sir.jpg" alt="">
             </div>
-            <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
-              <div class="card-body">
-                <h5 class="mb-0">Bhaskar Yogi</h5>
-                <h6 class="text-info">Software Engineer</h6>
-
-                <p class="mb-0"></p>
-              </div>
+            <div class="details1">
+              <h2>Jitin Goyal</h2>
+              <p>Software Architect</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
-      <div class="col-lg-6 col-12">
-        <div class="card card-profile mt-lg-0 mt-5 overflow-hidden">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
-              <a href="javascript:;">
-                <div class="p-3 pe-md-0">
-                  <img class="w-100 border-radius-md" src="./assets/img/jitin.jpg" alt="image">
-                </div>
-              </a>
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/BHASKAR-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 bg-white" src="./assets/img/profileImages/bhaskar-sir.JPEG" alt="">
             </div>
-            <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
-              <div class="card-body">
-                <h5 class="mb-0">Jitin Goyal</h5>
-                <h6 class="text-info">Software Architect</h6>
-                <p></p>
-              </div>
+            <div class="details1">
+              <h2>Bhaskar Yogi</h2>
+              <p>Software Engineer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
+        </a>
+      </div>
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/SATNAM-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/satnam_sir.jpg" alt="">
+            </div>
+            <div class="details1">
+              <h2>Satnam Singh</h2>
+              <p>C, C++, Java, J2EE,Hibernate Trainer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="row mt-4">
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/ANKIT-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/ankit-sir.JPEG" alt="profileImage">
+            </div>
+            <div class="details1">
+              <h2>ankit swami</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/DEEPENDRA-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/deependra-sir.png" alt="">
+            </div>
+            <div class="details1">
+              <h2>deependra swami</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4 col-12">
+        <a class="card-wrapper" href="./profile-page/PAWAN-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/pawan-sir.JPEG" alt="">
+            </div>
+            <div class="details1">
+              <h2 class="">Pawan Goyal</h2>
+              <p>Full Stack Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col-lg-6 col-12">
-        <div class="card card-profile overflow-hidden z-index-2">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
-              <a href="javascript:;">
-                <div class="p-3 pe-md-0">
-
-                  <img class="w-100 border-radius-md" src="./assets/img/mohit.jpg" alt="image">
-                </div>
-              </a>
+        <a class="card-wrapper" href="./profile-page/MOHIT-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
             </div>
-            <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
-              <div class="card-body">
-
-                <h5 class="mb-0">Mohit Sharma</h5>
-                <h6 class="text-info">Web Developer</h6>
-
-                <p></p>
-              </div>
+            <div class="details1">
+              <h2>Mohit Sharma</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
       <div class="col-lg-6 col-12">
-        <div class="card card-profile mt-lg-0 mt-5 overflow-hidden z-index-2">
-          <div class="row">
-            <div class="col-lg-4 col-md-6 col-12 pe-lg-0">
-              <a href="javascript:;">
-                <div class="p-3 pe-md-0">
-                  <img class="w-100 border-radius-md" src="./assets/img/pawan.jpg" alt="image">
-                </div>
-              </a>
+        <a class="card-wrapper" href="./profile-page/SNDEEP-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
             </div>
-            <div class="col-lg-8 col-md-6 col-12 ps-lg-0 my-auto">
-              <div class="card-body">
-                <h5 class="mb-0">Pawan Kumar Goyal</h5>
-                <h6 class="text-info">Full Stack Web Developer</h6>
-                <p></p>
-              </div>
+            <div class="details1">
+              <h2 class="">sndeep swami</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-        </div>
+        </a>
       </div>
+
     </div>
   </div>
   <div class="position-absolute w-100 bottom-0 mn-n1">

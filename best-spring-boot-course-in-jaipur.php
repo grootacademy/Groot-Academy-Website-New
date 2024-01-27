@@ -87,24 +87,30 @@
                 </span>
                 <h5 class="text-gradient text-primary mb-0 mt-2">Table of Contents</h5>
                 <ul>
-                  <li><strong>What Do You Understand By MERN?</strong></li>
-                  <li><strong>Skills Require To Become A Mern Developer</strong></li>
-                  <li><strong>What Our Students Will Get During Mern Stack Training Course?</strong></li>
-                  <li><strong>Career Opportunities After Learning Mern Stack</strong></li>
-                  <li><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></li>
-                  <li><strong>Why Should You Learn Mern Stack?</strong></li>
-                  <li><strong>Reasons To Choose Groot Academy For Mern Stack Developer</strong></li>
-                  <li><strong>Frequently Asked MERN Course Interview Questions</strong></li>
-                  <li><strong>Frequently Asked Questions (FAQ's)</strong></li>
+                  <li><strong>Understanding Spring Boot & Microservices Security with Hibernate & JPA</strong></li>
+                  <li><strong>Key Components of the Course</strong></li>
+                  <li><strong>Skills Required for Effective Learning</strong></li>
+                  <li><strong>Benefits of Enrolling in Our Spring Boot & Microservices Security Course</strong></li>
+                  <li><strong>Career Opportunities in Spring Boot, Microservices, Hibernate & JPA Security</strong></li>
+                  <li><strong>Why Choose Our Training Program in Jaipur?</strong></li>
+                  <li><strong>Advantages of Learning Spring Boot & Microservices Security with Hibernate & JPA</strong></li>
+                  <li><strong>Groot Academy's Approach to Excellence</strong></li>
+                  <li><strong>Frequently Asked Questions (FAQs)</strong></li>
                 </ul>
 
-                <p>How to become a MERN stack developer?</p>
-                <p>MERN stack developer is one of the most popular choices of students in today's world. Where a <strong>full stack developer</strong> is a person who can create a complete web application using both front-end and back-end development skills. A Mern stack developer is a person who is an expert and develops the same web application using MongoDB, Express, React, and Node. It is a platform which is proficient to become an expert developer and proficient in JavaScript, HTML, CSS for the front end, and JavaScript with node.js work for back-end operation.</p>
-                <p>In this world, students are keen to learn MERN stack developer courses and look for a professional institute which offers quality eGroot Academyion. Groot Academy is an eminent institute which has been serving the best IT eGroot Academyion for 20+ years. We have professionally trained and experienced faculty who offer quality eGroot Academyion to the students and led to the success of the career path. The institute trains the students in theoretical and practical training where they make you experts in the field. It has a proper placement team which helps the students to get a good job at top companies with high salary packages.</p>
+                <p>How to Master Spring Boot & Microservices Security with Hibernate & JPA?</p>
+                <p> <strong> Spring Boot & Microservices Security with Hibernate & JPA: </strong> This specialized course is designed for developers and IT professionals aiming to master the intricacies of building secure and scalable microservices using Spring Boot, Hibernate, and JPA (Java Persistence API). Covering essential security aspects, this course equips participants with the knowledge to implement robust security measures in microservices architecture.</p>
+                <p> <strong>Key Components of the Course: </strong>Spring Boot Fundamentals:
+                  Comprehensive coverage of Spring Boot basics, emphasizing rapid development and ease of configuration.<br>
 
+                  Microservices Security: In-depth exploration of security practices specific to microservices architecture, ensuring data integrity and protection.<br>
+
+                  Hibernate & JPA Integration: Understanding the integration of Hibernate and JPA for efficient and seamless database operations in microservices.<br>
+
+                  Real-world Projects: Practical application through hands-on projects, allowing participants to implement learned concepts in real-world scenarios.</p>
               </div>
               <div class="col-lg-3  mx-2 px-0 mx-auto text-center border-radius-xl overflow-hidden shadow-lg mb-7 ">
-                <a href="./assets/brochures/Groot Academy  Software Engineering Immersives Syllabus .pdf" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
+                <a href="#" target="_blank"> <span class="mt-2 btn btn-primary">Download Course Brochure</span></a>
 
 
                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
@@ -276,7 +282,7 @@
               <div class="container-fluid">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Important:</strong>Spring Boot & Microservices Security With Hibernate & Jpa</h5>
+                    <h5 class="text-gradient text-primary mb-0 mt-2"><strong>Importance:</strong> Spring Boot & Microservices Security With Hibernate & Jpa</h5>
                     <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Spring Boot & Microservices Security With Hibernate & JPA Training Overview</strong></h4>
                     <p>Spring Boot & Microservices Security with Hibernate & JPA course in jaipur offered by Groot Academy is very reputed in the industry. Spring Boot is a very renowned framework of Java for creating microservices and web services. The Spring boot instantly creates applications based on Spring and makes it easy for developers to not write similar boilerplate configuration repeatedly.
 
