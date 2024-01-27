@@ -176,8 +176,8 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
             <div class="form-group text-gradient text-primary ">
               <b style=" font-size: x-large; ">Speak With Expert Engineers.<b><br />
-                  <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: 01414859255</h6>
-                  <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: +91-8233266276</h6>
+                  <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: </h6>
+                  <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: +91-8094170324</h6>
 
 
                   <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: info@grootsoftware.com</h6>
@@ -198,7 +198,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <div class=" bg-gradient-primary branch-box1 p-3" style="color:#fff;">
       <center>
         <b style=" font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Mansarovar Branch</b><br />
-        <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276"> +91-8233266276</a></h6>
+        <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-8094170324"> +91-8094170324</a></h6>
         <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: info@grootsoftware.com</h6>
         <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Address Head Office :
           122/66, 2nd Floor, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020
@@ -209,7 +209,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
       <div class=" bg-gradient-primary branch-box1 p-3">
         <center>
           <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Pratap Nagar Branch.</b>
-          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:01414859255">01414859255</a></h6>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:"></a></h6>
           <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: pratapnagar@grootacademy.com</h6>
           <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch : <br /> 174/89,Sec-17, Pratap Nagar,Sanganer, Jaipur, Rajasthan, 302033 </h6>
         </center>
@@ -233,7 +233,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <center>
           <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Jhotwara & Murlipura Branch.</b>
           <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-7231968183"> +91-7231968183</a></h6>
-          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-01414859255"> +91-01414859255</a></h6>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-"> +91-</a></h6>
           <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: jhotwara@grootsoftware.com</h6><br />
           <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> 87-91, Triton Mall, Forth floor, near, Chomu Pulia Cir, Jaipur, Rajasthan 302012 </h6>
         </center>
@@ -244,7 +244,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
       <div class=" bg-gradient-primary branch-box1 p-3">
         <center>
           <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Riddhi Shiddi Branch with infiquee classes.</b>
-          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:<a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276"> +91-8233266276</a></h6>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:<a class="nav-link nav-link-icon me-2" href="tel:+91-8094170324"> +91-8094170324</a></h6>
           <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: infiquee@grootacademy.com</h6><br />
           <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019 </h6>
         </center>
@@ -255,7 +255,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
     <div class=" bg-gradient-primary branch-box1 p-3">
       <center>
         <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">JagatPura Branch</b>
-        <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:<a class="nav-link nav-link-icon me-2" href="tel:+91-8233266276"> +91-8233266276</a></h6>
+        <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone:<a class="nav-link nav-link-icon me-2" href="tel:+91-8094170324"> +91-8094170324</a></h6>
         <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: info@grootacademy.com</h6><br />
         <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> 7th floor, Mangalam Building, Jagatpura Flyover, Model Town, Jagatpura, Jaipur, Rajasthan 302017 </h6>
       </center>

@@ -467,17 +467,17 @@
 
                         <div class="container-8-box-2-main-A" style="background-color: #0D1047;">
                             <span>
-                                <a href="tel:8233266276" class="text-light">
-                                    <h6><i class="fa-solid fa-mobile text-light"></i> :+91-8233266276</h6>
+                                <a href="tel:8094170324" class="text-light">
+                                    <h6><i class="fa-solid fa-mobile text-light"></i> :+91-8094170324</h6>
                                 </a>
                                 <br>
-                                <a href="tel:01414859255" class="text-light">
-                                    <h6> <i class="fa-solid fa-phone text-light h5"></i>:+91-01414859255
+                                <a href="tel:" class="text-light">
+                                    <h6> <i class="fa-solid fa-phone text-light h5"></i>:+91-
                                     </h6>
                                 </a>
                             </span><br>
                             <!-- <span>
-                                <h6><i class="fa-solid fa-phone text-light"></i><a href="" class="text-light">(01414859255)</a></h6>
+                                <h6><i class="fa-solid fa-phone text-light"></i><a href="" class="text-light">()</a></h6>
                             </span> -->
 
 

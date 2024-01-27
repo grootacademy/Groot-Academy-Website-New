@@ -622,7 +622,7 @@
               </div>
 
               <div class="col-md-4">
-                <i class="fa fa-phone" style="font-size: 20px; color: #3aee29;" aria-hidden="true"></i> <span class="text-light"> +91-08233266276</span>
+                <i class="fa fa-phone" style="font-size: 20px; color: #3aee29;" aria-hidden="true"></i> <span class="text-light"> +91-08094170324</span>
               </div>
 
             </div>

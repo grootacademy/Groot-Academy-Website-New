@@ -133,9 +133,9 @@
 
 
                 <li class="nav-item ms-lg-auto">
-                  <a class="nav-link nav-link-icon me-2" href="tel:+918233266276">
+                  <a class="nav-link nav-link-icon me-2" href="tel:+918094170324">
                     <i class="fa fa-mobile me-2"></i>
-                    <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8233266276</b></p>
+                    <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" title="mobile number"><b>+91-8094170324</b></p>
                   </a>
                 </li>
                 <li class="nav-item ms-lg-auto">

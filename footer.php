@@ -171,7 +171,7 @@
 
                     <li class="nav-item">
                         <a class="nav-link  lh-lg " href="#" target="_blank">
-                            <i class="fa fa-mobile" aria-hidden="true"></i>: 01414859255
+                            <i class="fa fa-mobile" aria-hidden="true"></i>: 
                         </a>
                     </li>
 
@@ -383,8 +383,8 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link  lh-lg " href="tel:01414859255">
-                                <i class="fa fa-mobile" aria-hidden="true"></i>: 01414859255
+                            <a class="nav-link  lh-lg " href="tel:">
+                                <i class="fa fa-mobile" aria-hidden="true"></i>:
                             </a>
                         </li>
 

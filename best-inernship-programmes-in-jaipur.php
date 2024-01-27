@@ -397,7 +397,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                             <div class="col-md-6 p-1 " style="border-right: 1px solid #FF0080;">
                                 <div class="mt-5 mx-5 text-start ">
                                     <i class="fa fa-phone btn-primary h6 rounded-1 p-1  mx-2 " aria-hidden="true"></i> <span class="h3">Call Us</span><br>
-                                    <b class="  mx-5">Phone No :+91-8233266276
+                                    <b class="  mx-5">Phone No :+91-8094170324
                                     </b>
 
                                     <br>
