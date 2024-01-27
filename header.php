@@ -423,7 +423,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                 </li>
                                 <li class="menu_padding">
                                     <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
-                                        <b>Internship</b>
+                                        <b>Internship </b>
 
                                     </a>
                                 </li>

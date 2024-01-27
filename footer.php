@@ -346,7 +346,7 @@
 
                         <li class="nav-item">
                             <a class="nav-link " href="./our-internship-programmes.php" target="_blank">
-                                Our Internship Programmes
+                                Our Programmes
                             </a>
                         </li>
 
