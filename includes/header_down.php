@@ -11,13 +11,6 @@
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
         </a>
         <a class="navbar-brand text-light" href="tel:+91-8094170324"><i class="mt-0 fa fa-mobile me-2" style="color: #fff;"></i> +91-8094170324</a>
-        <a class="navbar-brand text-light" href="tel:+91-8094170324"><i class="mt-0 fa fa-phone me-2" style="color: #fff;"></i> </a>
-
-
-        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button> -->
-
         <div class="collapse navbar-collapse " id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
 
