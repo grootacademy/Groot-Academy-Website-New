@@ -338,80 +338,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         </a>
       </div>
     </div>
-
-    <div class="row mt-4">
-      <div class="col-lg-6 col-12">
-        <a class="card-wrapper" href="./profile-page/MOHIT-SIR.html">
-          <div class="card3">
-            <div class="card-image1">
-              <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
-            </div>
-            <div class="details1">
-              <h2>Mohit Sharma</h2>
-              <p>Web Developer</p>
-              <ul>
-                <li>
-                  <a href="">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-instagram"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-dribbble"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </a>
-      </div>
-      
-    <div class="col-lg-6 col-12">
-        <a class="card-wrapper" href="./profile-page/SNDEEP-SIR.html">
-          <div class="card3">
-            <div class="card-image1">
-              <img class="w-100 h-100" src="./assets/img/profileImages/sandeep_sir.jpg" alt="">
-            </div>
-            <div class="details1">
-              <h2 class="">sndeep swami</h2>
-              <p>Web Developer</p>
-              <ul>
-                <li>
-                  <a href="">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-instagram"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <i class="fab fa-dribbble"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </a>
-      </div>
-
+    
     <div class="row mt-4">
       <div class="col-lg-4 col-12">
         <a class="card-wrapper" href="./profile-page/ANKIT-SIR.html">
@@ -519,8 +446,77 @@ stack Web development with python Django , Full stack Web development with PHP, 
         </a>
       </div>
     </div>
-    
-     
+    <div class="row mt-4">
+      <div class="col-lg-6 col-12">
+        <a class="card-wrapper" href="./profile-page/MOHIT-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/mohit_sir.jpg" alt="">
+            </div>
+            <div class="details1">
+              <h2>Mohit Sharma</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-6 col-12">
+        <a class="card-wrapper" href="./profile-page/SNDEEP-SIR.html">
+          <div class="card3">
+            <div class="card-image1">
+              <img class="w-100 h-100" src="./assets/img/profileImages/sandeep_sir.jpg" alt="">
+            </div>
+            <div class="details1">
+              <h2 class="">sndeep swami</h2>
+              <p>Web Developer</p>
+              <ul>
+                <li>
+                  <a href="">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </a>
+      </div>
 
     </div>
   </div>
