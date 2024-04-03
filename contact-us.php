@@ -191,10 +191,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
     </div>
   </div>
   <!-- Our Brances   -->
-  <!-- <div class="text-center" style="text-shadow: 1px 1px 10px #AE234E;">
+   <div class="text-center" style="text-shadow: 1px 1px 10px #AE234E;">
     <h1><u>Our Brances</u></h1>
-  </div> -->
-  <!-- <div class="branch-main mt-5">
+  </div> 
+ <div class="branch-main mt-5">
     <div class=" bg-gradient-primary branch-box1 p-3" style="color:#fff;">
       <center>
         <b style=" font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Mansarovar Branch</b><br />
@@ -204,6 +204,18 @@ stack Web development with python Django , Full stack Web development with PHP, 
           122/66, 2nd Floor, Madhyam Marg, Mansarovar, Jaipur, Rajasthan 302020
         </h6>
       </center>
+    </div>
+    <div class="  bg-gradient-primary  branch-box2">
+      <div class=" bg-gradient-primary branch-box1 p-3">
+        <center>
+          <b style="font-size: small; box-shadow:2px 2px 10px 5px white; border-radius:10px" class="text-primary p-2 bg-light">Pratap Nagar kumbha Marg Branch.</b>
+          <h6> <i class="fa fa-mobile" aria-hidden="true"></i> Phone: <a class="nav-link nav-link-icon me-2" href="tel:+91-8094170324">8764420489</a></h6>
+          <h6> <i class="fa fa-envelope" aria-hidden="true"></i> Email: kumbhamarg@grootacademy.com</h6>
+          <h6> <i class="fa fa-map-marker " aria-hidden="true"></i> Pratap Nagar Branch : <br />Bambala Pulia, 3rd Floor Ram Nagar, Engineers Academy Building, 100-102, Tonk Rd, near Jaipuria Mgt College, Partap Nagar, Jaipur, Rajasthan 302033</h6>
+        </center>
+      </div>
+
+
     </div>
     <div class="  bg-gradient-primary  branch-box2">
       <div class=" bg-gradient-primary branch-box1 p-3">
@@ -250,7 +262,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         </center>
       </div>
     </div>
-  </div> -->
+  </div>
   <!-- <div class="  bg-gradient-primary  branch-box4">
     <div class=" bg-gradient-primary branch-box1 p-3">
       <center>
@@ -262,6 +274,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
     </div>
   </div> -->
   <!-- </div>/ -->
+  <div class="row">
+    <h3>kumabh Marg Branch</h3>
+    <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
+      <div class="map-canvas">
+        <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14246.000284489228!2d75.8168402!3d26.7922014!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396dc90069e786cf%3A0xd43882d862c36984!2sGroot%20Academy!5e0!3m2!1sen!2sin!4v1712121425331!5m2!1sen!2sin"  width="100%" height="400"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </div>
+
+      <div class="row">
+        <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-12" style="box-shadow: 20px 0px 5px 0px black;">
       <div class="map-canvas">
