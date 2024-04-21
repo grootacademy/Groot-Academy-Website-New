@@ -96,7 +96,7 @@
 
                                     If you are looking for a high-quality analytics training program that will give you the skills you need to succeed in the real world, thenGroot-Academy The IT Training School is the perfect place.
 
-                                    ContactGroot-Academy at 8094170324
+                                    ContactGroot-Academy at 8233266276
                                     for more about their excellent job-oriented analytics training program.</p>
                                 <h4 class="text-gradient text-primary mb-0 mt-2"><strong>DATA SCIENCE & ML USING PYTHON TRAINING IN JAIPUR</strong></h4>
                                 <P>

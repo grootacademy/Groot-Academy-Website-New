@@ -96,7 +96,7 @@
 
                                     If you are looking for a high-quality Science training program that will give you the skills you need to succeed in the real world, thenGroot-Academy The IT Training School is the perfect place.
 
-                                    ContactGroot-Academy at 8094170324
+                                    ContactGroot-Academy at 8233266276
                                     for more about their excellent job-oriented Science training program.</p>
                                 <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why learn Data Science using Python?</strong></h4>
                                 <p>It's continued to be a great option for data scientists who use it for building Machine learning applications or using them and other scientific computations.</p>
