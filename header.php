@@ -333,7 +333,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <a class="navbar-brand" href="#">
             <marquee behavior="scroll" direction="up" scrollamount="1" class=" text-light">Opening Hours: 8:00AM - 9:00PM</marquee>
         </a>
-        <a class="navbar-brand text-light" href="tel:+91-8094170324"><i class="mt-0 fa fa-mobile me-2" style="color: #fff;"></i> +91-8094170324</a>
+        <a class="navbar-brand text-light" href="tel:+91-8233266276"><i class="mt-0 fa fa-mobile me-2" style="color: #fff;"></i> +91-8233266276</a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
