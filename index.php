@@ -90,7 +90,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 <div style="display: block;position: fixed; bottom: 40px; left: 20px; height: 70px;width: 70px; border-radius: 50%; background-color: #4DD376;display: flex;justify-content: center;align-items: center;z-index:2000">
   <ul>
-    <li><a style="color: white; font-size: 50px;" href="https://wa.me/919610967825" target="_blank"><i class="fa fa-whatsapp" style="position:relative; left:-15px; top:10px"></i></a></li>
+    <li><a style="color: white; font-size: 50px;" href="https://wa.me/918233266276" target="_blank"><i class="fa fa-whatsapp" style="position:relative; left:-15px; top:10px"></i></a></li>
   </ul>
 
 </div>
