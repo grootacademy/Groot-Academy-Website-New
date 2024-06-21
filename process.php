@@ -5,7 +5,7 @@ echo "The URL of current page: " . $CurPageURL . "<br/>";
 echo $_SERVER['HTTP_REFERER'];
 
 print_r($_REQUEST);
-include('./includes/connection.php');
+include('./includes/connection');
 $reqPage = $_SERVER['HTTP_REFERER'];
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];

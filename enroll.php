@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 
@@ -58,7 +58,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <div class="card overflow-hidden mb-5">
                     <div class="row">
                         <div class="col-lg-6">
-                            <form class="p-3" id="contact-form" method="post" action="./process.php">
+                            <form class="p-3" id="contact-form" method="post" action="./process">
                                 <div class="card-header px-4 py-sm-5 py-3">
                                     <h2>Request a callback to Start your journey with groot academy!</h2>
 
@@ -118,7 +118,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </div>
                     </div>
                 </div>
-                <?php include "./footer.php" ?>
+                <?php include "./footer" ?>
             </div>
         </div>
     </div>

@@ -1,6 +1,6 @@
 
  <?php
-include('./includes/connection.php');
+include('./includes/connection');
 
 $email=$_REQUEST['email'];
 $graduation=$_REQUEST['graduation'];
@@ -11,7 +11,7 @@ $sql="INSERT INTO `enroll`(`year`, `email`, `mobile`) VALUES ('$graduation','$em
 
 if($conn->query($sql)===TRUE){
     
-    header('Location: ./index.php');
+    header('Location: ./index');
 }else{
     echo "record could not inserted";
 }

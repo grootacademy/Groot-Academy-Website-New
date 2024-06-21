@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 <!-- header end -->
@@ -103,7 +103,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <h2 class="text-white up mb-0">Beginner</h2>
                         <p>I know bare minimum coding / starting from scratch</p>
                         <span>12 week course.</span>
-                        <a href="./enroll.php" class="btn btn-outline-white text-light mt-5 up btn-round">Enroll Now</a>
+                        <a href="./enroll" class="btn btn-outline-white text-light mt-5 up btn-round">Enroll Now</a>
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <h2 class="text-white up mb-0">Intermediate</h2>
                         <p>I know coding in 1 programming language. I can build basic apps</p>
                         <span>12 week course.</span>
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">Enroll Now</a>
+                        <a href="./enroll" class="btn btn-outline-white mt-5  text-light up btn-round">Enroll Now</a>
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <p>I am good at coding. I know basic DSA and problem solving. I can build basic / advanced apps.</p>
                         <span>12 week course.</span>
 
-                        <a href="./enroll.php" class="btn btn-outline-white  text-light mt-5 up btn-round">ENroll Now</a>
+                        <a href="./enroll" class="btn btn-outline-white  text-light mt-5 up btn-round">ENroll Now</a>
                     </div>
                 </div>
 
@@ -187,7 +187,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <h3 class="text-white">Recognized certifications.</h3>
 
 
-                        <a href="./enroll.php" class="btn btn-outline-white mt-5  text-light up btn-round">ENroll Now</a>
+                        <a href="./enroll" class="btn btn-outline-white mt-5  text-light up btn-round">ENroll Now</a>
                     </div>
                 </div>
 
@@ -304,7 +304,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <div class="col-lg-12">
                 <div class="row">
                     <div class="col-md-4 col-xs-6 col-sm-6 mt-md-0">
-                        <a href="./programming-courses-after-10th-class.php">
+                        <a href="./programming-courses-after-10th-class">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://static.kent.ac.uk/nexus/ems/818.jpg" width="256px" height="130">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
@@ -316,7 +316,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-xs-6  col-sm-6 mt-md-0">
-                        <a href="./programming-or-coding-course-after-12th.php">
+                        <a href="./programming-or-coding-course-after-12th">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://w7.pngwing.com/pngs/33/667/png-transparent-graphy-computer-software-software-engineering-programmer-technology-electronics-text-logo.png" width="256px" height="130">
                                 <b style="text-align: center; font-size:medium;">Software Engineering</b>
@@ -328,7 +328,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4  col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./our-internship-programmes.php">
+                        <a href="./our-internship-programmes">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://media.istockphoto.com/id/1344688156/photo/portrait-of-a-man-using-a-computer-in-a-modern-office.jpg?b=1&s=170667a&w=0&k=20&c=AAVVOvN9uY1Rd_0QsWb8WvBN-4VSUdCORiZx51s5OLc=" width="256px" height="130">
                                 <b style="text-align: center; font-size:medium;">Our Internship Program</b>
@@ -338,7 +338,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-web-designing-course-in-jaipur.php">
+                        <a href="./best-web-designing-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets//img/Website-Design-logo-groot.jpg" width="256px">
                                 <b style="text-align: center; font-size:medium;">Website Designing</b>
@@ -348,7 +348,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-front-end-development-course-with-reactjs-in-jaipur.php">
+                        <a href="./best-front-end-development-course-with-reactjs-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" width="256px">
                                 <b style="text-align: center; font-size:medium;">Front End Developement</b>
@@ -358,7 +358,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-front-end-development-course-with-react-js-in-jaipur.php">
+                        <a href="./best-front-end-development-course-with-react-js-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlcBh3y5knx8PbLtCF4shyag0sFWGlCmV82vGZ_u6zvS94r1Hu2eu-E1He9C9lAm3wMA&usqp=CAU" width="256px">
                                 <b style="text-align: center; font-size:medium;">Front End Developement</b>
@@ -368,7 +368,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-full-stack-web-development-course-in-jaipur.php">
+                        <a href="./best-full-stack-web-development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/Full-Stack-Web-Developer-by-groot-academy.png" width="210px">
                                 <b style="text-align: center; font-size:medium;">Full Stack Development</b>
@@ -379,7 +379,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-course-for-back-end-development-with-Java.php">
+                        <a href="./best-course-for-back-end-development-with-Java">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/develop-a-backend-for-your-project-in-java-by-groot-academy.png" width="256px" height="140">
                                 <b style="text-align: center; font-size:medium;">Back End With Java</b>
@@ -389,7 +389,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-back-end-development-course-with-php-in-jaipur.php">
+                        <a href="./best-back-end-development-course-with-php-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/backend-development-with-php-logo-by-groot-academy.png" width="256px">
                                 <b style="text-align: center; font-size:medium;">Back End With PHP</b>
@@ -399,7 +399,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-course-back-end-development-with-nodejs-in-jaipur.php">
+                        <a href="./best-course-back-end-development-with-nodejs-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/node-js-logo-by-groot-academy.png" width="256px">
                                 <b style="text-align: center; font-size:medium;">Back End With Node Js</b>
@@ -410,7 +410,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-advance-java-course-in-jaipur.php">
+                        <a href="./best-advance-java-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/servlet-and-jsp-advance-java-logo-by-groot-academy.jpg" width="210px">
                                 <b style="text-align: center; font-size:medium;">Advance Java</b>
@@ -420,7 +420,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-data-structure-course-and-algorithms-in-jaipur.php">
+                        <a href="./best-data-structure-course-and-algorithms-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/datastructure.png" width="190px" height="130px">
                                 <b style="text-align: center; font-size:medium;">Data Structure & Algorithm</b>
@@ -442,7 +442,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-c-plus-plus-programming-course-in-jaipur.php">
+                        <a href="./best-c-plus-plus-programming-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/c-and-c++-programming-logo-by-groot-academy.png" width="256px">
                                 <b style="text-align: center; font-size:medium;">C /C++</b>
@@ -453,7 +453,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-spring-boot-course-in-jaipur.php">
+                        <a href="./best-spring-boot-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/spring-boot-logo-by-groot-academy.png" width="210px">
                                 <b style="text-align: center; font-size:medium;">Spring Boot</b>
@@ -463,7 +463,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./course-spring-mvc.php">
+                        <a href="./course-spring-mvc">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/groot-academy-spring-mvc-logo.png" width="210px">
                                 <b style="text-align: center; font-size:medium;">Spring MVC</b>
@@ -473,7 +473,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-spring-framework-course-in-jaipur.php">
+                        <a href="./best-spring-framework-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/groot-academy-spring-framework-logo.png" width="210px">
                                 <b style="text-align: center; font-size:medium;">Spring Framework</b>
@@ -483,7 +483,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         </a>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./digitalmarkating.php">
+                        <a href="./digitalmarkating">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <img src="./assets/img/groot-tech-logos/digital-marketing-concept-image-business-man-presenting-different-tools-modern-marketers-modern-digital-marketing-concepts-groot-academy.jpg" width="210px">
                                 <b style="text-align: center; font-size:medium;">Digital Marketing</b>
@@ -493,7 +493,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-android-application-development-course-in-jaipur.php">
+                        <a href="./best-android-application-development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/groot-academy-android.png" width="40%">
@@ -506,7 +506,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-android-application-development-course-in-jaipur.php">
+                        <a href="./best-android-application-development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/groot-academy-ios.png" width="40%">
@@ -518,7 +518,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-hybrid_application_development-course-in-jaipur.php">
+                        <a href="./best-hybrid_application_development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/GroothybridAppDevelopment.png" width="100%">
@@ -530,7 +530,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-md-0">
-                        <a href="./best-flutter-application_development-course-in-jaipur.php">
+                        <a href="./best-flutter-application_development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets//img/grootFlutterlogo.png" width="100%">
@@ -543,7 +543,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6 mt-2">
-                        <a href="./best-react-native-application-development-course-in-jaipur.php">
+                        <a href="./best-react-native-application-development-course-in-jaipur">
                             <div class="card shadow-lg move-on-hover min-height-160 min-height-160">
                                 <center>
                                     <img src="./assets/img/groot-react-native-logo.webp" width="30%">
@@ -576,7 +576,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <li>We help you make your resume as per the industry standards</li>
                 <li>50+ software organizations hire from us.</li>
             </ul>
-            <button class="bg-gradient-primary ps-10 btn btn-primary"><a style="background-image: linear-gradient(310deg, #7928CA 50%, #FF0080 50%);  " href="./enroll.php" class="text-white icon-move-right bg-">
+            <button class="bg-gradient-primary ps-10 btn btn-primary"><a style="background-image: linear-gradient(310deg, #7928CA 50%, #FF0080 50%);  " href="./enroll" class="text-white icon-move-right bg-">
                     ENROLL FOR DEMO CLASS
                     <i class="fas fa-arrow-right text-sm ms-1"></i>
                 </a>
@@ -600,7 +600,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 <!-- -------   END PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
 
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>
 
 <!--<footer class="footer pt-5 mt-5">-->
 <!--    <hr class="horizontal dark mb-5">-->

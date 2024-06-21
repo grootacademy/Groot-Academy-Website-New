@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -41,7 +41,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 
@@ -52,7 +52,7 @@
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item"><a href="./courses">Courses By Groot Academy </a></li>
                         <li class="breadcrumb-item active" aria-current="page">best-Ai-Using-Python-course-in-jaipur.</li>
                     </ol>
                 </nav><br /><br />
@@ -108,7 +108,7 @@
 
 
                                 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
-                                <form method="post" action="./process.php">
+                                <form method="post" action="./process">
                                     <div class="mb-1">
                                         <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
                                     </div>
@@ -1132,7 +1132,7 @@
                     </div>
                     <div class="w-100 text-center">
                         <!-- <marquee behavior="scroll" direction="left" width="100%" scrollamount="10"> -->
-                        <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
+                        <a href="./enroll" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
                         <!-- </marquee> -->
                     </div>
                 </div>
@@ -1277,4 +1277,4 @@
         </div>
     </div>
     <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-    <?php include "./footer.php" ?>
+    <?php include "./footer" ?>

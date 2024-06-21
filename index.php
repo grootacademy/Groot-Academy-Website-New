@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 <!-- End Navbar -->
@@ -59,7 +59,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <div class="col-lg-7 text-center mx-auto">
           <h1 class="text-white pt-3 mt-5" style="font-family: 'Chivo', sans-serif;">You can give your Career a flair for success with Groot.</h1>
           <p class="lead text-white mt-3" style="font-family: 'Chivo', sans-serif;">Whatever technology runs on our smart devices, has a code behind it. . </p>
-          <a href="./contact-us.php" target="_blank" class="text-light btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
+          <a href="./contact-us" target="_blank" class="text-light btn btn-outline-white mt-5 up btn-round">Join Us For IT Training</a>
 
         </div>
       </div>
@@ -273,7 +273,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <h2 class="text-white up mb-2" style="font-family: 'Chivo', sans-serif;">WHY JOIN GROOT<br /> INSTITUTE IN JAIPUR? </h2>
             <P style="font-family: 'Chivo', sans-serif;">AT Groot Academy, Our instructors provide the students with the entire freedom to investigate the topics and learn from actual instances. All inquiries from students are welcome at any time.
             </P>
-            <a href="./contact-us.php" target="_blank" class="btn btn-outline-white mt-2 up btn-round">lEARN mORE</a>
+            <a href="./contact-us" target="_blank" class="btn btn-outline-white mt-2 up btn-round">lEARN mORE</a>
           </div>
         </div>
       </div>
@@ -302,7 +302,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
           <h6 class="text-secondary font-weight-normal pe-3">Are you ready to be a successful Programmer?.</h6>
 
           <div class="d-flex justify-content-start mt-4">
-            <a href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
+            <a href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur">
               <div class="alert alert-primary text-white font-weight-bold icon-move-right" role="alert" style="font-family: 'Chivo', sans-serif;">
                 See All Courses <i class="fas fa-arrow-right text-sm ms-1"></i>
               </div>
@@ -328,7 +328,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">FRONT END DEVELOPMENT</h5>
                     <p class="text-white" style="font-family: 'Chivo', sans-serif;">
                       This gives students in-depth knowledge of the user's visual experience, interaction with the website (or web app), and overall user experience.</p>
-                    <a href="./best-front-end-development-course-with-reactjs-in-jaipur.php" class="text-white icon-move-right">
+                    <a href="./best-front-end-development-course-with-reactjs-in-jaipur" class="text-white icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -344,7 +344,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     <h5 style="font-family: 'Chivo', sans-serif;">BACK END DEVELOPMENT</h5>
                     <p style="font-family: 'Chivo', sans-serif;">The course is interned for eager learners to learn the fundamentals of web development.</p>
-                    <a href="./best-course-for-back-end-development-with-Java.php" class="text-primary icon-move-right">
+                    <a href="./best-course-for-back-end-development-with-Java" class="text-primary icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -361,7 +361,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     <h5 style="font-family: 'Chivo', sans-serif;">FULL STACK DEVELOPMENT</h5>
                     <p style="font-family: 'Chivo', sans-serif;">This is the course in which the stack consists of several levels, each of which serves a specific purpose and is coded by a single technological specialist.</p>
-                    <a href="./best-full-stack-web-development-course-in-jaipur.php" class="text-primary icon-move-right">
+                    <a href="./best-full-stack-web-development-course-in-jaipur" class="text-primary icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -379,7 +379,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                     <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">DATA STRUCTURE AND ALGORITHMS</h5>
                     <p class="text-white" style="font-family: 'Chivo', sans-serif;">This gives students the vision to Look into data structures and algorithms for things apart from coding.
                     </p>
-                    <a href="./best-data-structure-course-and-algorithms-in-jaipur.php" class="text-white icon-move-right">
+                    <a href="./best-data-structure-course-and-algorithms-in-jaipur" class="text-white icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -398,7 +398,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     <h5 class="text-white" style="font-family: 'Chivo', sans-serif;">C++</h5>
                     <p class="text-white" style="font-family: 'Chivo', sans-serif;">Most students favor Groot, IT Training's C++ coaching programmes because we provide high-quality training and give them knowledge about machine-independent features.</p>
-                    <a href="./best-c-plus-plus-programming-course-in-jaipur.php" class="text-white icon-move-right">
+                    <a href="./best-c-plus-plus-programming-course-in-jaipur" class="text-white icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -413,7 +413,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                     <h5 style="font-family: 'Chivo', sans-serif;">Advance Java</h5>
                     <p style="font-family: 'Chivo', sans-serif;">Candidates will learn the essential components that will enable them to become more productive in their move along the Learning Path.</p>
-                    <a href="./best-advance-java-course-in-jaipur.php" class="text-primary icon-move-right">
+                    <a href="./best-advance-java-course-in-jaipur" class="text-primary icon-move-right">
                       Read more
                       <i class="fas fa-arrow-right text-sm ms-1"></i>
                     </a>
@@ -470,7 +470,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <center>
                   <div class="tab-content tab-space mt-3">
                     <div class="tab-pane active" id="preview-modal">
-                      <a href="./contact-us.php" style="font-family: 'Chivo', sans-serif;"> <button type="button" class="btn bg-gradient-primary">
+                      <a href="./contact-us" style="font-family: 'Chivo', sans-serif;"> <button type="button" class="btn bg-gradient-primary">
                           Contact Us
                         </button></a>
                     </div>
@@ -509,7 +509,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                         <div class="row">
                           <div class="col-lg-7 mx-auto d-flex justify-content-center flex-column">
                             <h3 class="text-center" style="font-family: 'Chivo', sans-serif;">Contact us</h3>
-                            <form role="form" id="contact-form" method="post" action="./process.php" autocomplete="off">
+                            <form role="form" id="contact-form" method="post" action="./process" autocomplete="off">
                               <div class="card-body">
                                 <div class="row">
                                   <div class="col-md-12">
@@ -793,7 +793,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <a href="https://twitter.com/share?text" class="btn btn-info mb-0 me-2" target="_blank">
           <i class="fab fa-twitter text-light me-1"></i> <b class="text-light">Tweet</b>
         </a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.grootacademy.com/" class="btn btn-primary mb-0 me-2" target="_blank">
+        <a href="https://www.facebook.com/sharer/sharer?u=https://www.grootacademy.com/" class="btn btn-primary mb-0 me-2" target="_blank">
           <i class="fab fa-facebook-square me-1"></i> Share fecebook
         </a>
 
@@ -841,4 +841,4 @@ stack Web development with python Django , Full stack Web development with PHP, 
 </script>
 
 
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>

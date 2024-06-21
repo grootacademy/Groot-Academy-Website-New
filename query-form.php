@@ -15,11 +15,11 @@
                                 <p class="query">Have A Query</p>
                                 <p class="query">Groot academy provides free learning materials for programming languages like HTML, CSS, Java Script, PHP etc.</p>
                                 <div class="btn-group">
-                                    <a class="btn-item" href="./contact-us.php">Contact Us</a>
+                                    <a class="btn-item" href="./contact-us">Contact Us</a>
 
                                 </div>
                             </div>
-                            <form action="process.php">
+                            <form action="process">
                                 <div class="title">
                                     <i class="fas fa-pencil-alt"></i>
                                     <h2 class="query">Have A Query?</h2>

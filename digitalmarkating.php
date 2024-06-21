@@ -1,4 +1,4 @@
-<?php include './includes/connection.php'; ?>
+<?php include './includes/connection'; ?>
 <!DOCTYPE html>
 <html lang="zxx" style="  position: relative;
   bottom: 35px;
@@ -97,7 +97,7 @@
       <div class="col-12">
         <nav class="navbar navbar-expand-lg  blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
           <div class="container-fluid px-0">
-            <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
+            <a class="navbar-brand font-weight-bolder ms-sm-3" href="index" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
               <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
             </a>
             <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -110,20 +110,20 @@
             <div class="collapse navbar-collapse pt-3 pb-2 py-lg-0 w-100" id="navigation">
               <ul class="navbar-nav navbar-nav-hover ms-lg-8 ps-lg-5 w-100">
                 <li>
-                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
+                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./index">
                     <b>Home</b>
 
                   </a>
                 </li>
                 <li>
-                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
+                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./about-us">
                     <b>About Us</b>
 
                   </a>
                 </li>
 
                 <li>
-                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">
+                  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur">
                     <b>Courses</b>
 
                   </a>
@@ -145,11 +145,11 @@
                   </a>
                 </li>
                 <li class="nav-item my-auto ms-3 ms-lg-0">
-                  <a href="./contact-us.php" class="btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
+                  <a href="./contact-us" class="btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</a>
                 </li>
                 <li class="nav-item my-auto ms-3 ms-lg-0">
 
-                  <a href="./enroll.php" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</a>
+                  <a href="./enroll" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</a>
 
                 </li>
               </ul>
@@ -183,7 +183,7 @@
             <h3 class="text-white mb-0">Best digital marketing institute in jaipur.</h3><br><br>
             <!-- <h3 class="text-primary text-gradient mb-4">Design System for Bootstrap 5?</h3> -->
             <h6 class="text-white mb-5">You may develop digital marketing plans, study digital customer behavior, and get in-demand data with the help of Groot, which will also help you measure and optimize ROI for your business as well as for your clients.</h6>
-            <a href="./enroll.php" class="btn btn-primary btn-lg mb-3 mb-sm-0">Let's join</a>
+            <a href="./enroll" class="btn btn-primary btn-lg mb-3 mb-sm-0">Let's join</a>
           </div>
         </div>
       </div>
@@ -223,7 +223,7 @@
           <div class="description ps-5">
             <h5 class="text-white">Digital Marketing</h5>
             <p class="text-white">The field of digital marketing is booming professionally for students. One of those occupations that requires a rapid route to success in professional life is digital marketing.</p>
-            <a href="./enroll.php" class="text-white icon-move-right">
+            <a href="./enroll" class="text-white icon-move-right">
               Let's start
               <i class="fas fa-arrow-right text-sm ms-1"></i>
             </a>
@@ -250,7 +250,7 @@
           <div class="description ps-5">
             <h5>Advantages of digital </h5>
             <p>Advantages of digital marketing for firms include the capacity to follow clients' purchasing journeys and increase income as well as mobile access that is affordable, flexible, and expansion.</p>
-            <a href="./enroll.php">
+            <a href="./enroll">
               Read more
               <i class="fas fa-arrow-right text-sm ms-1"></i>
             </a>
@@ -583,7 +583,7 @@
   </div>
 
   <footer>
-    <?php include "./footer.php" ?>
+    <?php include "./footer" ?>
   </footer>
   <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
 

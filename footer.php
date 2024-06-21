@@ -52,25 +52,25 @@
                 <h5 class="text-gradient text-primary"><b>Help & Support</b></h5>
                 <ul class="flex-column ms-n3 nav">
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./about-us.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./about-us" target="_blank">
                             About Us
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur" target="_blank">
                             Courses
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./enroll.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./enroll" target="_blank">
                             Enroll Now
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./contact-us.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./contact-us" target="_blank">
                             Contact us
                         </a>
                     </li>
@@ -83,13 +83,13 @@
                 <h5 class="text-gradient text-primary lh-lg "><b>IT Services</b></h5>
                 <ul class="flex-column ms-n3 nav">
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="https://grootsoftware.com/software-development.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="https://grootsoftware.com/software-development" target="_blank">
                             Software Development
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="https://grootsoftware.com/web-development-services.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="https://grootsoftware.com/web-development-services" target="_blank">
                             Web Development
                         </a>
                     </li>
@@ -122,35 +122,35 @@
                 </h5>
                 <ul class="flex-column ms-n nav">
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg  lh-lg  " href="./programming-courses-after-10th-class.php" target="_blank">
+                        <a class="nav-link  lh-lg  lh-lg  " href="./programming-courses-after-10th-class" target="_blank">
                             Software Engineering After 10th
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./programming-or-coding-course-after-12th.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./programming-or-coding-course-after-12th" target="_blank">
                             Software Engineering After 12th
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./our-internship-programmes.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./our-internship-programmes" target="_blank">
                             Our Internship Programmes
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./best-front-end-development-course-with-reactjs-in-jaipur.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-front-end-development-course-with-reactjs-in-jaipur" target="_blank">
                             Learn Front End Development
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./best-course-for-back-end-development-with-Java.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-course-for-back-end-development-with-Java" target="_blank">
                             Learn Back End Development
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  lh-lg " href="./best-full-stack-web-development-course-in-jaipur.php" target="_blank">
+                        <a class="nav-link  lh-lg " href="./best-full-stack-web-development-course-in-jaipur" target="_blank">
                             Learn Full Stack Development
                         </a>
                     </li>
@@ -265,25 +265,25 @@
                     <h6 class="text-gradient text-primary text-lg">Help & Support</h6>
                     <ul class="flex-column ms-n3 nav">
                         <li class="nav-item ">
-                            <a class="nav-link " href="./about-us.php" target="_blank">
+                            <a class="nav-link " href="./about-us" target="_blank">
                                 About Us
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php" target="_blank">
+                            <a class="nav-link " href="./best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur" target="_blank">
                                 Courses
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./enroll.php" target="_blank">
+                            <a class="nav-link " href="./enroll" target="_blank">
                                 Enroll Now
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./contact-us.php" target="_blank">
+                            <a class="nav-link " href="./contact-us" target="_blank">
                                 Contact Us
                             </a>
                         </li>
@@ -296,13 +296,13 @@
                     <h6 class="text-gradient text-primary text-lg">IT Services</h6>
                     <ul class="flex-column ms-n3 nav">
                         <li class="nav-item">
-                            <a class="nav-link " href="https://grootsoftware.com/software-development.php" target="_blank">
+                            <a class="nav-link " href="https://grootsoftware.com/software-development" target="_blank">
                                 Software Development
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="https://grootsoftware.com/web-development-services.php" target="_blank">
+                            <a class="nav-link " href="https://grootsoftware.com/web-development-services" target="_blank">
                                 Web Development
                             </a>
                         </li>
@@ -333,37 +333,37 @@
                     <h6 class="text-gradient text-primary text-lg ">Our Courses</h6>
                     <ul class="flex-column ms-n3 nav">
                         <li class="nav-item">
-                            <a class="nav-link " href="./programming-courses-after-10th-class.php" target="_blank">
+                            <a class="nav-link " href="./programming-courses-after-10th-class" target="_blank">
                                 Software Engineering After 10th
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./programming-or-coding-course-after-12th.php" target="_blank">
+                            <a class="nav-link " href="./programming-or-coding-course-after-12th" target="_blank">
                                 Software Engineering After 12th
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./our-internship-programmes.php" target="_blank">
+                            <a class="nav-link " href="./our-internship-programmes" target="_blank">
                                 Our Programmes
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./best-front-end-development-course-with-reactjs-in-jaipur.php" target="_blank">
+                            <a class="nav-link " href="./best-front-end-development-course-with-reactjs-in-jaipur" target="_blank">
                                 Learn Front End Development
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./best-course-for-back-end-development-with-Java.php" target="_blank">
+                            <a class="nav-link " href="./best-course-for-back-end-development-with-Java" target="_blank">
                                 Learn Back End Development
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " href="./best-full-stack-web-development-course-in-jaipur.php" target="_blank">
+                            <a class="nav-link " href="./best-full-stack-web-development-course-in-jaipur" target="_blank">
                                 Learn Full Stack Development
                             </a>
                         </li>

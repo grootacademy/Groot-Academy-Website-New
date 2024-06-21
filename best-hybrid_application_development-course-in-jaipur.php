@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -41,7 +41,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 
@@ -52,7 +52,7 @@
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item"><a href="./courses">Courses By Groot Academy </a></li>
                         <li class="breadcrumb-item active" aria-current="page">Full stack Development with nodeJS (MERN Stack Development)</li>
                     </ol>
                 </nav><br /><br />
@@ -110,7 +110,7 @@
                                 <!-- Left side bar  -->
 
 
-                                <?php include("./includes/left-side-bar.php") ?>
+                                <?php include("./includes/left-side-bar") ?>
                                 <!-- Left side bar  -->
 
                             </div>
@@ -518,4 +518,4 @@
 </div>
 </div>
 <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>

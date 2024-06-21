@@ -11,7 +11,7 @@
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
     <!--  META DATA -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -56,7 +56,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
     <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
+    <?php include('./includes/header_down');  ?>
 
 
 <link href="./assets/css/courses.css" rel="stylesheet" />
@@ -67,7 +67,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
       <div class="mb-4 w-100">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
             <li class="breadcrumb-item active" aria-current="page">Features</li>
           </ol>
         </nav>
@@ -217,7 +217,7 @@ Internships are also available in GROOT ACADEMY.</h6>
 
 
 
-      <?php include "./query-form.php" ?>
+      <?php include "./query-form" ?>
 
 
 
@@ -226,4 +226,4 @@ Internships are also available in GROOT ACADEMY.</h6>
   </div>
 </div>
 <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>

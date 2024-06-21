@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,7 +9,7 @@
 <meta name="keywords" content="data science course in jaipur" />
 <meta property="og:locale" content="en-US" />
 <meta property="og:site_name" content="grootacademy.com" />
-<meta property="og:url" content="https://grootacademy.com/best-data-Science-course-using-python-in-jaipur.php">
+<meta property="og:url" content="https://grootacademy.com/best-data-Science-course-using-python-in-jaipur">
 <meta property="og:title" content="Data science Course in Jaipur">
 <meta property="og:description" content="Looking for a Data science Course in Jaipur? Learn ✔️Business Science ✔️Tableau ✔️Power BI with our Data science certification training. Enroll now!">
 <meta property="og:image" content="https://www.grootacademy.com/groot.png">
@@ -43,7 +43,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 
@@ -54,7 +54,7 @@
             <div class="mb-4 w-100">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="./courses.php">Courses By Groot Academy </a></li>
+                        <li class="breadcrumb-item"><a href="./courses">Courses By Groot Academy </a></li>
                         <li class="breadcrumb-item active" aria-current="page">Full stack Development with nodeJS (MERN Stack Development)</li>
                     </ol>
                 </nav><br /><br />
@@ -118,7 +118,7 @@
                                 <!-- brochures button -->
                                 <!-- Left side bar  -->
 
-                                <?php include("./includes/left-side-bar.php") ?>
+                                <?php include("./includes/left-side-bar") ?>
                                 <!-- Left side bar  -->
 
 
@@ -291,7 +291,7 @@
         <div class="col-lg-6">
             <h4 class="text-gradient text-primary mb-0 mt-2"><strong>Why To Enrol In Our Mern Stack Training Course in Jaipur?</strong></h4>
             <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, and Opening the doors of opportunities. Our Mern Stack Trainees are working across the nation. We at Groot Academy India, No#1 Mern Course in Jaipur with 100% Placement. Certified Trainers with Over 10,000 Students Trained in Online Mern Stack Course in Jaipur.</p>
-            <a href="./enroll.php" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
+            <a href="./enroll" target="_blank"> <span class="mt-4 btn btn-primary">ENROOL NEW</span></a>
         </div>
     </div>
 </div>
@@ -774,4 +774,4 @@
 </div>
 </div>
 <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>

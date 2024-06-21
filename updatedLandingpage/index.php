@@ -109,7 +109,7 @@
                     </div>
 
                     <div class="containr-1-box-2-B" style=" height: 100%; border-radius: 50%  ;padding: 100px; background-image: linear-gradient(310deg, #FF0080 0%, #7928CA 100%);">
-                        <form action="/action_page.php" method="post">
+                        <form action="/action_page" method="post">
                             <div class="containr-1-box-2-B-A">
                                 <input type="text" style="border: 1px solid white" placeholder="Name " name="uname" required>
                                 <input type="text" style="border: 1px solid white" placeholder="Email " name="uname" required>

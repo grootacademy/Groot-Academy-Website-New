@@ -1,4 +1,4 @@
-<?php include "./header.php"
+<?php include "./header"
 ?>
 <link href="./assets/css/courses.css" rel="stylesheet" />
 <!-- End Navbar -->
@@ -8,7 +8,7 @@
       <div class="mb-4 w-100">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur.php">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
+            <li class="breadcrumb-item"><a href="../best-courses-for-software-developers-web-developers-and-mobile-application-development-in-jaipur">Best Software , Web, & Mobile Application Development Courses in Jaipur</a></li>
             <li class="breadcrumb-item active" aria-current="page">Features</li>
           </ol>
         </nav><br /><br />
@@ -288,7 +288,7 @@
 
 
 
-        <?php include "./query-form.php" ?>
+        <?php include "./query-form" ?>
 
 
 
@@ -296,4 +296,4 @@
     </div>
   </div>
   <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-  <?php include "./footer.php" ?>
+  <?php include "./footer" ?>

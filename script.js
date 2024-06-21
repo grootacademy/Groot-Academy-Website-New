@@ -29,7 +29,7 @@
 
 //     // Send data to PHP script for processing
 //     var xhr = new XMLHttpRequest();
-//     xhr.open("POST", "process.php", true);
+//     xhr.open("POST", "process", true);
 //     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 //     xhr.onreadystatechange = function () {
 //         if (xhr.readyState === 4 && xhr.status === 200) {
@@ -52,7 +52,7 @@ document.getElementById("submitBtn").addEventListener("click", function () {
 
     // Send data to PHP script for database interaction
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "process.php", true);
+    xhr.open("POST", "process", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {

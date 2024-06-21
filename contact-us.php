@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -41,7 +41,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 
 
@@ -129,7 +129,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
               </p>
             </div>
 
-            <form id="contact-form" method="post" action="./process.php">
+            <form id="contact-form" method="post" action="./process">
               <div class="card-body pb-2">
                 <div class="row">
                   <div class="col-md-6">
@@ -302,4 +302,4 @@ stack Web development with python Django , Full stack Web development with PHP, 
   </div>
 </header>
 <!-- -------- END HEADER - -->
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>

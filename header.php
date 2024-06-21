@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 <<<<<<< HEAD <link href="./assets/css/comments.css" rel="stylesheet" />
 
@@ -378,7 +378,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                 <nav class="navbar navbar-expand-lg mt-2 blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
 
                     <div class="container-fluid px-0 ">
-                        <a class="navbar-brand font-weight-bolder ms-sm-3" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
+                        <a class="navbar-brand font-weight-bolder ms-sm-3" href="index" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
                             <img src="./assets/img/groot.png" width="180" alt="image" style="border-radius: 10px; margin-top: -16px;" />
                         </a>
                         <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
@@ -392,19 +392,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
                             <ul class="navbar-nav navbar-nav-hover ms-lg-1 ps-lg-0 w-100">
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index.php">
+                                    <a class="nav-link ps-0 ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./index">
                                         <b>Home</b>
                                     </a>
                                 </li>
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./about-us.php">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./about-us">
                                         <b>About Us</b>
 
                                     </a>
                                 </li>
 
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./courses.php">
+                                    <a class="nav-link ps-2  ms-xl-4  d-flex justify-content-between cursor-pointer align-items-center" href="./courses">
                                         <b>Courses</b>
 
                                     </a>
@@ -416,19 +416,19 @@ stack Web development with python Django , Full stack Web development with PHP, 
                                     </a>
                                 </li>
                                 <li class="menu_padding">
-                                    <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes.php">
+                                    <a class="nav-link ps-2  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./our-internship-programmes">
                                         <b>Internship </b>
 
                                     </a>
                                 </li>
                                 <li class="menu_padding ms-xl-6">
-                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us.php">
+                                    <a class="nav-link ps-0  ms-xl-5  d-flex justify-content-between cursor-pointer align-items-center" href="./contact-us">
                                         <b class="btn btn-sm text-light p-3 ms-xl-6 contectdata btn-round mb-0 me-1 mt-0 mt-md-0">Contact us</b>
 
                                     </a>
                                 </li>
                                 <li class="menu_padding ">
-                                    <a class="nav-link ps-0  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll.php">
+                                    <a class="nav-link ps-0  d-flex justify-content-between cursor-pointer align-items-center" href="./enroll">
                                         <b class="btn btn-sm p-3 bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0 ">Enroll Now</b>
 
                                     </a>
@@ -452,7 +452,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
             <span class="close " id="closePopup">&times;</span>
             <h2>Fill out this form</h2>
             <!-- return validateForm(); -->
-            <form id="userForm  closePopup" action="./process.php" method="POST">
+            <form id="userForm  closePopup" action="./process" method="POST">
                 <label for="userName">Name:</label>
                 <input class="form-control" placeholder="Enter Name" autofocus required type="text" id="name" name="name">
                 <br>
@@ -596,7 +596,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
             // Send data to PHP script for database interaction
             var xhr = new XMLHttpRequest();
-            xhr.open("POST", "process.php", true);
+            xhr.open("POST", "process", true);
             xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
             xhr.onreadystatechange = function() {
                 if (xhr.readyState === 4 && xhr.status === 200) {

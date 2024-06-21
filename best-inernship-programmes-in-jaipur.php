@@ -1,4 +1,4 @@
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header_com');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/header_down.php');  ?>
+<?php include('./includes/header_down');  ?>
 
 <style>
     form {
@@ -513,7 +513,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 <!-- -------   END PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
 
-<?php include "./footer.php" ?>
+<?php include "./footer" ?>
 
 <!--<footer class="footer pt-5 mt-5">-->
 <!--    <hr class="horizontal dark mb-5">-->

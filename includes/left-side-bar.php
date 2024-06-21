@@ -1,5 +1,5 @@
 <h5 class="text-center home-banner text-dark p-2">Enquiry Now</h5>
-                <form method="post" action="./process.php">
+                <form method="post" action="./process">
                   <div class="mb-1">
                     <input type="text" name="name" required="" id="name" placeholder="Enter your Name" class="form-control">
                   </div>
