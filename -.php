@@ -1,6 +1,6 @@
 <?php include "./header"
 ?>
-<link href="./assets/css/courses.css" rel="stylesheet" />
+
 <!-- End Navbar -->
 <div class="container mt-5">
   <div class="row">

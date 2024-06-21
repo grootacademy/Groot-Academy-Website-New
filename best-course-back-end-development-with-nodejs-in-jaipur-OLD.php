@@ -11,7 +11,7 @@
 =========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-<?php include('./includes/header_com.php');  ?>
+<?php include('./includes/header.php');  ?>
     <!--  META DATA -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -56,10 +56,10 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
     <!--  META DATA -->
-    <?php include('./includes/header_down.php');  ?>
+    <?php include('./includes/navbar');  ?>
 
 
-<link href="./assets/css/courses.css" rel="stylesheet" />
+
 <!-- End Navbar -->
 <div class="container mt-5">
   <div class="row">
