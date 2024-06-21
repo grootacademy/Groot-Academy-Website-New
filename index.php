@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
 <!--  META DATA -->
-<?php include('./includes/navbar');  ?>
+<?php include('./includes/navbar.php');  ?>
 
 
 <!-- End Navbar -->
