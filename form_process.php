@@ -1,5 +1,5 @@
 <?php
-include('./includes/connection');
+include('./includes/connection.php');
         $name=$_REQUEST['name'];
         $email=$_REQUEST['email'];
         $phone=$_REQUEST['phone'];

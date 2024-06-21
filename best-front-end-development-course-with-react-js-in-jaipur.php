@@ -1,4 +1,4 @@
-<?php include('./includes/header_com');  ?>
+<?php include('./includes/header_com.php');  ?>
 <!--  META DATA -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -41,7 +41,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--  META DATA -->
-<?php include('./includes/header_down');  ?>
+<?php include('./includes/header_down.php');  ?>
 
 
 
@@ -803,4 +803,4 @@
         </div>
     </div>
     <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-    <?php include "./footer" ?>
+    <?php include "./footer.php" ?>

@@ -1,4 +1,4 @@
-<?php include('./includes/header_com');  ?>
+<?php include('./includes/header_com.php');  ?>
     <!--  META DATA -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,7 +43,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
 
 
     <!--  META DATA -->
-    <?php include('./includes/header_down');  ?>
+    <?php include('./includes/header_down.php');  ?>
 
 
 <link href="./assets/css/courses.css" rel="stylesheet" />
@@ -528,4 +528,4 @@ Groot Academy has been a leading programming training institute in jaipur. Our a
             </div>
         </div>
         <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-        <?php include "./footer" ?>
+        <?php include "./footer.php" ?>

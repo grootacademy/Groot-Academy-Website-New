@@ -1432,4 +1432,4 @@ Under the guidance of our expert instructors, who are seasoned Android developer
 </div>
 </div>
 <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-<?php include "./footer" ?>
+<?php include "./footer.php" ?>

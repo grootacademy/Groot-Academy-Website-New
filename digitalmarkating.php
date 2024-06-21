@@ -1,4 +1,4 @@
-<?php include './includes/connection'; ?>
+<?php include './includes/connection.php'; ?>
 <!DOCTYPE html>
 <html lang="zxx" style="  position: relative;
   bottom: 35px;
@@ -583,7 +583,7 @@
   </div>
 
   <footer>
-    <?php include "./footer" ?>
+    <?php include "./footer.php" ?>
   </footer>
   <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
 

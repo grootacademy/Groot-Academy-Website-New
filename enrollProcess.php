@@ -1,6 +1,6 @@
 
  <?php
-include('./includes/connection');
+include('./includes/connection.php');
 
 $email=$_REQUEST['email'];
 $graduation=$_REQUEST['graduation'];

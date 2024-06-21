@@ -296,4 +296,4 @@
     </div>
   </div>
   <!-- -------- START FOOTER 3 w/ COMPANY DESCRIPTION WITH LINKS & SOCIAL ICONS & COPYRIGHT ------- -->
-  <?php include "./footer" ?>
+  <?php include "./footer.php" ?>
