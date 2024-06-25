@@ -324,14 +324,18 @@ stack Web development with python Django , Full stack Web development with PHP, 
         <h2 class="text-white z-index-1 position-relative">Jaya Gangwani</h2>
         <p class="text-white opacity-8 mb-0"><strong>Designation:</strong> Center Head of Mansarovar Branch + HR</p>
         <p class="text-white opacity-8 mb-0"><strong>Experience:</strong> 5+ years</p>
-        <p class="text-white opacity-8 mb-0"><strong>Contact No:</strong> <a  href="tel:+91-8233266276"><i class="mt-0 fa fa-mobile me-2" style="color: #fff;" aria-hidden="true"></i> +91-8233266276</a></p>
-        <p class="text-white opacity-8 mb-0">Jaya Gangwani brings over five years of experience to her dual role as the Center Head of our Mansarovar
+        <p class="text-white opacity-8 mb-0"><strong>Contact No:</strong> <a href="tel:+91-8233266276"><i
+              class="mt-0 fa fa-mobile me-2" style="color: #fff;" aria-hidden="true"></i> +91-8233266276</a></p>
+        <p class="text-white opacity-8 mb-0">Jaya Gangwani brings over five years of experience to her dual role as the
+          Center Head of our Mansarovar
           Branch and HR Manager. With a strong background in both administrative leadership and human resources, Jaya
           excels at creating an optimal learning environment for our students and a supportive, thriving workplace for
           our staff. Her dedication to excellence and her ability to manage diverse responsibilities make her an
           invaluable asset to the Jaipur IT Training Institute. Under her guidance, the Mansarovar branch has seen
           significant growth and consistently high student satisfaction rates.</p>
-
+        <div class="col-auto">
+          <a href="./profile-page/jaya-gangwani-groot-academy-mansarovar-branch-center-head.html" class="btn btn-primary btn-sm read-more-btn" style=" width: 150px;">Read More</a>
+        </div>
       </div>
     </div>
     <div class="row">
