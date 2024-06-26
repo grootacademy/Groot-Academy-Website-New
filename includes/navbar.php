@@ -1,8 +1,10 @@
 </head>
+<?php include("assets/js/google-firebase-script.js"); ?>
 
 <body class="index-page" style="font-family: 'Chivo', sans-serif;">
 
     <!-- Google Tag Manager (noscript) -->
+
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVN2997" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
