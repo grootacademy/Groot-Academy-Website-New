@@ -1,5 +1,4 @@
 </head>
-<?php include("assets/js/google-firebase-script.js"); ?>
 
 <body class="index-page" style="font-family: 'Chivo', sans-serif;">
 
